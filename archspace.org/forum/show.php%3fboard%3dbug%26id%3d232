@@ -1,0 +1,469 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>Archspace Beta Forums</TITLE>
+<Style type="text/css">
+A:link, A:visited { text-decoration: none; color: lightblue; }
+A:hover {
+		COLOR: white; 
+}
+INPUT {
+	BACKGROUND-COLOR: black; BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; COLOR: #0AABAA; FONT-FAMILY: verdana, helvetica, sans-serif; FONT-SIZE: 10px; 
+}
+body { 
+	text-align: center;
+	font-family : Arial, sans-serif;
+	color : white;
+	font-size : 8pt;
+	margin-top : 0px;
+	margin-left : 0px;
+	margin-right : 0px;
+	margin-bottom: 0px;
+
+SCROLLBAR-FACE-COLOR: #666666; 
+SCROLLBAR-HIGHLIGHT-COLOR: black; 
+SCROLLBAR-SHADOW-COLOR: #333333; 
+SCROLLBAR-3DLIGHT-COLOR: #333333; 
+SCROLLBAR-ARROW-COLOR: black; 
+SCROLLBAR-TRACK-COLOR: black; 
+SCROLLBAR-DARKSHADOW-COLOR: #333333; 
+} 
+td {
+ font-size : 8pt;
+ 	font-family : Arial, sans-serif;
+}
+</style>
+</HEAD>
+<BODY text=#999999 vLink=#999999 aLink=#999999 link=#999999 bgColor=#000000 leftMargin=0 topMargin=0 rightMargin=0 marginwidth="0" marginheight="0">
+<center><a href="/"><img src="http://www.archspace.org/image/as_game/menu_main.gif" border=0></a></center><br>
+
+<CENTER><!-- TABLE -->
+<TABLE width="90%" border=0>
+  <TBODY>
+  <TR>
+    <TD>&nbsp;&nbsp;<B><a href="/forum/">Archspace Boards</B></a> <BR>&nbsp;&nbsp;
+	(moderated by Mindwarper, zbyte64, DarkTempes, DarkJediX, LordBen) 
+      <P>
+	</TD>
+    <TD vAlign=top align=right>
+		<IMG src="/image/forum/open.gif" border=0>&nbsp;&nbsp; <a href="/forum">Archspace</a>
+      	<BR><IMG src="/image/forum/tline.gif" border=0><IMG src="/image/forum/open.gif" border=0>&nbsp;&nbsp;<a href="as.php?board=bug">Bug Board</a>
+	<p><a href="pref.php">Preferences</a>
+    </TD>
+	</TR>
+	</TBODY>
+</TABLE>
+This Topic has been closed<p>MODS: <a href="mod.php?board=bug&mode=open&id=232">Re-Open Post</a><p>	<A href="newtopic.php?board=bug">New Topic</A>
+	
+<table align="center" border="0" cellspacing="0" cellpadding="1" width="90%">
+<tr>
+	<td style="background: #999999">
+		<table align="center" border="0" cellspacing="0" cellpadding="5" width="100%">
+		<tr>
+			<td style="background: #000000; text-align: center">
+				<table align="center" border="0" cellspacing="1" cellpadding="5" width="100%">
+				<tr>
+					<TD vAlign=center width="18%" style="background: #555555;"><B>Author</B></TD>
+					<TD vAlign=center style="background: #555555;"><B>Topic:&nbsp;&nbsp; Cant login</B></TD>				
+				</tr>
+				<tr>
+					<TD vAlign=top width="18%" style="background: #333333;">
+						<B>Crash14</B><BR> Normal Player						<p>
+											</TD>
+					<TD style="background: #333333;" valign=top>
+						<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0> posted 2004-05-14 02:32&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+ 						<A href="edit.php?board=bug&id=232"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			 			<A href="reply.php?board=bug&id=232"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A> </FONT>
+			  			<HR color=#000000 SIZE=-1>
+			  			It say (null)						<P align=right> </P>
+					</TD>
+				</TR>
+	
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Frog</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-05-14 02:34&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=bug&id=233"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=bug&id=232"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	no mames wey!!!!, NETA!!!!, pues a todos ,el puto servidor esta fallando!!			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>gwayne</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-05-14 03:34&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=bug&id=236"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=bug&id=232"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Be glad that it doesnt say (pay up)<br />
+<br />
+But the fact is that the game has a problem.<br />
+Mindwarp is on it and we all trust that he shall fix it. Just give him the time to do it well.<br />
+<br />
+:-)<br />
+<br />
+Gwayne			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Bones</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-05-14 03:56&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=bug&id=238"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=bug&id=232"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	How long does it usually take to fix this?			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>gwayne</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-05-14 04:00&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=bug&id=239"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=bug&id=232"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	That depends, it is not known what is the couse of this problem. So it can take a while.<br />
+<br />
+Like hours or maybe a day.<br />
+<br />
+Mindwarp has to find the couse. Quick fixes seldome solve the problem.<br />
+<br />
+Gwayne			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Bones</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-05-14 04:05&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=bug&id=240"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=bug&id=232"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Ok. Thanks.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>dax3</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-05-14 04:10&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=bug&id=241"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=bug&id=232"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	I think it is the koreans, hacking the system. How do you think they are soo good?			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>gwayne</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-05-14 04:14&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=bug&id=242"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=bug&id=232"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	If somebody is hacking the system, it can be anybody. Pointing at Koreans is like pointing at the sky and saying that the stars did it.<br />
+<br />
+Besides lets face it they have no reason to shut the server down.<br />
+They are winning the game.<br />
+<br />
+Gwayne<br />
+<br />
+:-)			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>dax3</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-05-14 04:23&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=bug&id=243"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=bug&id=232"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	that is the reason they are winning, BECOUSE the are hacking the system!			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>gwayne</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-05-14 04:28&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=bug&id=244"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=bug&id=232"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Everybody is innocent until proven guilty. <br />
+<br />
+If you prove it, Mindwarp shall ban them and fix the problem.<br />
+<br />
+Gwayne :-)			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Bones</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-05-14 06:45&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=bug&id=246"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=bug&id=232"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Have you found the problem yet?			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>big_kahunas69</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-05-14 06:47&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=bug&id=247"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=bug&id=232"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	if they found the problem, they wouldn't be answering until they are done because they would be fixin it!<br />
+duh			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Bones</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-05-14 06:55&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=bug&id=248"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=bug&id=232"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	You don't have to get smart about it. I just asked a simple question.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>AustXilo</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-05-14 07:09&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=bug&id=249"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=bug&id=232"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Dax... I think you should be shot.<br />
+<br />
+How's that for discrimination?<br />
+<br />
+Jackass.<br />
+<br />
+For those of you who are so hostile towards the Koreans... think of this: MARI WAS A KOREAN GAME!<br />
+<br />
+The Koerans built this game. Fuck all of you if you hate them, because without them you wouldn't have this game at all.<br />
+<br />
+Hackers can be traced very easily. You can see IPs coming in and alterations to the code. It's apparent. Don't accuse without evidence. That makes you ignorant.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Bones</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-05-14 09:23&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=bug&id=253"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=bug&id=232"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	How much progress has Mindwarp made?			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Remsus</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-05-14 09:33&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=bug&id=254"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=bug&id=232"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	lets all congratulate gwane for his efforts in making the forum a doog bit more friendly.<br />
+grats gwaine.<br />
+<br />
+&quot;see you space cowboy&quot;<br />
+-Remsus			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Guapacha</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-05-14 14:48&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=bug&id=255"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=bug&id=232"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	bump			   <P align=right></P>
+			</TD>
+		  </TR>
+
+			<TR>
+			<TD></td>
+			<td align=center></TD>
+			</TR>
+				</table>
+			</td>
+		</tr>
+		</table>	
+	</td>
+</tr>
+</table>
+<center><b><A href="reply.php?board=bug&id=232">Post a Reply</A></b></center>
+		<TABLE width="95%" border=0>
+		  <TR>
+			<TD colSpan=2><BR>
+						  </TD></TR>
+		  <TR>
+			<TD>
+					    </TD>
+		  </TR>
+		  </TABLE>
+
+
+<BR><B><A href="/contact.php">Contact Us</A> | 
+<A href="http://www.archspace.org/" target=_top>Archspace</A> </B>
+<P>
+<P>Powered by MindBB v2.0<BR><BR></CENTER></P>
+</BODY></HTML>

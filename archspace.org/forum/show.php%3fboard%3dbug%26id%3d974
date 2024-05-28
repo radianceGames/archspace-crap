@@ -1,0 +1,357 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>Archspace Beta Forums</TITLE>
+<Style type="text/css">
+A:link, A:visited { text-decoration: none; color: lightblue; }
+A:hover {
+		COLOR: white; 
+}
+INPUT {
+	BACKGROUND-COLOR: black; BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; COLOR: #0AABAA; FONT-FAMILY: verdana, helvetica, sans-serif; FONT-SIZE: 10px; 
+}
+body { 
+	text-align: center;
+	font-family : Arial, sans-serif;
+	color : white;
+	font-size : 8pt;
+	margin-top : 0px;
+	margin-left : 0px;
+	margin-right : 0px;
+	margin-bottom: 0px;
+
+SCROLLBAR-FACE-COLOR: #666666; 
+SCROLLBAR-HIGHLIGHT-COLOR: black; 
+SCROLLBAR-SHADOW-COLOR: #333333; 
+SCROLLBAR-3DLIGHT-COLOR: #333333; 
+SCROLLBAR-ARROW-COLOR: black; 
+SCROLLBAR-TRACK-COLOR: black; 
+SCROLLBAR-DARKSHADOW-COLOR: #333333; 
+} 
+td {
+ font-size : 8pt;
+ 	font-family : Arial, sans-serif;
+}
+</style>
+</HEAD>
+<BODY text=#999999 vLink=#999999 aLink=#999999 link=#999999 bgColor=#000000 leftMargin=0 topMargin=0 rightMargin=0 marginwidth="0" marginheight="0">
+<center><a href="/"><img src="http://www.archspace.org/image/as_game/menu_main.gif" border=0></a></center><br>
+
+<CENTER><!-- TABLE -->
+<TABLE width="90%" border=0>
+  <TBODY>
+  <TR>
+    <TD>&nbsp;&nbsp;<B><a href="/forum/">Archspace Boards</B></a> <BR>&nbsp;&nbsp;
+	(moderated by Mindwarper, zbyte64, DarkTempes, DarkJediX, LordBen) 
+      <P>
+	</TD>
+    <TD vAlign=top align=right>
+		<IMG src="/image/forum/open.gif" border=0>&nbsp;&nbsp; <a href="/forum">Archspace</a>
+      	<BR><IMG src="/image/forum/tline.gif" border=0><IMG src="/image/forum/open.gif" border=0>&nbsp;&nbsp;<a href="as.php?board=bug">Bug Board</a>
+	<p><a href="pref.php">Preferences</a>
+    </TD>
+	</TR>
+	</TBODY>
+</TABLE>
+	<A href="newtopic.php?board=bug">New Topic</A>
+	
+<table align="center" border="0" cellspacing="0" cellpadding="1" width="90%">
+<tr>
+	<td style="background: #999999">
+		<table align="center" border="0" cellspacing="0" cellpadding="5" width="100%">
+		<tr>
+			<td style="background: #000000; text-align: center">
+				<table align="center" border="0" cellspacing="1" cellpadding="5" width="100%">
+				<tr>
+					<TD vAlign=center width="18%" style="background: #555555;"><B>Author</B></TD>
+					<TD vAlign=center style="background: #555555;"><B>Topic:&nbsp;&nbsp; Friend Locked Out?</B></TD>				
+				</tr>
+				<tr>
+					<TD vAlign=top width="18%" style="background: #333333;">
+						<B>Tokeda</B><BR> Normal Player						<p>
+											</TD>
+					<TD style="background: #333333;" valign=top>
+						<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0> posted 2004-07-30 15:14&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+ 						<A href="edit.php?board=bug&id=974"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			 			<A href="reply.php?board=bug&id=974"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A> </FONT>
+			  			<HR color=#000000 SIZE=-1>
+			  			I have a friend that plays this game alot, but everytime he attempts to reach the site, the entire site gives him an 'access denied' message. He has tried for the past 4 days and has been unable to reach the website due to this and he is a council leader. Any info on how to correct this would be greatly appreciated.						<P align=right> </P>
+					</TD>
+				</TR>
+	
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>LordBen</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-08-01 10:07&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=bug&id=989"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=bug&id=974"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Is he logging on from a school network or something?  They could have blocked the page. Otherwise I dunno.  (I will assume it wasn't down for everyone)			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>DarkTempes</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-08-01 13:25&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=bug&id=991"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=bug&id=974"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	there were a couple of players who recently attacked the server -- and were banned for this.<br />
+<br />
+he may be one of those guys.<br />
+<br />
+there are no accidentaly bannings that give 'access denied' messages. it's for cases of extreme abuse.<br />
+<br />
+lordben though may still be correct. wherever he is accessing internet from/through  may be blocking the  AS site			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Tokeda</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-08-04 10:34&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=bug&id=1006"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=bug&id=974"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	he has his own pc and he doesnt attack servers. i have known him for years. He goes by Cordearva. He was Council Leader of the WCHS. I didnt say his name last time as we didnt want to leave the council open for an attack, but since I see his character doesnt exist anymore, no need. He shouldnt be banned at all. He has never done anything wrong.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>PlatoII</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-08-04 10:58&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=bug&id=1007"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=bug&id=974"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	I would have to agree that it is extremely unlikely that Cordearva was a part of any sort of attack on the server. Would it be possible to see if he had been banned and why? Are their any ideas as to why he is not able to access the site from his home computer, since it wouldnt be that the site wa blocked by a school or business?			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Nova</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-08-04 12:22&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=bug&id=1008"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=bug&id=974"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	I too would be surprised if Cordearva was in any way attached to a server attack.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>DarkTempes</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-08-05 08:04&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=bug&id=1009"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=bug&id=974"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	well then maybe his ISP blocks the site? =o			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Tokeda</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-08-05 16:56&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=bug&id=1011"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=bug&id=974"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	he has been playing this game since it first started and he has never changed ISP so that couldnt be			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>lufunkvoc</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-08-05 17:04&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=bug&id=1012"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=bug&id=974"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	is it possible to see whether this problem can be resolved as soon as possible....since most of us know cordearva has more integrity than going arnd cracking into servers, could u see what is the problem and if he really is banned, remove that status from him			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Cordearva</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-08-05 18:26&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=bug&id=1015"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=bug&id=974"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Alright..for some reason I am now able to return to AS, I am sorry for causing any inconviences. 			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Tokeda</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-08-05 18:29&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=bug&id=1016"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=bug&id=974"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	awesome! welcome back man!			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Nova</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-08-05 23:11&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=bug&id=1019"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=bug&id=974"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Welcome back my friend.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Cordearva</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-08-07 08:57&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=bug&id=1025"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=bug&id=974"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Feels good to be back..thanks to those who gave me support ^_^			   <P align=right></P>
+			</TD>
+		  </TR>
+
+			<TR>
+			<TD></td>
+			<td align=center></TD>
+			</TR>
+				</table>
+			</td>
+		</tr>
+		</table>	
+	</td>
+</tr>
+</table>
+<center><b><A href="reply.php?board=bug&id=974">Post a Reply</A></b></center>
+		<TABLE width="95%" border=0>
+		  <TR>
+			<TD colSpan=2><BR>
+						  </TD></TR>
+		  <TR>
+			<TD>
+					    </TD>
+		  </TR>
+		  </TABLE>
+
+
+<BR><B><A href="/contact.php">Contact Us</A> | 
+<A href="http://www.archspace.org/" target=_top>Archspace</A> </B>
+<P>
+<P>Powered by MindBB v2.0<BR><BR></CENTER></P>
+</BODY></HTML>

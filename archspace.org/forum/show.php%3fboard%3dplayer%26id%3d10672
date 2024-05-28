@@ -1,0 +1,1334 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>Archspace Beta Forums</TITLE>
+<Style type="text/css">
+A:link, A:visited { text-decoration: none; color: lightblue; }
+A:hover {
+		COLOR: white; 
+}
+INPUT {
+	BACKGROUND-COLOR: black; BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; COLOR: #0AABAA; FONT-FAMILY: verdana, helvetica, sans-serif; FONT-SIZE: 10px; 
+}
+body { 
+	text-align: center;
+	font-family : Arial, sans-serif;
+	color : white;
+	font-size : 8pt;
+	margin-top : 0px;
+	margin-left : 0px;
+	margin-right : 0px;
+	margin-bottom: 0px;
+
+SCROLLBAR-FACE-COLOR: #666666; 
+SCROLLBAR-HIGHLIGHT-COLOR: black; 
+SCROLLBAR-SHADOW-COLOR: #333333; 
+SCROLLBAR-3DLIGHT-COLOR: #333333; 
+SCROLLBAR-ARROW-COLOR: black; 
+SCROLLBAR-TRACK-COLOR: black; 
+SCROLLBAR-DARKSHADOW-COLOR: #333333; 
+} 
+td {
+ font-size : 8pt;
+ 	font-family : Arial, sans-serif;
+}
+</style>
+</HEAD>
+<BODY text=#999999 vLink=#999999 aLink=#999999 link=#999999 bgColor=#000000 leftMargin=0 topMargin=0 rightMargin=0 marginwidth="0" marginheight="0">
+<center><a href="/"><img src="http://www.archspace.org/image/as_game/menu_main.gif" border=0></a></center><br>
+
+<CENTER><!-- TABLE -->
+<TABLE width="90%" border=0>
+  <TBODY>
+  <TR>
+    <TD>&nbsp;&nbsp;<B><a href="/forum/">Archspace Boards</B></a> <BR>&nbsp;&nbsp;
+	(moderated by Mindwarper, zbyte64, DarkJediX, DarkSonax, Boomer, daemorhedron, darkelf) 
+      <P>
+	</TD>
+    <TD vAlign=top align=right>
+		<IMG src="/image/forum/open.gif" border=0>&nbsp;&nbsp; <a href="/forum">Archspace</a>
+      	<BR><IMG src="/image/forum/tline.gif" border=0><IMG src="/image/forum/open.gif" border=0>&nbsp;&nbsp;<a href="as.php?board=player">Player Board</a>
+	<p><a href="pref.php">Preferences</a>
+    </TD>
+	</TR>
+	</TBODY>
+</TABLE>
+	<A href="newtopic.php?board=player">New Topic</A>
+	
+<table align="center" border="0" cellspacing="0" cellpadding="1" width="90%">
+<tr>
+	<td style="background: #999999">
+		<table align="center" border="0" cellspacing="0" cellpadding="5" width="100%">
+		<tr>
+			<td style="background: #000000; text-align: center">
+				<table align="center" border="0" cellspacing="1" cellpadding="5" width="100%">
+				<tr>
+					<TD vAlign=center width="18%" style="background: #555555;"><B>Author</B></TD>
+					<TD vAlign=center style="background: #555555;"><B>Topic:&nbsp;&nbsp; Honor System Up?</B></TD>				
+				</tr>
+				<tr>
+					<TD vAlign=top width="18%" style="background: #333333;">
+						<B>aznwolflord</B><BR> Normal Player						<p>
+																							</TD>
+					<TD style="background: #333333;" valign=top>
+						<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0> posted 2004-09-28 00:13&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+ 						<A href="edit.php?board=player&id=10672"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			 			<A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A> </FONT>
+			  			<HR color=#000000 SIZE=-1>
+			  			I'm guessing the honor system is not active since people with 0 honor seem to not have any problems with their commanders going crazy?						<P align=right> </P>
+					</TD>
+				</TR>
+	
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>tokavu2000</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-28 00:16&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10673"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	mine keeps dropping and i cant figure out why .... :s any ideas on why??¿¿??			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Cypherus</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-28 01:29&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10677"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	It was toned down. Maybe a tad too much. Still, evil peoples' fleets are weakened by low morale and more easilly retreat.<br />
+<br />
+It's still kinda, eh. You lose honor for some things you really shouldn't. Blockading in war or members in your council shouldn't lower honor imo, since sieging doesn't (Or does sieging in your starting cost honor? Dunno).			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>embryodead</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-28 01:49&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10679"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Sieging itself never reduces honor, but blockading and declaring wars do. The key point, however, is the power difference. You can lose no honor at all by blockading and warring &quot;fair&quot;, while you will lose a lot by doing the same to easy targets.<br />
+<br />
+Also, make your Diplomacy CM higher (yes, it's useful stat now), it will lower honor losses.<br />
+<br />
+Note that this is the first set with honor working from the beginning so it's the first real test of this feature.<br />
+<br />
+So far I'm attacking players with equal or higher power, grabbing planets and not losing honor. On the other hand I see the top council lost all or most of its points already. So it seems ok :P			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>GSR_rebel</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-28 03:17&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10681"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	i didnt know if that was a rumor or whatnot about people with honor like 0 having lower moral			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>DarkTempes</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-28 03:43&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10683"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	not to mention you have a greatly increased chance of some bad events ;)			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Penzdragon</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-29 12:24&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10747"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	It seems very easy to drop from 50 to 0 honor. I managed to pull it off with 2 random blocks.<br />
+<br />
+However, I can't come up with a way to raise my honor even a point or two...<br />
+<br />
+Don't you think this is a problem? Sitting around and getting points back as time progresses isn't going to cut it.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Nova</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-29 13:07&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10750"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Any other method will just be open for abuse.  It is a way to keep players honest if they care about the morale thing (doesn't seem to matter much from what I've been able to ascertain).  Just like in real life, it takes a long time to build a bullet proof reputation and only a few blunders to completely wreck it.  If you care about honor then don't randomly blockade players below your power level, and if you don't care, then play like you've always played.<br />
+<br />
+And finally, I was Bosalian last set and over 80% of my events were bad even though I had a title, 100 honor and Perfect Subject, so the increase in bad events doesn't seem so bad to me, unless maybe that you get double the number of events and they are all bad.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>embryodead</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-29 15:57&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10758"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Random events based on space anomalies etc., whether good or bad, aren't based on honor. <br />
+But Nova, you haven't seen really BAD events :P <br />
+<br />
+It's true about the honor rising though. It's how it is supposed to be. It takes a lot of time to build a honor, but little is needed to make you evil.<br />
+<br />
+If you lose 50 honor with 2 blocks that means that those were very evil blocks :) (ie. you blockaded people half of your power...). In order to avoid becoming evil, you have, most of all, keep you battles fair, meaning, fighting with people of your own power, or higher. Since it seems that most people are complaining about blocks, we might need to lower the loss a bit, but not completly.<br />
+<br />
+Here's a short tutorial:<br />
+<br />
+You can lose personal honour by:<br />
+- blockading<br />
+- declarings wars (esp. if pacted earlier)<br />
+- breaking pacts (esp. if allied earlier)<br />
+- using deadly special ops (esp. not in war)<br />
+- requesting the empire's aid (little)<br />
+- submitting to empire's demands (little)<br />
+- random events<br />
+<br />
+You can lose council honour by:<br />
+- declaring wars (esp. if pacted earlier)<br />
+- breaking pacts (esp. if allied earlier)<br />
+- requesting the empire's aid<br />
+- accepting members with low honour<br />
+<br />
+For blocks/wars, you will lose more if the target is lower in power and/or higher in honor, and vice versa. Relation (pact/war etc.) is also relevant. Thus, blockading a random person half of your power is very evil. But blockading a person that is more powerful will make you lose very little. If additionally you have higher honor than that person, you will most likely lose nothing!<br />
+<br />
+In other words, it is possible to war &quot;fair&quot;, without losing any honor. <br />
+<br />
+Moreover, Diplomacy CM is very important. This CM is finally useful :) As mentioned in the guide, it reduces honor losses, both personal and council's (using the speaker's CM). With high Diplomacy, you can reduce the loss of all evil acts by up to 50%. Yes, Bosalian speakers are the best. Thus, blockading people later in game will be a bit easier, thanks to better Diplomacy that helps cleaning up mess after evil acts ...<br />
+<br />
+Personal and council honour values are equally relevant.<br />
+<br />
+Effects of honour are:<br />
+- penalty/bonus to morale in battle<br />
+- influence on some good/bad random events<br />
+<br />
+Note that this makes things like planet milking/trading Evil tactics, but still valid ones.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Keyan</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-29 16:49&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10759"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	I suppose the whole top100 is evil, so it doesnt really matter ;)			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>embryodead</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-29 16:57&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10760"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	I'm 15th and my honor is Average (51) :P<br />
+<br />
+EDIT: bah, I checked, plenty of people with high honor in top 25. There's even a person in top 10.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Nova</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-29 22:51&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10772"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	I think that this is a workable solution.  It doesn't completely ban the tactics that many people feel are evil but a few insist on being allowed to carry out, but it does penalize those individuals that carry them out.<br />
+<br />
+I suspect that there may be more Bosalians next set.  And remember, if you attack a Bosalian, chances are their honor is higher than yours and yours will drop unless your are already at zero.<br />
+<br />
+Thanks for the clarifications embryodead			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>FusionAnomaly</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-30 12:33&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10801"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	I just attacked and died without shooting. My second fleet retreated  (and Im Evintos). Seems like the honor system is working after all.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>embryodead</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-30 19:51&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10819"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Evintos do retreat, that ability was for Xeloss only (it's a mistake in the guide, please use the updated one at avn.beheadedstraw.net/archspace2004_guide.html , not the one linked on the main page).<br />
+<br />
+Care to send me a link to that battle? I'd like to see as much battles as possible with honor working (I'm a dev). ie. if your fleet retreated before the battle has began, it needs fixing. If you don't want to post here, send in-game msg to Braindead (#105).			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Penzdragon</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-30 20:56&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10821"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	I've had a couple battles where my ships fly right past the opposing fleets and right off the battlefield. Very annoying. Since this is the first time I recall that happening to me, I've got to assume it is because of the honor system.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Lost</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-30 21:14&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10822"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	I didn't see where you mentioned how you actually raise your honor.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>arcticwolf</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-30 21:52&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10823"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Maybe they should have more ways of increasing honour than just wait for days before you get 2 honour points. Maybe if you help an allied council attack an opposing council, you should get extra honour points for your loyalty.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Penzdragon</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-30 23:35&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10828"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	The honor system is really screwing me over. My ships aren't firing at all.<br />
+<br />
+https://as.mlsecurity.com/archspace/war/battle_report_detail.as?LOG_ID=5049			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>embryodead</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-10-01 01:50&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10830"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Honor vs. Freezing Bug<br />
+<br />
+Nevermind the links, they're useless (SSL). I'll try to find them by your IDs. However, I'm quite certain it's not always your honor, but the freezing ships bugs which appears from time to time since a couple of resets, before the honor ever appeared. If your ships don't even fire but just go straight and dissapppear at the edge, or just stop in place before firing/taking any damage, it's not related to honor.<br />
+<br />
+@Lost<br />
+<br />
+I did. I said that Nova was right - there is no way to raise the honor by player initiated actions because any such way would be abusable. You could repeat such actions, ie. with a friend, to raise honor artificially. The only way to raise your honor is to keep it from falling, and wait patiently for 2 points per day and random events. If you reached 0 quickly you may think it's impossible to have high honor, but it is. There are plenty of people with high honor, even in top rankings. Just a simple rule of not attacking people lower than you makes you 95% safe from any losses.<br />
+<br />
+BTW, it's funny that in World of Warcraft, a huge MMORPG by Blizzard, they introduced a similiar honor system, except that they did the mistake we didn't :P ie. when you kill player of lower level, you get negative honor while when you kill player of higher level, you get positive honor (killing in WoW doesn't hurt, so it's like a small battle lost in AS). After 2 or 3 days the honor was disabled, since people immediately started to &quot;farm&quot; honor with cross-faction friends :) See, we're better than Blizzard ;)			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>embryodead</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-10-01 01:58&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10831"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	OK, Penzdragon, I found the battle you linked to. This one is perfectly correct it seems (if it's the one with 1 fleet vs. Bacteria). Your fleet didn't fire because it was hit first, and retreated after that hit.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Lost</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-10-01 02:19&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10832"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	ok, ty			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>FusionAnomaly</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-10-01 04:08&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10834"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Here is the battle:<br />
+<br />
+Attacker: Radix (#68) Defender: thesolitary (#309) 2004/09/30 12:29:02 PM Blockade Defender Win <br />
+<br />
+My capital fleet was deystroyed and my secondary fleet meets them but doesn't fire and does a 180 retreat.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>mnemchik</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-10-01 04:24&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10835"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	On several occaisions, I've had a fleet go completely inactive because the commander is &quot;unavailable&quot;. I've been a pretty bad boy so I assume it's due to the honor system.<br />
+<br />
+tourniquet/TOuRniQUEt/TORQUE :)			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Lost</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-10-01 05:12&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10839"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	If your Targoid, then commander being unavailable is normal.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>embryodead</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-10-01 05:18&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10840"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	@FusionAnomaly<br />
+<br />
+Saw the battle, nothing wrong there, sorry. Perfectly logical and realistic. Enemy fired first and dealt a lot of damage. The one fleet that survived (but was damaged too) decided to retreat.<br />
+<br />
+Also, this battle looks like many other battles before honor was implemented. Retreating always worked like that - after damage. It's just that now fleets of evil players are more likely to retreat, but no bugs so far (like previous set, when fleets retreated before taking any damage).<br />
+<br />
+@Torque<br />
+<br />
+u noob! :P It's Targoid &quot;Breeder Male&quot; ability, not honor... been like that forever. 			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Penzdragon</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-10-01 06:13&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10842"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Embryo, I understand how it normally works, but I had a high eff commie with ships using self con fleets. I've never had ships like that run away without firing a shot, especially when taking only a small amount of damage. Those dreads had HBH and they ran from BCs using TWHM without firing a shot. That's just plain silly.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Nova</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-10-01 07:06&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10847"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Penzdragon;<br />
+<br />
+Your honor dropped to zero by attacking (blockading most likely) players well below your range.  This gave your commanders a false sense of security and now if anyone at all fires at them, they run because they aren't used to meeting resistance.  That's why the military has &quot;live fire&quot; exercises, so that soldiers don't run the first time someone actually fires back at them.<br />
+<br />
+I also remember people saying that you have to stand up to bullies and they will usually back down, even if you aren't as strong as they are.  I don't know how true that is, but I've heard it an awful lot over the years.  I'm pretty sure that players that gain experience by bullying on players half their power would fall into the bully category.<br />
+<br />
+So if you stretch the imagination far enough, it doesn't seem quite as silly as you are making it sound.<br />
+<br />
+embryodead;<br />
+<br />
+I don't believe that if you siege someone that your honor drops.  I sieged several players at about half my power to protect myself before going to sleep and my honor wasn't affected.  Is this the way it is supposed to be?  I haven't been brave or desperate enough to blockade anyone below my power level, but it might be an interesting experiment for someone else to try to see if honor doesn't drop when you blockade players that you are at war with, even if they are at half your power.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Santa</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-10-01 07:05&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10849"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	maybe it could be a use for interpretation, the whole running away because they are to panzy thing			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Penzdragon</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-10-01 07:15&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10851"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	I lost my honor defleeting someone with the same fleet power but much lower overall power. Apparently they had lost a good number of planets while fleets were training and I got the fleets when they got back. I hadn't even looked at his power, I was just looking at fleet rankings.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Nova</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-10-01 08:18&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10852"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Unfortunately, if the power levels are based only on fleet power, then players could rape a bunch of planets and then scrap all of their ships so that if anyone attacks them with their fleet power of zero, the attacker will lose the maximum amount of honor.<br />
+<br />
+Santa;<br />
+<br />
+I thought that interpretation was supposed to modify your ability to ascertain which fleet on your scanners was the most powerful so that everyone could focus on taking it out.  I don't believe it's working, but that is the impression I get from embryodead's description of misinterpretation in the Player's Guide.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>embryodead</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-10-01 08:24&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10857"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Nova<br />
+<br />
+Sieging doesn't decrease honor. Diplomatic action - that is War Declaration does. So it costs you, or your council (equally relevant), to declare on weaker enemy. But while at war, you can siege at will - seems logical to me.<br />
+<br />
+Blockades at War have no basic honor &quot;cost&quot;. If the enemy is weaker however, there will be small loss. It might be actually  good idea to reduce honor losses of blocks at War to 0 regardless of power. Doesn't make sense otherwise when compared to siege. Will do... when possible...<br />
+<br />
+Nice explanation of morale issue BTW :)<br />
+<br />
+Penz<br />
+<br />
+The &quot;before even fired&quot; argument isn't a good one, because... well if fleet retreats, it doesn't fire, obviously. The problem is that it either fights or retreats. Hard to balance it - if fleets don't retreat, the system would be useless, if they do, at any point, people complain. I might lower the penalty a bit more, but it's nearing the point of irrelevance =			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Nova</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-10-01 08:38&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10860"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	I think that as long as the effects of low honor are well published and the appropriate warnings are plastered everywhere, then maybe most people will not have an issue with ineffective fleets when honor drops too low.  It adds an extra challenge to the game.  I'm sure that Penzdragon is only upset that his honor dropped as quickly as it did and he didn't know it would drop so quickly.<br />
+<br />
+I for one applaud Penzdragon's tactics of finding opponents of similar fleet power to attack instead of just looking for players with low fleet to power ratios to beat up on.  It was unfortunate that it happened that way, but perhaps if a warning message pops up with a range of honor that could be lost or other similar warnings when about to perform an honor reducing act as was mentioned before. 			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>embryodead</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-10-01 09:21&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10866"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	I'll think about the honor loss warning.<br />
+<br />
+As for Interpretation/Misinterpretation they have nothing to do with each other:<br />
+<br />
+Misinterpretation is an effect of a working commie ability; it lowers the threat rating of the fleet.<br />
+<br />
+Interpretation is a skill that was never implemented. We can't really know what was the original idea behind it.<br />
+			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Penzdragon</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-10-01 10:17&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10867"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	My main concern is that my win percentage, which was fairly high before my honor drop, has dropped to zero, and it is mainly due to my fleets fleeing. Even when supplimented with increases in efficiency, they run. The second my guys take a hit, they give up. Before the honor drop, I had no problems with fleeing fleets. Now, 100% of my fleets have fled after taking a hit. I've done my best to use efficiency increases to try and offset the low morale, but other than that, which hasn't worked, there isn't anything for me to do because there is no way to raise my honor.<br />
+<br />
+<br />
+Perhaps, have a method to raise your honor, but have it so that it is unable to raise it above 40 or 50 or so.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Penzdragon</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-10-01 11:36&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10872"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Also, as a side note, since Bucks are pirates and all, maybe make them immune to loss of honor, since plundering and pillaging is natural to them. Then they might actually be playable.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>mnemchik</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-10-01 13:37&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10876"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	&quot;@Torque<br />
+<br />
+u noob! :P It's Targoid &quot;Breeder Male&quot; ability, not honor... been like that forever. &quot;<br />
+<br />
+@Edead<br />
+<br />
+Yep, I'm a NOOB. This is the first time I've played Targoid. <br />
+<br />
+So, are my commies breeding? They're making little commies? I'm gunna be a daddy? again? I hope not. LOL<br />
+<br />
+Torque			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Gumpus</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-10-05 11:55&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=11026"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	so... if council honor is just as relevant as normal honor, why does council honor not increase day by day as well?			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>embryodead</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-10-05 14:27&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=11029"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	maybe because it's bugged? :P			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Nova</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-10-06 07:35&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=11035"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Council honor was going up, so I haven't been watching it lately,  I'll start tracking it again.  By the way, from a casual observer's view point, I noticed that it increased at about the same rate as personal honor.  I didn't track it very closely though, so I could be mistaken.<br />
+<br />
+EDIT<br />
+<br />
+It looks as if personal honor doesn't really have all that much of an affect on your fleet's morale.  Go ahead and blockade indiscriminantly, it doesn't matter.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Nova</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-10-07 14:38&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=11160"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Council honor is going up.  I'm not exactly sure what it matters though.<br />
+<br />
+As far as personal honor, I think it's been scaled back so far as to be ineffective in stemming the random blockades against smaller powered players.  Oh well, instead of hearing the bullies complaining that their fleets are as cowardly as they are, we go back to hearing the complaints of the victims.  I liked it better when the bullies were at a disadvantage, but I guess some things aren't going to change.  Too bad.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>embryodead</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-10-07 16:39&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=11166"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Nova<br />
+I've seen many battles this set in which honor had immerse impact. Penzdragon isn't making up his complains you know... neither are other people. Sure it doesn't stop from blockading when people have 0 honor already and their victims are noobs that can't learn not to fluff to 100 or 200k with fusion missile frigates and destroyers.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Nova</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-10-08 01:23&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=11183"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Okay, I'll take your word for it.  I will remain quiet.<br />
+<br />
+Thanks,<br />
+<br />
+Nova			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>embryodead</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-10-08 02:32&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=11186"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Sorry, I mean don't be quiet, it's just that there's so much strange fluffing this set, I had to mention it.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Nova</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-10-08 03:56&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=11193"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	No, the reason I'm being quiet is that I haven't seen enough to be sure that it isn't just bad &quot;dice rolling&quot; on my part.  I'm more than willing to accept your explanation for now and watch to see what happens.  If I detect a trend, then I'll speak up again.<br />
+<br />
+I don't feel as if you are trying to shut me up.  I just don't want to add to the noise unless I have something substantial to report.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Psycholis</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-10-08 10:40&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=11204"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Blah.  It still doesn't do enough.  My honor is a solid 70+ and my attacker's was 0, but it did nothing for me.  I still got hit by someone twice my power and lost my entire fleet, again.  It gets to the point where you just kinda stop caring.  Why bother building up my fleets?  They're just gonna get stomped by some dude with twice my power.  :|			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Psycholis</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-10-08 10:48&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=11206"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	On a side note, and kinda confusing to me, the attacker didn't hit any of my Rs or URs, but a medium normal.  o_O  I guess I should consider myself lucky?			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Psycholis</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-10-10 02:03&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=11248"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Bump.  Again hit by someone near twice my power and honor did nothing.  74 vs 0, honor wise.  150 vs. 80 doom-wise.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>embryodead</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-10-10 13:34&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=11258"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Well with having people who claim that honor completly screws them up (ie. Penz), and that honor does nothing (ie. you), I can't really do anything ;)<br />
+<br />
+Note that honor won't help if your fleets/commanders suck to the point that they get destroyed in one shot. Enemy has to take some damage in order to make a morale test.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>LaiHipp</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-10-10 16:49&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=11259"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	I can attest to the fact that Brennen's case is not exagerated(sp?) and I know you guys know he isn't a newb.  This is the 3rd time this has happened.  Even if his attacker has twice his dooms 80 dooms will do some damage.  Honor needs to even these things out better.  Maybe the roll should be standard before the battle.  Think Huge invader force not really caring about the objective just being paid, mercinary, to do it vs. gorrillia forces who either stay or die and love their cause so they fight harder. Mercinaries are not going to fight if they think they are against a cornerd force and have very little to gain...blockade gets you very little.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>embryodead</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-10-10 17:31&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=11260"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	LaiHapp, no. If twice the number of fleets strike and all fire first, 80 dooms won't do any damage, esp. if they aren't commanded by lvl 20 admirals.<br />
+<br />
+I saw battles with people attacking with more dooms (and higher tech, it was hbh vs nova) and losing because after the initial missile exchange a lot retreated. Honor can change the outcome of battles, but don't expect it to make you win when you have no chances whatsover.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Psycholis</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-10-10 17:36&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=11261"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	No, embroydead.  My commanders in the first battle had +30 detection.  Last time I checked, it doesn't get much higher.  All 3 of my doom fleets were with level 20's.  Naturally, all those commanders died, however my second set had a detection of +26, also quite decent.  Remember that I've always played Xeloss, so I exploit that mental giant trait quite often.  My fleets fired first.  You can watch the battle reports if you want to prove me wrong.  That is not the case.  Even IF my fleets didn't fire first, their first shot should have deterred the enemies fleet as in Penz' battles.  They do not.  All 150+ dooms stuck through the entire battle.  Don't make this as if I don't know how to play, emb.  I know what a fair fleet battle is, and these last 2 weren't.  That's all I'm gonna say.  The battle reports speak for themselves if you have any disbelief.  (#262) in game.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Keyan</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-10-10 18:54&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=11262"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	May be your opponent used bait and all your 3 great +30 detection commies were wasted ;)<br />
+<br />
+Anyway, I don't understand the whole honour discussion 90% of AS top100 players are evil anyway ;)			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>embryodead</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-10-10 21:28&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=11264"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	I checked that battle Psycholis. Keyan was quite right - your fleets fired first and killed... the bait, wasting all missile shots. The dooms themselves didn't take serious damage, mostly single deaths from DB, so why should they retreat? 			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Kaiserswordman</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-10-13 00:18&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=11349"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10672"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	It appears I'm slowly gaining honor (1 per day or less) Maybe because I don't strike back when attacked.<br />
+<br />
+I know you lose honor when you bribe the magistrate and of course when you fail to introduce the redplague virus into an ally planet &gt;=B			   <P align=right></P>
+			</TD>
+		  </TR>
+
+			<TR>
+			<TD></td>
+			<td align=center></TD>
+			</TR>
+				</table>
+			</td>
+		</tr>
+		</table>	
+	</td>
+</tr>
+</table>
+<center><b><A href="reply.php?board=player&id=10672">Post a Reply</A></b></center>
+		<TABLE width="95%" border=0>
+		  <TR>
+			<TD colSpan=2><BR>
+						  </TD></TR>
+		  <TR>
+			<TD>
+					    </TD>
+		  </TR>
+		  </TABLE>
+
+
+<BR><B><A href="/contact.php">Contact Us</A> | 
+<A href="http://www.archspace.org/" target=_top>Archspace</A> </B>
+<P>
+<P>Powered by MindBB v2.0<BR><BR></CENTER></P>
+</BODY></HTML>

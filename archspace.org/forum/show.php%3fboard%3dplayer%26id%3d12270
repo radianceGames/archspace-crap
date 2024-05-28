@@ -1,0 +1,222 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>Archspace Beta Forums</TITLE>
+<Style type="text/css">
+A:link, A:visited { text-decoration: none; color: lightblue; }
+A:hover {
+		COLOR: white; 
+}
+INPUT {
+	BACKGROUND-COLOR: black; BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; COLOR: #0AABAA; FONT-FAMILY: verdana, helvetica, sans-serif; FONT-SIZE: 10px; 
+}
+body { 
+	text-align: center;
+	font-family : Arial, sans-serif;
+	color : white;
+	font-size : 8pt;
+	margin-top : 0px;
+	margin-left : 0px;
+	margin-right : 0px;
+	margin-bottom: 0px;
+
+SCROLLBAR-FACE-COLOR: #666666; 
+SCROLLBAR-HIGHLIGHT-COLOR: black; 
+SCROLLBAR-SHADOW-COLOR: #333333; 
+SCROLLBAR-3DLIGHT-COLOR: #333333; 
+SCROLLBAR-ARROW-COLOR: black; 
+SCROLLBAR-TRACK-COLOR: black; 
+SCROLLBAR-DARKSHADOW-COLOR: #333333; 
+} 
+td {
+ font-size : 8pt;
+ 	font-family : Arial, sans-serif;
+}
+</style>
+</HEAD>
+<BODY text=#999999 vLink=#999999 aLink=#999999 link=#999999 bgColor=#000000 leftMargin=0 topMargin=0 rightMargin=0 marginwidth="0" marginheight="0">
+<center><a href="/"><img src="http://www.archspace.org/image/as_game/menu_main.gif" border=0></a></center><br>
+
+<CENTER><!-- TABLE -->
+<TABLE width="90%" border=0>
+  <TBODY>
+  <TR>
+    <TD>&nbsp;&nbsp;<B><a href="/forum/">Archspace Boards</B></a> <BR>&nbsp;&nbsp;
+	(moderated by Mindwarper, zbyte64, DarkJediX, DarkSonax, Boomer, daemorhedron, darkelf) 
+      <P>
+	</TD>
+    <TD vAlign=top align=right>
+		<IMG src="/image/forum/open.gif" border=0>&nbsp;&nbsp; <a href="/forum">Archspace</a>
+      	<BR><IMG src="/image/forum/tline.gif" border=0><IMG src="/image/forum/open.gif" border=0>&nbsp;&nbsp;<a href="as.php?board=player">Player Board</a>
+	<p><a href="pref.php">Preferences</a>
+    </TD>
+	</TR>
+	</TBODY>
+</TABLE>
+This Topic has been closed<p>MODS: <a href="mod.php?board=player&mode=open&id=12270">Re-Open Post</a><p>	<A href="newtopic.php?board=player">New Topic</A>
+	
+<table align="center" border="0" cellspacing="0" cellpadding="1" width="90%">
+<tr>
+	<td style="background: #999999">
+		<table align="center" border="0" cellspacing="0" cellpadding="5" width="100%">
+		<tr>
+			<td style="background: #000000; text-align: center">
+				<table align="center" border="0" cellspacing="1" cellpadding="5" width="100%">
+				<tr>
+					<TD vAlign=center width="18%" style="background: #555555;"><B>Author</B></TD>
+					<TD vAlign=center style="background: #555555;"><B>Topic:&nbsp;&nbsp; An Idea - Deterent to pre-organized councils?</B></TD>				
+				</tr>
+				<tr>
+					<TD vAlign=top width="18%" style="background: #333333;">
+						<B>Nighty</B><BR> Normal Player						<p>
+																							</TD>
+					<TD style="background: #333333;" valign=top>
+						<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0> posted 2004-11-02 22:03&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+ 						<A href="edit.php?board=player&id=12270"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			 			<A href="reply.php?board=player&id=12270"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A> </FONT>
+			  			<HR color=#000000 SIZE=-1>
+			  			Here's brief explanation of idea, via irc log. More detailed explanation follows.<br />
+<br />
+***<br />
+&lt;nighty&gt; i had idea for AS, interested in giving comment?<br />
+&lt;Boney-Man&gt; wot<br />
+&lt;nighty&gt; well.. main idea is to prevent vets from congregating into traditional council/groups as much as they do at the moment<br />
+&lt;nighty&gt; have set number of clusters<br />
+&lt;nighty&gt; e.g. 4 or 5<br />
+&lt;nighty&gt; when characters are created at begining of set, they spawn evenly and randomly across all clusters<br />
+&lt;nighty&gt; then, change game mechanics in some way to limit warfare for first week or 2 to only within pplz specific cluster<br />
+&lt;nighty&gt; so, given that edead said there are around 500-600players without multies at the moment<br />
+&lt;nighty&gt; you'd have 100+ in each cluster<br />
+&lt;nighty&gt; ppl would be split up from their normal council mates for the most<br />
+&lt;nighty&gt; force them to work in groups with ppl they dont usually work with<br />
+&lt;nighty&gt; eventually within each cluster, a major power would develop inevitably<br />
+&lt;nighty&gt; but when inter-cluster warfare finally begins, there are a number of independent councils formed<br />
+&lt;nighty&gt; which may be more willing to form alliances against each other and stuff<br />
+&lt;nighty&gt; and war groups with old friends in them etc<br />
+***<br />
+<br />
+<br />
+<br />
+Ellaboration:<br />
+<br />
+AS occurs in 2 major stages<br />
+1.---&gt; cluster warfare (must last minimum of 1-2 weeks for internal relations to develop within groups)<br />
+2.---&gt; intercluster warfare (move to this stage as a major universal event in game, or upon the death of first magistrate)<br />
+<br />
+- Fixed 4-5 clusters (resulting in atleast 4-5 major powers within the game as we move into inter-cluster warfare stage, as there should be atleast 1-2 major powers already developed within each cluster).<br />
+- Can't see any of the players or councils outside of your cluster until the move to inter-cluster warfare stage of game.<br />
+- Can't attack anyone in another cluster until inter-cluster warfare stage of game.<br />
+- Can't join councils outside your cluster (therefore forcing old council mates in different clusters to possibly fight against one another eventually - does not allow old council mates from different clusters to reform their council once inter-cluster warfare stage of game begins).<br />
+- Upon moving into the inter-cluster warfare stage, having a number of significant powers suddenly all in range of one another could once again encourage the importance of diplomatic ties between councils etc.<br />
+- Council size limited to max of 15 players (could increase this if player base increases, and cluster populations get larger).<br />
+- Consequently top council/group for whole set in game will almost never be determined in first week of game.<br />
+- As the vets are dispersed randomly over a number of isolated clusters, will discourage attempts to reform traditional pre-organized councils, and may increase the inclination to take in new active players into peoples councils.<br />
+- Makes it easier for good players to start a new council and fair decently due to a lack of blockades reigning in from all over AS (due to cluster isolation) when a new council hits known people who have friends.<br />
+<br />
+<br />
+Lots of other games out there, simply by their very mechanics/nature force ppl to form new alliances/council structures every season with random people in them. I love the organization and connection that develops from working with people I've played with for a number of sets, however maybe the fact that Archspace encourages this sort of game play - where its encouraged that people get back together with people they usually play with and form their traditional elite councils (with some tiny variation, but still with the same pool of players), could be part of the reason us vets are keeping newcomers out of the game. Maybe it'd be worth trying to deter this, until we can infact get a much larger player base? <br />
+<br />
+Worth trialing?						<P align=right> </P>
+					</TD>
+				</TR>
+	
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>evilstorm</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-11-02 22:16&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=12273"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12270"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Hm. Admittedly it'd be annoying as all hell for a while--which could cause a lot of drop outs, I'd imagine--but if you reckon the pros outweigh the cons it could be very much worth a shot.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Keyan</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-11-02 23:58&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=12274"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12270"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	I love that idea!!!<br />
+<br />
+It would balance out a lot of things and would open a totally new horizon to AS.<br />
+<br />
+Might be a bit hard with only 200-300 active players but who knows.<br />
+<br />
+Certainly hard to implement code wise, but I don't know anything what DT, edead, zbyte wouldn't be able to handle ;)<br />
+			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>DarkJediX</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-11-03 01:36&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=12275"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12270"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	heres an idea<br />
+<br />
+suggestions forum!<br />
+<br />
+			   <P align=right></P>
+			</TD>
+		  </TR>
+
+			<TR>
+			<TD></td>
+			<td align=center></TD>
+			</TR>
+				</table>
+			</td>
+		</tr>
+		</table>	
+	</td>
+</tr>
+</table>
+<center><b><A href="reply.php?board=player&id=12270">Post a Reply</A></b></center>
+		<TABLE width="95%" border=0>
+		  <TR>
+			<TD colSpan=2><BR>
+						  </TD></TR>
+		  <TR>
+			<TD>
+					    </TD>
+		  </TR>
+		  </TABLE>
+
+
+<BR><B><A href="/contact.php">Contact Us</A> | 
+<A href="http://www.archspace.org/" target=_top>Archspace</A> </B>
+<P>
+<P>Powered by MindBB v2.0<BR><BR></CENTER></P>
+</BODY></HTML>

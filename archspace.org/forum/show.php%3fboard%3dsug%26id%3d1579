@@ -1,0 +1,710 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>Archspace Beta Forums</TITLE>
+<Style type="text/css">
+A:link, A:visited { text-decoration: none; color: lightblue; }
+A:hover {
+		COLOR: white; 
+}
+INPUT {
+	BACKGROUND-COLOR: black; BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; COLOR: #0AABAA; FONT-FAMILY: verdana, helvetica, sans-serif; FONT-SIZE: 10px; 
+}
+body { 
+	text-align: center;
+	font-family : Arial, sans-serif;
+	color : white;
+	font-size : 8pt;
+	margin-top : 0px;
+	margin-left : 0px;
+	margin-right : 0px;
+	margin-bottom: 0px;
+
+SCROLLBAR-FACE-COLOR: #666666; 
+SCROLLBAR-HIGHLIGHT-COLOR: black; 
+SCROLLBAR-SHADOW-COLOR: #333333; 
+SCROLLBAR-3DLIGHT-COLOR: #333333; 
+SCROLLBAR-ARROW-COLOR: black; 
+SCROLLBAR-TRACK-COLOR: black; 
+SCROLLBAR-DARKSHADOW-COLOR: #333333; 
+} 
+td {
+ font-size : 8pt;
+ 	font-family : Arial, sans-serif;
+}
+</style>
+</HEAD>
+<BODY text=#999999 vLink=#999999 aLink=#999999 link=#999999 bgColor=#000000 leftMargin=0 topMargin=0 rightMargin=0 marginwidth="0" marginheight="0">
+<center><a href="/"><img src="http://www.archspace.org/image/as_game/menu_main.gif" border=0></a></center><br>
+
+<CENTER><!-- TABLE -->
+<TABLE width="90%" border=0>
+  <TBODY>
+  <TR>
+    <TD>&nbsp;&nbsp;<B><a href="/forum/">Archspace Boards</B></a> <BR>&nbsp;&nbsp;
+	(moderated by Mindwarper) 
+      <P>
+	</TD>
+    <TD vAlign=top align=right>
+		<IMG src="/image/forum/open.gif" border=0>&nbsp;&nbsp; <a href="/forum">Archspace</a>
+      	<BR><IMG src="/image/forum/tline.gif" border=0><IMG src="/image/forum/open.gif" border=0>&nbsp;&nbsp;<a href="as.php?board=sug">Suggestion Board</a>
+	<p><a href="pref.php">Preferences</a>
+    </TD>
+	</TR>
+	</TBODY>
+</TABLE>
+	<A href="newtopic.php?board=sug">New Topic</A>
+	
+<table align="center" border="0" cellspacing="0" cellpadding="1" width="90%">
+<tr>
+	<td style="background: #999999">
+		<table align="center" border="0" cellspacing="0" cellpadding="5" width="100%">
+		<tr>
+			<td style="background: #000000; text-align: center">
+				<table align="center" border="0" cellspacing="1" cellpadding="5" width="100%">
+				<tr>
+					<TD vAlign=center width="18%" style="background: #555555;"><B>Author</B></TD>
+					<TD vAlign=center style="background: #555555;"><B>Topic:&nbsp;&nbsp; New Ship Class</B></TD>				
+				</tr>
+				<tr>
+					<TD vAlign=top width="18%" style="background: #333333;">
+						<B>Zechs</B><BR> Normal Player						<p>
+											</TD>
+					<TD style="background: #333333;" valign=top>
+						<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0> posted 2004-11-20 08:46&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+ 						<A href="edit.php?board=sug&id=1579"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			 			<A href="reply.php?board=sug&id=1579"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A> </FONT>
+			  			<HR color=#000000 SIZE=-1>
+			  			I know we have dicussed the possiblity of fighter aka gunships taking off from ships. I think it woul be better just to have one ship class do that. That is why i am proposing a Carrier class it would cut down on the code a bit just to limit it to one ship insted of the possibilty of eveyship being capable. State what you think.						<P align=right> </P>
+					</TD>
+				</TR>
+	
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Lookalive</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-11-21 17:06&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1589"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1579"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Fine with me			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>GSR_rebel</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-11-21 23:26&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1591"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1579"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	omfg.<br />
+<br />
+everyone always suggests a carrier like every 2 months			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Skrar</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-11-22 05:08&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1594"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1579"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	carriers may work.. but also maybe different ship types available at certain power levels.. (cause no-one at a low power/control rate could possibly come up with a doomstar...), and different abilities for each ship type.. like you could take a defensive version of the Cruiser... with more armour, and speed/attack rate... but a bit less firepower and detection rating... or attacking, with normal firepower, but a higher attack rate, less speed, a bit less armour, and a higher detection. A stealth version could also apply etc... this would, to me, make the game more strategic and fun, as there is more planning invloved.. giving people things to do in their time between turns.. (especially with 10 min turns coming.)			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Skrar</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-11-22 05:21&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1595"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1579"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Here are some variations I have com up with as examples for the doomstar...<br />
+<br />
+doom: <br />
+normal strength, yet fires at a rate of 1:1, and accuracy of 80%, average armour strength.<br />
+<br />
+shining star (for lack of better name atm): <br />
+reduced by 10% strength, yet fires at rate of 3:1, with accuracy of 65%, 5% higher armour strength.<br />
+<br />
+Illusionary: <br />
+average strength, rate of fire is 1:1, accuracy is 80%, armour is reduced by 15%, yet creates illusions that increase the chance of the enemy fleet fleeing by 30%.<br />
+<br />
+etc...			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>angel_wing</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-04 09:43&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1650"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1579"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	agreed, there should be a carrier like shit around. <br />
+cuz whats the point of having gunships and all those lower ship classes if everyone is gonna use doomstar sooner or later?<br />
+it says in the encyclopedia that bigger ships needs some supporting lower class ships. i dont quite see how that works when in a battle between fleets of dooms.<br />
+carriers should be able to carry smaller ships...say, up to class 3? ... that could be sent off to attack enemies flanks or backs, or somewhere.<br />
+if theres not carriers, why not just having one class ships of doom rather than a bunch of others that you dont use.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>GSR_rebel</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-04 13:44&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1651"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1579"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Classes used:<br />
+<br />
+Cruiser-raping.<br />
+Dreadnaught-quick to build yet powerfull.<br />
+Doomstar-slowest to build but whoop ass.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>jezza</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-09 09:04&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1685"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1579"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	mmmm.. i disagree with the concept of carriers.  How would you do it?  I mean, you cant have 50 gunboats or whatever just come out of this carrier and clog up the battlereport.  And thats just one carrier.  Anyway.. 50 gunboats arn't gona make much difference in a battle besides making the enemy waste hbh missiles which would totally make the game unbalanced.  Carriers would become the ultimate ship, defeating the purpose of all other classes, which defeats the purpose of why it was suggested :/.  You could however design it to have docked ships as weapon slots, but then what would be the point?  It'd just be a whole new complicated weapon...			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Skrar</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-09 11:51&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1687"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1579"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	but isn't complicated  a good thing? right now, it is just a simple ship class thing, the bigger the better. there should be a way for smaller ships to out manouver and outpower bigger ones, or have different types of each class, or both, so that a newb can still stand a chance, yet the big, show-offy people can have all their big ships.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Fooby987</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-09 12:18&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1688"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1579"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	well heres an idea, have a ships weapons slot for battleships and up, something like hanger bays, and u can load ships int he hangers depending on there size (like gunboats take up 1 slot, corvettes take up 2, frigates, 3, destroyers 4), then the amount of slots u get its determined by the space thing, thus, reducing the smount of ships u can hold (so you dont clug up the battle report), so a doom whould hold alot more ships then a dread lets say, and sence u load the smaller ships into the bigger one, then your smaller ships will beable to travel to other clusters in the bigger ships			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>jezza</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-10 13:10&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1695"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1579"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	mm yeah good idea. but i was thinking.. a doomstar carrying ALOT of GUNBOATS, clogging up battle report.  and relly.. in effect youd have someone with a doom with a docked mf, which in turn has a docked dread and in turn a docked battleship, docked bc, so on so on.   I'm not sure, but i rekon the coding for it would  be pretty..... out of the way?  mmmmm			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Fooby987</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-10 23:23&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1698"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1579"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	yea, first off, the limit is set at the class below crusiers, destroyers i think they are, for ship size, second, even if u had a doom with a MF, and that with a dread and so on, you whould have a ton of armour and no weapons, and because hanger bays take up weapon slots, you sacrifice guns for a bunch of crappy ships, it balances itself out, kinda, mabe a bit of tweeking whould be needed<br />
+<br />
+<br />
+and im talking about the hangers taking up ALOT of space in ships, so you dont have hundreds of gunboats cloging up the battle report :P			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Serfiusdjinnt</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-11 05:10&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1707"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1579"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	About the smaller ships outmaneuvering a large one, yes that's a possibility, but it would depend on how strategically sound the gunmounting of the larger ships is. If you have a mile-long ship with 200 guns on the very front, the little ships could simply zoom about to its side, and being that it's a massive ship, it'd not be able to turn and defeat them.<br />
+Another factor, however, is the rotation of the weapons were they to be placed at the front: They could simply turn and fire off any ships that would be around the midsection.<br />
+But, the way I see it, a large ship has its guns mounted correctly, and not all in one glob on the front, meaning that if a little ship were to be able to get to its side, it'd still have to face the fury. Lets think realistically, a gunboat wouldn't be able to outmaneuver a laser, they're instant, nor would it be able to speed from a nuclear explosion, nor would their armor (and hull) be sturdy enough to withhold the force of a homing black hole, etc. Small ships just aren't as good, or versatile, logically, or in this system.<br />
+Try to make it apply to the 2D battles we have now. <br />
+<br />
+As for a ship bay existing on a dreadnaught, or whatever other large, carrier-type ship, I already imagine the weapons, with their startling numbers, to be like mounted ships. And if you can make a carrier-class, you probably have the largest, most efficient weapons anyway. What do you need smaller, less damage-resistent, less-firepowered, less-efficient ships for? It's already been proven to me that 20 gunners fleets stand absolutely no chance against a fleet of battleships, so the numbers would still logically be proportioned like that, meaning little ships are eventually useless.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Fooby987</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-11 07:16&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1713"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1579"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	its more used as distractions, have a doom with 1 slot of hanger bays, it knocks out a bunch of missles, and the doom is free to fire, same goes for the enemy, if any survive, then they can fire, but the good part about puting bays as weapons, then u can mount either a ton of bays, or only a few, and still have some fire-power to back it up			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Skrar</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-13 11:35&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1729"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1579"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	2d... right. Hmmm... I'll try to figure out how to make that idea of mine work in the game I am planning... anyways.. yah... hmmm...<br />
+<br />
+--Skrar, the puzzled one--			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Gandalf1</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-16 10:05&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1756"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1579"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Hey do not underestimate the little ships. The X-wi- ehem... Gun boats could find a weakness in the death st-doom star such as an exaust port or somthing put in to let them stand a chance (this comment is just an excuse to put in a star wars rip off :) ).			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>jezza</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-16 12:08&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1757"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1579"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	but then... youd have ppl buidling masses of these cheap little 3000 pp gunboats which can kill a 23 million pp doomstar?? Serious unbalance issues..<br />
+<br />
+you seriosuly hav to understand the magnitude of a doomstar... read the encyclopedia if you want.  Instead of being able to fly around, the gunboats would probably just get pulled in by the doomstars huge gravitational pull, making them useless....			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Tirless</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-16 13:30&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1758"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1579"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Also as a side note if the smaller ships are smaller then there could be more per unit area.<br />
+<br />
+This could take up a bit of programming issues, but using them as decoys to ward off the dreaded 'hbh' it would seem awkward that a bunch of missiles to target 1 group of small ships (Gunboat, Corvette, etc) equal to 1 huge group (DStar, MF, etc). Weaponry that has a potential for 'splash damage' (missile weaponry) should be exactly that. Maybe 40 homing black holes wouldn't destroy only 10 gunboats, but also splash decreased damage around the impacted area (at a lesser value as distance increases).<br />
+<br />
+Just a thought.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Fooby987</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-16 22:57&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1762"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1579"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	well, also, mabe u should have commanders beable to command more ships of smaller size, because its harder to coordinate 10 dooms then 50 gunboats, sorta thing, then it can still be of some advantage to employ smaller ships, youl be lacking guns, but u make up with ship number, but id still like to stick with the hanger idea :P<p><br>Watashi wa Daishi desu.<br />
+<br />
+(I am Great Death.)			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Sniper117</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-31 07:22&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1839"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1579"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	My thoughts are that one carrier would launch a pre-selected ship model (decided in design page, carrier only option), either gunboat or corvette. It would release 10 gunboats or 5 corvettes as 1 mini fleet, that would attack 2 rounds per weapon on the ship and return to carrier to reload for a set amount of time.<br />
+<br />
+Edit: The carriers could count as 2 ships, 1 commander for the carrier itself and 1 to direct the  <br />
+mini-fleets<br />
+~~~~~~~~~~~~~~~~~~~~~~~~<br />
+One by one the penguins steal my sanity.<br />
+Help! The evil squirells are after my nuts!<br />
+That's funnier than watching a 3-legged dog trying to bury a turd on a frozen pond!			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>isaraldor</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-31 13:07&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1847"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1579"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	why not fighters? kinda like an aircraft carrier thing. the fighters are small with lowest power weapons. like say you had weapon &quot;A&quot; had 10 designs (1 being weakest design and 10 being strongest design). fighters would only be able to use weapon &quot;A 1&quot; while bigger ships could use weapon &quot;A 10&quot;.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Bao</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-01-01 13:19&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1854"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1579"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Please, no more carrier suggestions, theres like 20 of these posts out there, Let me no longer hear of carriers<p><br>The One And Only, HC Member Who's Name Is Bao<br />
+ 			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>IuztheEvil</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-01-07 00:21&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1875"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1579"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	This has probably been suggested before too, but here goes.<br />
+<br />
+I'm new to the game, it's really cool.  I like the design aspect and I'm eager to get my research finished (which is the most important aspect).  The things I see are<br />
+<br />
+1.)  What to do when the research is over <br />
+2.)  Why bother with small ships once I have an industrial base<br />
+<br />
+As for the research being done, I know there is no benefit for continuing on, and that's a good thing<br />
+<br />
+As for the small ships....it seems ppl suggest carriers to increase their relevance.  What about tweaking the commanders so that they can command more smaller ships?  For example, a commander who can deal with 40 dooms could handle X*40 gunboats.  This would increase the relevance of smaller ships by allowing more of them into battle (but they would still die quickly).  Does this make alot of logical sense, not really, but we are lobbing black holes and novarization torps at each other.<br />
+<br />
+Anyway, just a noobish .02 cents on the issue.<br />
+<br />
+			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>slicknick</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-01-12 04:39&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1898"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1579"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	I was just about to say something like that.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>slicknick</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-01-12 04:43&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1899"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1579"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	I recently started to read the Halo books, around when I started this actually. I think there should be giand orbital defense plaforms like in Halo. They would be stronger than doomstars but couldn't move in battles or go to attack. Also, it may have been suggested, but a repair ship or weapon that repairs ships would be nice.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Spell</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-01-17 16:02&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1913"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1579"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Ship classes just plain suck.<br />
+I just noted a doomstar is 640 power and a dreadnaught is 400... WHAT A LAUGH !!!!<br />
+It has over 3x as much firepower and 2 extra devices.<br />
+Whoever thinks dreads got alot of firepower is an idiot.<br />
+Ship design especially devices and class should offer ALOT more variety. This is sooooooo LAME.<br />
+Honestly, when you (not total newbie) build ships, how many choices do you have ? I got more than enough with 3-4 designs, i couldn`t possibly imagine  a 5`th good doomstar! design. And from my battle reports i can CLEARLY see that everybody else uses almost always the same. The only difference seems to be, you won`t see a targoid PSI ship and you`d rarely see anyone but a targoid with a ballistics(distortion blaster) fleet. And who the hell uses beam weapons ??? Xerusian ? ALWAYS dooms or you dont stand a micron chance anyway.<br />
+What a waste of a really cool (and demanding) combat or fleet deployment system.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Wing-of-no-Wing</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-01-20 04:23&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1923"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1579"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Yeah, from what I've seen the best thing to do would probably be to rip out the existing system of ships entirely and replace it with something like the Ship Design &amp; Tech Design of the original Pax Imperia game.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+			<TR>
+			<TD></td>
+			<td align=center></TD>
+			</TR>
+				</table>
+			</td>
+		</tr>
+		</table>	
+	</td>
+</tr>
+</table>
+<center><b><A href="reply.php?board=sug&id=1579">Post a Reply</A></b></center>
+		<TABLE width="95%" border=0>
+		  <TR>
+			<TD colSpan=2><BR>
+						  </TD></TR>
+		  <TR>
+			<TD>
+					    </TD>
+		  </TR>
+		  </TABLE>
+
+
+<BR><B><A href="/contact.php">Contact Us</A> | 
+<A href="http://www.archspace.org/" target=_top>Archspace</A> </B>
+<P>
+<P>Powered by MindBB v2.0<BR><BR></CENTER></P>
+</BODY></HTML>

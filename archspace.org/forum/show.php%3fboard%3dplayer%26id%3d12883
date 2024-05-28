@@ -1,0 +1,1134 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>Archspace Beta Forums</TITLE>
+<Style type="text/css">
+A:link, A:visited { text-decoration: none; color: lightblue; }
+A:hover {
+		COLOR: white; 
+}
+INPUT {
+	BACKGROUND-COLOR: black; BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; COLOR: #0AABAA; FONT-FAMILY: verdana, helvetica, sans-serif; FONT-SIZE: 10px; 
+}
+body { 
+	text-align: center;
+	font-family : Arial, sans-serif;
+	color : white;
+	font-size : 8pt;
+	margin-top : 0px;
+	margin-left : 0px;
+	margin-right : 0px;
+	margin-bottom: 0px;
+
+SCROLLBAR-FACE-COLOR: #666666; 
+SCROLLBAR-HIGHLIGHT-COLOR: black; 
+SCROLLBAR-SHADOW-COLOR: #333333; 
+SCROLLBAR-3DLIGHT-COLOR: #333333; 
+SCROLLBAR-ARROW-COLOR: black; 
+SCROLLBAR-TRACK-COLOR: black; 
+SCROLLBAR-DARKSHADOW-COLOR: #333333; 
+} 
+td {
+ font-size : 8pt;
+ 	font-family : Arial, sans-serif;
+}
+</style>
+</HEAD>
+<BODY text=#999999 vLink=#999999 aLink=#999999 link=#999999 bgColor=#000000 leftMargin=0 topMargin=0 rightMargin=0 marginwidth="0" marginheight="0">
+<center><a href="/"><img src="http://www.archspace.org/image/as_game/menu_main.gif" border=0></a></center><br>
+
+<CENTER><!-- TABLE -->
+<TABLE width="90%" border=0>
+  <TBODY>
+  <TR>
+    <TD>&nbsp;&nbsp;<B><a href="/forum/">Archspace Boards</B></a> <BR>&nbsp;&nbsp;
+	(moderated by Mindwarper, zbyte64, DarkJediX, DarkSonax, Boomer, daemorhedron, darkelf) 
+      <P>
+	</TD>
+    <TD vAlign=top align=right>
+		<IMG src="/image/forum/open.gif" border=0>&nbsp;&nbsp; <a href="/forum">Archspace</a>
+      	<BR><IMG src="/image/forum/tline.gif" border=0><IMG src="/image/forum/open.gif" border=0>&nbsp;&nbsp;<a href="as.php?board=player">Player Board</a>
+	<p><a href="pref.php">Preferences</a>
+    </TD>
+	</TR>
+	</TBODY>
+</TABLE>
+	<A href="newtopic.php?board=player">New Topic</A>
+	
+<table align="center" border="0" cellspacing="0" cellpadding="1" width="90%">
+<tr>
+	<td style="background: #999999">
+		<table align="center" border="0" cellspacing="0" cellpadding="5" width="100%">
+		<tr>
+			<td style="background: #000000; text-align: center">
+				<table align="center" border="0" cellspacing="1" cellpadding="5" width="100%">
+				<tr>
+					<TD vAlign=center width="18%" style="background: #555555;"><B>Author</B></TD>
+					<TD vAlign=center style="background: #555555;"><B>Topic:&nbsp;&nbsp; To all returning vets</B></TD>				
+				</tr>
+				<tr>
+					<TD vAlign=top width="18%" style="background: #333333;">
+						<B>intellect</B><BR> Normal Player						<p>
+											</TD>
+					<TD style="background: #333333;" valign=top>
+						<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0> posted 2004-11-27 13:17&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+ 						<A href="edit.php?board=player&id=12883"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			 			<A href="reply.php?board=player&id=12883"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A> </FONT>
+			  			<HR color=#000000 SIZE=-1>
+			  			Hey guys, it's great to see you all back here. Many of you I'm sure I remember, especially Zontos (who could forget those great comics). <br />
+Anyhow, hopefully we'll see more of you, but I do have a request. Please don't return to your old councils. Although you have played with them for a long time, some things have changed, and Archspace is attempting to attract new players. So, instead of returning to say HC, AVN, ASC, or AZG, start a new council, and train our incoming players, so that competition may be stiff and gameplay enjoyable. If you ask many of the members who played all throughout beta, it got quite frustrating once a council had risen to the top and then did nothing to help out the under players (ie, training them). This is just my request, also, I'd love to see tUki brought back (not sure I spelled the name right)...I always loved his &quot;I am tUki, I will fuck you up!&quot; Just made my day.<br />
+See you all on the 4th for the big day!						<P align=right> </P>
+					</TD>
+				</TR>
+	
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Nighty</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-11-27 15:17&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=12885"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12883"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	I don't think it's easy or even attractive to just come back to the game after so long and 'train' people outside your traditional council. Firstly, you'd prolly come back 'cause you want to play with ur old mates again, and secondly old vets that have returned after a fair time, will actually take a while to grasp the new way the game is played; both new and current mainstream techniques used in the game; and get a hold of the more detailed knowledge that is available in certain dark corners about ingame functions/mechanics. <br />
+<br />
+I think, instead of asking the oldies who come back to change, we need the better players who are around already and have been for a while, to disperse voluntarily in groups of 2-4 into newb councils and just see how things go. grr.. if only the intermediate/lower councils would just use IRC properly, it'd be so much more attractive to do it. 			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>OPUS</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-11-27 18:32&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=12887"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12883"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	i think your missing what intellect is trying to bring here- its not so hard to make new councils and start up a new differnt game from the old boring no action game 0 it be more fun if there was actually councils that trained and brought new councils - thats what councils are here for - so they can battle other new councils and create a standard for intruction- and it just be more fabulous to have more players- if vets dnt want to play - dont bother- personally id rather have a game where people come to play and learn and expand and for new vets and great players- then have what we have now - the same old people doin the same ld stuff- when are we gonna get out of that - when are we gonna get out of that cloud and realize we need new ideas - new challenges- are we gonna be battleing the same councils set to set? It could just imagine to have new councils and new leaders- and all yu vets- whats the big deak about training noobs- dont you want to increase the gameage of this game- i unn- but im very dissapointed at nightys inthusiasm- i thought he'd be supportive, and respect an idea like the such presented - but instead nighty totally took advantage to throw down the idea before it was even presented. whats the point in having a board if there;s no discuassion of the topics - personally i agree wit intellect 100% - he's thinking of bettter days - and so sould you!<br />
+<br />
+opus			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Keyan</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-11-27 20:05&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=12888"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12883"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	I would love to see all the big legendary councils back, HC, AzG, TE, AVN, EGAD and so on ...			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Nighty</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-11-27 20:22&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=12889"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12883"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	yea.. i'd love to see all those councils back, in their old sizes.. but not possible with current player base. also, to resurrect one at a time, wouldnt work, 'cause the ones that get resurrected bash down on the newer ones getting resurrected. so unless all of those come back at around about the same time, i think we wont be seeing 'em all back like that. 			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Nighty</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-11-27 23:48&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=12890"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12883"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	err.. OPUS..<br />
+<br />
+i think it is hard to make new councils. you have to judge the environment, and find players who will remain loyal to that council. you dont want to just start a council that lasts for a couple sets and disappears again. ideally, i'd imagine u'd want the council to have a pretty loyal and active base of players by the 2nd set the council is around. in order to do that, it's kinda essential that u do well in the first set and acquire some attention in order to attract some useful recruits, and not just the log-on-once-every-2-days ppl who wont bother to use irc. <br />
+<br />
+there are lots of things that can go wrong as well, in that first set, from unexpected blocks of alliances amongst the intermediate councils which pose a significant barrier to you getting anywhere above; to a very aggressive superpower council that sends guys down to just constantly blockade/rape anyone in close range. early game is important, so u'd have to have some strategy from the word go (which is hard since u havent got much of an idea of ur member base yet), or u could fall below the rest, and have even more difficulty coming up. if u end up below the intermediate sized councils, u'll have bottom feeders everywhere, and intermediate councils constantly harrasing you for planets because they themselves are being raped by the top, and there's a LOT more evil-planet-hungry-ppl at the intermediate level, than there are at the top. So if u exist below them, ur in for a very difficult time, especially since ur trying to train inexperienced players who will constantly make mistakes and get bashed before your eyes while you can do very little about it. <br />
+<br />
+honestly, i've been a full fledged advocate of new councils since 2001.. but it just isnt something that's not all that easy to do these days. Back when there was a lot more competition at the top, and a larger number of big councils, it was easy to make it up there, through an alliance or something. Now, usually game ends up with 2 significant powers (usually enemies) who'll eat everyone around them and then just war each other. When there were more powers, and closer competition, it's a risk to hit a small council which is allied to a council who is a close competitor of urs. <br />
+<br />
+OPUS says: &quot;so they can [] create a standard for instruction&quot; <br />
+^^Consider this instruction. The most significantly dominating council groups AS has ever seen (imo AZG, EGAD, TE) all very very strongly advocated the importance of IRC for communication, and yet I believe the majority of councils still fail to use it to its full advantage. Some things we tell ppl over and over again, but they just dont listen. <br />
+<br />
+OPUS says: &quot;it be more fun if there was actually councils that trained and brought new councils&quot; <br />
+^^OOA has been considered as a noobie training council for a long time. They take in a lot of new players and give them somewhat of a taste what its like to be in a more active environment. (Though many feel they could do a lot better job of it). <br />
+<br />
+<br />
+<br />
+OPUS says: &quot;im very dissapointed at nightys inthusiasm- i thought he'd be supportive, and respect an idea like the such presented - but instead nighty totally took advantage to throw down the idea before it was even presented.whats the point in having a board if there;s no discuassion of the topics&quot;<br />
+<br />
+^^Could i say... WHAT THE? lol. Yes! This IS a discussion board, so why am I wrong in expressing my opinion on intellect's idea? It's an open forum, if u want to support it, go ahead. all i did was comment on it, and say what i think was an alternative, which in my opinion is 'constructive criticism' and im sure intellect would appreciate that his topic is getting further discussion due to it. <br />
+<br />
+OPUS says: &quot;- the same old people doin the same ld stuff- when are we gonna get out of that - &quot;<br />
+^^This is what I'm talking about as well. However I think the best way to 'get out' of this situation where its the same ppl fighting each other, is if vets from the major groups disperse a bit into the intermediate councils (There are a few of them around you know). If the intermediate councils can become more competitive, they not only gain skill and experience, end up doing their own recruiting of good players. Strong council competition in Archspace, is the best environment for new councils to grow in, as it is a scenario where there are 'more' big-player-councils each somewhat threatening to one another, and each looking for new friends/allies to increase their feeling of security.<br />
+<br />
+Really, in the end i think both intellect and myself ultimately would like the same thing, we just disagree on the best means of achieving it. Vets returning to the game and trying to train new players IMO wont really work. Vets dispersing into intermediate councils to strengthen them and make them more competitive councils might. 			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>intellect</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-11-28 01:03&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=12891"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12883"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Nighty, thank you for putting my idea into perspective. That was written at aroun 1am and I was sorta falling asleep. I guess what I was trying to say was what you repeated, that instead of having the same players returning to their major councils, as DEM and DF did this set, they should create their own councils. I left SS to form Lithium. Granted I'm not a vet, nor do I claim to be. I just happen to have general knowledge of how to play the game and am willing to pass that on to newer players. If you examine my membership for the past several sets (not this one, cuz I stayed a slightly elite council), you will find that it 1) increased greatly and 2) was made of new players. I guess what I'm wanting is players like Mech2k and Seif and yourself to go and form their own councils. Yes, you might not have as much fun dominating the top, but you can still keep in touch and play with your old friends. I do; I help friends out with wars whenever they ask. Most alliances I had while in SS-Falcon, I carried over to Lithium. This kept me in touch with all my old friends. Something I would like to see is more people on IRC, maybe even an IRC help channel &quot;staffed&quot; (if you will) with vets and helpful people like me (dear God, not Santa) who can tell our new players (hopefully they'll get on) what they should be doing. Telling newbies to just &quot;read the guide&quot; doesn't do much good. If I was new to this game, just starting, what's in the guide wouldn't really help me. Yes, it explains a lot of things, but many of them have to be &quot;read into.&quot; <br />
+So, back to my original topic: Why am I urging the vets not to return to their old councils? Because, say the vets that return come back to, oh hell we'll go with HC (just cuz it's short and easy to type). This will increase HC's membership and thus, they can &quot;dominate&quot; the game if you will. Not only will all the old vets be playing, much of HC's current membership (and yes, I'm aware that they do not exist currently, but there are enough of them around) are also vets from this era and the Mari era. Thus, you have a council of old vets and new vets, both of whom are talking with each other on IRC and AIM and MSN, and who can dominate the game. What I am advocating is for the returning vets to seek out some of their friends, but to not be attracted to councils. This is really a two-part request:<br />
+1) That the current top players (and you know who you are) do not just stay in their main 3-4 councils (IMPS, DF, DEM, etc...). Instead, that they form new councils, and just create alliances with their friends. Hell, I know that DF and DEM didn't attack each other for the longest time because of the friendship thing, but it did happen. This way, instead of having 3-4 councils of around 15 members, you could have maybe 8 councils of 10 members (that's including some newbies). <br />
+2) Now, this request is a tad harder. Um, basically, the vets returning to the game, yes, they do value the friendship and camaradaree (sp?). But, I've already seen some posts asking about HC and the other old guard from Mari. These returning vets are looking to reenter their &quot;parent&quot; councils (if you will). This could (please note _could_) result in the recreation of major council that can dominate gameplay. The returning vets, I'm sure, will not take long to remaster the game (I mean, not that much has changed, just some more limitations really), and then, they will be as masterful as the vets from Mind's day. So, basically, if the current vets create their own councils (and please, I'm not saying everyone should go out, just maybe one or two from each of the current powerhouses), the returning vets can see and decide who they want to play for. The &quot;new&quot; councils can attract some returning vets on the basis of friendship, and the &quot;old&quot; councils will attract the remainder of them based on council loyalty. <br />
+Thus, to sum this long post up, if the current vets were to create some councils of their own (and there's nothing to stop them from merging with their former council if they decide they're not enjoying it or their council is not attracting the membership they would like), then more councils would be competing for ranks at the top, more wars and more training of newbies would result. Also, the incoming vets then have more choices as to which council they choose to join, instead of just returning to their old friends. All said, I think this would greatly enhance gameplay, and even if more vets do not return, the &quot;Mind vets&quot; should still work to train the newbies, in any way they can, and hopefully in the way I have mentioned.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Keyan</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-11-28 02:44&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=12893"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12883"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	intellect, we set up a #help channel on IRC and I except it will be rather helpful next set for new players.<br />
+<br />
+Basically, all the new players have to do is to join IRC and get in touch with ppl and join dedicated councils.<br />
+<br />
+The php IRC script will hopefully help a lot here too.<br />
+<br />
+However, I would really like to see some of the old councils back in strenghts, like HC. Nothing wrong with it and it doesn't mean they dont accept new players.<br />
+			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Apocalyptic</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-11-28 04:10&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=12896"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12883"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Just my ten cents worth, some of the current large councils do take in newbies, but the problem this last set was they got scared off from our council because of DEM's week long pounding of the other top 10 councils. They all fled. So I think the Extremely good vets disperseing into the intermediate councils would be better becuase a newb. can get killed pretty easily if they are in a council in the range of another top council and dont know what they are doing. <br />
+<br />
+Had another comment but forgot it. O well.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>intellect</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-11-28 04:52&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=12897"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12883"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Keyan, I must say that I am not advocating the dissolution of any of the major councils, just a more spread out version. Instead of having HC and all of its subcouncils, why not have HC, and maybe a council made up of a few HC members and other &quot;newbies&quot; (these newbies could even be former members of IMPS or SS ??). The two councils could remain as allies, and then, if another council, like AZG rose to the top and was dominating, the &quot;splitoff&quot; could then fuse and could help HC in the war. (I want everyone reading this to realize that I am not thinking about alliances past or present and am merely using two well-known councils). The more, smaller councils will result in more war and more &quot;game-balance&quot; IMLO. Therefore, please realize that I'm not advocating the complete removal of large councils; I happen to have been part of them and they were quite fun. Instead, see my idea as more of a restructuring of large councils into smaller subsets. Instead of a major council with many subs, why not have many councils that all are related but can make and forge their own alliances? I don't see much of a problem with this, and I feel that it would greatly help with attracting new players and improving the gameplay.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Boomer</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-11-28 05:42&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=12899"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12883"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Sounds good Intellect, If even some of the top councils were to do this, it would create a big difference in mind. Although, too be a big factor, the noobs would have to join irc ( we have all seen how successful that has been :( )			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Apocalyptic</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-11-28 06:09&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=12900"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12883"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Server side IRC Client so that everyone can get on irc at any time from any place.<br />
+Balanced races.<br />
+A new system to prevent quick death and super councils.<br />
+<br />
+<br />
+Thats from Minds post on the next set so super-councils may be harder to make anyway. Dont know how, have to ask him, or Keyan he seems to know everything.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Stolte</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-11-28 06:55&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=12903"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12883"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	I'll be playing :)			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Houston</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-11-28 09:28&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=12905"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12883"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Well, Newbs need to also apply to high councils and the vets should let some in and train them. The Canadian Right generally has had very small numbers last few sets (10 members), yet we were ranked top 10 (6th) for most of the set. We would accept new members, and did, in order to train them. I encourage otehr top councils to do what we do. <br />
+<br />
+Houston<br />
+Canadian Right			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>intellect</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-11-28 12:09&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=12906"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12883"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Houston, the attitude of Canadian Right, Supreme Soviet, and Order of Atlas is the attitude I believe all major councils should have. I applaud all three of those councils for taking in new players and training them, even though the new members tend to leave for more &quot;active&quot; councils. If every major council took in just 2 new players (maybe per council), that would be, I'm figuring, around 20-30 new players who would know more about the game. These players in turn would then branch out and form their own councils, most likely still retaining friendly relationships with their &quot;training&quot; council. This would result in more councils to compete in the upper 20 rankings. Also, as these &quot;newbs&quot; became more skilled, they could, in turn, take on the role of trainers as well, referring the players they're training to the &quot;major councils&quot; for more detailed help. Sooner or later, all the &quot;serious&quot; newbs would be trained, thus making the game more enjoyable for them and the vets and pros. Therefore, another option for the training would be to allow the major councils to exist/reform (which would be quite awesome, I must say), and to encourage (not force, nind you) them to accept a few newbs in each set (hopefully not farm them :P). I don't know if any of this is making sense, but I am definately going to accept at least 2-3 noobs into my council this set. (Hell, I'm gonna set up a recruitment post right now.)			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Cypherus</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-11-28 17:53&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=12918"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12883"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	&quot;So I think the Extremely good vets disperseing into the intermediate councils...&quot;<br />
+<br />
+I agree.<br />
+<br />
+intellect, I really don't believe that training newbies actually benifits the game at all overall. Where do the best of SS, OOA, and the other you mentioned end up going? Where? Oh, right, the top councils. Wait, isn't that entirely pointless then? :P The promising players also get put into top councils, and I don't know where I stand on that. I really think that the big councils should split up a bit, and actually, oh right, ATTACK EACHOTHER.<br />
+<br />
+Yeah, sure, OOA was nice to the noobs that sided with OOA. You know what though? OOA bashed newbies. wtf is up with that? OOA massively slaughters (kills too) newbie councils, but they're nice to newbies? Interesting. Very interesting. SS may be different, I'm not sure. The other council as well.<br />
+<br />
+Overall, I think there's a large problem with the established mid-councils mostly being allied (thankfully not the case this set...I don't think), and picking on newbies. I still think that AS will fix itself when it gains a significant amount of new players too.<br />
+<br />
+			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Yoda</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-11-29 16:51&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=12945"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12883"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	IRC really is overrated, I'm not considering myself a vet, but I was ranked 11, and extremely close to 10 this set, and I only got on IRC to see why the server was down for 2 weeks, only to find the site was moved to archspace.org<br />
+Granted, I've been playing off and on since the Mari days, so it has taken me awhile to learn the ropes, but I'm a bit of a slow learner and I give up easy.. 			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>ArchSeraphim</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-11-29 17:45&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=12947"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12883"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	.....*blinks*.... wow.. i wish I could type as much as all you guys.. *is all shy*.. im so jealous.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Penzdragon</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-01 00:21&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=12987"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12883"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	When you run a council of newbies, you tend to start off by fighting other councils of newbies. If I found that it was at all feasable to attack vet councils using newb power, I would. However, most newbs aren't coordinated or active enough to take on veteran councils. Once I get them off training wheels though, we tend to lay off the newbish councils and tend more towards the folks we war with regularly, such as Infestors Spawn.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Penzdragon</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-01 00:25&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=12988"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12883"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	BTW, in recent sets, I've gotten a bit lazy with the newb training because many of the new crop of players tend to not listen, but I'm going to fix that. Next set, I'm going to focus solely on newb training and cut down on the diplomacy and power mongering. I'll have a thread up about the changes soon.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Evintor</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-01 02:59&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=12992"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12883"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	hey Zer and Nighty, Long time no see.. :)<br />
+<br />
+I hope that AS will find a new player base now that it is going out of beta (never thought that I'd be saying that ehh.. :P) and I dont think many vets will return anyway so it wont be that big of a problem with vets beating newbs. (Accept the way it already is, or I guess it has been, the last couple of months?)<br />
+oO(Wondering what way mind is going to control the &quot;super councils&quot; as he puts it)<br />
+<br />
+Oh well.. just got a mail so I thought I'd stop by. But have fun everyone.<br />
+I have moved on to a more interactive game, Warcraft 3 tft. 4-5 hours a day now, way less than the time wasted on AS though :) <br />
+			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Keyan</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-01 05:29&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=12993"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12883"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Yoda, IRC isnt overated at all. You shouldn't necessarily take last set as example and end-game rankings franckly don't say much.<br />
+<br />
+As soon as you want to coordinate a group bigger than 10-15 players, IRC is a must. MSN is nice for chatting and fast and small coordination, but IRC just offers you much much more variety (steady channel, topics, scripts etc.).			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Cypherus</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-01 10:10&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=12999"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12883"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Evintor! No, come back! :p WC3:TFT is sooo not as cool as AS, mostly cuz Cyph doesn't play it. What's up? How's it going?<br />
+<br />
+Yeah, if king-o'-da-nubs Cyph can make it into final top 10 score rankings, you know whatever calcs ending score is way fucked up.<br />
+<br />
+Sure, MSN works, but it's not as good as IRC. IRC really helps in organization in general. Also allows you to idle there, catch what's going on, without being repeatedly invited into icky big MSN convos. And I have little love for AIM, ICQ, and any others I'm forgetting/unaware of.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Apocalyptic</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-01 15:31&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=13002"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12883"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Cypherus, you where in the top 10 during the game too werent you.<br />
+<br />
+If im not mistaken you were Saphyre. Which ended second and was pretty high in the regular top 10.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Evintor</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-01 17:19&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=13005"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12883"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	hehe.. :P Zer.. Dont know if u've still got my msn, but else, add me: random42@ofir.dk<br />
+<br />
+<br />
+Make no mistake. If you want to have a top-council IRC is the only way. Lets you coordinate your attacks and defenses way batter than anything else. Plus, it lets u get to know the other players in your council, and makes the game even more fun. I mean, when you spent this many hours on a game, its kind of sad if you dont talk to the other players in it. <br />
+<br />
+			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Redjack</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-01 22:17&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=13008"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12883"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	I officially name the last few sets of AS beta : The Lazy Times<br />
+<br />
+People didn't play hardcore, they prefer to talk trash/joking around IRC instead.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Evintor</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-01 22:22&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=13009"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12883"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Heya Redjack :)<br />
+<br />
+How's the status on SS's homepage?			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Redjack</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-02 05:23&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=13013"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12883"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Well, SS don't have any website anymore.<br />
+<br />
+Fernandes gave the avidgamers one to another guy some time ago and the new site, Hosted by Knio is ... down? :P Yeah.<br />
+<br />
+Seems Trotsky is uber busy lately. Seems like the near end of SS if you ask me.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Evintor</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-02 06:03&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=13022"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12883"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	That would be a sad day :(<br />
+ Who should bring some sensible politic arguments to this forum then?			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Apocalyptic</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-02 08:58&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=13026"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12883"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	fernandes does a good job, go find the SS thread on like page 2 or 3. We had a long economic debate.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Skrar</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-03 05:55&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=13028"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12883"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Aye.. tis too bad that SS has fallen so much... :(.<br />
+<br />
+yet, I do agree with intellect completely about the new councils... I've tried a few attacks on them, and the top ones (singley) always seem to be way better than even a team of 3-4... (hehehe, like that attack a while ago before I left... :)). <br />
+<br />
+new, completely open councils would be a great step towards making this game more fun... a player base of 200-300 really sucks, and we need way more newbs... (other games like mechg have player bases in the tens of thousands.. or darkthrone approaching the hundred thousand mark.). <br />
+<br />
+Anyways... good luck sorting this out...<br />
+<br />
+--Skrar, Of the Dragon Fang--<br />
+(PS... if anyone wantas any desktop backgrounds or forum signatures for things.. give me a shout. just post in my forum at http://skrar.proboards31.com.)<br />
+<br />
+			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Skrar</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-03 05:56&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=13029"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12883"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	ummm.. please disregard the second half of my last post.. I can't seem to see it when editing to erase.... ?!?!?!?!?!?!?!?!? :|<br />
+<br />
+<br />
+<br />
+**never mind.. I just managed to fix it.. whatever I did : | ?!?			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>riogilao</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-02 19:26&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=13038"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12883"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	i wish you all a merry christmas and a happy new year.<br />
+<br />
+Portuguese Communist Party has a new leader maybe its time for SS to do the same or face its fate...			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Zekk</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-03 02:02&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=13050"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12883"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	its good to see Yoda again :) and ill be tucking myself away in a smaller council, untill i get used to playing again. then perhaps ill restart my all newb council			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>intellect</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-03 07:34&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=13060"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12883"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	rio, you should start a new council, a new SS, called PCP - for Portugal Communist Party. I think you have enough experience with PCP to be a good leader :P			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>mnemchik</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-04 03:21&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=13091"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12883"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	hmmmm<br />
+<br />
+The thing that I've noticed during my first year of playing AS is that the best councils usually have more older players and fewer kids (14 and under). I'm sure a lot of the older players lose patience trying to deal with the younger ones. I don't want to speak for Naru, but I got the feeling that this really wore her down when she was speaker of Archspace #11 thi slast set. I don't think she really wanted to be a speaker and teach the young ones.<br />
+<br />
+If you are going to train noobs, you better be ready for everything that goes with it. And this set is going to be longer than in the past.<br />
+<br />
+inte, in general, good idea. Not bad for a Sooner.<br />
+<br />
+Torque :)			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>darkelf</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-04 05:57&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=13096"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12883"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Agreed intellect. However, Nighty has a point. It is not the returning vets who need to disperse, it is those of us who never stopped playing through it all, those of us whwo know all of the changes and can survive under them. That being said, next set the changes will end up in a whole new style of gameplay. Your old tactics, throw them out the window, your race will not play as easily as it used to to you and you will have to figure it out, next set is a learning set for everyone. Those of us who have been here have the biggest advantage over everyone else because we know the older changes. However, to send out all the &quot;new&quot; vets....meaning the newly returning ones...would be detrimental to the game more than keeping them in =) Give them a set or two to get reacquainted with the game.<br />
+<br />
+Another thing, I always form my own council when I play. i got news for you intellect, when I started my council over 2 years ago it was not any vets. These players whom I have had since the beginning have gone from noob to vet right alongside me and if I play and am off on my own I will always respect their work and their sacrifices by using the Ascension name. I am not against having new members, I love it, and with that I teach them a bit of what I know and let them develop their own playing style, look at cyph ffs :) He was one of my newbs, if you notice his playing style still has a hint of mine in there but he turned it much into his own and became one of the best =)<br />
+<br />
+-DarkElf / Seiffer / Memnoch			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>vinny77</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-04 19:28&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=13121"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12883"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	wats up.. i played this soo long ago i cant even remember wat my ID was for it! hope its as fun as last time.. ! cyaz around			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>riogilao</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-04 21:29&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=13123"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12883"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Seiffer can you teach my lamb to love like a woman? it is quite a noob in the arts of love :|			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>RedEye</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-04 23:09&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=13131"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12883"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	1) That the current top players (and you know who you are) do not just stay in their main 3-4 councils (IMPS, DF, DEM, etc...).<br />
+<br />
+<br />
+<br />
+<br />
+ummm.. inttelect. i'd tend to disagree that the reason imps was at the top a less to do with player ability and more to do with player #..<br />
+<br />
+<br />
+i could be being forgetfull though<br />
+<br />
+<br />
+.,/*^RedEye^*,.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Exonerate</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-05 13:49&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=13185"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12883"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	I haven't played in awhile, or even kept up with the community and game... But from my initial examination, I'd like to suggest one thing -<br />
+<br />
+Make a condensed version of the help files. Seriously, you thing, for all purposes, is an essay. It's too long, and most noobs will probably just skip over it. In fact, I'd suggest making a tutorial.<br />
+<br />
+Exon,<br />
+(Ex?)AzGuard			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Shadowman</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-05 19:23&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=13208"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12883"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	There is a tutorial, its called the beginner's guide, but its very basic. No strategies involved, however, to make a guide on strategies, you have to post an essay :P			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>DBone</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-06 00:16&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=13222"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12883"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	AVE<br />
+<br />
+<br />
+TE			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Soull</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-07 01:53&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=13298"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12883"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Anyone remember me? i used to play way way back, i remeber the ss and Azn and thos big council but can remeber with who i was :P. i used to play a lot.Anyway im back , this game is great and it seems ive never stopped playing lol, i still remeber how everything works :P			   <P align=right></P>
+			</TD>
+		  </TR>
+
+			<TR>
+			<TD></td>
+			<td align=center></TD>
+			</TR>
+				</table>
+			</td>
+		</tr>
+		</table>	
+	</td>
+</tr>
+</table>
+<center><b><A href="reply.php?board=player&id=12883">Post a Reply</A></b></center>
+		<TABLE width="95%" border=0>
+		  <TR>
+			<TD colSpan=2><BR>
+						  </TD></TR>
+		  <TR>
+			<TD>
+					    </TD>
+		  </TR>
+		  </TABLE>
+
+
+<BR><B><A href="/contact.php">Contact Us</A> | 
+<A href="http://www.archspace.org/" target=_top>Archspace</A> </B>
+<P>
+<P>Powered by MindBB v2.0<BR><BR></CENTER></P>
+</BODY></HTML>

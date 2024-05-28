@@ -1,0 +1,299 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>Archspace Beta Forums</TITLE>
+<Style type="text/css">
+A:link, A:visited { text-decoration: none; color: lightblue; }
+A:hover {
+		COLOR: white; 
+}
+INPUT {
+	BACKGROUND-COLOR: black; BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; COLOR: #0AABAA; FONT-FAMILY: verdana, helvetica, sans-serif; FONT-SIZE: 10px; 
+}
+body { 
+	text-align: center;
+	font-family : Arial, sans-serif;
+	color : white;
+	font-size : 8pt;
+	margin-top : 0px;
+	margin-left : 0px;
+	margin-right : 0px;
+	margin-bottom: 0px;
+
+SCROLLBAR-FACE-COLOR: #666666; 
+SCROLLBAR-HIGHLIGHT-COLOR: black; 
+SCROLLBAR-SHADOW-COLOR: #333333; 
+SCROLLBAR-3DLIGHT-COLOR: #333333; 
+SCROLLBAR-ARROW-COLOR: black; 
+SCROLLBAR-TRACK-COLOR: black; 
+SCROLLBAR-DARKSHADOW-COLOR: #333333; 
+} 
+td {
+ font-size : 8pt;
+ 	font-family : Arial, sans-serif;
+}
+</style>
+</HEAD>
+<BODY text=#999999 vLink=#999999 aLink=#999999 link=#999999 bgColor=#000000 leftMargin=0 topMargin=0 rightMargin=0 marginwidth="0" marginheight="0">
+<center><a href="/"><img src="http://www.archspace.org/image/as_game/menu_main.gif" border=0></a></center><br>
+
+<CENTER><!-- TABLE -->
+<TABLE width="90%" border=0>
+  <TBODY>
+  <TR>
+    <TD>&nbsp;&nbsp;<B><a href="/forum/">Archspace Boards</B></a> <BR>&nbsp;&nbsp;
+	(moderated by Mindwarper, zbyte64, DarkTempes, DarkJediX, LordBen) 
+      <P>
+	</TD>
+    <TD vAlign=top align=right>
+		<IMG src="/image/forum/open.gif" border=0>&nbsp;&nbsp; <a href="/forum">Archspace</a>
+      	<BR><IMG src="/image/forum/tline.gif" border=0><IMG src="/image/forum/open.gif" border=0>&nbsp;&nbsp;<a href="as.php?board=bug">Bug Board</a>
+	<p><a href="pref.php">Preferences</a>
+    </TD>
+	</TR>
+	</TBODY>
+</TABLE>
+<A href="newtopic.php?board=bug">New Topic</A>
+
+<table align="center" border="0" cellspacing="0" cellpadding="1" width="90%">
+<tr>
+	<td style="background: #999999">
+		<table align="center" border="0" cellspacing="0" cellpadding="5" width="100%">
+		<tr>
+			<td style="background: #000000; text-align: center">
+				<table align="center" border="0" cellspacing="1" cellpadding="5" width="100%">
+				<tr>
+				    <TD vAlign=bottom style="background: #555555;">&nbsp;</TD>
+					<TD vAlign=bottom style="background: #555555;"><B>Topic</B></TD>
+					<TD vAlign=bottom style="background: #555555;" align="center"><B>Topic Starter</B> </TD>
+					<TD vAlign=bottom style="background: #555555;" align="center"><B>Replies</B> </TD>
+					<TD vAlign=bottom style="background: #555555;" align="center"><B>Last Post</B> </TD>				
+				</tr>
+
+ <TR>
+   <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><font color="white"><b>[STICKY]</b></font> <A href="show.php?board=bug&id=2007">PLEASE READ BEFORE REPORTING A BUG!!!!!!!!!!!</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">LordBen</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2005-02-11 15:15 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><font color="white"><b>[STICKY]</b></font> <A href="show.php?board=bug&id=949">READ FIRST: Common Bugs</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">DarkTempes</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">18</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2005-01-29 05:00 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><font color="white"><b>[STICKY]</b></font> <A href="show.php?board=bug&id=950">The Hunt: Spelling Errors</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">DarkTempes</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">47</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2005-01-15 11:57 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=1200">Reassigment and losing dooms</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Klok</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">7</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-13 20:46 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=1279">missing projects</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">felix</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">1</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-13 16:41 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=1274">Frames</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">dragonlord</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">1</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-10 22:06 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=1265">Instant Fleet Return?</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Narusegawa</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">1</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-07 15:43 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=1245">Empire wins and its a draw ?</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">gwayne</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-07 06:50 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=1263">Commanders   going missing</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Gaia123</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">0</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-07 06:38 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=1247">Sending Fleets to Other Councils' Players</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Narusegawa</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-07 01:32 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><font color="white"><b>[CLOSED]</b></font> <A href="show.php?board=bug&id=1251">Null</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Lithicus</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">4</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-07 01:21 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=1199">poopoo.php was not found on this server.</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Klok</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">7</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-05 16:46 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=1243">Diplomacy Messages</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Yoda</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">1</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-05 11:11 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=1239">Council Speaker Death</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Rosey</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-05 09:35 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=1238">defence plan</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">felix</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">0</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-05 02:41 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=1237">Population Max</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Bao</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">0</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-05 02:24 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=1235">Can't login.</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Redjack</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">1</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-04 22:20 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=1193">Empire Boon Bug</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">DeathWish</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">4</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-04 05:02 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=1228">The server is going Yo-Yo</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Redjack</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">1</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-03 21:08 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=1189">Honor lost bug</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Shadowman</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">4</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-03 12:58 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=1218">Server crash bug?</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">moojuck</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-03 12:18 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=1191">possipble bug or hackers</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">maricar23</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">7</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-02 10:43 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=1202">Not able to login?</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">felix</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">4</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-02 03:52 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=1205">Moved to another council</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Legolas</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">0</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-01 22:26 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=1203">Request Boon = Planet(null)???</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Sylex</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">0</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-01 10:56 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=1194">Ship Building.</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Bernhelm</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">1</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-08-31 15:12 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=1151">PP MP</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">mihaigala</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">5</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-08-30 11:48 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=1187">Server down?</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Tabby</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">1</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-08-29 06:54 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=1185">the battle data you requested is invalid...</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">shwouchk</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">0</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-08-29 01:25 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=1182">BR error</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Yoda</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">1</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-08-28 23:12 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><font color="white"><b>[CLOSED]</b></font> <A href="show.php?board=bug&id=1181">Possible bugged player/cheater???</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">BillyBong</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">1</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-08-28 22:44 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=1180">Fleets Attacking</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">NeoArcane</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">0</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-08-28 14:54 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=1174">New Homeworld without dieing</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">redeemer</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">3</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-08-28 03:21 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=1156">My Subordinary</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Normandus</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">3</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-08-28 00:25 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=1177">ship loss</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">tehriaz</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">0</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-08-27 23:19 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=1160">can't attack planet in same cluster</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Darkerdesires</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">3</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-08-26 06:11 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=1168">Problem with projects/guide?</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">argoman</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">1</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-08-26 01:13 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=972">Council Projects</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">intellect</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">5</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-08-25 17:00 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=1161">ship building bug</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Darkerdesires</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">0</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-08-25 09:16 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=689">Buckaneer commerce king</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Santa</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">6</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-08-25 00:44 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=1153">My bidding PP was gone...</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">luke</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">0</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-08-24 13:01 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=1129">No BR's</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">PoGo</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">9</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-08-24 09:26 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=1146">Two of the same planet</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">redeemer</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">1</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-08-24 06:30 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=1126">Forbbiden Access message</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">logs</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">5</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-08-24 00:30 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=1090">Defense Plan</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Zechs</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">8</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-08-23 14:00 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=1117">I Can't Scrap Ships!</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Rawb</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">7</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-08-23 09:10 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=1130">multiple bugs... wtf</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Darkerdesires</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">0</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-08-23 08:14 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=1112">Research bug</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">AnakinSkywalker</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">4</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-08-23 06:18 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=1098">Security certificate?</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">zhardan</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-08-23 02:12 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=1105">So... slow</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Yoda</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-08-22 17:27 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=1065">possible commander bug</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">zargon</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">8</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-08-22 17:24 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=1088">(null)??????</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">GenBlizzard</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">3</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-08-22 05:31 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=bug&id=1096">Menu Bar</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">OPUS</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">0</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-08-22 02:16 </TD></TR>  				
+				</table>
+			</td>
+		</tr>
+		</table>	
+	</td>
+</tr>
+</table>
+  <a href='as.php?board=bug&p=0'>0</a> <a href='as.php?board=bug&p=1'>1</a> <a href='as.php?board=bug&p=2'>2</a> <a href='as.php?board=bug&p=3'>3</a> <a href='as.php?board=bug&p=4'>4</a> <a href='as.php?board=bug&p=5'>5</a> <a href='as.php?board=bug&p=6'>6</a> <a href='as.php?board=bug&p=7'>7</a> <a href='as.php?board=bug&p=8'>8</a> <a href='as.php?board=bug&p=9'>9</a> <a href='as.php?board=bug&p=10'>10</a>   </p>
+  <BR><B><A href="/contact.php">Contact Us</A> | 
+<A href="http://www.archspace.org/" target=_top>Archspace</A> </B>
+<P>
+<P>Powered by MindBB v2.0<BR><BR></CENTER></P>
+</BODY></HTML>

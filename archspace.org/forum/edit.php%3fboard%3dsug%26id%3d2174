@@ -1,0 +1,115 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>Archspace Beta Forums</TITLE>
+<Style type="text/css">
+A:link, A:visited { text-decoration: none; color: lightblue; }
+A:hover {
+		COLOR: white; 
+}
+INPUT {
+	BACKGROUND-COLOR: black; BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; COLOR: #0AABAA; FONT-FAMILY: verdana, helvetica, sans-serif; FONT-SIZE: 10px; 
+}
+body { 
+	text-align: center;
+	font-family : Arial, sans-serif;
+	color : white;
+	font-size : 8pt;
+	margin-top : 0px;
+	margin-left : 0px;
+	margin-right : 0px;
+	margin-bottom: 0px;
+
+SCROLLBAR-FACE-COLOR: #666666; 
+SCROLLBAR-HIGHLIGHT-COLOR: black; 
+SCROLLBAR-SHADOW-COLOR: #333333; 
+SCROLLBAR-3DLIGHT-COLOR: #333333; 
+SCROLLBAR-ARROW-COLOR: black; 
+SCROLLBAR-TRACK-COLOR: black; 
+SCROLLBAR-DARKSHADOW-COLOR: #333333; 
+} 
+td {
+ font-size : 8pt;
+ 	font-family : Arial, sans-serif;
+}
+</style>
+</HEAD>
+<BODY text=#999999 vLink=#999999 aLink=#999999 link=#999999 bgColor=#000000 leftMargin=0 topMargin=0 rightMargin=0 marginwidth="0" marginheight="0">
+<center><a href="/"><img src="http://www.archspace.org/image/as_game/menu_main.gif" border=0></a></center><br>
+
+<CENTER><!-- TABLE -->
+<TABLE width="90%" border=0>
+  <TBODY>
+  <TR>
+    <TD>&nbsp;&nbsp;<B><a href="/forum/">Archspace Boards</B></a> <BR>&nbsp;&nbsp;
+	(moderated by Mindwarper) 
+      <P>
+	</TD>
+    <TD vAlign=top align=right>
+		<IMG src="/image/forum/open.gif" border=0>&nbsp;&nbsp; <a href="/forum">Archspace</a>
+      	<BR><IMG src="/image/forum/tline.gif" border=0><IMG src="/image/forum/open.gif" border=0>&nbsp;&nbsp;<a href="as.php?board=sug">Suggestion Board</a>
+	<p><a href="pref.php">Preferences</a>
+    </TD>
+	</TR>
+	</TBODY>
+</TABLE>
+<font color='red' size=5>YOU MUST BE LOGGED IN TO REPLY</font><table align="center" border="0" cellspacing="0" cellpadding="1" width="90%">
+<tr>
+	<td style="background: #999999">
+		<table align="center" border="0" cellspacing="0" cellpadding="5" width="100%">
+		<tr>
+			<td style="background: #000000; text-align: center">
+				<table align="center" border="0" cellspacing="1" cellpadding="5" width="100%">
+				<tr>
+					<TD vAlign=center width="18%" style="background: #555555;"><B>Author</B></TD>
+					<TD vAlign=center style="background: #555555;"><B>Modify</B></TD>
+				</tr>
+		  		<TR>
+					<TD vAlign=top width="18%" style="background: #333333;"><B>--------</B><BR>Modify</TD>
+					<TD style="background: #333333;">
+						<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0> 
+						  <HR color=#000000 SIZE=-1>
+						  <form method="POST">
+						  Message:<br><textarea name="msg"  cols="50" rows="20">Figured I might throw this out there, it's from a post I made in the players forum - just realized it's the wrong thread :S
+
+&quot;First and formost whether the dynamics of blockading in this game are realistic in comparison to present day blockades - &quot;real life&quot; blockades - is beside the point, this is a game and sometimes realism has to be sacrificed for gameplay. Blockading is what I would rank as the #1 problem with this game.
+1. Blockades and relative power rankings: Do you know what someone with 100k power does to someone with 50k power when blockading? Do you know how huge a power difference this actually is? I'm sure almost everyone in AS has experienced one or both ends of this, and I would like to ask each and every one of you whether you think this is a healthy aspect of AS.
+2. Blockades as a leveling mechanism: This ties back in with the point raised earlier about how difficult it is to access the top councils in this game. How can the said player with 50k power ever hope to become more powerful when he's constantly getting blocked by the top council members (who are always eager to get their commanders more experience) and defleeted??? Is THIS a healthy aspect of the game?
+3. Blockades; a &quot;reality check&quot;: Some might argue that the way blockades in this game work is realistic, and therefor not want to change it. If blockades in real life worked like they do in this game picture this scenario: America decides to blockade Cuba for one reason or another. They send their best equipped, most advanced battleships and surround the island. The Cubans, seeing this (and compelled by some great desire for their own destruction), all jump in their rowboats and rafts and, toting handguns and rifles, hurry out to meet their enemies head on! If I were the commander of a fleet of 10 cruisers - belonging to the said 50k powered player - and I saw about 100 battlecruisers sitting outside of one of my planets I don't think I would try to take them on. My point is Blockading should not be on the terms of the attacker, but of the defender.
+
+If Blockading is to remain a part of Archspace I would suggest of these changes be made.
+A: Blockading should be an all-encompassing method of attack, rather than a planet-based one. A blockade, when set up, should halt production and commerce of planets within a certain system rather than just one planet. This would give a reason to want to blockade rather than just doing it to gain experience. You may be thinking right now &quot;that wouldn't solve anything!&quot; but when combined with a few more measures you'll see why it's necessary.
+
+B. Blockading should be on the terms of the defender. The defender should be able to see the ships the enemy is using against him; the size category of the ships, number of ships, and number of fleets. In a blockade the fleets would have to stick around for a while to pull off the blockade, so scouting would be available. This brings up another point: blockading should not be instantaneous. Fleets should stick around for a certain number of rounds, depending on how long they wish to stop production. There should be a minimum and maximum number of ticks blockading ships would need to stick around. The minimum representing how long they need to be there to effectively stop production, the maximum being how soon their supplies run out. The defender should be able to decide whether or not his fleets attack the blockading fleets. In fact the blockading fleets should be listed as an attack option (like you can attack players in the seige planet menu). This way there is no &quot;surprise&quot; blockading (which I think is rather oxymoronical (like that word???)).
+
+C: Blockading's power range should not be proportional, but rather a set amount of power. Example: 1,000,000 power and 500,000 power is a HUGE difference, but if we set the amount to a certain amount of power rather than a percent it would prevent such lopsided battles at high levels. For example if we set the amount to 20k power, at low power levels blockading would be more of an option; you'll have more targets, potentially quite a bit weaker than you, but at this point in the game the chances are you won't want to blockade, since everyone is still struggling to establish themselves. Then as you approach the 50k power range the 20k range is about what it is now - 50 percent. Then as you get into the 100k range the 20k range is restricting, preventing you from picking on lesser players.
+
+D: If blockading's power range remains proportional, that proportion needs to be greatly decreased.
+
+This is all I have time for now, sorry I wrote this in a rush and probabaly overlooked stuff. Please respond, let me know what I missed/overlooked :D&quot;
+
+-Slayer </textarea><p></p>
+						  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						  &nbsp;&nbsp;&nbsp;&nbsp;
+						  <input type=submit value="Update">
+						  </form>
+					</TD>
+				</TR>
+				</table>
+			</td>
+		</tr>
+		</table>	
+	</td>
+</tr>
+</table>
+
+
+
+
+
+<BR><B><A href="/contact.php">Contact Us</A> | 
+<A href="http://www.archspace.org/" target=_top>Archspace</A> </B>
+<P>
+<P>Powered by MindBB v2.0<BR><BR></CENTER></P>
+</BODY></HTML>

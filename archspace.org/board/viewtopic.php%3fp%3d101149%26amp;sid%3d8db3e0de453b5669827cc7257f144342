@@ -1,0 +1,1290 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Style-Type" content="text/css">
+
+<link rel="top" href="./index.php?sid=e75296f7819065fd89cb607e9711c0d6" title="Archspace Forum Index" />
+<link rel="search" href="./search.php?sid=e75296f7819065fd89cb607e9711c0d6" title="Search" />
+<link rel="help" href="./faq.php?sid=e75296f7819065fd89cb607e9711c0d6" title="FAQ" />
+<link rel="author" href="./memberlist.php?sid=e75296f7819065fd89cb607e9711c0d6" title="Memberlist" />
+<link rel="prev" href="viewtopic.php?t=13670&amp;view=previous&amp;sid=e75296f7819065fd89cb607e9711c0d6" title="View previous topic" />
+<link rel="next" href="viewtopic.php?t=13670&amp;view=next&amp;sid=e75296f7819065fd89cb607e9711c0d6" title="View next topic" />
+<link rel="up" href="viewforum.php?f=3&amp;sid=e75296f7819065fd89cb607e9711c0d6" title="Player Board" />
+<link rel="chapter forum" href="viewforum.php?f=1&amp;sid=e75296f7819065fd89cb607e9711c0d6" title="News" />
+<link rel="chapter forum" href="viewforum.php?f=13&amp;sid=e75296f7819065fd89cb607e9711c0d6" title="Change Log" />
+<link rel="chapter forum" href="viewforum.php?f=3&amp;sid=e75296f7819065fd89cb607e9711c0d6" title="Player Board" />
+<link rel="chapter forum" href="viewforum.php?f=4&amp;sid=e75296f7819065fd89cb607e9711c0d6" title="Bug Board" />
+<link rel="chapter forum" href="viewforum.php?f=5&amp;sid=e75296f7819065fd89cb607e9711c0d6" title="Suggestion Board" />
+<link rel="chapter forum" href="viewforum.php?f=8&amp;sid=e75296f7819065fd89cb607e9711c0d6" title="Help Board" />
+<link rel="chapter forum" href="viewforum.php?f=11&amp;sid=e75296f7819065fd89cb607e9711c0d6" title="Recruiting" />
+<link rel="chapter forum" href="viewforum.php?f=12&amp;sid=e75296f7819065fd89cb607e9711c0d6" title="Community Art and Literature" />
+<link rel="chapter forum" href="viewforum.php?f=9&amp;sid=e75296f7819065fd89cb607e9711c0d6" title="Politics/Religion Forum" />
+<link rel="chapter forum" href="viewforum.php?f=14&amp;sid=e75296f7819065fd89cb607e9711c0d6" title="Archspace 2.0" />
+<link rel="chapter forum" href="viewforum.php?f=15&amp;sid=e75296f7819065fd89cb607e9711c0d6" title="Programming" />
+
+<title>Archspace :: View topic - a movie of your life?</title>
+<link rel="stylesheet" href="templates/SpacePilot3K/SpacePilot3K.css" type="text/css">
+<body bgcolor="#000000" text="#DDDDDD" link="#8BC7FF" vlink="#5493B4">
+
+
+
+<script language="Javascript" type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+</script>
+
+
+
+<script language="Javascript" type="text/javascript">
+<!--
+function rollover(name, source)  {
+
+  document.images[name].src = source;
+
+}
+//-->
+</script>
+
+<script language="JavaScript" src="templates/SpacePilot3K/fade.js"></script>
+
+<!-- SNOW CRAP !-->
+<script>
+// Set the number of snowflakes (more than 30 - 40 not recommended)
+var snowmax=14
+
+// Set the colors for the snow. Add as many colors as you like
+var snowcolor=new Array("#aaaacc","#ddddFF","#ccccDD")
+
+// Set the fonts, that create the snowflakes. Add as many fonts as you like
+var snowtype=new Array("Arial Black","Arial Narrow","Times","Comic Sans MS")
+
+// Set the letter that creates your snowflake (recommended:*)
+var snowletter="*" // (use "*" for snow flakes)
+
+// Set the speed of sinking (recommended values range from 0.3 to 2)
+var sinkspeed=0.5
+
+// Set the maximal-size of your snowflaxes
+var snowmaxsize=30
+
+// Set the minimal-size of your snowflaxes
+var snowminsize=10
+
+// Set the snowing-zone
+// Set 1 for all-over-snowing, set 2 for left-side-snowing
+// Set 3 for center-snowing, set 4 for right-side-snowing
+var snowingzone=1
+
+///////////////////////////////////////////////////////////////////////////
+// CONFIGURATION ENDS HERE
+///////////////////////////////////////////////////////////////////////////
+
+
+// Do not edit below this line
+var snow=new Array()
+var marginbottom
+var marginright
+var timer
+var i_snow=0
+var x_mv=new Array();
+var crds=new Array();
+var lftrght=new Array();
+var browserinfos=navigator.userAgent
+var ie5=document.all&&document.getElementById&&!browserinfos.match(/Opera/)
+var ns6=document.getElementById&&!document.all
+var opera=browserinfos.match(/Opera/)
+var browserok=ie5||ns6||opera
+
+function randommaker(range) {
+   rand=Math.floor(range*Math.random())
+    return rand
+}
+
+function initsnow() {
+   if (ie5 || opera) {
+      marginbottom = document.body.clientHeight
+      marginright = document.body.clientWidth
+   }
+   else if (ns6) {
+      marginbottom = window.innerHeight
+      marginright = window.innerWidth
+   }
+   var snowsizerange=snowmaxsize-snowminsize
+   for (i=0;i<=snowmax;i++) {
+      crds[i] = 0;
+       lftrght[i] = Math.random()*15;
+       x_mv[i] = 0.03 + Math.random()/10;
+      snow[i]=document.getElementById("s"+i)
+      snow[i].style.fontFamily=snowtype[randommaker(snowtype.length)]
+      snow[i].size=randommaker(snowsizerange)+snowminsize
+      snow[i].style.fontSize=snow[i].size
+      snow[i].style.color=snowcolor[randommaker(snowcolor.length)]
+      snow[i].sink=sinkspeed*snow[i].size/5
+      if (snowingzone==1) {snow[i].posx=randommaker(marginright-snow[i].size)}
+      if (snowingzone==2) {snow[i].posx=randommaker(marginright/2-snow[i].size)}
+      if (snowingzone==3) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/4}
+      if (snowingzone==4) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/2}
+      snow[i].posy=randommaker(2*marginbottom-marginbottom-2*snow[i].size)
+      snow[i].style.left=snow[i].posx
+      snow[i].style.top=snow[i].posy
+   }
+   movesnow()
+}
+
+function movesnow() {
+   for (i=0;i<=snowmax;i++) {
+      crds[i] += x_mv[i];
+      snow[i].posy+=snow[i].sink
+      snow[i].style.left=snow[i].posx+lftrght[i]*Math.sin(crds[i]);
+      snow[i].style.top=snow[i].posy
+
+      if (snow[i].posy>=marginbottom-2*snow[i].size || parseInt(snow[i].style.left)>(marginright-3*lftrght[i])){
+         if (snowingzone==1) {snow[i].posx=randommaker(marginright-snow[i].size)}
+         if (snowingzone==2) {snow[i].posx=randommaker(marginright/2-snow[i].size)}
+         if (snowingzone==3) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/4}
+         if (snowingzone==4) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/2}
+         snow[i].posy=0
+      }
+   }
+   var timer=setTimeout("movesnow()",50)
+}
+
+for (i=0;i<=snowmax;i++) {
+   document.write("<span id='s"+i+"' style='position:absolute;top:-"+snowmaxsize+"'>"+snowletter+"</span>")
+}
+if (browserok) {
+   window.onload=initsnow
+}
+</script>
+<!-- End of Snow crap !-->
+
+</head>
+<body />
+
+<a name="top"></a>
+
+<table width="100%" cellspacing="0" cellpadding="10" border="0" align="center">
+	<tr>
+		<td align="center">
+			<script type="text/javascript"><!--
+			google_ad_client = "pub-9347639997854244";
+			google_ad_width = 728;
+			google_ad_height = 90;
+			google_ad_format = "728x90_as";
+			google_ad_type = "image";
+			google_ad_channel ="";
+			google_color_border = "6699CC";
+			google_color_bg = "003366";
+			google_color_link = "FFFFFF";
+			google_color_url = "AECCEB";
+			google_color_text = "AECCEB";
+			//--></script>
+			<script type="text/javascript"
+			  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+			</script>
+		</td>
+	</tr>
+	<tr>
+		<td class="bodyline"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+			<tr>
+				<td><a href="index.php?sid=e75296f7819065fd89cb607e9711c0d6"><span class="maintitle"><img src="templates/SpacePilot3K/images/logo_sp3k.gif" border="0" alt="Archspace Forum Index" vspace="1" /></span></a></td>
+				<td align="center" width="100%" valign="middle"><span class="maintitle">Archspace</span><br /><span class="gen">Archspace Forums<br />&nbsp; </span>
+				<table cellspacing="0" cellpadding="2" border="0">
+					<tr>
+						<td align="center" valign="top" nowrap="nowrap"><span class="mainmenu">&nbsp;<a href="faq.php?sid=e75296f7819065fd89cb607e9711c0d6" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_faq.gif" width="14" height="14" border="0" alt="FAQ" hspace="3" />FAQ</a></span><span class="mainmenu">&nbsp; &nbsp;<a href="search.php?sid=e75296f7819065fd89cb607e9711c0d6" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_search.gif" width="14" height="14" border="0" alt="Search" hspace="3" />Search</a>&nbsp; &nbsp;<a href="memberlist.php?sid=e75296f7819065fd89cb607e9711c0d6" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_members.gif" width="14" height="14" border="0" alt="Memberlist" hspace="3" />Memberlist</a>&nbsp; &nbsp;<a href="groupcp.php?sid=e75296f7819065fd89cb607e9711c0d6" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_groups.gif" width="14" height="14" border="0" alt="Usergroups" hspace="3" />Usergroups</a>&nbsp;
+						&nbsp;<a href="profile.php?mode=register&amp;sid=e75296f7819065fd89cb607e9711c0d6" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_register.gif" width="14" height="14" border="0" alt="Register" hspace="3" />Register</a></span>&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td height="25" align="center" valign="top" nowrap="nowrap"><span class="mainmenu">&nbsp;<a href="profile.php?mode=editprofile&amp;sid=e75296f7819065fd89cb607e9711c0d6" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_profile.gif" width="14" height="14" border="0" alt="Profile" hspace="3" />Profile</a>&nbsp; &nbsp;<a href="privmsg.php?folder=inbox&amp;sid=e75296f7819065fd89cb607e9711c0d6" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_message.gif" width="14" height="14" border="0" alt="Log in to check your private messages" hspace="3" />Log in to check your private messages</a>&nbsp; &nbsp;<a href="login.php?sid=e75296f7819065fd89cb607e9711c0d6" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_login.gif" width="14" height="14" border="0" alt="Log in" hspace="3" />Log in</a>&nbsp;</span></td>
+					</tr>
+				</table></td>
+			</tr>
+		</table>
+
+		<br />
+
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0">
+  <tr>
+	<td align="left" valign="bottom" colspan="2"><a class="maintitle" href="viewtopic.php?t=13670&amp;start=0&amp;postdays=0&amp;postorder=asc&amp;highlight=&amp;sid=e75296f7819065fd89cb607e9711c0d6">a movie of your life?</a><br />
+	  <span class="gensmall"><b></b><br />
+	  &nbsp; </span></td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0">
+  <tr>
+	<td align="left" valign="bottom" nowrap="nowrap"><span class="nav"><a href="posting.php?mode=newtopic&amp;f=3&amp;sid=e75296f7819065fd89cb607e9711c0d6" onMouseOver="rollover('top_newtopic','templates/SpacePilot3K/images/lang_english/post_on.gif');" onMouseOut="rollover('top_newtopic','templates/SpacePilot3K/images/lang_english/post_off.gif');"><img name="top_newtopic" src="templates/SpacePilot3K/images/lang_english/post_off.gif" border="0" alt="Post new topic" align="middle"/></a>&nbsp;&nbsp;&nbsp;<a href="posting.php?mode=reply&amp;t=13670&amp;sid=e75296f7819065fd89cb607e9711c0d6" onMouseOver="rollover('top_postreply','templates/SpacePilot3K/images/lang_english/reply_on.gif');" onMouseOut="rollover('top_postreply','templates/SpacePilot3K/images/lang_english/reply_off.gif');"><img name="top_postreply" src="templates/SpacePilot3K/images/lang_english/reply_off.gif" border="0" alt="Reply to topic" align="middle" /></a></span></td>
+	<td align="left" valign="middle" width="100%"><span class="nav">&nbsp;&nbsp;&nbsp;<a href="index.php?sid=e75296f7819065fd89cb607e9711c0d6" class="nav">Archspace Forum Index</a>
+	  -> <a href="viewforum.php?f=3&amp;sid=e75296f7819065fd89cb607e9711c0d6" class="nav">Player Board</a></span></td>
+  </tr>
+</table>
+
+<table class="forumline" width="100%" cellspacing="1" cellpadding="3" border="0">
+	<tr align="right">
+		<td class="catHead" colspan="2" height="28"><span class="nav"><a href="viewtopic.php?t=13670&amp;view=previous&amp;sid=e75296f7819065fd89cb607e9711c0d6" class="cattitle">View previous topic</a> :: <a href="viewtopic.php?t=13670&amp;view=next&amp;sid=e75296f7819065fd89cb607e9711c0d6" class="cattitle">View next topic</a> &nbsp;</span></td>
+	</tr>
+	
+	<tr>
+		<th class="thLeft" width="150" height="26" nowrap="nowrap">Author</th>
+		<th class="thRight" nowrap="nowrap">Message</th>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="100874"></a><b>HardcoreMatty</b></span><br /><span class="postdetails">zomgwtfbbq!<br /><img src="images/avatars/64932787245bbe00e1aeb7.gif" alt="" border="0" /><br /><br />Joined: 17 Mar 2006<br />Posts: 243<br />Location: Ames, Iowa</span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=100874&amp;sid=e75296f7819065fd89cb607e9711c0d6#100874"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Fri Dec 08, 2006 4:07 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: a movie of your life?</span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=100874&amp;sid=e75296f7819065fd89cb607e9711c0d6"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">If your life were a movie, what would the soundtrack be?
+<br />
+So, here's how it works:
+<br />
+1. Open your library (iTunes, Winamp, Media Player, iPod, etc)
+<br />
+2. Put it on shuffle
+<br />
+3. Press play
+<br />
+4. For every question, type the song that plays
+<br />
+5. When you go to a new question, press the next button
+<br />
+6. Don't lie and try to pretend you're cool...
+<br />
+
+<br />
+[OPENING CREDITS]: "light up my room" -Barenaked Ladies
+<br />
+[WAKING UP]: "crooked crown" - The Anniversary
+<br />
+[FIRST DAY OF SCHOOL]: "Forty-six and 2" -Tool
+<br />
+[FALLING IN LOVE]: "letter from prison" - boyhitscar
+<br />
+[FIGHT SONG]:"burn it black" - injected
+<br />
+[BREAKING UP]: "pass out" - ludacris
+<br />
+[PROM]: "storm coming" - Gnarles Barkley
+<br />
+[LIFE]: "Pussy Niggaz" - from the Hustle and Flow soundtrack.
+<br />
+[MENTAL BREAKDOWN]: "The Bitter End" - Sum 41
+<br />
+[DRIVING]: "ka-boom ka-boom" - Marylin Manson
+<br />
+[FLASHBACK]: "What I Got" - Sublime
+<br />
+[WEDDING]: "What Do I Do Right?" - Jimmy's Chicken Shack (My theme song!)
+<br />
+[BIRTH OF CHILD]: "hows it gonna be" - Third Eye Blind
+<br />
+[FINAL BATTLE]: "Bother" - Stone Sour
+<br />
+[DEATH SCENE]: "The Phantom of the Opera" - Nightwish &amp; Sonata Arctica
+<br />
+[FUNERAL SONG]: "Holy Lord" - Murder by Death (appropriate!)
+<br />
+[END CREDITS]: "Amerika (Spoon and Jam so kann.. something)" - Rammstein
+<br />
+
+<br />
+I'm aware I have very weird tastes in music. <img src="images/smiles/icon_razz.gif" alt="Razz" border="0" />
+<br />
+
+<br />
+Everyone post yours!<br />_________________<br /><img src="http://img107.imageshack.us/img107/9933/hxcpa5.jpg" border="0" />
+<br />
+
+<br />
+Qwerty McQwertison (#515), zomgwtfbbq (#1250), Vikki Valentine (#533), Phoenix (#554), Amir of the Desert (#1226), Mr. Self Destruct (#1278), The Boston Hell Mask (#6)
+<br />
+
+<br />
+-03:32:09- (+Crakatak) Council name has been changed to "BB licks dick".
+<br />
+-03:32:12- (+DataAngel) I can do that too!</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=9565&amp;sid=e75296f7819065fd89cb607e9711c0d6"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=9565&amp;sid=e75296f7819065fd89cb607e9711c0d6"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>  <a href="http://myspace.com/hardcorematty" target="_userwww"><img src="templates/SpacePilot3K/images/lang_english/icon_www.gif" alt="Visit poster's website" title="Visit poster's website" border="0" /></a> <a href="aim:goim?screenname=hardcore+matty&amp;message=Hello+Are+you+there?"><img src="templates/SpacePilot3K/images/lang_english/icon_aim.gif" alt="AIM Address" title="AIM Address" border="0" /></a>  <a href="profile.php?mode=viewprofile&amp;u=9565&amp;sid=e75296f7819065fd89cb607e9711c0d6"><img src="templates/SpacePilot3K/images/lang_english/icon_msnm.gif" alt="MSN Messenger" title="MSN Messenger" border="0" /></a><script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="100877"></a><b>Rosengaard</b></span><br /><span class="postdetails">Forum Whore in Training<br /><img src="images/avatars/205789559845d35b2804dde.jpg" alt="" border="0" /><br /><br />Joined: 25 Sep 2005<br />Posts: 662<br />Location: Home</span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=100877&amp;sid=e75296f7819065fd89cb607e9711c0d6#100877"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Fri Dec 08, 2006 5:49 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=100877&amp;sid=e75296f7819065fd89cb607e9711c0d6"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">[OPENING CREDITS]: C-Bool - "House Baby"
+<br />
+[WAKING UP]: Nirvana - "Smelss like teen spirit"
+<br />
+[FIRST DAY OF SCHOOL]: Avril Lavigne - Kiss Me (right now i hate myself for having my GFs playlist in too)
+<br />
+[FALLING IN LOVE]: Wierd Al Yankovich - I think im a clone now
+<br />
+[FIGHT SONG]: Marilyn Manson - The Love Song
+<br />
+[BREAKING UP]: The Bloodhound Gang - Pennesylvania
+<br />
+[PROM]: System of energy - Destination
+<br />
+[LIFE]: Limp Bizkit - Break Stuff
+<br />
+[MENTAL BREAKDOWN]: DJ Neo - Acid Overdose
+<br />
+[DRIVING]: Papa Roach - Last Resort
+<br />
+[FLASHBACK]: Korn - Embrace
+<br />
+[WEDDING]: Evanescence - Taking over
+<br />
+[BIRTH OF CHILD]: Korn - Beg for me
+<br />
+[FINAL BATTLE]: Craddle of filth - Hell awaits.
+<br />
+[DEATH SCENE]: Craddle of filth - Fucked up life
+<br />
+[FUNERAL SONG]: Papa Roach - Revenge
+<br />
+[END CREDITS]: Staind - Suffer<br />_________________<br /><img src="http://sluggy.com/images/comics/060919z.jpg" border="0" />
+<br />
+
+<br />
+&lt;IdleSeer&gt; !seen sexlife
+<br />
+&lt;hxc&gt; IdleSeer, sexlife hasn't been around lately.
+<br />
+-Gumpus- sexlife has not been seen by me.</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=3595&amp;sid=e75296f7819065fd89cb607e9711c0d6"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=3595&amp;sid=e75296f7819065fd89cb607e9711c0d6"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="100880"></a><b>ahosea</b></span><br /><span class="postdetails">Clearly has no life whatsoever<br /><img src="images/avatars/195749716345a5b3478dee8.gif" alt="" border="0" /><br /><br />Joined: 06 Aug 2005<br />Posts: 2064<br />Location: Indiana</span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=100880&amp;sid=e75296f7819065fd89cb607e9711c0d6#100880"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Fri Dec 08, 2006 6:06 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=100880&amp;sid=e75296f7819065fd89cb607e9711c0d6"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">[OPENING CREDITS]: Led Zeppelin - Kashmir
+<br />
+[WAKING UP]: Breaking Benjamin - Break my Fall
+<br />
+[FIRST DAY OF SCHOOL]: Slipknot - Circle
+<br />
+[FALLING IN LOVE]: Avenged Sevenfold - Trashed and Scattered (kinda funny how that worked out...)
+<br />
+[FIGHT SONG]: Future Leaders of the World - Let me Out 
+<br />
+[BREAKING UP]: Bullet for my Valentine - Hand of Blood
+<br />
+[PROM]: Godsmack - Asleep
+<br />
+[LIFE]: Bullet for my Valentine - Tears Don't Fall
+<br />
+[MENTAL BREAKDOWN]: Seether &amp; Amy Lee - Broken
+<br />
+[DRIVING]: Incubus - Drive (kinda ironic)
+<br />
+[FLASHBACK]: Nirvana - Come As You Are
+<br />
+[WEDDING]: Ozzy Osbourne - Crazy Train
+<br />
+[BIRTH OF CHILD]: Breaking Benjamin - Sooner or Later (that can't be good)
+<br />
+[FINAL BATTLE]: Mortal Kombat Theme (DUDE!!!)
+<br />
+[DEATH SCENE]: Rob Zombie - Demonoid Phenomenon 
+<br />
+[FUNERAL SONG]: Theory of a Deadman - Say I'm Sorry
+<br />
+[END CREDITS]: Tenacious D - Tribute<br />_________________<br /><img src="http://img184.imageshack.us/img184/1521/nyadaqo0.jpg" border="0" />
+<br />
+&lt;dvs&gt; zzz gradys here, hes goign to ruin the poll with a script =[
+<br />
+&lt;Cypherus&gt; I just found out I have another hot cousin
+<br />
+&lt;Cypherus&gt; you'll have to suck many a bad, ugly, and old men's dicks to get EOC buffed</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=164&amp;sid=e75296f7819065fd89cb607e9711c0d6"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=164&amp;sid=e75296f7819065fd89cb607e9711c0d6"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a> <a href="mailto:awhosea@hotmail.com"><img src="templates/SpacePilot3K/images/lang_english/icon_email.gif" alt="Send e-mail" title="Send e-mail" border="0" /></a>    <a href="profile.php?mode=viewprofile&amp;u=164&amp;sid=e75296f7819065fd89cb607e9711c0d6"><img src="templates/SpacePilot3K/images/lang_english/icon_msnm.gif" alt="MSN Messenger" title="MSN Messenger" border="0" /></a><script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="100893"></a><b>Shinim3gami</b></span><br /><span class="postdetails">Vet<br /><img src="images/avatars/148286626145a588ed5fc40.gif" alt="" border="0" /><br /><br />Joined: 05 Nov 2006<br />Posts: 294<br /></span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=100893&amp;sid=e75296f7819065fd89cb607e9711c0d6#100893"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Fri Dec 08, 2006 12:00 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=100893&amp;sid=e75296f7819065fd89cb607e9711c0d6"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">[OPENING CREDITS]: Cry In My Heart - Starfield
+<br />
+[WAKING UP]: Adelleda - Alexisonfire
+<br />
+[FIRST DAY OF SCHOOL]: In Repair - Our Lady Peace
+<br />
+[FALLING IN LOVE]: All the Small Things - Blink 182
+<br />
+[FIGHT SONG]: Let There Be Love - Oasis
+<br />
+[BREAKING UP]: Going Under - Evanescence
+<br />
+[PROM]: Your Biggest Mistake - New Found Glory
+<br />
+[LIFE]: &#12502;&#12523;&#12540;&#12488;&#12524;&#12452;&#12531; - Asian Kung Fu Generation.
+<br />
+[MENTAL BREAKDOWN]: Breakdown - Breaking Benjamin
+<br />
+[DRIVING]: Whever You Are - Laava
+<br />
+[FLASHBACK]: Untitled - Simple Plan
+<br />
+[WEDDING]: Snow White Queen - Evanesence
+<br />
+[BIRTH OF CHILD]: Stars - Switchfoot
+<br />
+[FINAL BATTLE]: No Boy No Cry - Stance Punks
+<br />
+[DEATH SCENE]: Eternally - Utada Hikaru
+<br />
+[FUNERAL SONG]: .44 Calibre Love Letter - Alexonfire
+<br />
+[END CREDITS]: Not Enough - Our Lady Peace<br />_________________<br />Poem of the Week: anyone lived in a pretty how town ~ e.e.cummings
+<br />
+
+<br />
+<img src="http://i48.photobucket.com/albums/f205/ds_mikage/udsig.jpg" border="0" /></span><span class="gensmall"><br /><br />Last edited by Shinim3gami on Fri Dec 08, 2006 8:51 pm; edited 1 time in total</span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=15281&amp;sid=e75296f7819065fd89cb607e9711c0d6"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=15281&amp;sid=e75296f7819065fd89cb607e9711c0d6"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="100901"></a><b>DarkArchon</b></span><br /><span class="postdetails">Teh Beanbag King!<br /><img src="images/avatars/200731164842f5212870752.gif" alt="" border="0" /><br /><br />Joined: 06 Aug 2005<br />Posts: 454<br />Location: (Stationed) Ft. Campbell, KY - (Live) Rome, GA</span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=100901&amp;sid=e75296f7819065fd89cb607e9711c0d6#100901"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Fri Dec 08, 2006 12:26 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=100901&amp;sid=e75296f7819065fd89cb607e9711c0d6"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">[OPENING CREDITS]: Eminem - Under The Influence (Feat. D-12)
+<br />
+[WAKING UP]: Cypress Hill - Hits From The Bong
+<br />
+[FIRST DAY OF SCHOOL]: Sublime - Leve At E's
+<br />
+[FALLING IN LOVE]: My Chemical Romance - It's Not A Fashion Statement Its A Deathwish
+<br />
+[FIGHT SONG]: Pink Floyd - Speak To Me / Breathe
+<br />
+[BREAKING UP]: Matchbox 20 - Crutch
+<br />
+[PROM]: Bush - Mouth
+<br />
+[LIFE]: DMX - Party Up In Here
+<br />
+[MENTAL BREAKDOWN]: Disturbed - Voices
+<br />
+[DRIVING]: The Used - Noise And Kisses
+<br />
+[FLASHBACK]: The Bob And Tom Show - The Job Interview (not really a song, so...Relient K - Punk Rock Picnic)
+<br />
+[WEDDING]: System Of A Down - Deer Dance
+<br />
+[BIRTH OF CHILD]: Jimi Hendrix - Bold As Love
+<br />
+[FINAL BATTLE]: Staind - Safe Place
+<br />
+[DEATH SCENE]: Everclear - Otis Redding
+<br />
+[FUNERAL SONG]: 3 Doors Down - Down Poison
+<br />
+[END CREDITS]: The Naughty Nymphs - Sweet Violets<br />_________________<br /><a href="http://www.orderofatlas.com" target="_blank" class="postlink"><img src="http://www.orderofatlas.com/assets/newsig.gif" border="0" /></a>
+<br />
+<span style="font-size: 9px; line-height: normal"><a href="http://www.orderofatlas.com" target="_blank" class="postlink">http://www.orderofatlas.com</a></span></span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=496&amp;sid=e75296f7819065fd89cb607e9711c0d6"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=496&amp;sid=e75296f7819065fd89cb607e9711c0d6"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a> <a href="mailto:DarkArchon@orderofatlas.com"><img src="templates/SpacePilot3K/images/lang_english/icon_email.gif" alt="Send e-mail" title="Send e-mail" border="0" /></a> <a href="http://www.OrderOfAtlas.com" target="_userwww"><img src="templates/SpacePilot3K/images/lang_english/icon_www.gif" alt="Visit poster's website" title="Visit poster's website" border="0" /></a> <a href="aim:goim?screenname=DimArchon84&amp;message=Hello+Are+you+there?"><img src="templates/SpacePilot3K/images/lang_english/icon_aim.gif" alt="AIM Address" title="AIM Address" border="0" /></a> <a href="http://edit.yahoo.com/config/send_webmesg?.target=DimArchon84&amp;.src=pg"><img src="templates/SpacePilot3K/images/lang_english/icon_yim.gif" alt="Yahoo Messenger" title="Yahoo Messenger" border="0" /></a> <a href="profile.php?mode=viewprofile&amp;u=496&amp;sid=e75296f7819065fd89cb607e9711c0d6"><img src="templates/SpacePilot3K/images/lang_english/icon_msnm.gif" alt="MSN Messenger" title="MSN Messenger" border="0" /></a><script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=144263905"><img src="templates/SpacePilot3K/images/lang_english/icon_icq_add.gif" alt="ICQ Number" title="ICQ Number" border="0" /></a>');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=144263905"><img src="templates/SpacePilot3K/images/lang_english/icon_icq_add.gif" alt="ICQ Number" title="ICQ Number" border="0" /></a></div><div style="position:absolute;left:4px;top:2px"><a href="http://wwp.icq.com/144263905#pager"><img src="http://web.icq.com/whitepages/online?icq=144263905&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=144263905"><img src="templates/SpacePilot3K/images/lang_english/icon_icq_add.gif" alt="ICQ Number" title="ICQ Number" border="0" /></a></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="100902"></a><b>vlad</b></span><br /><span class="postdetails">Newbie<br /><img src="images/avatars/12238536974421e1194a716.gif" alt="" border="0" /><br /><br />Joined: 07 Feb 2006<br />Posts: 98<br />Location: ignarus fabulam</span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=100902&amp;sid=e75296f7819065fd89cb607e9711c0d6#100902"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Fri Dec 08, 2006 12:31 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=100902&amp;sid=e75296f7819065fd89cb607e9711c0d6"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">[OPENING CREDITS]:  frogger - bad religion 
+<br />
+
+<br />
+[WAKING UP]: big cheese - nirvana
+<br />
+
+<br />
+[FIRST DAY OF SCHOOL]: we are the champions - queen
+<br />
+
+<br />
+
+<br />
+[FALLING IN LOVE]: diary of a madman - ozzy
+<br />
+
+<br />
+[FIGHT SONG]: four horsemen - metallica
+<br />
+
+<br />
+[BREAKING UP]: the light that blinds - lamb of god
+<br />
+
+<br />
+[PROM]: clubbed to death - rob d.
+<br />
+
+<br />
+[LIFE]: aerosmith - walk this way
+<br />
+
+<br />
+[MENTAL BREAKDOWN]: road trippin' - red hot chili peppers
+<br />
+
+<br />
+[DRIVING]: mr. crowley - ozzy
+<br />
+
+<br />
+[FLASHBACK]: sea of lies - symphony x
+<br />
+
+<br />
+[WEDDING]: fallen angels - aerosmith
+<br />
+
+<br />
+[BIRTH OF CHILD]: steal away the night - ozzy
+<br />
+
+<br />
+[FINAL BATTLE]:the end of everything - trivium
+<br />
+
+<br />
+[DEATH SCENE]:victims of the revolution - bad religion 
+<br />
+
+<br />
+[FUNERAL SONG]: cry for eternity - dragonforce
+<br />
+
+<br />
+[END CREDITS]: the crystal ship - the doors
+<br />
+
+<br />
+well thats that and very interesting...<br />_________________<br /><span style="font-size: 15px; line-height: normal">"ARS|LONGA|VITA|BREVIS"</span>
+<br />
+    'Art is long but life is short'
+<br />
+---------------------------------------------------</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=8674&amp;sid=e75296f7819065fd89cb607e9711c0d6"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=8674&amp;sid=e75296f7819065fd89cb607e9711c0d6"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>   <a href="aim:goim?screenname=ignarusignum&amp;message=Hello+Are+you+there?"><img src="templates/SpacePilot3K/images/lang_english/icon_aim.gif" alt="AIM Address" title="AIM Address" border="0" /></a> <a href="http://edit.yahoo.com/config/send_webmesg?.target=ledbasssest&amp;.src=pg"><img src="templates/SpacePilot3K/images/lang_english/icon_yim.gif" alt="Yahoo Messenger" title="Yahoo Messenger" border="0" /></a> <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="100946"></a><b>destroyer</b></span><br /><span class="postdetails">Clearly has no life whatsoever<br /><img src="images/avatars/1759152818459add4f78652.gif" alt="" border="0" /><br /><br />Joined: 06 Aug 2005<br />Posts: 2492<br />Location: wolfing cookies in my Shadow Cat</span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=100946&amp;sid=e75296f7819065fd89cb607e9711c0d6#100946"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Fri Dec 08, 2006 7:39 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=100946&amp;sid=e75296f7819065fd89cb607e9711c0d6"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">[OPENING CREDITS]: Rainbow Six Main Theme - Bill Brown
+<br />
+[WAKING UP]: Ghost Recon - Action1 - Bill Brown
+<br />
+[FIRST DAY OF SCHOOL]: CnCGenerals MTitle_Metal_Remix - Bill Brown
+<br />
+[FALLING IN LOVE]: Command&amp;Conquer Generals USA04 - Bill Brown
+<br />
+[FIGHT SONG]: IS-3025: Assault Formation - Richard "DarkspARCS" Nelson
+<br />
+[BREAKING UP]: Requiem For a Dream - The Lord of The RingsTwoTowers
+<br />
+[PROM]: Rock House Jail - Hans Zimmer; Harry Gregson-Williams; Nick Glennie-Smith
+<br />
+[LIFE]: Track 02 - MechWarrior 2 - Mercenaries
+<br />
+[MENTAL BREAKDOWN]: The Clans - Pentegon HomeWorlds - Richard "DarkspARCS" Nelson
+<br />
+[DRIVING]: Illyrian Palatinate - Richard "DarkspRCS" Nelson
+<br />
+[FLASHBACK]: Hansen's Rough Riders - Richard "DarkspARCS" Nelson
+<br />
+[WEDDING]: I Lift My Eyes Up - Kutless
+<br />
+[BIRTH OF CHILD]: rally_music - Richard "DarkspARCS" Nelson 
+<br />
+[FINAL BATTLE]: A Perfect Moment - XeeGee
+<br />
+[DEATH SCENE]: Word of Blake: Judgement from Terra - Richard "DarkspARCS" Nelson
+<br />
+[FUNERAL SONG]: TR - French Quarter Chase - Bill Brown
+<br />
+[END CREDITS]: Command &amp; Conquer: Generals - CREDITS - Bill Brown
+<br />
+
+<br />
+Hey, what can i say? I've got wierder taste in music than all of you <img src="images/smiles/icon_razz.gif" alt="Razz" border="0" /> w00t for the credits!<br />_________________<br />I     /-\|\/|     73|-|     |_|83R     1337     |\|008 
+<br />
+800Y3/-\|-|!!!!
+<br />
+
+<br />
+<img src="http://img238.imageshack.us/img238/5008/fafnirsigwp0.jpg" border="0" />
+<br />
+
+<br />
+</span><table width="90%" cellspacing="1" cellpadding="3" border="0" align="center"><tr> 	  <td><span class="genmed"><b>Quote:</b></span></td>	</tr>	<tr>	  <td class="quote">A man who does not value life is either an idealist, or a fool, or an idealistic fool.</td>	</tr></table><span class="postbody">
+<br />
+Archspace freaks, UNITE!!!!!!</span><span class="gensmall"><br /><br />Last edited by destroyer on Mon Dec 11, 2006 1:20 am; edited 1 time in total</span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=599&amp;sid=e75296f7819065fd89cb607e9711c0d6"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=599&amp;sid=e75296f7819065fd89cb607e9711c0d6"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>  <a href="http://www.w00tage.com" target="_userwww"><img src="templates/SpacePilot3K/images/lang_english/icon_www.gif" alt="Visit poster's website" title="Visit poster's website" border="0" /></a>   <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="101015"></a><b>Leet_Master_Ace</b></span><br /><span class="postdetails">1337<br /><img src="images/avatars/1361807141453e9b46b12d1.jpg" alt="" border="0" /><br /><br />Joined: 17 Dec 2005<br />Posts: 1806<br />Location: Leading a pack of ravenous zombies to your house</span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=101015&amp;sid=e75296f7819065fd89cb607e9711c0d6#101015"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Sat Dec 09, 2006 10:52 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=101015&amp;sid=e75296f7819065fd89cb607e9711c0d6"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">So far the only list of which I actually recognize a lot of music is Destroyer's.  Wewt to the nerddom Destroyer!
+<br />
+
+<br />
+I'll wager that mine is the most random of anyone's thus far, because my music has no consistency whatsoever.  Here goes.
+<br />
+ 
+<br />
+<span style="font-weight: bold">[OPENING CREDITS]:</span>  Lux Aeterna   -   Requiem for a Dream (YEAH DESTROYER!!!!  Most badass opening evar)
+<br />
+
+<br />
+<span style="font-weight: bold">[WAKING UP]:</span>  Heaven is a Place on Earth   -   Belinda Carlisle
+<br />
+<span style="font-weight: bold">[FIRST DAY OF SCHOOL]:</span> Here Comes the Rain Again - Eurythmics
+<br />
+<span style="font-weight: bold">[FALLING IN LOVE]: </span> Too Much of Heaven  -  Eiffel 65
+<br />
+<span style="font-weight: bold">[FIGHT SONG]: </span>     Silicon World  -  Eiffel 65 (LAAAAAME!)
+<br />
+[<span style="font-weight: bold">BREAKING UP]: </span> Kirby's Dreamland - Super Smash Brothers Melee
+<br />
+<span style="font-weight: bold">[PROM]:  </span>       I'm Alive  -  Luca Turilli  (f***ing epic prom)
+<br />
+<span style="font-weight: bold">[LIFE]:   </span>        Kesenai Tsumi - Full Metal Alchemist
+<br />
+[<span style="font-weight: bold">MENTAL BREAKDOWN]:</span>  Carol of the Bells  -  Transiberian Orchestra
+<br />
+<span style="font-weight: bold">[DRIVING]: </span>  Melodies of Life  -  Emiko Shiratori (Final Fantasy IX)
+<br />
+<span style="font-weight: bold">[FLASHBACK]:</span>   Guardians   -   Rhapsody
+<br />
+<span style="font-weight: bold">[WEDDING]:   I</span> Like to Move it Move it   -  Reel 2 Real
+<br />
+<span style="font-weight: bold">[BIRTH OF CHILD]: </span>Infanati  -  ERA (ironic how much sense this one makes with relation to everything else)
+<br />
+<span style="font-weight: bold">[FINAL BATTLE]:</span>  Emerald Sword  -  Rhapsody
+<br />
+<span style="font-weight: bold">[DEATH SCENE]:</span>  F-Zero X  -  Super Smash Brothers Melee
+<br />
+<span style="font-weight: bold">[FUNERAL SONG]: </span>  Barbie Girl  -  Rammstein and TATU
+<br />
+<span style="font-weight: bold">[END CREDITS]: </span>  Fur Elise Techno MIX  -  Beethoven
+<br />
+
+<br />
+Wow I'm totally saving that.  HXC you are a genius.
+<br />
+
+<br />
+Edit:
+<br />
+
+<br />
+OMFGOSH I MISSED ONE WINGED ANGEL BY ONE MFING SONG!!!! NOOOOOOOOOO!<br />_________________<br /><img src="http://i132.photobucket.com/albums/q13/LMA11/strecthyleet.jpg" border="0" />
+<br />
+&lt;Wraith&gt; trout has a cooldown
+<br />
+&lt;MM&gt; cooldown my ass =p
+<br />
+* hxc cools down MM's ass.</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=6887&amp;sid=e75296f7819065fd89cb607e9711c0d6"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=6887&amp;sid=e75296f7819065fd89cb607e9711c0d6"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="101017"></a><b>destroyer</b></span><br /><span class="postdetails">Clearly has no life whatsoever<br /><img src="images/avatars/1759152818459add4f78652.gif" alt="" border="0" /><br /><br />Joined: 06 Aug 2005<br />Posts: 2492<br />Location: wolfing cookies in my Shadow Cat</span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=101017&amp;sid=e75296f7819065fd89cb607e9711c0d6#101017"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Sat Dec 09, 2006 11:07 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=101017&amp;sid=e75296f7819065fd89cb607e9711c0d6"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody"></span><table width="90%" cellspacing="1" cellpadding="3" border="0" align="center"><tr> 	  <td><span class="genmed"><b>Leet_Master_Ace wrote:</b></span></td>	</tr>	<tr>	  <td class="quote">So far the only list of which I actually recognize a lot of music is Destroyer's.  Wewt to the nerddom Destroyer!
+<br />
+</td>	</tr></table><span class="postbody">
+<br />
+
+<br />
+What part(s) of mine do you recognize? lol<br />_________________<br />I     /-\|\/|     73|-|     |_|83R     1337     |\|008 
+<br />
+800Y3/-\|-|!!!!
+<br />
+
+<br />
+<img src="http://img238.imageshack.us/img238/5008/fafnirsigwp0.jpg" border="0" />
+<br />
+
+<br />
+</span><table width="90%" cellspacing="1" cellpadding="3" border="0" align="center"><tr> 	  <td><span class="genmed"><b>Quote:</b></span></td>	</tr>	<tr>	  <td class="quote">A man who does not value life is either an idealist, or a fool, or an idealistic fool.</td>	</tr></table><span class="postbody">
+<br />
+Archspace freaks, UNITE!!!!!!</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=599&amp;sid=e75296f7819065fd89cb607e9711c0d6"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=599&amp;sid=e75296f7819065fd89cb607e9711c0d6"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>  <a href="http://www.w00tage.com" target="_userwww"><img src="templates/SpacePilot3K/images/lang_english/icon_www.gif" alt="Visit poster's website" title="Visit poster's website" border="0" /></a>   <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="101067"></a><b>ahosea</b></span><br /><span class="postdetails">Clearly has no life whatsoever<br /><img src="images/avatars/195749716345a5b3478dee8.gif" alt="" border="0" /><br /><br />Joined: 06 Aug 2005<br />Posts: 2064<br />Location: Indiana</span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=101067&amp;sid=e75296f7819065fd89cb607e9711c0d6#101067"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Sun Dec 10, 2006 6:24 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=101067&amp;sid=e75296f7819065fd89cb607e9711c0d6"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">LMA....if you don't know fucking Ozzy, Nirvana, or Breaking Benjamin, I'll you kill right now.<br />_________________<br /><img src="http://img184.imageshack.us/img184/1521/nyadaqo0.jpg" border="0" />
+<br />
+&lt;dvs&gt; zzz gradys here, hes goign to ruin the poll with a script =[
+<br />
+&lt;Cypherus&gt; I just found out I have another hot cousin
+<br />
+&lt;Cypherus&gt; you'll have to suck many a bad, ugly, and old men's dicks to get EOC buffed</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=164&amp;sid=e75296f7819065fd89cb607e9711c0d6"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=164&amp;sid=e75296f7819065fd89cb607e9711c0d6"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a> <a href="mailto:awhosea@hotmail.com"><img src="templates/SpacePilot3K/images/lang_english/icon_email.gif" alt="Send e-mail" title="Send e-mail" border="0" /></a>    <a href="profile.php?mode=viewprofile&amp;u=164&amp;sid=e75296f7819065fd89cb607e9711c0d6"><img src="templates/SpacePilot3K/images/lang_english/icon_msnm.gif" alt="MSN Messenger" title="MSN Messenger" border="0" /></a><script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="101068"></a><b>nitrogen</b></span><br /><span class="postdetails">Forum Whore in Training<br /><img src="http://img155.imageshack.us/img155/882/sephirothmh4.gif" alt="" border="0" /><br /><br />Joined: 26 Aug 2006<br />Posts: 688<br />Location: River Styx, Hell</span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=101068&amp;sid=e75296f7819065fd89cb607e9711c0d6#101068"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Sun Dec 10, 2006 7:03 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=101068&amp;sid=e75296f7819065fd89cb607e9711c0d6"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">AND THIS IS MY LIFE!
+<br />
+
+<br />
+[OPENING CREDITS]: Du Hast - Rammstien
+<br />
+-Cool!
+<br />
+
+<br />
+[WAKING UP]: Toxicity - System of a Down
+<br />
+
+<br />
+[FIRST DAY OF SCHOOL]: Cold - Static X
+<br />
+
+<br />
+[FALLING IN LOVE]: Clubbed to death (Kurayamino Mix)
+<br />
+-fits!
+<br />
+
+<br />
+[FIGHT SONG]: Minerva - Deftones
+<br />
+-not suited...
+<br />
+
+<br />
+[BREAKING UP]: Down with Sickness - Disturbed
+<br />
+-hmmnn... 
+<br />
+
+<br />
+[PROM]: Hallelujah - Rammstien
+<br />
+-wtf!
+<br />
+
+<br />
+[LIFE]: Trust - Megadeth 
+<br />
+-you gotta be kidding me!
+<br />
+
+<br />
+[MENTAL BREAKDOWN]: Five Years - Sugar Hiccup 
+<br />
+-no comment
+<br />
+
+<br />
+[DRIVING]: Swamped - Lacuna Coil
+<br />
+-just right!
+<br />
+
+<br />
+[FLASHBACK]:  Cemetery Gates - Pantera
+<br />
+-cool!
+<br />
+
+<br />
+[WEDDING]: Call of Ktulu - Metallica
+<br />
+-*pukes!
+<br />
+
+<br />
+[BIRTH OF CHILD]: Anthem for the year 2000 - Silverchair
+<br />
+-what the...
+<br />
+
+<br />
+[FINAL BATTLE]: Machine - Static X
+<br />
+
+<br />
+[DEATH SCENE]: IOWA - Slipknot
+<br />
+
+<br />
+[FUNERAL SONG]: Lithium - Evanescence
+<br />
+
+<br />
+[END CREDITS]:  Here to stay - Korn<br />_________________<br /><a href="http://imageshack.us" target="_blank" class="postlink"><img src="http://img222.imageshack.us/img222/3749/shermiegp7.gif" border="0" /></a>
+<br />
+I live to die not on the other day but on the next day preceeding the other day after tommorow
+<br />
+<span style="font-size: 16px; line-height: normal"><span style="color: red"><span style="font-weight: bold">-Gix Armadelites</span></span></span>
+<br />
+<span style="font-size: 16px; line-height: normal"><span style="color: green"><span style="font-weight: bold">-Nitrogen</span></span></span>
+<br />
+<span style="font-size: 16px; line-height: normal"><span style="color: blue"><span style="font-weight: bold">-Uchiha Sasuke</span></span></span>
+<br />
+GA IA CR GR</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=13822&amp;sid=e75296f7819065fd89cb607e9711c0d6"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=13822&amp;sid=e75296f7819065fd89cb607e9711c0d6"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>  <a href="http://www.tankuloy@yahoo.com" target="_userwww"><img src="templates/SpacePilot3K/images/lang_english/icon_www.gif" alt="Visit poster's website" title="Visit poster's website" border="0" /></a>  <a href="http://edit.yahoo.com/config/send_webmesg?.target=tankuloy&amp;.src=pg"><img src="templates/SpacePilot3K/images/lang_english/icon_yim.gif" alt="Yahoo Messenger" title="Yahoo Messenger" border="0" /></a> <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="101073"></a><b>Shinim3gami</b></span><br /><span class="postdetails">Vet<br /><img src="images/avatars/148286626145a588ed5fc40.gif" alt="" border="0" /><br /><br />Joined: 05 Nov 2006<br />Posts: 294<br /></span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=101073&amp;sid=e75296f7819065fd89cb607e9711c0d6#101073"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Sun Dec 10, 2006 8:19 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=101073&amp;sid=e75296f7819065fd89cb607e9711c0d6"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody"></span><table width="90%" cellspacing="1" cellpadding="3" border="0" align="center"><tr> 	  <td><span class="genmed"><b>ahosea wrote:</b></span></td>	</tr>	<tr>	  <td class="quote">LMA....if you don't know fucking Ozzy, Nirvana, or Breaking Benjamin, I'll you kill right now.</td>	</tr></table><span class="postbody">
+<br />
+
+<br />
+I would too.
+<br />
+If not Breaking Benjamin...at least Nirvana. Sheesh... Kurt Cobain 'killed' himself, as if that's not enough publicity! -.-<br />_________________<br />Poem of the Week: anyone lived in a pretty how town ~ e.e.cummings
+<br />
+
+<br />
+<img src="http://i48.photobucket.com/albums/f205/ds_mikage/udsig.jpg" border="0" /></span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=15281&amp;sid=e75296f7819065fd89cb607e9711c0d6"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=15281&amp;sid=e75296f7819065fd89cb607e9711c0d6"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="101149"></a><b>Leet_Master_Ace</b></span><br /><span class="postdetails">1337<br /><img src="images/avatars/1361807141453e9b46b12d1.jpg" alt="" border="0" /><br /><br />Joined: 17 Dec 2005<br />Posts: 1806<br />Location: Leading a pack of ravenous zombies to your house</span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=101149&amp;sid=e75296f7819065fd89cb607e9711c0d6#101149"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Mon Dec 11, 2006 10:47 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=101149&amp;sid=e75296f7819065fd89cb607e9711c0d6"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Hey calm down GOSH!
+<br />
+
+<br />
+I  never said I didn't recognize ANY of the other people's music.  After actually going back and reading over Ahosea's (I skipped over it the first time), I think I have the most songs in common w/ him.  TENCASIOUS D - TRIBUE HAHAHAHAHAHA<br />_________________<br /><img src="http://i132.photobucket.com/albums/q13/LMA11/strecthyleet.jpg" border="0" />
+<br />
+&lt;Wraith&gt; trout has a cooldown
+<br />
+&lt;MM&gt; cooldown my ass =p
+<br />
+* hxc cools down MM's ass.</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=6887&amp;sid=e75296f7819065fd89cb607e9711c0d6"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=6887&amp;sid=e75296f7819065fd89cb607e9711c0d6"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr align="center">
+		<td class="catBottom" colspan="2" height="28"><table cellspacing="0" cellpadding="0" border="0">
+			<tr><form method="post" action="viewtopic.php?t=13670&amp;start=0&amp;sid=e75296f7819065fd89cb607e9711c0d6">
+				<td align="center"><span class="gensmall">Display posts from previous: <select name="postdays"><option value="0" selected="selected">All Posts</option><option value="1">1 Day</option><option value="7">7 Days</option><option value="14">2 Weeks</option><option value="30">1 Month</option><option value="90">3 Months</option><option value="180">6 Months</option><option value="364">1 Year</option></select>&nbsp;<select name="postorder"><option value="asc" selected="selected">Oldest First</option><option value="desc">Newest First</option></select>&nbsp;<input type="submit" value="Go" class="liteoption" name="submit" /></span></td>
+			 </form></tr>
+		</table></td>
+	</tr>
+</table>
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0" align="center">
+  <tr>
+	<td align="left" valign="middle" nowrap="nowrap"><span class="nav"><a href="posting.php?mode=newtopic&amp;f=3&amp;sid=e75296f7819065fd89cb607e9711c0d6" onMouseOver="rollover('bottom_newtopic','templates/SpacePilot3K/images/lang_english/post_on.gif');" onMouseOut="rollover('bottom_newtopic','templates/SpacePilot3K/images/lang_english/post_off.gif');"><img name="bottom_newtopic" src="templates/SpacePilot3K/images/lang_english/post_off.gif" border="0" alt="Post new topic" align="middle"/></a>&nbsp;&nbsp;&nbsp;<a href="posting.php?mode=reply&amp;t=13670&amp;sid=e75296f7819065fd89cb607e9711c0d6" onMouseOver="rollover('bottom_postreply','templates/SpacePilot3K/images/lang_english/reply_on.gif');" onMouseOut="rollover('bottom_postreply','templates/SpacePilot3K/images/lang_english/reply_off.gif');"><img name="bottom_postreply" src="templates/SpacePilot3K/images/lang_english/reply_off.gif" border="0" alt="Reply to topic" align="middle" /></a></span></td>
+	<td align="left" valign="middle" width="100%"><span class="nav">&nbsp;&nbsp;&nbsp;<a href="index.php?sid=e75296f7819065fd89cb607e9711c0d6" class="nav">Archspace Forum Index</a>
+	  -> <a href="viewforum.php?f=3&amp;sid=e75296f7819065fd89cb607e9711c0d6" class="nav">Player Board</a></span></td>
+	<td align="right" valign="top" nowrap="nowrap"><span class="gensmall">All times are GMT - 6 Hours</span><br /><span class="nav"></span>
+	  </td>
+  </tr>
+  <tr>
+	<td align="left" colspan="3"><span class="nav">Page <b>1</b> of <b>1</b></span></td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="2" border="0" align="center">
+  <tr>
+	<td width="40%" valign="top" nowrap="nowrap" align="left"><span class="gensmall"></span><br />
+	  &nbsp;<br />
+	  </td>
+	<td align="right" valign="top" nowrap="nowrap">
+<form method="get" name="jumpbox" action="viewforum.php?sid=e75296f7819065fd89cb607e9711c0d6" onSubmit="if(document.jumpbox.f.value == -1){return false;}"><table cellspacing="0" cellpadding="0" border="0">
+	<tr>
+		<td nowrap="nowrap"><span class="gensmall">Jump to:&nbsp;<select name="f" onchange="if(this.options[this.selectedIndex].value != -1){ forms['jumpbox'].submit() }"><option value="-1">Select a forum</option><option value="-1">&nbsp;</option><option value="-1">Archspace - Public</option><option value="-1">----------------</option><option value="1">News</option><option value="13">Change Log</option><option value="3"selected="selected">Player Board</option><option value="4">Bug Board</option><option value="5">Suggestion Board</option><option value="8">Help Board</option><option value="11">Recruiting</option><option value="12">Community Art and Literature</option><option value="9">Politics/Religion Forum</option><option value="14">Archspace 2.0</option><option value="15">Programming</option></select><input type="hidden" name="sid" value="e75296f7819065fd89cb607e9711c0d6" />&nbsp;<input type="submit" value="Go" class="liteoption" /></span></td>
+	</tr>
+</table> </form>
+
+<span class="gensmall">You <b>cannot</b> post new topics in this forum<br />You <b>cannot</b> reply to topics in this forum<br />You <b>cannot</b> edit your posts in this forum<br />You <b>cannot</b> delete your posts in this forum<br />You <b>cannot</b> vote in polls in this forum<br /></span></td>
+  </tr>
+</table>
+
+
+<div align="center"><span class="copyright"><br /><br />
+<!--
+	We request you retain the full copyright notice below including the link to www.phpbb.com.
+	This not only gives respect to the large amount of time given freely by the developers
+	but also helps build interest, traffic and use of phpBB 2.0. If you cannot (for good
+	reason) retain the full copyright we request you at least leave in place the
+	Powered by phpBB  line, with phpBB linked to www.phpbb.com. If you refuse
+	to include even this then support on our forums may be affected.
+
+	The phpBB Group : 2002
+// -->
+Space Pilot 3K template by <a href="http://www.jakob-persson.com" class="copyright">Jakob Persson</a>.<br />
+Powered by <a href="http://www.phpbb.com/" target="_phpbb" class="copyright">phpBB</a>  &copy; 2001 phpBB Group<br /></span></div>
+<div align="center"><span class="copyright">Protected by <a href="http://www.lithiumstudios.org/" target="_blank" class="copyright">Anti-Spam ACP</a></span></div>
+		</td>
+	</tr>
+	<tr>
+		<td align="center">
+			<script type="text/javascript"><!--
+			google_ad_client = "pub-9347639997854244";
+			google_ad_width = 728;
+			google_ad_height = 90;
+			google_ad_format = "728x90_as";
+			google_ad_type = "text_image";
+			google_ad_channel ="";
+			google_color_border = "6699CC";
+			google_color_bg = "003366";
+			google_color_link = "FFFFFF";
+			google_color_url = "AECCEB";
+			google_color_text = "AECCEB";
+			//--></script>
+			<script type="text/javascript"
+			  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+			</script>
+		</td>
+	</tr>
+</table>
+
+</body><script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script
+type="text/javascript">_uacct = "UA-278580-1"; urchinTracker();</script>
+</html>
+

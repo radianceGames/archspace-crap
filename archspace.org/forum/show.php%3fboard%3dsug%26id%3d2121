@@ -1,0 +1,420 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>Archspace Beta Forums</TITLE>
+<Style type="text/css">
+A:link, A:visited { text-decoration: none; color: lightblue; }
+A:hover {
+		COLOR: white; 
+}
+INPUT {
+	BACKGROUND-COLOR: black; BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; COLOR: #0AABAA; FONT-FAMILY: verdana, helvetica, sans-serif; FONT-SIZE: 10px; 
+}
+body { 
+	text-align: center;
+	font-family : Arial, sans-serif;
+	color : white;
+	font-size : 8pt;
+	margin-top : 0px;
+	margin-left : 0px;
+	margin-right : 0px;
+	margin-bottom: 0px;
+
+SCROLLBAR-FACE-COLOR: #666666; 
+SCROLLBAR-HIGHLIGHT-COLOR: black; 
+SCROLLBAR-SHADOW-COLOR: #333333; 
+SCROLLBAR-3DLIGHT-COLOR: #333333; 
+SCROLLBAR-ARROW-COLOR: black; 
+SCROLLBAR-TRACK-COLOR: black; 
+SCROLLBAR-DARKSHADOW-COLOR: #333333; 
+} 
+td {
+ font-size : 8pt;
+ 	font-family : Arial, sans-serif;
+}
+</style>
+</HEAD>
+<BODY text=#999999 vLink=#999999 aLink=#999999 link=#999999 bgColor=#000000 leftMargin=0 topMargin=0 rightMargin=0 marginwidth="0" marginheight="0">
+<center><a href="/"><img src="http://www.archspace.org/image/as_game/menu_main.gif" border=0></a></center><br>
+
+<CENTER><!-- TABLE -->
+<TABLE width="90%" border=0>
+  <TBODY>
+  <TR>
+    <TD>&nbsp;&nbsp;<B><a href="/forum/">Archspace Boards</B></a> <BR>&nbsp;&nbsp;
+	(moderated by Mindwarper) 
+      <P>
+	</TD>
+    <TD vAlign=top align=right>
+		<IMG src="/image/forum/open.gif" border=0>&nbsp;&nbsp; <a href="/forum">Archspace</a>
+      	<BR><IMG src="/image/forum/tline.gif" border=0><IMG src="/image/forum/open.gif" border=0>&nbsp;&nbsp;<a href="as.php?board=sug">Suggestion Board</a>
+	<p><a href="pref.php">Preferences</a>
+    </TD>
+	</TR>
+	</TBODY>
+</TABLE>
+	<A href="newtopic.php?board=sug">New Topic</A>
+	
+<table align="center" border="0" cellspacing="0" cellpadding="1" width="90%">
+<tr>
+	<td style="background: #999999">
+		<table align="center" border="0" cellspacing="0" cellpadding="5" width="100%">
+		<tr>
+			<td style="background: #000000; text-align: center">
+				<table align="center" border="0" cellspacing="1" cellpadding="5" width="100%">
+				<tr>
+					<TD vAlign=center width="18%" style="background: #555555;"><B>Author</B></TD>
+					<TD vAlign=center style="background: #555555;"><B>Topic:&nbsp;&nbsp; Unscientific Privateer research</B></TD>				
+				</tr>
+				<tr>
+					<TD vAlign=top width="18%" style="background: #333333;">
+						<B>PoGo</B><BR> Normal Player						<p>
+											</TD>
+					<TD style="background: #333333;" valign=top>
+						<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0> posted 2005-03-09 02:32&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+ 						<A href="edit.php?board=sug&id=2121"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			 			<A href="reply.php?board=sug&id=2121"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A> </FONT>
+			  			<HR color=#000000 SIZE=-1>
+			  			Did unscientific research into privateering and my conclusion to my hypothesis was ....... well ....... privateering is in need of an extreme makeover or could just be buggy.<br />
+<br />
+I am not an expert buccaneer so my data could be askew.  First time playing the race was this set.  Any changes to the current system of privateering would only improve it. Something helpful would be to send your fleet to one planet of your choosing, much like sieging or raiding. A bigger pay out of pp would also make it more worth while to take the risk of privateering.<br />
+<br />
+In sieging you get the planet, in raiding you can knock a persons power down by thousands in a hit, blocking you gain experience, in privateering you get.......what the hell!!!! ...... &quot;0&quot; pp sometimes ....... lolol.<br />
+<br />
+Well I know your busy but thanks for listening and maybe it can go on somebody's to do list in 2007....lol.  						<P align=right> </P>
+					</TD>
+				</TR>
+	
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Slayer_of_Hope</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-03-09 05:17&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=2122"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=2121"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	I honestly have so much fun privateering:  selecting when to privateer, scouting before privateer, selecting who to privateer when, and then waiting for the results...  Ah I can't wait 'till the server gets back up!  Anyway I think there should definately be a &quot;best privateer&quot; award to the council who gained the most through privateering :D  That would just add so much depth to the game!  Think about a vast network of pirates...  their alliance valued, their power respected - they could have a major impact on the game.  Maybe that's just wishful thinking.  But as far as privateering being buggy, you really only gave very vague examples, I couldn't really follow them.  Could you be more specific?  As far as privateering being useless it all depends on where you hit, when, whether you encounter difficulties, how good a privateer you are..... probably other stuff I haven't quite figured out the dynamics of it yet :D			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>zeo</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-03-13 03:07&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=2143"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=2121"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	the 2007 to-do list?<br />
+<br />
+pogo are you looking for maximum priority ranking on your privateer suggestion?<br />
+<br />
+-------------------------------------------------<br />
+Dark Artist Zeo<br />
+3rd Lord of Arbiters			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>PoGo</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-03-17 22:46&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=2169"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=2121"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Lol ..... no, its just I have asked for things already such as fleet orders which DT gave us and are wonderful, an events guide with the listing of all events and what they do - hopefully to be attached to the manual and now the privateering.<br />
+<br />
+Both the events guide and redoing privateering would be a major undertaking and investment in their time.  Something they don't have a lot of. So I leave it for now in their hands and if they show up in the future ....... then it's a nice surprise. 			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Slayer_of_Hope</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-03-18 19:05&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=2172"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=2121"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	During the current set I've changed my opinion a bit.  I still think privateering is fun as heck, and I even chose buckaneer for their privateering capabilities, but I am now agreeing with PoGo on this one.  Privateering is still fun for me, but at the moment in the grand scheme of things it does need to be &quot;made-over.&quot;  My suggestions are as follows:<br />
+<br />
+1.  PP and EXP gained are more proportional to privateer skills.  I see my level 16 (lone wolf) commander with plus 22 in privateer pulling down the same amount of gold as my lvl 3 commanders with 5 or 6 in privateer.  I believe at this point money gained is more proportional to money earned on the planets privateered on.  This is realistic, obviously, but make the extra ranks in privateer MEAN something.<br />
+2.  I'd like to see privateering get a bit more creative.  A good privateer with big ships, for example, might not just steal money from enemy players.  If they see an opportunity they could board enemy ships stationed there and take them, intercept small research vessels, stealing RP (maybe our scientists can compare notes with theirs :D), and perhaps even ransack military bases stealing ships at the docks and MP.  Some of this, of course, could only be pulled off by the best privateers in the galaxy - but that ties into my first suggestion.<br />
+3.  The benefits to privateering fleets as far as experience goes makes privateering hardly worth the risk.  Each time a privateer goes on a mission they risk dying, and gain very little experience each mission.  Even with the slight increase in commander experience privateering is almost a waste of time.  Also fleets who are privateering gain no experience (or if they gain some I haven't noticed).  A fleet on a privateer mission would learn about working together as a team, and get a feel for the navigation systems of their ships so I think it's realistic for them to gain a small amount of exp, even if it's just one or two per mission.<br />
+<br />
+Bugs/Problems/Questions<br />
+<br />
+Why do privateering fleets sometimes gain 0 PP?  If the planet has no production, such as planets with all military/research bases, they are going to need to get shipments from nearby planets for their upkeep, and those shipments can be intercepted.<br />
+<br />
+Why does it ever say &quot;This player has no more planets to privateer on&quot;?  Now, correct me if I'm wrong, but couldn't the fleets just go back to the first planet they privateered and keep privateering?<br />
+<br />
+Once I sent a fleet of frigates privateering.  14 frigates.  They got detected by a single fleet of gunboats and got shot down by that fleet.  Now hold on, I can see how maybe we were caught out of position and they got a few good shots at some of our ships, but the fleet of Patrol Boat MKI's somehow destroying my whole fleet stretches the imagination.<br />
+<br />
+That's all I got, I realize these changes will probably not take place since nobody really cares about privateering :D and this might take a bit of rewriting :S but I thought I'd at least get my thoughts out there.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Archer</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-03-23 14:55&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=2193"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=2121"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	I too hope privateers became more useful, I'm a Buckaneer and for the most part I find privateers very useless.  Now that I have better commanders I can expect to get 20k PP from a couple planets when privateering someone with around 20 planets, and having broken 100k once or twice, but I would be surprised if any one privateering mission averaged 30-40k per turn or more (when I get 40k+ from one planet the next 2-4 seem to give me less than 10K, often only in the hundreds :( ).  It isn't worth it when I'm making 750k+ PP in income and everytime I have done a fair amount of privateering I've eventually lost a fleet, and am lucky if I've made enough PP to replace that fleet, but a commander is also lost which IMO is worse.<br />
+<br />
+When I still do privateer I also get the &quot;Planet is already under privateering&quot; message a lot which means they spend a turn doing nothing - and a privateer rarely goes by that I don't get that message at about 50% of the planets my fleet &quot;visits.&quot;  I'm not certain, but I'm pretty sure my fleets have gone to the planets of one person multiple times, the first they privateer, the second visit they get the above message, and eventually they come home :(<br />
+<br />
+My suggestions about privateering - keeping it pretty much as is (ie stealing money) - however it would probably be overpowering since everyone can do it (ie it would work better for a pirate fleet).  Bear in mind I am not sure how privateering works currently.<br />
+<br />
+Base the PP gain largely off of the planets production, plus a bit that represents the commerce with other planets (exports).  How much of the planet's production is privateered depends on what you want privateering to do, as a Buckaneer I'd love to be able to make enough off of privateering that I have to put PP in the council to be distributed to others so I keep gaining PP and have few planets (other than my ship building would be really slow) - but this would make it too powerful especially if the &quot;better&quot; races could make a similarly large amount.  Taking the planets entire production, IMO, isn't that bad if it's used rarely (such as just Buckaneers and maybe humans - but that isn't how AS works).<br />
+<br />
+Assuming the fleet successfully privateers the planet, they get you a _maximum_ of X% of the planets production - I'm not certain what X should be, 20-25% might be fair, but I really have no clue.  Each ship has a maximum value it can carry - probably simplest to make it (space on the ship)*Y (ie a lone cruiser would be able to carry 940*Y PP away from the planet - and again I have no idea what the value of Y should be).  Small ships wouldn't be able to take away all of the PP they could probably, while dooms would probably have space left over.<br />
+<br />
+Ability:<br />
+IMO the commander's privateer ability should be two fold:<br />
+1. Increase the amount they can take away with them.  Either X or Y (or both, but that might be too much) could be increased.  If X were to increase, the commander strikes at the most opportune time - perhaps a convoy with exports is forming up, a convoy with imports has just arrived, the local fleets are preoccupied with something else, or the commander and his fleet have gotten very quick and efficient transferring the goods between ships/siezing the transports.<br />
+<br />
+If Y is increased it could be due to the ships having been refitted with larger/more cargo bays, stuffing the goods everywhere they fit, having learnt from experience to jam the goods into the cargo bays as efficiently as possible, or they carry more prize crews to commandeer transports.<br />
+<br />
+2. The second thing I think the privateer ability would be good for is survivability.  Chances are that a level 20 commander with a 20+ privateer ability would know the ropes and could slip by any defending fleets more easily.  Agerus and Buckaneers already have Stealth that does this, so adding a bit more probably wouldn't be hard.  The problem with balance would most likely be any Buckaneers that get their ending project would have 50% less chance of being detected _before_ this bonus.  Alternately, maybe the privateer is smart and runs when confronted (to save his fleet to live and fight another day).  Once the fleet _is_ detected, they have less chance of being damaged by the attacking fleet.  I am not sure if there are any modifiers already in place similar to this that could be slightly modified, if so it wouldn't be hard, otherwise it might be.<br />
+<br />
+&lt;dream mode: on&gt;<br />
+A major modification to privateering would be interesting I think.<br />
+<br />
+Referring to Slayer's post:<br />
+#1. I think the PP should be based on the planet's economy and the ship's privateering, with only minor increases for higher commander abilities.  Since I'm now thinking &quot;major overhaul of privateering,&quot; I don't think the experience should vary with the commander's ability to privateer because:<br />
+<br />
+#2. I love this idea.  Expanding privateering to RP and MP would make it a bit more interesting.  I suspect that the captured MP would be very low since you don't need all that much anyways.  I can see getting RP either fairly often in &quot;smaller&quot; quantities, or rarely, but when you do you get a lot of RP (smaller quantities means enough for lvl 2/3/4 techs, large quantities means enough for lvl 6/7/8/9 techs - but these amounts are probably too high).  Alternately make the privateer provide the information for a specific tech rather than RPs like stealing techs.  Gaining both RP (or techs) and MP should provide much more experience than PP - higher commander privateer ability increases the chance of it happening.<br />
+Ransacking bases is a raid, so IMO that should not be included, but stealing ships in dock would be great.  The way I see it, the ship would need to be in the ship pool.  There would be a chance of any ship being on any given planets, more military bases would probably mean there's a greater chance of a ship (or multiple ships) being present.  This is where I think the privateer ability should really come into play.  A commander with a very high privateer ability should be able to take a warship away with a prize crew aboard.  The privateer ability not only increases the probability of this happening, but also the probability of the boarding action being more successful.<br />
+There are two potential problems with this however - what if you have lvl 5-6 tech and you steal a teched out ship with HBH, DB, and OOD?  Do you gain these technologies? Just use them? Or can you not get them to work?  Secondly, for any tech level ship - you probably won't steal more than one at a time meaning you will only have one ship of that design.  It will need to be in a fleet of one unless you are lucky and manage to steal more of that design.  One way around this could be that you steal the ship hull, upon successfully returning to your empire you must select which design of that class the ship is (so it gets your level tech and weapons, and your choice of devices) or you can create a new design for the ship (in case you don't have a design for that ship class). This would be a huge experience boost for the commander - especially if you managed to steal a doomstar :)<br />
+<br />
+#3 Commanders gain 200 experience per planet, if you steal 25k or more (maybe 30k) you gain more experience.  I've gotten close to 600 once, but getting that much PP in the first place is a problem so I'm normally only getting 200 exp per planet.<br />
+&lt;dream mode: off&gt;<br />
+<br />
+Unfortunately I doubt the devs think privateering is important enough for such a huge overhaul (I know I sure wouldn't want to have to code this LOL).			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Archer</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-04-01 17:32&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=2208"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=2121"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Everyone knows privateering is pretty much useless, payouts of 100k+ PP from a single planet are fairly rare, with a lot of planets providing 0-20k or so.<br />
+<br />
+I privateered three people in the last few days and kept track of what planets they visited, and whether they made any PP or not from their visit.  Combined the three privateer missions attempted to privateer 73 planets - of those 73 planets however, 30 (41%) were repeat visits that were just a waste of time.  What's worse, one privateer mission went to the same planet four times before returning (only making any PP and gaining experience from the first visit), and another privateered the same planet _THREE TIMES IN A ROW_.  How stupid are these commanders?  It could be expected they'd do something stupid once or twice, then they'd realize they can't privateer the same planet twice in one mission.<br />
+<br />
+Since privateering is rarely used, and even when done with a level 20 commander with dooms it's not worth the time or risk, could something be done about the stupidity of the commanders?<br />
+<br />
+The two simple ways to make privateering still useless, but not have the commanders be stupid are to:<br />
+1. allow privateering the same planet multiple times in one mission.<br />
+<br />
+or<br />
+<br />
+2. make commanders a bit smarter so they don't go back to a planet they've already privateered.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Slayer_of_Hope</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-04-02 17:58&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=2216"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=2121"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Thanks for the positive feed Archer :)  I'm pretty much in agreement with you, and I think we've brought up some good ideas.  Now we just have to wait and see if the mods do anything about it :S<br />
+<br />
+-Slayer			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>infidel</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-04-06 06:29&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=2251"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=2121"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	yeah, planets should be able to be privateered more than once. I always enjoy to privateer people who have lost their fleets. Well, at least it do not piss people off as much as blockades.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>infidel</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-04-06 06:31&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=2252"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=2121"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	And lastly, make privateers give larger amount of payout too, to make them more useful like special/thievery operations in other games.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Slayer_of_Hope</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-04-07 17:38&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=2266"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=2121"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	*Bump<br />
+<br />
+I think this should maybe come 4th on the &quot;To Do&quot; list, but then what do I know?<br />
+<br />
+1.  Blockading - I don't care how you choose to fix it, just fix it.<br />
+<br />
+2.  Honor - Make it mean something.<br />
+<br />
+3.  Set length - Especially after these last two sets it's obvious:  some of us don't even get a chance to play the game before it is over.<br />
+<br />
+4.  Privateering - Make it worthwhile and worth the risk.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Avrem</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-04-07 18:03&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=2267"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=2121"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	I use privateer w/ crappy commies to find out the names (and number) of stationed fleets.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+			<TR>
+			<TD></td>
+			<td align=center></TD>
+			</TR>
+				</table>
+			</td>
+		</tr>
+		</table>	
+	</td>
+</tr>
+</table>
+<center><b><A href="reply.php?board=sug&id=2121">Post a Reply</A></b></center>
+		<TABLE width="95%" border=0>
+		  <TR>
+			<TD colSpan=2><BR>
+						  </TD></TR>
+		  <TR>
+			<TD>
+					    </TD>
+		  </TR>
+		  </TABLE>
+
+
+<BR><B><A href="/contact.php">Contact Us</A> | 
+<A href="http://www.archspace.org/" target=_top>Archspace</A> </B>
+<P>
+<P>Powered by MindBB v2.0<BR><BR></CENTER></P>
+</BODY></HTML>

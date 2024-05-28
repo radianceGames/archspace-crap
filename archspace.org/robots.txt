@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /feeds
+Disallow: /*/_/
+Sitemap: http://www.archspace.org:80/system/feeds/sitemap

@@ -1,0 +1,56 @@
+body	{ margin: 0px; }
+
+body, p, td, th { font-family: "Times New Roman", "Times", serif; font-size: 11pt; color: #999999; }
+
+.border { border: 1px solid #2a2a2a; }
+.border.table { border: 1px solid #2a2a2a; }
+.border.td { border: 1px solid #2a2a2a; }
+//table { border: 0px; }
+//table.border { border: 1px solid #2a2a2a; }
+
+.tabletxt { padding-top: 1px; padding-bottom: 1px; padding-left: 5px; padding-right: 5px; font-size: 11pt; }
+.white { padding-top: 1px; padding-bottom: 1px; padding-left: 5px; padding-right: 5px; font-size: 11pt; color: #FFFFFF }
+
+a { text-decoration: underline; color: #a9a9a9; }
+a:hover { color: #f0ffff; }
+a.rank { text-decoration: none; }
+a.rank_highlight { text-decoration: none; color: #f0f0f0; }
+a.noborder { border: 0px; text-decoration: none; }
+
+.maintext { line-height: 15pt }
+.speakernews { color: #C5E1E7; line-height: 15pt }
+.sub_title { font-size: 11pt }
+.story { }
+.agreement { color: #333333; line-height: 15pt }
+.small { font-size: 8pt }
+
+/* pointers */
+
+.pointer_h { cursor: hand }
+.pointer_help { cursor: help }
+.tabletxtH { cursor: help }
+
+/* menu */
+
+.topmenu { font-size: 11pt; color: #999999; text-decoration: none }
+.submenu { font-family: "Times New Roman", "Times", serif; font-size: 9pt; color: #5E6A6C; line-height: 16px; text-decoration: none }
+
+/* ??? */
+
+.newInput {color:white; background-color:black; background:clean; padding-top:2px; border-width:1px; border-color:white; border-top-style:none; border-left-style:none; border-right-style:none; border-bottom-style:solid;}
+.newRadio {}
+
+/* popup menu */
+.order
+{
+  position: absolute;
+  width: 86px;
+  border: 1px solid #999999;
+  background-color: #000000;
+  font-size: 11px;
+  line-height: 12px;
+  cursor: hand;
+  visibility: hidden;
+}
+
+.tbltextbox { background:clean; border-color: #000000 #000000 #000000 #000000; background-color: #FFFFFF; color: #000000; text-align: center; font-size: 10; }

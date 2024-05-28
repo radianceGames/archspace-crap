@@ -1,0 +1,1370 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Style-Type" content="text/css">
+
+<link rel="top" href="./index.php?sid=4591c4fbef357216c8e03ed6ab84bb7e" title="Archspace Forum Index" />
+<link rel="search" href="./search.php?sid=4591c4fbef357216c8e03ed6ab84bb7e" title="Search" />
+<link rel="help" href="./faq.php?sid=4591c4fbef357216c8e03ed6ab84bb7e" title="FAQ" />
+<link rel="author" href="./memberlist.php?sid=4591c4fbef357216c8e03ed6ab84bb7e" title="Memberlist" />
+<link rel="prev" href="viewtopic.php?t=210&amp;view=previous&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e" title="View previous topic" />
+<link rel="next" href="viewtopic.php?t=210&amp;view=next&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e" title="View next topic" />
+<link rel="up" href="viewforum.php?f=8&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e" title="Help Board" />
+<link rel="chapter forum" href="viewforum.php?f=1&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e" title="News" />
+<link rel="chapter forum" href="viewforum.php?f=13&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e" title="Change Log" />
+<link rel="chapter forum" href="viewforum.php?f=3&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e" title="Player Board" />
+<link rel="chapter forum" href="viewforum.php?f=4&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e" title="Bug Board" />
+<link rel="chapter forum" href="viewforum.php?f=5&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e" title="Suggestion Board" />
+<link rel="chapter forum" href="viewforum.php?f=8&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e" title="Help Board" />
+<link rel="chapter forum" href="viewforum.php?f=11&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e" title="Recruiting" />
+<link rel="chapter forum" href="viewforum.php?f=12&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e" title="Community Art and Literature" />
+<link rel="chapter forum" href="viewforum.php?f=9&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e" title="Politics/Religion Forum" />
+
+<title>Archspace :: View topic - New beginner guide (to be continued...)</title>
+<link rel="stylesheet" href="templates/SpacePilot3K/SpacePilot3K.css" type="text/css">
+<body bgcolor="#000000" text="#DDDDDD" link="#8BC7FF" vlink="#5493B4">
+
+
+
+<script language="Javascript" type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+</script>
+
+
+
+<script language="Javascript" type="text/javascript">
+<!--
+function rollover(name, source)  {
+
+  document.images[name].src = source;
+
+}
+//-->
+</script>
+
+<script language="JavaScript" src="templates/SpacePilot3K/fade.js"></script>
+
+</head>
+<body />
+
+<a name="top"></a>
+
+<table width="100%" cellspacing="0" cellpadding="10" border="0" align="center">
+	<tr>
+		<td align="center">
+			<script type="text/javascript"><!--
+			google_ad_client = "pub-9347639997854244";
+			google_ad_width = 728;
+			google_ad_height = 90;
+			google_ad_format = "728x90_as";
+			google_ad_type = "image";
+			google_ad_channel ="";
+			google_color_border = "6699CC";
+			google_color_bg = "003366";
+			google_color_link = "FFFFFF";
+			google_color_url = "AECCEB";
+			google_color_text = "AECCEB";
+			//--></script>
+			<script type="text/javascript"
+			  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+			</script>
+		</td>
+	</tr>
+	<tr>
+		<td class="bodyline"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+			<tr>
+				<td><a href="index.php?sid=4591c4fbef357216c8e03ed6ab84bb7e"><span class="maintitle"><img src="templates/SpacePilot3K/images/logo_sp3k.gif" border="0" alt="Archspace Forum Index" vspace="1" /></span></a></td>
+				<td align="center" width="100%" valign="middle"><span class="maintitle">Archspace</span><br /><span class="gen">Archspace Forums<br />&nbsp; </span>
+				<table cellspacing="0" cellpadding="2" border="0">
+					<tr>
+						<td align="center" valign="top" nowrap="nowrap"><span class="mainmenu">&nbsp;<a href="faq.php?sid=4591c4fbef357216c8e03ed6ab84bb7e" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_faq.gif" width="14" height="14" border="0" alt="FAQ" hspace="3" />FAQ</a></span><span class="mainmenu">&nbsp; &nbsp;<a href="search.php?sid=4591c4fbef357216c8e03ed6ab84bb7e" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_search.gif" width="14" height="14" border="0" alt="Search" hspace="3" />Search</a>&nbsp; &nbsp;<a href="memberlist.php?sid=4591c4fbef357216c8e03ed6ab84bb7e" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_members.gif" width="14" height="14" border="0" alt="Memberlist" hspace="3" />Memberlist</a>&nbsp; &nbsp;<a href="groupcp.php?sid=4591c4fbef357216c8e03ed6ab84bb7e" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_groups.gif" width="14" height="14" border="0" alt="Usergroups" hspace="3" />Usergroups</a>&nbsp;
+						&nbsp;<a href="profile.php?mode=register&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_register.gif" width="14" height="14" border="0" alt="Register" hspace="3" />Register</a></span>&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td height="25" align="center" valign="top" nowrap="nowrap"><span class="mainmenu">&nbsp;<a href="profile.php?mode=editprofile&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_profile.gif" width="14" height="14" border="0" alt="Profile" hspace="3" />Profile</a>&nbsp; &nbsp;<a href="privmsg.php?folder=inbox&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_message.gif" width="14" height="14" border="0" alt="Log in to check your private messages" hspace="3" />Log in to check your private messages</a>&nbsp; &nbsp;<a href="login.php?sid=4591c4fbef357216c8e03ed6ab84bb7e" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_login.gif" width="14" height="14" border="0" alt="Log in" hspace="3" />Log in</a>&nbsp;</span></td>
+					</tr>
+				</table></td>
+			</tr>
+		</table>
+
+		<br />
+
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0">
+  <tr>
+	<td align="left" valign="bottom" colspan="2"><a class="maintitle" href="viewtopic.php?t=210&amp;start=0&amp;postdays=0&amp;postorder=asc&amp;highlight=&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e">New beginner guide (to be continued...)</a><br />
+	  <span class="gensmall"><b>Goto page <b>1</b>, <a href="viewtopic.php?t=210&amp;postdays=0&amp;postorder=asc&amp;start=15&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e">2</a>, <a href="viewtopic.php?t=210&amp;postdays=0&amp;postorder=asc&amp;start=30&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e">3</a>&nbsp;&nbsp;<a href="viewtopic.php?t=210&amp;postdays=0&amp;postorder=asc&amp;start=15&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e">Next</a></b><br />
+	  &nbsp; </span></td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0">
+  <tr>
+	<td align="left" valign="bottom" nowrap="nowrap"><span class="nav"><a href="posting.php?mode=newtopic&amp;f=8&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e" onMouseOver="rollover('top_newtopic','templates/SpacePilot3K/images/lang_english/post_on.gif');" onMouseOut="rollover('top_newtopic','templates/SpacePilot3K/images/lang_english/post_off.gif');"><img name="top_newtopic" src="templates/SpacePilot3K/images/lang_english/post_off.gif" border="0" alt="Post new topic" align="middle"/></a>&nbsp;&nbsp;&nbsp;<a href="posting.php?mode=reply&amp;t=210&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e" onMouseOver="rollover('top_postreply','templates/SpacePilot3K/images/lang_english/reply_on.gif');" onMouseOut="rollover('top_postreply','templates/SpacePilot3K/images/lang_english/reply_off.gif');"><img name="top_postreply" src="templates/SpacePilot3K/images/lang_english/reply_off.gif" border="0" alt="Reply to topic" align="middle" /></a></span></td>
+	<td align="left" valign="middle" width="100%"><span class="nav">&nbsp;&nbsp;&nbsp;<a href="index.php?sid=4591c4fbef357216c8e03ed6ab84bb7e" class="nav">Archspace Forum Index</a>
+	  -> <a href="viewforum.php?f=8&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e" class="nav">Help Board</a></span></td>
+  </tr>
+</table>
+
+<table class="forumline" width="100%" cellspacing="1" cellpadding="3" border="0">
+	<tr align="right">
+		<td class="catHead" colspan="2" height="28"><span class="nav"><a href="viewtopic.php?t=210&amp;view=previous&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e" class="cattitle">View previous topic</a> :: <a href="viewtopic.php?t=210&amp;view=next&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e" class="cattitle">View next topic</a> &nbsp;</span></td>
+	</tr>
+	
+	<tr>
+		<th class="thLeft" width="150" height="26" nowrap="nowrap">Author</th>
+		<th class="thRight" nowrap="nowrap">Message</th>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="2187"></a><b>Keyan</b></span><br /><span class="postdetails">Vet<br /><img src="images/avatars/202753905243af0590c5db2.png" alt="" border="0" /><br /><br />Joined: 06 Aug 2005<br />Posts: 401<br />Location: Germany</span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=2187&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e#2187"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Wed Aug 10, 2005 5:55 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: New beginner guide (to be continued...)</span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=2187&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">below you will find starting guides for every race. 
+<br />
+
+<br />
+3/10 races done. Please post more input here!!! 
+<br />
+
+<br />
+Also, may be a general beginner guide for "absolute" newcomers would be useful (general  functions of the game). Any takers?<br />_________________<br />Valhalla - Eldar (#1262)
+<br />
+
+<br />
+<span style="font-size: 9px; line-height: normal">Proud to have been in:
+<br />
+
+<br />
+AVN - LEGION - Targoid Empire - DSWL - 21CN </span></span><span class="gensmall"><br /><br />Last edited by Keyan on Sun Oct 30, 2005 7:04 pm; edited 4 times in total</span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=425&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=425&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <a href="profile.php?mode=viewprofile&amp;u=425&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_msnm.gif" alt="MSN Messenger" title="MSN Messenger" border="0" /></a><script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="2311"></a><b>Kenshin</b></span><br /><span class="postdetails">Helper<br /><img src="http://www.geocities.com/masterjedison/rots8.jpg" alt="" border="0" /><br /><br />Joined: 05 Aug 2005<br />Posts: 453<br />Location: United Kingdom</span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=2311&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e#2311"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Wed Aug 10, 2005 4:13 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=2311&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Starting Guide
+<br />
+<span style="font-weight: bold"><span style="color: blue"><span style="font-size: 18px; line-height: normal">
+<br />
+Tecanoid </span></span></span>
+<br />
+
+<br />
+<span style="font-weight: bold">Turn 0</span>  
+<br />
+
+<br />
+-   Set Concentration Mode to Military
+<br />
+-   Recall All Fleets
+<br />
+-   Disband All Fleets
+<br />
+-   Fleet All Commanders with 1 ship
+<br />
+-   Send a Fleet on Expedition
+<br />
+-   Send all other Fleets on Training Missions
+<br />
+-   Leave Home Planet Ratio at 40:30:30
+<br />
+
+<br />
+***** <span style="font-style: italic">DO NOT INVEST IN HOME PLANET, INVEST IN ALL OTHERS</span> *****
+<br />
+ ***** <span style="font-style: italic">FLEET AND TRAIN ALL COMMANDERS AS YOU GET THEM</span> (Repeatedly) *****
+<br />
+
+<br />
+You will research techs in the following order:
+<br />
+
+<br />
+Ultralight Communication, Non-linear Programming, Advanced Encryption Algorithm, Hyperspace Communication.  - Keep research invested.
+<br />
+
+<br />
+
+<br />
+<span style="font-weight: bold">Turn 15</span> 
+<br />
+
+<br />
+-  Set Home Planet Ratio to 50/50/0
+<br />
+
+<br />
+
+<br />
+<span style="font-weight: bold">Turn 48</span> (approx)
+<br />
+
+<br />
+-  When your expedition fleet comes back re-send it as soon as possible (When you have 3 planets only send for a 4th at tick 176)
+<br />
+
+<br />
+
+<br />
+<span style="font-weight: bold">Turn 80</span> 
+<br />
+
+<br />
+- Start building Corvettes with Nuclear Missiles (do not fleet them yet, all commanders should still be training)
+<br />
+
+<br />
+
+<br />
+<span style="font-weight: bold">Turn 90</span> 
+<br />
+
+<br />
+-  Change to Industry Mode when you have 20 commanders
+<br />
+-  Set Concentration Mode to Industry
+<br />
+
+<br />
+
+<br />
+<span style="font-weight: bold">Turn 96</span> (approx) 
+<br />
+
+<br />
+-  Around this time your expedition fleet will come back, do not re-send it yet.
+<br />
+
+<br />
+
+<br />
+<span style="font-weight: bold">Turn 176</span> (approx) 
+<br />
+
+<br />
+-  Re-send your expedition fleet
+<br />
+-  Do not send commanders on training missions from this point onwards, you will need them for coming out of protection
+<br />
+
+<br />
+
+<br />
+<span style="font-weight: bold">Turn 200</span> 
+<br />
+
+<br />
+-  Declare war on someone in your council (or if your council is allied declare war on another council in your cluster and war them)
+<br />
+
+<br />
+
+<br />
+Try to send only half your ships at a time, if enemy is too strong to be killed with only half, pick another 
+<br />
+(try to find easy targets that only require a fleet or two)
+<br />
+
+<br />
+This will get you to the end of protection in pretty good shape (protection was supposed to be 200 turns this set), please remember this is a very general guide, the type of planets you receive from expeditions should determine your starting strategy but its hard to go wrong with the above plan.
+<br />
+
+<br />
+<span style="color: lime">Strengths:</span>
+<br />
+- Can steal all the way up to level 7 tech - Less research planets needed
+<br />
+- Gets PP for ships killed, this can fund investment
+<br />
+
+<br />
+<span style="color: red">Weaknesses:</span>
+<br />
+- Starting Weapon tech isnt as good as some<br />_________________<br />g45reehioehgrgerg</span><span class="gensmall"><br /><br />Last edited by Kenshin on Wed Aug 31, 2005 9:05 am; edited 13 times in total</span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=19&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=19&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="3125"></a><b>Keyan</b></span><br /><span class="postdetails">Vet<br /><img src="images/avatars/202753905243af0590c5db2.png" alt="" border="0" /><br /><br />Joined: 06 Aug 2005<br />Posts: 401<br />Location: Germany</span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=3125&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e#3125"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Fri Aug 12, 2005 12:12 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=3125&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Starting Guide
+<br />
+<span style="font-weight: bold"><span style="color: Violet"><span style="font-size: 18px; line-height: normal">
+<br />
+Agerus </span></span></span>
+<br />
+
+<br />
+<span style="font-weight: bold">Turn 0</span>  
+<br />
+
+<br />
+-   Set Concentration Mode to Military
+<br />
+-   Recall All Fleets
+<br />
+-   Disband All Fleets
+<br />
+-   Fleet All Commanders with 1 ship
+<br />
+-   Send a Fleet on Expedition
+<br />
+-   Send all other Fleets on Training Missions
+<br />
+-   Leave Home Planet Ratio at 40:30:30
+<br />
+
+<br />
+***** <span style="font-style: italic">DO NOT INVEST IN HOME PLANET, INVEST IN ALL OTHERS</span> *****
+<br />
+***** <span style="font-style: italic">NOTE THAT AGERUS MIGHT GET NEGATIVE INCOME AT THE START WHILE IN MILITARY MODE</span> *****
+<br />
+ ***** <span style="font-style: italic">FLEET AND TRAIN ALL COMMANDERS AS YOU GET THEM</span> (Repeatedly) *****
+<br />
+
+<br />
+You will research techs in the following order:
+<br />
+
+<br />
+Fusion Power, Superconductor Computer, Optical Computer, after 200 turns follow the path to <a href="http://www.archspace.org/manual/#Tactics11" target="_blank" class="postlink">Anti Matter Power</a> - Keep research invested depending on your income.
+<br />
+
+<br />
+
+<br />
+<span style="font-weight: bold">Turn 15</span> 
+<br />
+
+<br />
+-  Set Home Planet Ratio to 50/50/0
+<br />
+
+<br />
+
+<br />
+<span style="font-weight: bold">Turn 48</span> (approx)
+<br />
+
+<br />
+-  When your expedition fleet comes back re-send it as soon as possible (When you have 3 planets only send for a 4th at tick 176). Invest 5k PP in your new planet.
+<br />
+
+<br />
+
+<br />
+<span style="font-weight: bold">Turn 60</span> 
+<br />
+
+<br />
+- You might consider to switch to Industry mode to regain some PP so you can invest in research, planets and ship building. 
+<br />
+
+<br />
+<span style="font-weight: bold">Turn 96</span> (approx) 
+<br />
+
+<br />
+- Around this time your expedition fleet will come back, do not re-send it yet. 
+<br />
+
+<br />
+
+<br />
+<span style="font-weight: bold">Turn 110</span> (approx) 
+<br />
+
+<br />
+- You might consider to switch back to Military mode to get more commanders.
+<br />
+
+<br />
+-  Once you have researched Fusion Power, make a Gunboat design and a Corvette design with Fusion Missiles. Start building about 200 Gunboats and 100 Corvettes. Use the Lying Dormant ability of your commanders as this will ensure you the first shot in fleet battles (Weak cloaking).
+<br />
+
+<br />
+
+<br />
+<span style="font-weight: bold">Turn 176</span> (approx) 
+<br />
+
+<br />
+-  Re-send your expedition fleet
+<br />
+-  Do not send commanders on training missions from this point onwards, you will need them for coming out of protection
+<br />
+
+<br />
+
+<br />
+<span style="font-weight: bold">Turn 200</span> 
+<br />
+
+<br />
+- Your goal will be to have your main armada of 20 fleets with Corvettes and Gunboats. Try building up a second armada for defensive purposes.
+<br />
+
+<br />
+-  Declare war on someone in your council (or if your council is allied declare war on another council in your cluster and war them)
+<br />
+
+<br />
+- Don't forget to scout your target. Send a single gunboat to your enemy and check the battle report (send a bad commander)
+<br />
+
+<br />
+Try not to send your fleet armada out as long as you don't have a 2nd set for defense. If enemy is too strong to be killed with just a few fleets, pick another target (try to find easy targets first)
+<br />
+
+<br />
+This will get you to the end of protection with a pretty strong force.   (protection was supposed to be 200 turns this set). Agerus is a war race, use this advantage as early as possible. Please remember this is a very general guide, the type of planets you receive from expeditions should determine your starting strategy but its hard to go wrong with the above plan. 
+<br />
+
+<br />
+
+<br />
+<span style="color: lime">Strenghts:</span>
+<br />
+- Military CM +4 ensures that you can get a lot of commanders early on.
+<br />
+- Very good fleet commanders
+<br />
+- Decent projects
+<br />
+
+<br />
+<span style="color: red">Weaknesses:</span>
+<br />
+- Cannot spy, lagging in research in the mid-game<br />_________________<br />Valhalla - Eldar (#1262)
+<br />
+
+<br />
+<span style="font-size: 9px; line-height: normal">Proud to have been in:
+<br />
+
+<br />
+AVN - LEGION - Targoid Empire - DSWL - 21CN </span></span><span class="gensmall"><br /><br />Last edited by Keyan on Wed Aug 31, 2005 1:00 pm; edited 1 time in total</span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=425&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=425&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <a href="profile.php?mode=viewprofile&amp;u=425&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_msnm.gif" alt="MSN Messenger" title="MSN Messenger" border="0" /></a><script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="4557"></a><b>DarkArchon</b></span><br /><span class="postdetails">Vet<br /><img src="images/avatars/200731164842f5212870752.gif" alt="" border="0" /><br /><br />Joined: 06 Aug 2005<br />Posts: 291<br />Location: (Stationed) Ft. Campbell, KY (Deployed) The Sandbox AKA Iraq</span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=4557&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e#4557"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Tue Aug 16, 2005 10:42 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: Re: New beginner guide (to be continued...)</span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=4557&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody"></span><table width="90%" cellspacing="1" cellpadding="3" border="0" align="center"><tr> 	  <td><span class="genmed"><b>Keyan wrote:</b></span></td>	</tr>	<tr>	  <td class="quote">Also, may be a general beginner guide for "absolute" newcomers would be useful (general  functions of the game). Any takers?</td>	</tr></table><span class="postbody">
+<br />
+
+<br />
+<a href="http://www.orderofatlas.com/as/noobhelp.html" target="_blank">http://www.orderofatlas.com/as/noobhelp.html</a> That one's pretty general, I wrote it a few sets ago so some of it needs to be tweeked (such as blockades and ship building).  
+<br />
+
+<br />
+Great job on the race guides <img src="images/smiles/icon_smile.gif" alt="Smile" border="0" /> you guys mind if I put those on the OOA site?<br />_________________<br /><a href="http://www.orderofatlas.com" target="_blank" class="postlink"><img src="http://www.orderofatlas.com/assets/sigpic2.jpg" border="0" /></a>
+<br />
+<span style="font-size: 9px; line-height: normal"><a href="http://www.orderofatlas.com" target="_blank" class="postlink">http://www.orderofatlas.com</a></span></span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=496&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=496&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a> <a href="mailto:DarkArchon@orderofatlas.com"><img src="templates/SpacePilot3K/images/lang_english/icon_email.gif" alt="Send e-mail" title="Send e-mail" border="0" /></a> <a href="http://www.OrderOfAtlas.com" target="_userwww"><img src="templates/SpacePilot3K/images/lang_english/icon_www.gif" alt="Visit poster's website" title="Visit poster's website" border="0" /></a> <a href="aim:goim?screenname=DimArchon84&amp;message=Hello+Are+you+there?"><img src="templates/SpacePilot3K/images/lang_english/icon_aim.gif" alt="AIM Address" title="AIM Address" border="0" /></a> <a href="http://edit.yahoo.com/config/send_webmesg?.target=DimArchon84&amp;.src=pg"><img src="templates/SpacePilot3K/images/lang_english/icon_yim.gif" alt="Yahoo Messenger" title="Yahoo Messenger" border="0" /></a> <a href="profile.php?mode=viewprofile&amp;u=496&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_msnm.gif" alt="MSN Messenger" title="MSN Messenger" border="0" /></a><script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=144263905"><img src="templates/SpacePilot3K/images/lang_english/icon_icq_add.gif" alt="ICQ Number" title="ICQ Number" border="0" /></a>');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=144263905"><img src="templates/SpacePilot3K/images/lang_english/icon_icq_add.gif" alt="ICQ Number" title="ICQ Number" border="0" /></a></div><div style="position:absolute;left:4px;top:2px"><a href="http://wwp.icq.com/144263905#pager"><img src="http://web.icq.com/whitepages/online?icq=144263905&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=144263905"><img src="templates/SpacePilot3K/images/lang_english/icon_icq_add.gif" alt="ICQ Number" title="ICQ Number" border="0" /></a></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="4576"></a><b>Keyan</b></span><br /><span class="postdetails">Vet<br /><img src="images/avatars/202753905243af0590c5db2.png" alt="" border="0" /><br /><br />Joined: 06 Aug 2005<br />Posts: 401<br />Location: Germany</span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=4576&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e#4576"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Tue Aug 16, 2005 11:49 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=4576&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">well... the structure and everything was done by Kenshy-Boy which I really like btw <img src="images/smiles/icon_smile.gif" alt="Smile" border="0" />
+<br />
+
+<br />
+hope to see more racial guides soon (blaze said he would do Evintos)...
+<br />
+
+<br />
+below you find the formatting stuff...
+<br />
+
+<br />
+</span><table width="90%" cellspacing="1" cellpadding="3" border="0" align="center"><tr> 	  <td><span class="genmed"><b>Code:</b></span></td>	</tr>	<tr>	  <td class="code">
+<br />
+Starting Guide
+<br />
+&#91;b&#93;&#91;color=blue&#93;&#91;size=18&#93;
+<br />
+Tecanoid &#91;/size&#93;&#91;/color&#93;&#91;/b&#93;
+<br />
+
+<br />
+&#91;b&#93;Turn 0&#91;/b&#93;&nbsp; 
+<br />
+
+<br />
+-&nbsp; &nbsp;Set Concentration Mode to Military
+<br />
+-&nbsp; &nbsp;Recall All Fleets
+<br />
+-&nbsp; &nbsp;Disband All Fleets
+<br />
+-&nbsp; &nbsp;Fleet All Commanders with 1 ship
+<br />
+-&nbsp; &nbsp;Send a Fleet on Expedition
+<br />
+-&nbsp; &nbsp;Send all other Fleets on Training Missions
+<br />
+-&nbsp; &nbsp;Leave Home Planet Ratio at 40&#58;30&#58;30
+<br />
+
+<br />
+***** &#91;i&#93;DO NOT INVEST IN HOME PLANET, INVEST IN ALL OTHERS&#91;/i&#93; *****
+<br />
+&nbsp;***** &#91;i&#93;FLEET AND TRAIN ALL COMMANDERS AS YOU GET THEM&#91;/i&#93; &#40;Repeatedly&#41; *****
+<br />
+
+<br />
+You will research techs in the following order&#58;
+<br />
+
+<br />
+Ultralight Communication, Non-linear Programming, Advanced Encryption Algorithm, Hyperspace Communication.&nbsp; - Keep research invested.
+<br />
+
+<br />
+
+<br />
+&#91;b&#93;Turn 15&#91;/b&#93; 
+<br />
+
+<br />
+-&nbsp; Set Home Planet Ratio to 50/50/0
+<br />
+
+<br />
+
+<br />
+&#91;b&#93;Turn 48&#91;/b&#93; &#40;approx&#41;
+<br />
+
+<br />
+-&nbsp; When your expedition fleet comes back re-send it as soon as possible &#40;When you have 3 planets only send for a 4th at tick 176&#41;
+<br />
+
+<br />
+
+<br />
+&#91;b&#93;Turn 80&#91;/b&#93; 
+<br />
+
+<br />
+- Start building Corvettes with Nuclear Missiles &#40;do not fleet them yet, all commanders should still be training&#41;
+<br />
+
+<br />
+
+<br />
+&#91;b&#93;Turn 90&#91;/b&#93; 
+<br />
+
+<br />
+-&nbsp; Change to Industry Mode when you have 20 commanders
+<br />
+-&nbsp; Set Concentration Mode to Industry
+<br />
+
+<br />
+
+<br />
+&#91;b&#93;Turn 96&#91;/b&#93; &#40;approx&#41; 
+<br />
+
+<br />
+-&nbsp; Re-send your expedition fleet
+<br />
+
+<br />
+
+<br />
+&#91;b&#93;Turn 176&#91;/b&#93; &#40;approx&#41; 
+<br />
+
+<br />
+-&nbsp; Re-send your expedition fleet
+<br />
+-&nbsp; Do not send commanders on training missions from this point onwards, you will need them for coming out of protection
+<br />
+
+<br />
+
+<br />
+&#91;b&#93;Turn 200&#91;/b&#93; 
+<br />
+
+<br />
+-&nbsp; Declare war on someone in your council &#40;or if your council is allied declare war on another council in your cluster and war them&#41;
+<br />
+
+<br />
+
+<br />
+Try to send only half your ships at a time, if enemy is too strong to be killed with only half, pick another 
+<br />
+&#40;try to find easy targets that only require a fleet or two&#41;
+<br />
+
+<br />
+This will get you to the end of protection in pretty good shape &#40;protection was supposed to be 200 turns this set&#41;, please remember this is a very general guide, the type of planets you receive from expeditions should determine your starting strategy but its hard to go wrong with the above plan.
+<br />
+
+<br />
+&#91;color=lime&#93;Strengths&#58;&#91;/color&#93;
+<br />
+- Can steal all the way up to level 7 tech - Less research planets needed
+<br />
+- Gets PP for ships killed, this can fund investment
+<br />
+
+<br />
+&#91;color=red&#93;Weaknesses&#58;&#91;/color&#93;
+<br />
+- Starting Weapon tech isnt as good as some</td>	</tr></table><span class="postbody"><br />_________________<br />Valhalla - Eldar (#1262)
+<br />
+
+<br />
+<span style="font-size: 9px; line-height: normal">Proud to have been in:
+<br />
+
+<br />
+AVN - LEGION - Targoid Empire - DSWL - 21CN </span></span><span class="gensmall"><br /><br />Last edited by Keyan on Tue Aug 16, 2005 11:59 am; edited 2 times in total</span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=425&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=425&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <a href="profile.php?mode=viewprofile&amp;u=425&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_msnm.gif" alt="MSN Messenger" title="MSN Messenger" border="0" /></a><script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="4933"></a><b>blaze</b></span><br /><span class="postdetails">Helper<br /><img src="images/avatars/542813442f69271c2920.jpg" alt="" border="0" /><br /><br />Joined: 05 Aug 2005<br />Posts: 83<br />Location: Antioch, Cali</span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=4933&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e#4933"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Wed Aug 17, 2005 4:20 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=4933&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Starting Guide 
+<br />
+<span style="font-weight: bold"><span style="color: red"><span style="font-size: 18px; line-height: normal"> 
+<br />
+Evintos</span></span></span> 
+<br />
+
+<br />
+<span style="font-weight: bold">Turn 0</span>  
+<br />
+
+<br />
+-   Set Concentration Mode to Military 
+<br />
+-   Recall All Fleets 
+<br />
+-   Disband All Fleets 
+<br />
+-   Fleet All Commanders with 1 ship 
+<br />
+-   Send a Fleet on Expedition 
+<br />
+-   Send all other Fleets on Training Missions 
+<br />
+-   Leave Home Planet Ratio at 40:30:30 
+<br />
+-  que the largest ship if need be check manual
+<br />
+
+<br />
+***** <span style="font-style: italic">DO NOT INVEST IN HOME PLANET, INVEST IN ALL OTHERS</span> ***** 
+<br />
+ ***** <span style="font-style: italic">FLEET AND TRAIN ALL COMMANDERS AS YOU GET THEM</span> (Repeatedly) ***** 
+<br />
+
+<br />
+You will research techs in the following order: 
+<br />
+
+<br />
+Cold Fusion, Unified Field Theory, Optical Computer, Atomic Manipulation, Anti-Matter Power., Optical Computer, after 200 turns follow the path to get amm quickly- Keep research invested no matter what.
+<br />
+
+<br />
+<span style="font-weight: bold">Turn 48</span> (approx) 
+<br />
+
+<br />
+-  When your expedition fleet comes back re-send it as soon as possible, make sure you set all planets exept Ultra Rich to 50/50 (When you have 3 planets only send for a 4th at tick 176). Invest 5k PP in your new planet. 
+<br />
+
+<br />
+
+<br />
+<span style="font-weight: bold">Turn 96</span> (approx) 
+<br />
+
+<br />
+- Around this time your expedition fleet will come back, do not re-send it yet
+<br />
+- Switch over to Research Mode, you will still be gianing good pp even with bad planets
+<br />
+
+<br />
+
+<br />
+<span style="font-weight: bold">Turn 176</span> (approx) 
+<br />
+
+<br />
+-  Re-send your expedition fleet 
+<br />
+-  Do not send commanders on training missions from this point onwards, you will need them for coming out of protection 
+<br />
+- if you kept queing right you should be able to make either tons of corvettes or frigates to fill up 20 fleets with fusion and lvl 2 computer.
+<br />
+
+<br />
+<span style="font-weight: bold">Turn 200</span> 
+<br />
+
+<br />
+- Your goal will be to have your main armada of 20 fleets with Corvettes and Gunboats. Try building up a second armada for defensive purposes. 
+<br />
+
+<br />
+-  Declare war on someone in your council (or if your council is allied declare war on another council in your cluster and war them) 
+<br />
+
+<br />
+- Don't forget to scout your target. Send a single gunboat to your enemy and check the battle report (send a bad commander) 
+<br />
+
+<br />
+Try not to send your fleet armada out as long as you don't have a 2nd set for defense. If enemy is too strong to be killed with just a few fleets, pick another target (try to find easy targets first) 
+<br />
+
+<br />
+This will get you to the end of protection with a pretty strong force.   (protection was supposed to be 200 turns this set). 
+<br />
+
+<br />
+<span style="color: lime">Strenghts:</span> 
+<br />
++ good starting techs
+<br />
++ quick research 
+<br />
++ great production(yes evintos are the production whores)
+<br />
++ planets should terraform quickly, no breath plus alot of efficiency
+<br />
+<span style="color: red">Weaknesses:</span> 
+<br />
+- low amount of commies at the beginning
+<br />
+- losses research edge around gaining nova<br />_________________<br /><img src="http://kenshin.ascommunity.info/sig26.gif" border="0" />
+<br />
+
+<br />
+Federation, Antioch Garden, MK, CN, NC, SW</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=11&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=11&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a> <a href="mailto:headmasterblaze@hotmail.com"><img src="templates/SpacePilot3K/images/lang_english/icon_email.gif" alt="Send e-mail" title="Send e-mail" border="0" /></a>  <a href="aim:goim?screenname=kenshinblaze@aol.com&amp;message=Hello+Are+you+there?"><img src="templates/SpacePilot3K/images/lang_english/icon_aim.gif" alt="AIM Address" title="AIM Address" border="0" /></a>  <a href="profile.php?mode=viewprofile&amp;u=11&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_msnm.gif" alt="MSN Messenger" title="MSN Messenger" border="0" /></a><script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="12772"></a><b>Keyan</b></span><br /><span class="postdetails">Vet<br /><img src="images/avatars/202753905243af0590c5db2.png" alt="" border="0" /><br /><br />Joined: 06 Aug 2005<br />Posts: 401<br />Location: Germany</span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=12772&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e#12772"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Fri Sep 23, 2005 6:17 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=12772&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody"><span style="font-weight: bold">Note: </span>with 300 turns protection things may change quite a bit. Take the guides as a rough guideline and remember 4 planets will kick you out of protection <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" /><br />_________________<br />Valhalla - Eldar (#1262)
+<br />
+
+<br />
+<span style="font-size: 9px; line-height: normal">Proud to have been in:
+<br />
+
+<br />
+AVN - LEGION - Targoid Empire - DSWL - 21CN </span></span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=425&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=425&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <a href="profile.php?mode=viewprofile&amp;u=425&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_msnm.gif" alt="MSN Messenger" title="MSN Messenger" border="0" /></a><script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="12799"></a><b>sergio</b></span><br /><span class="postdetails">Moogle Ninja<br /><br /><br />Joined: 25 Aug 2005<br />Posts: 62<br />Location: Anaheim, California</span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=12799&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e#12799"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Fri Sep 23, 2005 11:25 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=12799&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Ill do targoid keyan.<br />_________________<br />-Teddy Bear
+<br />
+
+<br />
+<img src="http://elf.tatsuyasha.com/images/moogle.gif" border="0" />
+<br />
+"KUPO KUPO!"</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=2060&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=2060&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="25855"></a><b>squishymaster</b></span><br /><span class="postdetails">Vet<br /><img src="images/avatars/877837248434002a735a4c.jpg" alt="" border="0" /><br /><br />Joined: 10 Sep 2005<br />Posts: 476<br />Location: Belfast, Maine</span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=25855&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e#25855"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Fri Nov 04, 2005 3:54 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=25855&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">BLAZE,
+<br />
+
+<br />
+On turn 48 what do you mean by switch planet ratio to 50/50?  Which 50 is what stat, I thought maybe 50 50 factory and research, but please specify.  Thanks.</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=2836&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=2836&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a> <a href="mailto:squishymaster@hotmail.com"><img src="templates/SpacePilot3K/images/lang_english/icon_email.gif" alt="Send e-mail" title="Send e-mail" border="0" /></a> <a href="http://www.virtualtoursofmaine.com" target="_userwww"><img src="templates/SpacePilot3K/images/lang_english/icon_www.gif" alt="Visit poster's website" title="Visit poster's website" border="0" /></a> <a href="aim:goim?screenname=Tobias+Engle&amp;message=Hello+Are+you+there?"><img src="templates/SpacePilot3K/images/lang_english/icon_aim.gif" alt="AIM Address" title="AIM Address" border="0" /></a>  <a href="profile.php?mode=viewprofile&amp;u=2836&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_msnm.gif" alt="MSN Messenger" title="MSN Messenger" border="0" /></a><script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="25882"></a><b>Houston</b></span><br /><span class="postdetails">Vet<br /><br /><br />Joined: 06 Sep 2005<br />Posts: 595<br /></span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=25882&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e#25882"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Fri Nov 04, 2005 6:42 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=25882&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">i am almost certian he means 50% factory, 50% research...you really don't need many bases off the start<br />_________________<br />------------------
+<br />
+Houston
+<br />
+Canadian Right
+<br />
+Holiday Camp</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=2655&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=2655&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <a href="profile.php?mode=viewprofile&amp;u=2655&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_msnm.gif" alt="MSN Messenger" title="MSN Messenger" border="0" /></a><script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="26368"></a><b>chiral</b></span><br /><span class="postdetails">Newbie<br /><img src="images/avatars/1005282344436d9ae4196d7.jpg" alt="" border="0" /><br /><br />Joined: 05 Nov 2005<br />Posts: 56<br />Location: Canada, Toronto, Ontario</span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=26368&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e#26368"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Sun Nov 06, 2005 12:02 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=26368&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Anyone thinking of doing a guide for Humans any time soon?<br />_________________<br />.
+<br />
+.
+<br />
+
+<br />
+<img src="http://i21.photobucket.com/albums/b254/chiral-pics/chiral.jpg" border="0" /></span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=5309&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=5309&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="26369"></a><b>squishymaster</b></span><br /><span class="postdetails">Vet<br /><img src="images/avatars/877837248434002a735a4c.jpg" alt="" border="0" /><br /><br />Joined: 10 Sep 2005<br />Posts: 476<br />Location: Belfast, Maine</span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=26369&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e#26369"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Sun Nov 06, 2005 12:06 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=26369&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">haha, probably not they are few and far between.  But someone might have one and not want to share it.  Like I have a rough rough sketch of Xeloss start modified for 300 turn protection.</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=2836&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=2836&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a> <a href="mailto:squishymaster@hotmail.com"><img src="templates/SpacePilot3K/images/lang_english/icon_email.gif" alt="Send e-mail" title="Send e-mail" border="0" /></a> <a href="http://www.virtualtoursofmaine.com" target="_userwww"><img src="templates/SpacePilot3K/images/lang_english/icon_www.gif" alt="Visit poster's website" title="Visit poster's website" border="0" /></a> <a href="aim:goim?screenname=Tobias+Engle&amp;message=Hello+Are+you+there?"><img src="templates/SpacePilot3K/images/lang_english/icon_aim.gif" alt="AIM Address" title="AIM Address" border="0" /></a>  <a href="profile.php?mode=viewprofile&amp;u=2836&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_msnm.gif" alt="MSN Messenger" title="MSN Messenger" border="0" /></a><script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="26400"></a><b>destroyer</b></span><br /><span class="postdetails">Vet<br /><img src="images/avatars/194704131438d47f1b265f.gif" alt="" border="0" /><br /><br />Joined: 06 Aug 2005<br />Posts: 819<br />Location: 1n 73h D4RK S1D3</span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=26400&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e#26400"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Sun Nov 06, 2005 3:25 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=26400&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">blaze, in the evintos guide you said optical computer twice for techs in order section.<br />_________________<br />I     /-\|\/|     73|-|     |_|83R     1337     |\|008 
+<br />
+800Y3/-\|-|!!!!
+<br />
+
+<br />
+<img src="http://img48.imageshack.us/img48/7406/infantry8cu.jpg" border="0" /> 
+<br />
+
+<br />
+
+<br />
+Archspace freaks, UNITE!!!!!!</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=599&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=599&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="26716"></a><b>goodie</b></span><br /><span class="postdetails">Forum Whore<br /><img src="images/avatars/190075245943ff5fe4acb9c.jpg" alt="" border="0" /><br /><br />Joined: 05 Aug 2005<br />Posts: 1880<br />Location: stuck in a bad place with korean pop... /me damns SES</span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=26716&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e#26716"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Sun Nov 06, 2005 7:20 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=26716&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody"></span><table width="90%" cellspacing="1" cellpadding="3" border="0" align="center"><tr> 	  <td><span class="genmed"><b>chiral wrote:</b></span></td>	</tr>	<tr>	  <td class="quote">Anyone thinking of doing a guide for Humans any time soon?</td>	</tr></table><span class="postbody">
+<br />
+
+<br />
+general idea: send out 3 expeditions (one after another) work on research, try to get animater missiles asap 
+<br />
+
+<br />
+techs needed for AMM in some form of order:
+<br />
+quantom physics, high tempreture superconductor, nuclear power, laser, hyperspace physics
+<br />
+chaos algebra, gravitation physics, fusion power, plasma mechanics
+<br />
+cold fusion, unified feild theory
+<br />
+atomic manipulation
+<br />
+ani mater power<br />_________________<br /></span><table width="90%" cellspacing="1" cellpadding="3" border="0" align="center"><tr> 	  <td><span class="genmed"><b>Quote:</b></span></td>	</tr>	<tr>	  <td class="quote">"Those who abandon their friends are worse than trash" - Uchiha Obito </td>	</tr></table><span class="postbody"></span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=16&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=16&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a> <a href="mailto:goodie01@gmail.com"><img src="templates/SpacePilot3K/images/lang_english/icon_email.gif" alt="Send e-mail" title="Send e-mail" border="0" /></a>    <a href="profile.php?mode=viewprofile&amp;u=16&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_msnm.gif" alt="MSN Messenger" title="MSN Messenger" border="0" /></a><script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="27398"></a><b>chiral</b></span><br /><span class="postdetails">Newbie<br /><img src="images/avatars/1005282344436d9ae4196d7.jpg" alt="" border="0" /><br /><br />Joined: 05 Nov 2005<br />Posts: 56<br />Location: Canada, Toronto, Ontario</span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=27398&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e#27398"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Tue Nov 08, 2005 12:03 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=27398&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Kenshin mentioned something like this:
+<br />
+"Can steal all the way up to level 7 tech - Less research planets needed "
+<br />
+
+<br />
+How does this work?<br />_________________<br />.
+<br />
+.
+<br />
+
+<br />
+<img src="http://i21.photobucket.com/albums/b254/chiral-pics/chiral.jpg" border="0" /></span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=5309&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=5309&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr align="center">
+		<td class="catBottom" colspan="2" height="28"><table cellspacing="0" cellpadding="0" border="0">
+			<tr><form method="post" action="viewtopic.php?t=210&amp;start=0&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e">
+				<td align="center"><span class="gensmall">Display posts from previous: <select name="postdays"><option value="0" selected="selected">All Posts</option><option value="1">1 Day</option><option value="7">7 Days</option><option value="14">2 Weeks</option><option value="30">1 Month</option><option value="90">3 Months</option><option value="180">6 Months</option><option value="364">1 Year</option></select>&nbsp;<select name="postorder"><option value="asc" selected="selected">Oldest First</option><option value="desc">Newest First</option></select>&nbsp;<input type="submit" value="Go" class="liteoption" name="submit" /></span></td>
+			 </form></tr>
+		</table></td>
+	</tr>
+</table>
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0" align="center">
+  <tr>
+	<td align="left" valign="middle" nowrap="nowrap"><span class="nav"><a href="posting.php?mode=newtopic&amp;f=8&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e" onMouseOver="rollover('bottom_newtopic','templates/SpacePilot3K/images/lang_english/post_on.gif');" onMouseOut="rollover('bottom_newtopic','templates/SpacePilot3K/images/lang_english/post_off.gif');"><img name="bottom_newtopic" src="templates/SpacePilot3K/images/lang_english/post_off.gif" border="0" alt="Post new topic" align="middle"/></a>&nbsp;&nbsp;&nbsp;<a href="posting.php?mode=reply&amp;t=210&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e" onMouseOver="rollover('bottom_postreply','templates/SpacePilot3K/images/lang_english/reply_on.gif');" onMouseOut="rollover('bottom_postreply','templates/SpacePilot3K/images/lang_english/reply_off.gif');"><img name="bottom_postreply" src="templates/SpacePilot3K/images/lang_english/reply_off.gif" border="0" alt="Reply to topic" align="middle" /></a></span></td>
+	<td align="left" valign="middle" width="100%"><span class="nav">&nbsp;&nbsp;&nbsp;<a href="index.php?sid=4591c4fbef357216c8e03ed6ab84bb7e" class="nav">Archspace Forum Index</a>
+	  -> <a href="viewforum.php?f=8&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e" class="nav">Help Board</a></span></td>
+	<td align="right" valign="top" nowrap="nowrap"><span class="gensmall">All times are GMT - 6 Hours</span><br /><span class="nav">Goto page <b>1</b>, <a href="viewtopic.php?t=210&amp;postdays=0&amp;postorder=asc&amp;start=15&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e">2</a>, <a href="viewtopic.php?t=210&amp;postdays=0&amp;postorder=asc&amp;start=30&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e">3</a>&nbsp;&nbsp;<a href="viewtopic.php?t=210&amp;postdays=0&amp;postorder=asc&amp;start=15&amp;sid=4591c4fbef357216c8e03ed6ab84bb7e">Next</a></span>
+	  </td>
+  </tr>
+  <tr>
+	<td align="left" colspan="3"><span class="nav">Page <b>1</b> of <b>3</b></span></td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="2" border="0" align="center">
+  <tr>
+	<td width="40%" valign="top" nowrap="nowrap" align="left"><span class="gensmall"></span><br />
+	  &nbsp;<br />
+	  </td>
+	<td align="right" valign="top" nowrap="nowrap">
+<form method="get" name="jumpbox" action="viewforum.php?sid=4591c4fbef357216c8e03ed6ab84bb7e" onSubmit="if(document.jumpbox.f.value == -1){return false;}"><table cellspacing="0" cellpadding="0" border="0">
+	<tr>
+		<td nowrap="nowrap"><span class="gensmall">Jump to:&nbsp;<select name="f" onchange="if(this.options[this.selectedIndex].value != -1){ forms['jumpbox'].submit() }"><option value="-1">Select a forum</option><option value="-1">&nbsp;</option><option value="-1">Archspace - Public</option><option value="-1">----------------</option><option value="1">News</option><option value="13">Change Log</option><option value="3">Player Board</option><option value="4">Bug Board</option><option value="5">Suggestion Board</option><option value="8"selected="selected">Help Board</option><option value="11">Recruiting</option><option value="12">Community Art and Literature</option><option value="9">Politics/Religion Forum</option></select><input type="hidden" name="sid" value="4591c4fbef357216c8e03ed6ab84bb7e" />&nbsp;<input type="submit" value="Go" class="liteoption" /></span></td>
+	</tr>
+</table> </form>
+
+<span class="gensmall">You <b>can</b> post new topics in this forum<br />You <b>can</b> reply to topics in this forum<br />You <b>cannot</b> edit your posts in this forum<br />You <b>cannot</b> delete your posts in this forum<br />You <b>cannot</b> vote in polls in this forum<br /></span></td>
+  </tr>
+</table>
+
+
+<div align="center"><span class="copyright"><br /><br />
+<!--
+	We request you retain the full copyright notice below including the link to www.phpbb.com.
+	This not only gives respect to the large amount of time given freely by the developers
+	but also helps build interest, traffic and use of phpBB 2.0. If you cannot (for good
+	reason) retain the full copyright we request you at least leave in place the
+	Powered by phpBB  line, with phpBB linked to www.phpbb.com. If you refuse
+	to include even this then support on our forums may be affected.
+
+	The phpBB Group : 2002
+// -->
+Space Pilot 3K template by <a href="http://www.jakob-persson.com" class="copyright">Jakob Persson</a>.<br />
+Powered by <a href="http://www.phpbb.com/" target="_phpbb" class="copyright">phpBB</a>  &copy; 2001 phpBB Group<br /></span></div>
+		</td>
+	</tr>
+	<tr>
+		<td align="center">
+			<script type="text/javascript"><!--
+			google_ad_client = "pub-9347639997854244";
+			google_ad_width = 728;
+			google_ad_height = 90;
+			google_ad_format = "728x90_as";
+			google_ad_type = "text_image";
+			google_ad_channel ="";
+			google_color_border = "6699CC";
+			google_color_bg = "003366";
+			google_color_link = "FFFFFF";
+			google_color_url = "AECCEB";
+			google_color_text = "AECCEB";
+			//--></script>
+			<script type="text/javascript"
+			  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+			</script>
+		</td>
+	</tr>
+</table>
+
+</body>
+</html>

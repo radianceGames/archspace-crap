@@ -1,0 +1,542 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>Archspace Beta Forums</TITLE>
+<Style type="text/css">
+A:link, A:visited { text-decoration: none; color: lightblue; }
+A:hover {
+		COLOR: white; 
+}
+INPUT {
+	BACKGROUND-COLOR: black; BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; COLOR: #0AABAA; FONT-FAMILY: verdana, helvetica, sans-serif; FONT-SIZE: 10px; 
+}
+body { 
+	text-align: center;
+	font-family : Arial, sans-serif;
+	color : white;
+	font-size : 8pt;
+	margin-top : 0px;
+	margin-left : 0px;
+	margin-right : 0px;
+	margin-bottom: 0px;
+
+SCROLLBAR-FACE-COLOR: #666666; 
+SCROLLBAR-HIGHLIGHT-COLOR: black; 
+SCROLLBAR-SHADOW-COLOR: #333333; 
+SCROLLBAR-3DLIGHT-COLOR: #333333; 
+SCROLLBAR-ARROW-COLOR: black; 
+SCROLLBAR-TRACK-COLOR: black; 
+SCROLLBAR-DARKSHADOW-COLOR: #333333; 
+} 
+td {
+ font-size : 8pt;
+ 	font-family : Arial, sans-serif;
+}
+</style>
+</HEAD>
+<BODY text=#999999 vLink=#999999 aLink=#999999 link=#999999 bgColor=#000000 leftMargin=0 topMargin=0 rightMargin=0 marginwidth="0" marginheight="0">
+<center><a href="/"><img src="http://www.archspace.org/image/as_game/menu_main.gif" border=0></a></center><br>
+
+<CENTER><!-- TABLE -->
+<TABLE width="90%" border=0>
+  <TBODY>
+  <TR>
+    <TD>&nbsp;&nbsp;<B><a href="/forum/">Archspace Boards</B></a> <BR>&nbsp;&nbsp;
+	(moderated by Mindwarper, zbyte64, DarkJediX, DarkSonax, Boomer, daemorhedron, darkelf) 
+      <P>
+	</TD>
+    <TD vAlign=top align=right>
+		<IMG src="/image/forum/open.gif" border=0>&nbsp;&nbsp; <a href="/forum">Archspace</a>
+      	<BR><IMG src="/image/forum/tline.gif" border=0><IMG src="/image/forum/open.gif" border=0>&nbsp;&nbsp;<a href="as.php?board=player">Player Board</a>
+	<p><a href="pref.php">Preferences</a>
+    </TD>
+	</TR>
+	</TBODY>
+</TABLE>
+	<A href="newtopic.php?board=player">New Topic</A>
+	
+<table align="center" border="0" cellspacing="0" cellpadding="1" width="90%">
+<tr>
+	<td style="background: #999999">
+		<table align="center" border="0" cellspacing="0" cellpadding="5" width="100%">
+		<tr>
+			<td style="background: #000000; text-align: center">
+				<table align="center" border="0" cellspacing="1" cellpadding="5" width="100%">
+				<tr>
+					<TD vAlign=center width="18%" style="background: #555555;"><B>Author</B></TD>
+					<TD vAlign=center style="background: #555555;"><B>Topic:&nbsp;&nbsp; FFF-Fucking Fun Forever</B></TD>				
+				</tr>
+				<tr>
+					<TD vAlign=top width="18%" style="background: #333333;">
+						<B>Benne</B><BR> Normal Player						<p>
+																							</TD>
+					<TD style="background: #333333;" valign=top>
+						<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0> posted 2005-02-05 00:16&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+ 						<A href="edit.php?board=player&id=17570"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			 			<A href="reply.php?board=player&id=17570"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A> </FONT>
+			  			<HR color=#000000 SIZE=-1>
+			  			Thats what I call war ;-)<br />
+<br />
+<br />
+Target<br />
+You can only attack a player who is at war with you.<br />
+ <br />
+Player    Council    Relation    Planets    Power<br />
+   Solid Ice (#252)    Fallen Spacers (#30)    War    3    5,539<br />
+   Penzdragon (#292)    Fallen Spacers (#30)    War    12    18,252<br />
+   thessloy (#314)    Fallen Spacers (#30)    War    4    6,429<br />
+   Ferdinand Magellan (#267)    AAA (#32)    War    4    7,245<br />
+   ACE (#272)    AAA (#32)    War    5    9,365<br />
+   gold (#319)    AAA (#32)    War    2    5,983<br />
+   Naglfar (#341)    AAA (#32)    War    4    5,881<br />
+   stalin (#358)    AAA (#32)    War    5    10,110<br />
+   mojacko (#370)    AAA (#32)    War    4    11,206<br />
+   Orangutan (#16)    ASC-Evil (#8)    War    11    16,419<br />
+   Negi Springfield (#61)    ASC-Evil (#8)    War    9    14,703<br />
+   intellect (#145)    ASC-Evil (#8)    War    6    14,331<br />
+   Frostbyte (#530)    ASC-Evil (#8)    War    3    7,072<br />
+   ArKail (#11)    Antioch Garden (#6)    War    4    8,241<br />
+   Stixz (#29)    Antioch Garden (#6)    War    5    9,614<br />
+   Obsidian (#37)    Antioch Garden (#6)    War    5    8,753<br />
+   SeeD Forsakened (#44)    Antioch Garden (#6)    War    7    15,960<br />
+   argomtar (#48)    Antioch Garden (#6)    War    6    16,640<br />
+   RoFL CoPTeR (#62)    Antioch Garden (#6)    War    7    11,024<br />
+   ghaele (#63)    Antioch Garden (#6)    War    3    7,871<br />
+   Zechs Merquise (#92)    Antioch Garden (#6)    War    5    7,718<br />
+   Eclipse (#101)    Antioch Garden (#6)    War    5    10,114<br />
+   SeeD-Spartan (#110)    Antioch Garden (#6)    War    5    9,111<br />
+   Petyr the Strange (#322)    Antioch Garden (#6)    War    6    8,987<br />
+   AFI (#152)    Holiday Camp (#17)    War    4    11,266<br />
+   Dive2Blue (#153)    Holiday Camp (#17)    War    9    11,188<br />
+   Justice (#160)    Holiday Camp (#17)    War    4    5,390<br />
+   Kaltrec (#164)    Holiday Camp (#17)    War    4    7,678<br />
+   Viox (#194)    Holiday Camp (#17)    War    5    8,139<br />
+   coamdr (#209)    Holiday Camp (#17)    War    5    8,587<br />
+   Elcian (#218)    Holiday Camp (#17)    War    4    7,088<br />
+   Maebus (#295)    Holiday Camp (#17)    War    6    10,179<br />
+   BitterD (#519)    Holiday Camp (#17)    War    3    5,874<br />
+   Yuguru (#900)    Holiday Camp (#17)    War    15    16,790<br />
+   Catch (#1)    Ascension (#1)    Total War    3    5,680<br />
+   HempKnight (#34)    Ascension (#1)    Total War    13    17,883<br />
+   flash (#168)    Ascension (#1)    Total War    7    18,833<br />
+   Yavimaya Chosen (#176)    Ascension (#1)    Total War    9    19,296<br />
+   Lestat (#186)    Ascension (#1)    Total War    7    17,666<br />
+   Knives (#279)    Ascension (#1)    Total War    5    12,211<br />
+   Arcturus (#298)    Ascension (#1)    Total War    8    16,569<br />
+   StammesOpfer (#302)    Ascension (#1)    Total War    5    12,092<br />
+   Epiphany (#362)    Ascension (#1)    Total War    6    11,334<br />
+   Zeo (#384)    Ascension (#1)    Total War    5    16,881<br />
+   beekay (#52)    Let's do this (#38)    War    7    9,953<br />
+   Ragnorok (#333)    Let's do this (#38)    War    4    6,923<br />
+   Oni Target (#335)    Let's do this (#38)    War    4    8,968<br />
+   Arch_Mc (#343)    Let's do this (#38)    War    5    9,185<br />
+   Gazza (#350)    Let's do this (#38)    War    5    10,010<br />
+   Sigfrid (#356)    Let's do this (#38)    War    4    6,673<br />
+   Bia Please (#363)    Let's do this (#38)    War    4    10,663<br />
+   Tirless (#365)    Let's do this (#38)    War    5    12,260<br />
+   Mitrious (#366)    Let's do this (#38)    War    5    8,365<br />
+   Grennel (#414)    Let's do this (#38)    War    5    7,448<br />
+   Fluffynugz (#695)    Let's do this (#38)    War    3    5,142<br />
+   Conflicter (#746)    Let's do this (#38)    War    5    10,587<br />
+   Cryosonic (#800)    Let's do this (#38)    War    3    5,316<br />
+   Rocky the Rock (#83)    Death Row (#12)    War    6    10,959<br />
+   Strossus (#115)    Death Row (#12)    War    5    10,476<br />
+   Calzone (#130)    Death Row (#12)    War    5    16,578<br />
+   Zulwarn (#141)    Death Row (#12)    War    4    10,254<br />
+   Catprog (#172)    Death Row (#12)    War    4    12,360<br />
+   Xerxes (#690)    Death Row (#12)    War    3    5,170<br />
+   BDragon (#721)    Death Row (#12)    War    3    8,654<br />
+   Death Fire (#750)    Death Row (#12)    War    3    5,147<br />
+   neoatomium (#767)    Death Row (#12)    War    3    5,136<br />
+   Space Lord Zip (#21)    [ASC] Dragoons (#2)    Total War    8    17,075<br />
+   Avenger (#32)    [ASC] Dragoons (#2)    Total War    6    12,421<br />
+   Haiducci (#41)    [ASC] Dragoons (#2)    Total War    5    6,413<br />
+   starfuck (#72)    [ASC] Dragoons (#2)    Total War    3    5,075<br />
+   Skrar (#74)    [ASC] Dragoons (#2)    Total War    4    7,539<br />
+   Alonsus (#84)    [ASC] Dragoons (#2)    Total War    7    16,783<br />
+   Rath (#106)    [ASC] Dragoons (#2)    Total War    3    16,836<br />
+   Reciprocity (#111)    [ASC] Dragoons (#2)    Total War    7    15,974<br />
+   Vicious (#116)    [ASC] Dragoons (#2)    Total War    7    15,750<br />
+   Storm-W (#190)    [ASC] Dragoons (#2)    Total War    7    16,727<br />
+   Urza (#303)    [ASC] Dragoons (#2)    Total War    8    14,047<br />
+   Altair (#407)    [ASC] Dragoons (#2)    Total War    4    7,248<br />
+   Vampyre (#412)    [ASC] Dragoons (#2)    Total War    6    17,319<br />
+   ChaoticKitten (#534)    [ASC] Dragoons (#2)    Total War    4    6,561<br />
+   0nslaught (#731)    [ASC] Dragoons (#2)    Total War    3    5,462<br />
+   Ligon (#13)    SINTEX (#9)    War    6    16,928<br />
+   Munch (#87)    SINTEX (#9)    War    6    13,050<br />
+   Sir Mordred (#94)    SINTEX (#9)    War    4    7,845<br />
+   Kougar (#108)    SINTEX (#9)    War    3    5,156<br />
+   Nuckelz (#196)    SINTEX (#9)    War    11    18,509<br />
+   Duff Man (#211)    SINTEX (#9)    War    11    17,733<br />
+   Kenshin (#214)    SINTEX (#9)    War    9    16,560<br />
+   TT (#238)    SINTEX (#9)    War    6    14,809<br />
+   RobinoftheHood (#117)    Ambrose Crew (#16)    War    3    8,440<br />
+   Aussiewan (#118)    Ambrose Crew (#16)    War    6    10,840<br />
+   God (#124)    Ambrose Crew (#16)    War    3    5,281<br />
+   Ambrose (#135)    Ambrose Crew (#16)    War    5    19,008<br />
+   SemperFi (#142)    Ambrose Crew (#16)    War    5    9,336<br />
+   Hellion (#166)    Ambrose Crew (#16)    War    3    12,797<br />
+   Bahevik (#193)    Ambrose Crew (#16)    War    4    8,231<br />
+   Illusion (#231)    Ambrose Crew (#16)    War    6    7,408<br />
+   Denny (#565)    Ambrose Crew (#16)    War    4    7,241<br />
+   HeadHunter (#576)    Ambrose Crew (#16)    War    6    11,929<br />
+   spartan117 (#583)    Ambrose Crew (#16)    War    3    8,581<br />
+   Omnesilere (#588)    Ambrose Crew (#16)    War    2    5,117<br />
+   ARusher (#603)    Ambrose Crew (#16)    War    5    9,592<br />
+   ColdBlood (#623)    Ambrose Crew (#16)    War    3    8,561<br />
+   nevermind (#650)    Ambrose Crew (#16)    War    5    8,793<br />
+   CreepingDeath (#914)    Ambrose Crew (#16)    War    3    7,027<br />
+   SantaCruz (#30)    Searching light (#31)    War    5    6,269<br />
+   GodFather (#261)    Searching light (#31)    War    5    11,111<br />
+   Kidj (#269)    Searching light (#31)    War    6    11,042<br />
+   Absolute Carnage (#271)    Searching light (#31)    War    2    5,390<br />
+   positron (#286)    Searching light (#31)    War    5    7,900<br />
+   Rino-T T (#287)    Searching light (#31)    War    7    13,159<br />
+   Milla Jovovich (#288)    Searching light (#31)    War    5    9,357<br />
+   Pudmaster (#533)    Searching light (#31)    War    8    18,057<br />
+   Kirax (#570)    Searching light (#31)    War    3    8,298<br />
+   Nephilim (#585)    Searching light (#31)    War    4    8,361<br />
+   mcyavel (#811)    Searching light (#31)    War    4    7,163<br />
+   Altheusius (#895)    Searching light (#31)    War    3    6,861<br />
+   Albatross (#919)    Searching light (#31)    War    5    9,268<br />
+   connor Macloud (#3)    Dark Alliance (#3)    War    6    12,786<br />
+   DT (#20)    Dark Alliance (#3)    War    9    18,594<br />
+   AlDjotte (#24)    Dark Alliance (#3)    War    6    14,991<br />
+   Death By Murder (#46)    Dark Alliance (#3)    War    5    9,504<br />
+   Lucon Seori (#64)    Dark Alliance (#3)    War    5    9,333<br />
+   Hobo (#75)    Dark Alliance (#3)    War    6    14,941<br />
+   Chewie (#79)    Dark Alliance (#3)    War    4    8,583<br />
+   mad cheesy monkeys (#86)    Dark Alliance (#3)    War    6    11,966<br />
+   Hyperforce (#704)    Dark Alliance (#3)    War    3    6,355<br />
+   smooth81-Bad MoFo (#736)    Dark Alliance (#3)    War    4    8,203<br />
+   redhack (#512)    Nameless Army (#5)    War    6    15,706<br />
+   Binary (#535)    Nameless Army (#5)    War    2    6,401<br />
+   kseuss (#229)    The Beginning (#21)    War    2    6,327<br />
+   Arsenic (#244)    The Beginning (#21)    War    9    18,998<br />
+   dja-vu (#246)    The Beginning (#21)    War    3    5,914<br />
+   Maumu (#250)    The Beginning (#21)    War    4    11,172<br />
+   Deumiere (#257)    The Beginning (#21)    War    6    15,977<br />
+   |rainforest| (#403)    The Beginning (#21)    War    8    13,595<br />
+   Drakindar (#553)    The Beginning (#21)    War    4    7,600<br />
+   Kornellos (#692)    The Beginning (#21)    War    3    5,935<br />
+   Darkchaos (#216)    Spawns legacy (#25)    War    5    12,255<br />
+   Joseph Stalin (#217)    Spawns legacy (#25)    War    4    7,658<br />
+   Fangs (#225)    Spawns legacy (#25)    War    9    11,984<br />
+   Tech Annoyed (#226)    Spawns legacy (#25)    War    5    7,943<br />
+   Los Lobo (#227)    Spawns legacy (#25)    War    3    6,313<br />
+   Skoven (#248)    Spawns legacy (#25)    War    3    5,607<br />
+   Ajax (#255)    Spawns legacy (#25)    War    10    17,934<br />
+   Asjeir (#258)    Spawns legacy (#25)    War    5    8,530<br />
+   AvenDusk (#266)    Spawns legacy (#25)    War    7    18,348<br />
+   secren (#735)    Spawns legacy (#25)    War    3    5,379<br />
+   Miaougoid (#765)    Spawns legacy (#25)    War    9    16,874<br />
+   Vyss Alare (#796)    Spawns legacy (#25)    War    8    12,576<br />
+   silentbell (#609)    fallen nation (#57)    War    2    9,883<br />
+   ave (#615)    fallen nation (#57)    War    3    5,250<br />
+   Zen (#627)    fallen nation (#57)    War    3    7,848<br />
+   rychy (#654)    fallen nation (#57)    War    5    7,025<br />
+   iamgawd (#657)    fallen nation (#57)    War    3    5,411<br />
+   xchengweix (#651)    Sourage (#63)    War    3    5,249<br />
+   hunter (#661)    Sourage (#63)    War    3    5,612<br />
+   Jonnyshot (#703)    Sourage (#63)    War    4    6,154<br />
+   Nameless (#67)    The Prophets (#4)    War    6    11,653<br />
+   Dracar (#507)    The Prophets (#4)    War    4    9,450<br />
+<br />
+<br />
+Well to just mention the people who were in my target list at my ending! Thank's to ya all, i had a outstanding time!<br />
+<br />
+FFF For3ver (No Te ;-))<br />
+<br />
+With best regards<br />
+Ex-Avn Benne<br />
+Tu'Var<br />
+aka ToDieFor<br />
+<br />
+The Force shall be with ya						<P align=right> </P>
+					</TD>
+				</TR>
+	
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Blaze</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-02-05 00:23&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=17571"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=17570"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	goodfight im just sad it doesnt show us who where in the 20k fighting you<p><br>HeadMaster of Antioch Garden			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Furion</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-02-05 00:23&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=17572"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=17570"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	It was fun!<br />
+Congrats to cyph for having defeated us pretty much by himself.<br />
+<br />
+<br />
+Azrael			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>riogilao</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-02-05 00:24&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=17573"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=17570"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	EH EH EH EH aren't we great and cool? :D<p><br>rio<br />
+-TE last recruit<br />
+Freedom Agent			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>riogilao</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-02-05 00:25&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=17575"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=17570"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	1.	Penzdragon (#292) Fallen Spacers (#30) War 12 18,907<br />
+2.	Ferdinand Magellan (#267) AAA (#32) War 4 7,287<br />
+3.	ACE (#272) AAA (#32) War 5 9,449<br />
+4.	stalin (#358) AAA (#32) War 5 10,053<br />
+5.	mojacko (#370) AAA (#32) War 4 11,219<br />
+6.	Orangutan (#16) ASC-Evil (#8) War 11 17,863<br />
+7.	Negi Springfield (#61) ASC-Evil (#8) War 9 15,008<br />
+8.	intellect (#145) ASC-Evil (#8) War 9 15,784<br />
+9.	Tetsusaiga (#284) ASC-Evil (#8) War 11 22,304<br />
+10.	Frostbyte (#530) ASC-Evil (#8) War 3 7,465<br />
+11.	Sangria (#556) ASC-Evil (#8) War 12 20,275<br />
+12.	ZooMZooM (#560) ASC-Evil (#8) War 14 23,914<br />
+13.	Stixz (#29) Antioch Garden (#6) War 6 10,255<br />
+14.	Obsidian (#37) Antioch Garden (#6) War 6 10,898<br />
+15.	SeeD Forsakened (#44) Antioch Garden (#6) War 8 15,584<br />
+16.	HeadMaster Blaze (#47) Antioch Garden (#6) War 10 23,399<br />
+17.	argomtar (#48) Antioch Garden (#6) War 9 22,603<br />
+18.	RoFL CoPTeR (#62) Antioch Garden (#6) War 7 11,191<br />
+19.	ghaele (#63) Antioch Garden (#6) War 3 7,896<br />
+20.	Zechs Merquise (#92) Antioch Garden (#6) War 5 8,110<br />
+21.	Eclipse (#101) Antioch Garden (#6) War 5 10,141<br />
+22.	SeeD-Spartan (#110) Antioch Garden (#6) War 5 9,324<br />
+23.	Petyr the Strange (#322) Antioch Garden (#6) War 6 9,000<br />
+24.	Sheratos (#112) Holiday Camp (#17) War 17 22,885<br />
+25.	Viking (#133) Holiday Camp (#17) War 13 24,363<br />
+26.	AFI (#152) Holiday Camp (#17) War 4 9,497<br />
+27.	Dive2Blue (#153) Holiday Camp (#17) War 17 17,249<br />
+28.	Kaltrec (#164) Holiday Camp (#17) War 4 7,761<br />
+29.	Viox (#194) Holiday Camp (#17) War 5 8,195<br />
+30.	coamdr (#209) Holiday Camp (#17) War 5 8,677<br />
+31.	Elcian (#218) Holiday Camp (#17) War 4 7,404<br />
+32.	Maebus (#295) Holiday Camp (#17) War 6 10,800<br />
+33.	Yuguru (#900) Holiday Camp (#17) War 15 18,061<br />
+34.	Hollow (#26) Ascension (#1) Total War 14 21,387<br />
+35.	nightseer (#31) Ascension (#1) Total War 10 22,144<br />
+36.	HempKnight (#34) Ascension (#1) Total War 14 20,248<br />
+37.	Redeeemr (#38) Ascension (#1) Total War 12 23,534<br />
+38.	Vector (#81) Ascension (#1) Total War 6 23,212<br />
+39.	flash (#168) Ascension (#1) Total War 14 21,976<br />
+40.	Yavimaya Chosen (#176) Ascension (#1) Total War 9 19,851<br />
+41.	Lestat (#186) Ascension (#1) Total War 7 18,294<br />
+42.	Knives (#279) Ascension (#1) Total War 5 12,458<br />
+43.	Arcturus (#298) Ascension (#1) Total War 8 16,797<br />
+44.	StammesOpfer (#302) Ascension (#1) Total War 5 12,825<br />
+45.	Epiphany (#362) Ascension (#1) Total War 6 11,473<br />
+46.	Zeo (#384) Ascension (#1) Total War 5 17,478<br />
+47.	beekay (#52) Let's do this (#38) War 7 10,464<br />
+48.	Oni Target (#335) Let's do this (#38) War 4 9,007<br />
+49.	Arch_Mc (#343) Let's do this (#38) War 5 9,194<br />
+50.	Gazza (#350) Let's do this (#38) War 5 10,320<br />
+51.	Bia Please (#363) Let's do this (#38) War 4 11,707<br />
+52.	Tirless (#365) Let's do this (#38) War 5 12,541<br />
+53.	Mitrious (#366) Let's do this (#38) War 5 8,732<br />
+54.	Grennel (#414) Let's do this (#38) War 5 7,498<br />
+55.	Conflicter (#746) Let's do this (#38) War 5 11,004<br />
+56.	Rocky the Rock (#83) Death Row (#12) War 6 10,983<br />
+57.	Strossus (#115) Death Row (#12) War 5 10,483<br />
+58.	Calzone (#130) Death Row (#12) War 5 17,625<br />
+59.	Zulwarn (#141) Death Row (#12) War 8 13,703<br />
+60.	Catprog (#172) Death Row (#12) War 4 13,377<br />
+61.	BDragon (#721) Death Row (#12) War 3 8,684<br />
+62.	Space Lord Zip (#21) [ASC] Dragoons (#2) Total War 9 18,705<br />
+63.	Avenger (#32) [ASC] Dragoons (#2) Total War 6 12,634<br />
+64.	Skrar (#74) [ASC] Dragoons (#2) Total War 4 7,545<br />
+65.	Alonsus (#84) [ASC] Dragoons (#2) Total War 7 17,006<br />
+66.	Rath (#106) [ASC] Dragoons (#2) Total War 3 17,096<br />
+67.	Reciprocity (#111) [ASC] Dragoons (#2) Total War 8 16,666<br />
+68.	Vicious (#116) [ASC] Dragoons (#2) Total War 7 15,911<br />
+69.	Storm-W (#190) [ASC] Dragoons (#2) Total War 7 16,798<br />
+70.	Urza (#303) [ASC] Dragoons (#2) Total War 9 15,764<br />
+71.	Altair (#407) [ASC] Dragoons (#2) Total War 4 7,285<br />
+72.	Vampyre (#412) [ASC] Dragoons (#2) Total War 6 17,421<br />
+73.	Dreamhaven (#432) [ASC] Dragoons (#2) Total War 14 26,216<br />
+74.	Ligon (#13) SINTEX (#9) War 7 19,169<br />
+75.	Munch (#87) SINTEX (#9) War 6 13,237<br />
+76.	Sir Mordred (#94) SINTEX (#9) War 4 7,968<br />
+77.	Jagermeister (#96) SINTEX (#9) War 12 26,492<br />
+78.	Babayaga (#128) SINTEX (#9) War 6 23,871<br />
+79.	Nuckelz (#196) SINTEX (#9) War 13 20,909<br />
+80.	Sir Galahad (#200) SINTEX (#9) War 10 22,852<br />
+81.	Duff Man (#211) SINTEX (#9) War 11 17,910<br />
+82.	Kenshin (#214) SINTEX (#9) War 9 17,023<br />
+83.	TT (#238) SINTEX (#9) War 6 15,031<br />
+84.	RobinoftheHood (#117) Ambrose Crew (#16) War 4 9,333<br />
+85.	Aussiewan (#118) Ambrose Crew (#16) War 6 10,948<br />
+86.	Ambrose (#135) Ambrose Crew (#16) War 6 20,349<br />
+87.	SemperFi (#142) Ambrose Crew (#16) War 5 9,345<br />
+88.	Bahevik (#193) Ambrose Crew (#16) War 4 8,339<br />
+89.	Illusion (#231) Ambrose Crew (#16) War 6 7,481<br />
+90.	Denny (#565) Ambrose Crew (#16) War 4 7,357<br />
+91.	HeadHunter (#576) Ambrose Crew (#16) War 6 12,064<br />
+92.	spartan117 (#583) Ambrose Crew (#16) War 3 8,215<br />
+93.	ARusher (#603) Ambrose Crew (#16) War 5 9,420<br />
+94.	ColdBlood (#623) Ambrose Crew (#16) War 3 8,778<br />
+95.	nevermind (#650) Ambrose Crew (#16) War 5 9,006<br />
+96.	CreepingDeath (#914) Ambrose Crew (#16) War 3 7,890<br />
+97.	GodFather (#261) Searching light (#31) War 5 11,120<br />
+98.	Kidj (#269) Searching light (#31) War 6 11,398<br />
+99.	positron (#286) Searching light (#31) War 5 7,981<br />
+100.	Rino-T T (#287) Searching light (#31) War 7 13,335<br />
+101.	Milla Jovovich (#288) Searching light (#31) War 5 9,399<br />
+102.	Pudmaster (#533) Searching light (#31) War 8 18,120<br />
+103.	Kirax (#570) Searching light (#31) War 3 8,318<br />
+104.	Nephilim (#585) Searching light (#31) War 4 8,401<br />
+105.	mcyavel (#811) Searching light (#31) War 4 7,316<br />
+106.	Altheusius (#895) Searching light (#31) War 3 7,525<br />
+107.	Albatross (#919) Searching light (#31) War 5 10,092<br />
+108.	connor Macloud (#3) Dark Alliance (#3) War 6 12,979<br />
+109.	DT (#20) Dark Alliance (#3) War 9 18,759<br />
+110.	AlDjotte (#24) Dark Alliance (#3) War 6 14,996<br />
+111.	Death By Murder (#46) Dark Alliance (#3) War 5 9,553<br />
+112.	Lucon Seori (#64) Dark Alliance (#3) War 5 9,187<br />
+113.	Hobo (#75) Dark Alliance (#3) War 6 15,061<br />
+114.	Chewie (#79) Dark Alliance (#3) War 4 8,640<br />
+115.	mad cheesy monkeys (#86) Dark Alliance (#3) War 6 12,028<br />
+116.	Hyperforce (#704) Dark Alliance (#3) War 4 7,461<br />
+117.	smooth81-Bad MoFo (#736) Dark Alliance (#3) War 4 8,217<br />
+118.	redhack (#512) Nameless Army (#5) War 6 16,024<br />
+119.	Arsenic (#244) The Beginning (#21) War 9 18,922<br />
+120.	Maumu (#250) The Beginning (#21) War 4 11,394<br />
+121.	The Black Pearl (#251) The Beginning (#21) War 7 13,701<br />
+122.	Deumiere (#257) The Beginning (#21) War 6 16,121<br />
+123.	|rainforest| (#403) The Beginning (#21) War 3 7,354<br />
+124.	Drakindar (#553) The Beginning (#21) War 4 7,532<br />
+125.	Darkchaos (#216) Spawns legacy (#25) War 5 12,665<br />
+126.	Joseph Stalin (#217) Spawns legacy (#25) War 4 8,371<br />
+127.	Fangs (#225) Spawns legacy (#25) War 9 12,449<br />
+128.	Tech Annoyed (#226) Spawns legacy (#25) War 5 8,503<br />
+129.	Etsuko (#247) Spawns legacy (#25) War 14 28,340<br />
+130.	Ajax (#255) Spawns legacy (#25) War 10 18,199<br />
+131.	Asjeir (#258) Spawns legacy (#25) War 5 9,723<br />
+132.	AvenDusk (#266) Spawns legacy (#25) War 7 18,662<br />
+133.	Miaougoid (#765) Spawns legacy (#25) War 9 17,862<br />
+134.	Vyss Alare (#796) Spawns legacy (#25) War 8 13,429<br />
+135.	silentbell (#609) fallen nation (#57) War 2 9,909<br />
+136.	Zen (#627) fallen nation (#57) War 3 7,771<br />
+137.	Nameless (#67) The Prophets (#4) War 6 11,834<br />
+138.	Dracar (#507) The Prophets (#4) War 4 9,390<br />
+<br />
+damn vultures duh!<p><br>rio<br />
+-TE last recruit<br />
+Freedom Agent			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Redjack</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-02-05 04:48&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=17582"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=17570"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	T'was fun having a full list of targets :P,<br />
+<br />
+personally only have 30 at a time today, nowhere near rio, hehe<p><br>~~~Muramasa~~~ (#2)<br />
+Ruler of Darkness Falls			   <P align=right></P>
+			</TD>
+		  </TR>
+
+			<TR>
+			<TD></td>
+			<td align=center></TD>
+			</TR>
+				</table>
+			</td>
+		</tr>
+		</table>	
+	</td>
+</tr>
+</table>
+<center><b><A href="reply.php?board=player&id=17570">Post a Reply</A></b></center>
+		<TABLE width="95%" border=0>
+		  <TR>
+			<TD colSpan=2><BR>
+						  </TD></TR>
+		  <TR>
+			<TD>
+					    </TD>
+		  </TR>
+		  </TABLE>
+
+
+<BR><B><A href="/contact.php">Contact Us</A> | 
+<A href="http://www.archspace.org/" target=_top>Archspace</A> </B>
+<P>
+<P>Powered by MindBB v2.0<BR><BR></CENTER></P>
+</BODY></HTML>

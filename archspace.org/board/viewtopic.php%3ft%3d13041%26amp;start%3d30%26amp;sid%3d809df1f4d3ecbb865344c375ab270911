@@ -1,0 +1,1100 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Style-Type" content="text/css">
+
+<link rel="top" href="./index.php?sid=37b4b4426eed67cfbe4906a91288ce72" title="Archspace Forum Index" />
+<link rel="search" href="./search.php?sid=37b4b4426eed67cfbe4906a91288ce72" title="Search" />
+<link rel="help" href="./faq.php?sid=37b4b4426eed67cfbe4906a91288ce72" title="FAQ" />
+<link rel="author" href="./memberlist.php?sid=37b4b4426eed67cfbe4906a91288ce72" title="Memberlist" />
+<link rel="prev" href="viewtopic.php?t=13041&amp;view=previous&amp;sid=37b4b4426eed67cfbe4906a91288ce72" title="View previous topic" />
+<link rel="next" href="viewtopic.php?t=13041&amp;view=next&amp;sid=37b4b4426eed67cfbe4906a91288ce72" title="View next topic" />
+<link rel="up" href="viewforum.php?f=9&amp;sid=37b4b4426eed67cfbe4906a91288ce72" title="Politics/Religion Forum" />
+<link rel="chapter forum" href="viewforum.php?f=1&amp;sid=37b4b4426eed67cfbe4906a91288ce72" title="News" />
+<link rel="chapter forum" href="viewforum.php?f=13&amp;sid=37b4b4426eed67cfbe4906a91288ce72" title="Change Log" />
+<link rel="chapter forum" href="viewforum.php?f=3&amp;sid=37b4b4426eed67cfbe4906a91288ce72" title="Player Board" />
+<link rel="chapter forum" href="viewforum.php?f=4&amp;sid=37b4b4426eed67cfbe4906a91288ce72" title="Bug Board" />
+<link rel="chapter forum" href="viewforum.php?f=5&amp;sid=37b4b4426eed67cfbe4906a91288ce72" title="Suggestion Board" />
+<link rel="chapter forum" href="viewforum.php?f=8&amp;sid=37b4b4426eed67cfbe4906a91288ce72" title="Help Board" />
+<link rel="chapter forum" href="viewforum.php?f=11&amp;sid=37b4b4426eed67cfbe4906a91288ce72" title="Recruiting" />
+<link rel="chapter forum" href="viewforum.php?f=12&amp;sid=37b4b4426eed67cfbe4906a91288ce72" title="Community Art and Literature" />
+<link rel="chapter forum" href="viewforum.php?f=9&amp;sid=37b4b4426eed67cfbe4906a91288ce72" title="Politics/Religion Forum" />
+<link rel="chapter forum" href="viewforum.php?f=14&amp;sid=37b4b4426eed67cfbe4906a91288ce72" title="Archspace 2.0" />
+<link rel="chapter forum" href="viewforum.php?f=15&amp;sid=37b4b4426eed67cfbe4906a91288ce72" title="Programming" />
+
+<title>Archspace :: View topic - Fate or Free Will</title>
+<link rel="stylesheet" href="templates/SpacePilot3K/SpacePilot3K.css" type="text/css">
+<body bgcolor="#000000" text="#DDDDDD" link="#8BC7FF" vlink="#5493B4">
+
+
+
+<script language="Javascript" type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+</script>
+
+
+
+<script language="Javascript" type="text/javascript">
+<!--
+function rollover(name, source)  {
+
+  document.images[name].src = source;
+
+}
+//-->
+</script>
+
+<script language="JavaScript" src="templates/SpacePilot3K/fade.js"></script>
+
+<!-- SNOW CRAP !-->
+<script>
+// Set the number of snowflakes (more than 30 - 40 not recommended)
+var snowmax=14
+
+// Set the colors for the snow. Add as many colors as you like
+var snowcolor=new Array("#aaaacc","#ddddFF","#ccccDD")
+
+// Set the fonts, that create the snowflakes. Add as many fonts as you like
+var snowtype=new Array("Arial Black","Arial Narrow","Times","Comic Sans MS")
+
+// Set the letter that creates your snowflake (recommended:*)
+var snowletter="*" // (use "*" for snow flakes)
+
+// Set the speed of sinking (recommended values range from 0.3 to 2)
+var sinkspeed=0.5
+
+// Set the maximal-size of your snowflaxes
+var snowmaxsize=30
+
+// Set the minimal-size of your snowflaxes
+var snowminsize=10
+
+// Set the snowing-zone
+// Set 1 for all-over-snowing, set 2 for left-side-snowing
+// Set 3 for center-snowing, set 4 for right-side-snowing
+var snowingzone=1
+
+///////////////////////////////////////////////////////////////////////////
+// CONFIGURATION ENDS HERE
+///////////////////////////////////////////////////////////////////////////
+
+
+// Do not edit below this line
+var snow=new Array()
+var marginbottom
+var marginright
+var timer
+var i_snow=0
+var x_mv=new Array();
+var crds=new Array();
+var lftrght=new Array();
+var browserinfos=navigator.userAgent
+var ie5=document.all&&document.getElementById&&!browserinfos.match(/Opera/)
+var ns6=document.getElementById&&!document.all
+var opera=browserinfos.match(/Opera/)
+var browserok=ie5||ns6||opera
+
+function randommaker(range) {
+   rand=Math.floor(range*Math.random())
+    return rand
+}
+
+function initsnow() {
+   if (ie5 || opera) {
+      marginbottom = document.body.clientHeight
+      marginright = document.body.clientWidth
+   }
+   else if (ns6) {
+      marginbottom = window.innerHeight
+      marginright = window.innerWidth
+   }
+   var snowsizerange=snowmaxsize-snowminsize
+   for (i=0;i<=snowmax;i++) {
+      crds[i] = 0;
+       lftrght[i] = Math.random()*15;
+       x_mv[i] = 0.03 + Math.random()/10;
+      snow[i]=document.getElementById("s"+i)
+      snow[i].style.fontFamily=snowtype[randommaker(snowtype.length)]
+      snow[i].size=randommaker(snowsizerange)+snowminsize
+      snow[i].style.fontSize=snow[i].size
+      snow[i].style.color=snowcolor[randommaker(snowcolor.length)]
+      snow[i].sink=sinkspeed*snow[i].size/5
+      if (snowingzone==1) {snow[i].posx=randommaker(marginright-snow[i].size)}
+      if (snowingzone==2) {snow[i].posx=randommaker(marginright/2-snow[i].size)}
+      if (snowingzone==3) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/4}
+      if (snowingzone==4) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/2}
+      snow[i].posy=randommaker(2*marginbottom-marginbottom-2*snow[i].size)
+      snow[i].style.left=snow[i].posx
+      snow[i].style.top=snow[i].posy
+   }
+   movesnow()
+}
+
+function movesnow() {
+   for (i=0;i<=snowmax;i++) {
+      crds[i] += x_mv[i];
+      snow[i].posy+=snow[i].sink
+      snow[i].style.left=snow[i].posx+lftrght[i]*Math.sin(crds[i]);
+      snow[i].style.top=snow[i].posy
+
+      if (snow[i].posy>=marginbottom-2*snow[i].size || parseInt(snow[i].style.left)>(marginright-3*lftrght[i])){
+         if (snowingzone==1) {snow[i].posx=randommaker(marginright-snow[i].size)}
+         if (snowingzone==2) {snow[i].posx=randommaker(marginright/2-snow[i].size)}
+         if (snowingzone==3) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/4}
+         if (snowingzone==4) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/2}
+         snow[i].posy=0
+      }
+   }
+   var timer=setTimeout("movesnow()",50)
+}
+
+for (i=0;i<=snowmax;i++) {
+   document.write("<span id='s"+i+"' style='position:absolute;top:-"+snowmaxsize+"'>"+snowletter+"</span>")
+}
+if (browserok) {
+   window.onload=initsnow
+}
+</script>
+<!-- End of Snow crap !-->
+
+</head>
+<body />
+
+<a name="top"></a>
+
+<table width="100%" cellspacing="0" cellpadding="10" border="0" align="center">
+	<tr>
+		<td align="center">
+			<script type="text/javascript"><!--
+			google_ad_client = "pub-9347639997854244";
+			google_ad_width = 728;
+			google_ad_height = 90;
+			google_ad_format = "728x90_as";
+			google_ad_type = "image";
+			google_ad_channel ="";
+			google_color_border = "6699CC";
+			google_color_bg = "003366";
+			google_color_link = "FFFFFF";
+			google_color_url = "AECCEB";
+			google_color_text = "AECCEB";
+			//--></script>
+			<script type="text/javascript"
+			  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+			</script>
+		</td>
+	</tr>
+	<tr>
+		<td class="bodyline"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+			<tr>
+				<td><a href="index.php?sid=37b4b4426eed67cfbe4906a91288ce72"><span class="maintitle"><img src="templates/SpacePilot3K/images/logo_sp3k.gif" border="0" alt="Archspace Forum Index" vspace="1" /></span></a></td>
+				<td align="center" width="100%" valign="middle"><span class="maintitle">Archspace</span><br /><span class="gen">Archspace Forums<br />&nbsp; </span>
+				<table cellspacing="0" cellpadding="2" border="0">
+					<tr>
+						<td align="center" valign="top" nowrap="nowrap"><span class="mainmenu">&nbsp;<a href="faq.php?sid=37b4b4426eed67cfbe4906a91288ce72" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_faq.gif" width="14" height="14" border="0" alt="FAQ" hspace="3" />FAQ</a></span><span class="mainmenu">&nbsp; &nbsp;<a href="search.php?sid=37b4b4426eed67cfbe4906a91288ce72" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_search.gif" width="14" height="14" border="0" alt="Search" hspace="3" />Search</a>&nbsp; &nbsp;<a href="memberlist.php?sid=37b4b4426eed67cfbe4906a91288ce72" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_members.gif" width="14" height="14" border="0" alt="Memberlist" hspace="3" />Memberlist</a>&nbsp; &nbsp;<a href="groupcp.php?sid=37b4b4426eed67cfbe4906a91288ce72" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_groups.gif" width="14" height="14" border="0" alt="Usergroups" hspace="3" />Usergroups</a>&nbsp;
+						&nbsp;<a href="profile.php?mode=register&amp;sid=37b4b4426eed67cfbe4906a91288ce72" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_register.gif" width="14" height="14" border="0" alt="Register" hspace="3" />Register</a></span>&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td height="25" align="center" valign="top" nowrap="nowrap"><span class="mainmenu">&nbsp;<a href="profile.php?mode=editprofile&amp;sid=37b4b4426eed67cfbe4906a91288ce72" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_profile.gif" width="14" height="14" border="0" alt="Profile" hspace="3" />Profile</a>&nbsp; &nbsp;<a href="privmsg.php?folder=inbox&amp;sid=37b4b4426eed67cfbe4906a91288ce72" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_message.gif" width="14" height="14" border="0" alt="Log in to check your private messages" hspace="3" />Log in to check your private messages</a>&nbsp; &nbsp;<a href="login.php?sid=37b4b4426eed67cfbe4906a91288ce72" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_login.gif" width="14" height="14" border="0" alt="Log in" hspace="3" />Log in</a>&nbsp;</span></td>
+					</tr>
+				</table></td>
+			</tr>
+		</table>
+
+		<br />
+
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0">
+  <tr>
+	<td align="left" valign="bottom" colspan="2"><a class="maintitle" href="viewtopic.php?t=13041&amp;start=0&amp;postdays=0&amp;postorder=asc&amp;highlight=&amp;sid=37b4b4426eed67cfbe4906a91288ce72">Fate or Free Will</a><br />
+	  <span class="gensmall"><b>Goto page <b>1</b>, <a href="viewtopic.php?t=13041&amp;postdays=0&amp;postorder=asc&amp;start=15&amp;sid=37b4b4426eed67cfbe4906a91288ce72">2</a>, <a href="viewtopic.php?t=13041&amp;postdays=0&amp;postorder=asc&amp;start=30&amp;sid=37b4b4426eed67cfbe4906a91288ce72">3</a>, <a href="viewtopic.php?t=13041&amp;postdays=0&amp;postorder=asc&amp;start=45&amp;sid=37b4b4426eed67cfbe4906a91288ce72">4</a>&nbsp;&nbsp;<a href="viewtopic.php?t=13041&amp;postdays=0&amp;postorder=asc&amp;start=15&amp;sid=37b4b4426eed67cfbe4906a91288ce72">Next</a></b><br />
+	  &nbsp; </span></td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0">
+  <tr>
+	<td align="left" valign="bottom" nowrap="nowrap"><span class="nav"><a href="posting.php?mode=newtopic&amp;f=9&amp;sid=37b4b4426eed67cfbe4906a91288ce72" onMouseOver="rollover('top_newtopic','templates/SpacePilot3K/images/lang_english/post_on.gif');" onMouseOut="rollover('top_newtopic','templates/SpacePilot3K/images/lang_english/post_off.gif');"><img name="top_newtopic" src="templates/SpacePilot3K/images/lang_english/post_off.gif" border="0" alt="Post new topic" align="middle"/></a>&nbsp;&nbsp;&nbsp;<a href="posting.php?mode=reply&amp;t=13041&amp;sid=37b4b4426eed67cfbe4906a91288ce72" onMouseOver="rollover('top_postreply','templates/SpacePilot3K/images/lang_english/reply_on.gif');" onMouseOut="rollover('top_postreply','templates/SpacePilot3K/images/lang_english/reply_off.gif');"><img name="top_postreply" src="templates/SpacePilot3K/images/lang_english/reply_off.gif" border="0" alt="Reply to topic" align="middle" /></a></span></td>
+	<td align="left" valign="middle" width="100%"><span class="nav">&nbsp;&nbsp;&nbsp;<a href="index.php?sid=37b4b4426eed67cfbe4906a91288ce72" class="nav">Archspace Forum Index</a>
+	  -> <a href="viewforum.php?f=9&amp;sid=37b4b4426eed67cfbe4906a91288ce72" class="nav">Politics/Religion Forum</a></span></td>
+  </tr>
+</table>
+
+<table class="forumline" width="100%" cellspacing="1" cellpadding="3" border="0">
+	<tr align="right">
+		<td class="catHead" colspan="2" height="28"><span class="nav"><a href="viewtopic.php?t=13041&amp;view=previous&amp;sid=37b4b4426eed67cfbe4906a91288ce72" class="cattitle">View previous topic</a> :: <a href="viewtopic.php?t=13041&amp;view=next&amp;sid=37b4b4426eed67cfbe4906a91288ce72" class="cattitle">View next topic</a> &nbsp;</span></td>
+	</tr>
+	
+	<tr>
+		<th class="thLeft" width="150" height="26" nowrap="nowrap">Author</th>
+		<th class="thRight" nowrap="nowrap">Message</th>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="95558"></a><b>Leet_Master_Ace</b></span><br /><span class="postdetails">1337<br /><img src="images/avatars/1361807141453e9b46b12d1.jpg" alt="" border="0" /><br /><br />Joined: 17 Dec 2005<br />Posts: 1806<br />Location: Leading a pack of ravenous zombies to your house</span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=95558&amp;sid=37b4b4426eed67cfbe4906a91288ce72#95558"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Wed Nov 01, 2006 4:16 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: Fate or Free Will</span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=95558&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Which is it that guides our lives?  Is it our ability to choose our course of actions in life, or do you believe that our actions are fated and that we can therefore not avoid acting a certain way.
+<br />
+
+<br />
+This is not meant to be a ridiculously virulent, voracious, vituperative, vitriolic debate.  It's simply meant to be a discussion in which both believers and non-believers are encouraged to participate in.
+<br />
+
+<br />
+Also, I didn't make it a poll because polls are often ignored by certain posters and they usually lead to less discussion and more voting.<br />_________________<br /><img src="http://i132.photobucket.com/albums/q13/LMA11/strecthyleet.jpg" border="0" />
+<br />
+&lt;Wraith&gt; trout has a cooldown
+<br />
+&lt;MM&gt; cooldown my ass =p
+<br />
+* hxc cools down MM's ass.</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=6887&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=6887&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="95560"></a><b>Paradox2</b></span><br /><span class="postdetails">Christian Debator<br /><br /><br />Joined: 06 Aug 2005<br />Posts: 498<br />Location: USA</span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=95560&amp;sid=37b4b4426eed67cfbe4906a91288ce72#95560"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Wed Nov 01, 2006 4:39 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=95560&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">This is a quetion that haunts me with the fact that I truly dont know the answer. I dont even know what I believe in the matter. I mean, as a Christian, I do believe God has control, but I also believe He gives you free will. So I really dont know whether free will or Fate controls your life. You see, many will say that it has to be free will because every choice you make makes a difference, but who is to say that that choice you made wasnt part of Fate's plans? It is this thought that leads me to believe that this answer cannot be answered with absolute certainty, although I do look forward to seeing different points of view so maybe I can actually make up my mind about what I believe.<br />_________________<br />~Paradox
+<br />
+~Christian Debator
+<br />
+~Enemy of Mod
+<br />
+~Satan of Archspace</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=494&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=494&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>   <a href="aim:goim?screenname=dlc9008&amp;message=Hello+Are+you+there?"><img src="templates/SpacePilot3K/images/lang_english/icon_aim.gif" alt="AIM Address" title="AIM Address" border="0" /></a>  <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="95571"></a><b>Elodea</b></span><br /><span class="postdetails">Vet<br /><img src="images/avatars/208615649243466868513e0.jpg" alt="" border="0" /><br /><br />Joined: 14 Aug 2005<br />Posts: 395<br />Location: Reshef - 150</span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=95571&amp;sid=37b4b4426eed67cfbe4906a91288ce72#95571"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Wed Nov 01, 2006 7:35 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=95571&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Hoping to try and define stuff a little - might make debate easier.  I'm just offering one definition.. feel free to flame me &gt;&lt;
+<br />
+
+<br />
+Person A
+<br />
+*presented with choice X and Y*
+<br />
+-&gt;Chooses X (TO buy a cheeseburger) 
+<br />
+-&gt;which leads to event P (buying the cheeseburger)
+<br />
+
+<br />
+Freewill - being able to equally choose either X and Y.  So that if one chose X (say buying a cheese burger) at 12.30pm and then later invented a time machine to go back to 12.30pm.  This is given that all the events such as like.. the air pressure, the temperature, the position of every atom in regard to whatever are the same as when you bought a cheese burger.  In going back to 12.30 pm, one could then choose Y - to buy a DOUBLE cheese burger.  I'm totally skipping over the implications of a timemachine etc. and travelling back in time though.
+<br />
+
+<br />
+Fate - This leaves fate as being 'fated' to choose one option.  So that going back in a timemachine, you will always choose the cheese burger.  <img src="images/smiles/icon_sad.gif" alt="Sad" border="0" />
+<br />
+
+<br />
+Thus, i conclude freewill better and more enjoyable.  Double cheeseburgers ftw<br />_________________<br /><img src="http://img154.imageshack.us/img154/8413/georgedance7ne.gif" border="0" /></span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=1409&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=1409&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <a href="profile.php?mode=viewprofile&amp;u=1409&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_msnm.gif" alt="MSN Messenger" title="MSN Messenger" border="0" /></a><script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="95582"></a><b>Leet_Master_Ace</b></span><br /><span class="postdetails">1337<br /><img src="images/avatars/1361807141453e9b46b12d1.jpg" alt="" border="0" /><br /><br />Joined: 17 Dec 2005<br />Posts: 1806<br />Location: Leading a pack of ravenous zombies to your house</span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=95582&amp;sid=37b4b4426eed67cfbe4906a91288ce72#95582"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Wed Nov 01, 2006 9:36 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=95582&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">You have interesting definitions of free will and fate, but flawed.
+<br />
+
+<br />
+If you travel back in time with your time machine, that is a separate action that you have accomplished, and going back to 12:30 PM, regardless of how exactly the same it is, it simply isn't.  So choosing to buy the double cheeseburger is a completely different decision altogether that still happened in the future with relation to the first decision you made to buy the regular cheeseburger.  So technically, in YOUR past, you have chosen once to buy a regular cheeseburger, and then you return to the past (which happens in the future with relation to that past) and purchase the double cheeseburger.
+<br />
+
+<br />
+In both situations, fate can be driving your life.  You were "fated" to first buy the regular burger and then fated to time travel and buy the double cheeseburger.
+<br />
+
+<br />
+Also, it's not about which is better and more enjoyable, it's about which one exists.  Very interesting idea though Elodea.  Please continue!
+<br />
+
+<br />
+<span style="font-size: 24px; line-height: normal"><span style="color: cyan"><span style="text-decoration: underline"><span style="font-weight: bold">Let it be known that at 11:05 PM, standard U.S. time, 11-1-06, Leet_Master_Ace attained his 1337th post, creating a true leet master out of him.</span></span></span></span><br />_________________<br /><img src="http://i132.photobucket.com/albums/q13/LMA11/strecthyleet.jpg" border="0" />
+<br />
+&lt;Wraith&gt; trout has a cooldown
+<br />
+&lt;MM&gt; cooldown my ass =p
+<br />
+* hxc cools down MM's ass.</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=6887&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=6887&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="95604"></a><b>Yomin_Carr</b></span><br /><span class="postdetails">Jo ' Keric<br /><img src="http://www.digitalbricabrac.com/gifs/FirstPersonShooter.gif" alt="" border="0" /><br /><br />Joined: 06 Aug 2005<br />Posts: 1784<br />Location: Dirkadirkastan</span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=95604&amp;sid=37b4b4426eed67cfbe4906a91288ce72#95604"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Thu Nov 02, 2006 2:22 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=95604&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">I believe in fate, and i'm not a Bible Basher.
+<br />
+
+<br />
+I think that in every choice there is only one possible option you can pick. Look at the cheese burger one: You have choice X and Y. Choice X is the cheese burger, choice y is the double cheese burger. If you are not that hungry, you will choose the the cheese burger. Or if you don't have the money to buy the double, or if someone has suggested you buy it. You have control over none of these things. While you feel it is your choice, your environment and what has lead up to your being there actually decides what you choose. 
+<br />
+
+<br />
+Anyway, free will isn't that free anyway. I may want to go back and change my choice from a cheeseburger to a double, but i can't. No one has invented a time machine yet.<br />_________________<br /><img src="http://www.venganza.org/images/spreadword/pastafarian85x115_th.jpg" border="0" /></span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=233&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=233&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>  <a href="http://en.wikipedia.org/wiki/Hax0r#Pr0n" target="_userwww"><img src="templates/SpacePilot3K/images/lang_english/icon_www.gif" alt="Visit poster's website" title="Visit poster's website" border="0" /></a>   <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="95621"></a><b>Elodea</b></span><br /><span class="postdetails">Vet<br /><img src="images/avatars/208615649243466868513e0.jpg" alt="" border="0" /><br /><br />Joined: 14 Aug 2005<br />Posts: 395<br />Location: Reshef - 150</span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=95621&amp;sid=37b4b4426eed67cfbe4906a91288ce72#95621"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Thu Nov 02, 2006 6:45 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=95621&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody"></span><table width="90%" cellspacing="1" cellpadding="3" border="0" align="center"><tr> 	  <td><span class="genmed"><b>Yomin_Carr wrote:</b></span></td>	</tr>	<tr>	  <td class="quote">No one has invented a time machine yet.</td>	</tr></table><span class="postbody">
+<br />
+i guess no one's gona invent one and/or use it either <img src="images/smiles/icon_confused.gif" alt="Confused" border="0" /> ... if an american had invented one, 9/11 wouldnt have happened.  If a neonazi had invented one, we'd all be speaking german.  If an australian had invented one, we'd all be the happiest ppl on earth ^_^  If.. yeah....  
+<br />
+Unless some evil scientist who didn't care a dahm about anyone else discovered how to make one <img src="images/smiles/icon_surprised.gif" alt="Surprised" border="0" />
+<br />
+
+<br />
+</span><table width="90%" cellspacing="1" cellpadding="3" border="0" align="center"><tr> 	  <td><span class="genmed"><b>Leet_Master_Ace wrote:</b></span></td>	</tr>	<tr>	  <td class="quote">So technically, in YOUR past, you have chosen once to buy a regular cheeseburger, and then you return to the past (which happens in the future with relation to that past) and purchase the double cheeseburger.</td>	</tr></table><span class="postbody">
+<br />
+yeah true :p.  I was merely trying to use the timemachine as a kinda logical device in trying to put oneself back in the same situation - with or without knowledge of the 'previous choice'.  something i couldn't imagine even happening without travelling back in time.
+<br />
+
+<br />
+mmm.. i guess since events and choices do seem to follow in a linear kinda nature there seems no way from distinguising 'freewill' from 'fate' .  Stuff could be justifiably explained either as fate or freewill.  And so, if free will were to exist, you wouldn't be able to tell the difference.  
+<br />
+
+<br />
+Rather depressingly, i guess the question seems to not be so much of the existence of either freewill or fate and their validity in describing the natural world as it stands, but rather which one serves utility.  When i talk about utility here, i mean both utility in the utilitarian sense of a wider community and also that of i guess.. 'utility to self'.
+<br />
+I mean freewill and fate can have different psychological effects in that one can take comfort in fate for one's actions etc.  Or belief in freewill can be an empowering feeling with implications of absolute and total freedom and the bright and wonderful future we are thus able to pave for ourselves.  
+<br />
+
+<br />
+Therefore, even though it was kinda meant as a joke to begin with, i hang onto my personal decision of freewill being better as i can choose the double cheese burger ^_^. Anyone, such as fate, who makes me choose the normal burger is a sadistic bum <img src="images/smiles/icon_sad.gif" alt="Sad" border="0" />.  mmm.. but i guess this is kinda flawed coz then i'm fated to choose the double.
+<br />
+Ok.. BLAH ive totally confused myself lol.  i seem to be going in circles..<br />_________________<br /><img src="http://img154.imageshack.us/img154/8413/georgedance7ne.gif" border="0" /></span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=1409&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=1409&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <a href="profile.php?mode=viewprofile&amp;u=1409&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_msnm.gif" alt="MSN Messenger" title="MSN Messenger" border="0" /></a><script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="95631"></a><b>PurpleHaze</b></span><br /><span class="postdetails">Newbie<br /><br /><br />Joined: 08 Jan 2006<br />Posts: 75<br /></span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=95631&amp;sid=37b4b4426eed67cfbe4906a91288ce72#95631"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Thu Nov 02, 2006 1:53 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=95631&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Well... guess this requires some cleaning up... and I don't know where to start.
+<br />
+
+<br />
+Let's start with free will: If you have free will, you should technically be able to act other than you did/do. This means, if you decide to raise your hand in a certain aituation, if you have free will you could have risen that hand or not.
+<br />
+
+<br />
+This is, of course, problematic. Cause obviously there is a finite amount of causes in the natural world, and every act is caused by a finite number of causes in this natural world (this is all assuming the natural world exists, of course, which I will assume for now, for simplicity's sake, it is, however, in no way necessary for my argument's validity). Now we know that humans are part of this physical world with all its causes. Thus if our actions are caused, we basically say that our brain works in a way to interpret these physical causes which act upon it to produce a certain output. And obviously like causes (our brain being a part of them) should produce like effects. Else we can forget about physics, and our interpretation of the surrounding world, as obviously all we'd believe toobserve would be misleading and deceiving us with its regularity.
+<br />
+
+<br />
+Now if there is something like free will, we got to understand what such a choice, or other, a free choice is. Is it a miracle? Is there a miracle happening every time we perform an action? Something that negates the physical world? Something that means there is a cause from something that is mind-stuff? Mind-stuff being, presumably, something immaterial, probably something that is uncaused, cause if it were to be caused it wouldn't be free choice but just causation. And if we assume there is causation, we don't need to take upon us the acceptance of something as problematic as this mind stuff would obviously be. This seems to make it more plausible to refuse the existence of free choice on the grounds of its existence destroying everything we could possible observe or know, thus not allowing us to make any judgements anyway.
+<br />
+
+<br />
+There is, however, another reason for which one can refuse free will. Elodea already says that it would be better to have free will. Even if Leet meant that it wasn't about something being preferable but about something being truth and something else not being truth, there is more to be said there. Let's start to see what is preferrable, free will or causation.
+<br />
+
+<br />
+If what we do is caused, we do things because they are, according to the interpretation if a highly evolved organ, maybe the most highly evolved thing on this planet, ie the human brain. So surely the actions of this highly evolved thing, which are basically the interpretations of physical input, is something meaningful.
+<br />
+
+<br />
+But what about free will? If it's not about causes... then what is this free will? Randomness? Something irrational counter beter causes? Some meaningless piece of choice that really fucks things up, presumably more often thatn it just does something good? Unlike in the scenario of causation? Well, surely that IS NOT meaningful as a cause for our actions. Surely causation is to be preferred.
+<br />
+
+<br />
+Then there is another problem... if free will exists... who got this free will? All humans? Only humans? Primates too? Other mammals? Rats? Why don't they and other do? Why do we have free will and others don't? Are there other beings in the universe with a higher form of free will. Etc.
+<br />
+
+<br />
+Any answer to this question must necessarily be unsatisfactory, so we got another reason to assume free will is at best an illusion, at worst a delusion.
+<br />
+
+<br />
+Oh well... you say it isn't valuable to have us doing things in case they are caused? Because we wouldn't really make a difference as human beings. Because our existence wouldn't matter if we didn't have free will... Well, this I cannot accept. Obviously, even without free will, our existence makes a difference. I mean, just look at a different example. If you got a heater with a thermostate, surely the thermostate cannot CHOOSE to turn off the heater. But that doesn't mean its existence doesn't make a difference. Of course it makes a difference! You'll find out if your house burns down the one night you take off the thermostate that is meant to switch off the heating.
+<br />
+
+<br />
+So we see, again determinism is to be favoured over free will (and i do not like to use the word 'fate' as I don't think it properly grasps the sense of determinism as opposed to free will. Fate has this super natural aftertaste which really makes me feel sick in every philosophic discussion).
+<br />
+
+<br />
+If I could be arsed I'd also write something about 'truth', which Leet seems to think exists independently of us. But I guess that should suffice for now.<br />_________________<br />aka Ben</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=7614&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=7614&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="95632"></a><b>Azdgari</b></span><br /><span class="postdetails">Clearly has no life whatsoever<br /><br /><br />Joined: 05 Aug 2005<br />Posts: 2312<br />Location: Canada</span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=95632&amp;sid=37b4b4426eed67cfbe4906a91288ce72#95632"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Thu Nov 02, 2006 3:03 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=95632&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Ben, I couldn't agree more with what you said.  But you do know that they'll just attribute it all to our "souls" (a fundamentally flawed concept, btw) and about God's will or some such nonsense.<br />_________________<br />&lt;Seiffer|busy&gt; evading devoice = ban
+<br />
+&lt;Cyphtor&gt; devoice evade = ban</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=89&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=89&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a> <a href="mailto:azdgari@msn.com"><img src="templates/SpacePilot3K/images/lang_english/icon_email.gif" alt="Send e-mail" title="Send e-mail" border="0" /></a>    <a href="profile.php?mode=viewprofile&amp;u=89&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_msnm.gif" alt="MSN Messenger" title="MSN Messenger" border="0" /></a><script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="95640"></a><b>Campencarl</b></span><br /><span class="postdetails">Normal<br /><img src="images/avatars/2035284037456deafc078d7.jpg" alt="" border="0" /><br /><br />Joined: 29 Oct 2006<br />Posts: 105<br />Location: UK</span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=95640&amp;sid=37b4b4426eed67cfbe4906a91288ce72#95640"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Thu Nov 02, 2006 5:12 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=95640&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">My therory is that we have free will, but god already knows what was going to happen. In fact he knew what was going to happen before he even created the universe. (BTW this is from a biblical view) Everyone says how can god exsist before time? Well the concept of time had not been invented before the first day (creation of heaven and earth within one rotation) so if God DID do anything before then, then it would have been done in NO TIME at all. It would have always been since the concept of time is not yet in exsistance. It may have had a point A and B, but not in our view. This is important because I think that during this time (of not time) god created the human race and figured it out top to bottom. Seeing that "He saw that it was good" Either he thought it up as he went along or it means he was going with the plan. So this means that every persons life IS mapped out. I however do beleive in free will as any god who creates people who live on earth for 100 years max and then go to hell for eternity doesnt deserve to be god.
+<br />
+
+<br />
+In short I think were predestined, but we have free will.
+<br />
+
+<br />
+Oh and time travel COULD be a possibility. though I doubt it since no one has come back to change something. That could be a precaution to not screw over the whole butterfly effect chaos thing.<br />_________________<br />The day is saved once again because the coolest animal exsists.
+<br />
+Go FERRET!</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=15100&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=15100&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="95645"></a><b>Leet_Master_Ace</b></span><br /><span class="postdetails">1337<br /><img src="images/avatars/1361807141453e9b46b12d1.jpg" alt="" border="0" /><br /><br />Joined: 17 Dec 2005<br />Posts: 1806<br />Location: Leading a pack of ravenous zombies to your house</span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=95645&amp;sid=37b4b4426eed67cfbe4906a91288ce72#95645"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Thu Nov 02, 2006 5:37 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=95645&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Ben your comment was insanely long and hard to understand the first time through.  Although I'd like to, I'm not going to respond to every part of it.
+<br />
+
+<br />
+It's apparent that you prefer the concept of our lives being governed by fate, or as you put it, "determinism" which I'm just going to assume is synonymous with fate, minus the supernatural aspect of it.  You say that our choices are "caused," and by nature of being "caused" by external stimuli, they are not free choices.  By this definition, it'd logically be impossible to be able to make a free choice.
+<br />
+
+<br />
+But I disagree, and just to spite Azdgari (=P) I won't bring religion into it yet.  All decisions that people make are indubitably caused, as you put it.  Using our old example of the burgers, hunger / money / peer pressure may influence our decision.  BUT the decision still ultimately lies in our hands.  I fail to understand why the fact that outside forces influence our decisions leads to our lack of ever being able to make a truly free choice.  If this were true, then why is it that we so often act against our own beliefs in times of passion, or fear, or love?  
+<br />
+
+<br />
+Why do we have heroes who sacrifice themselves to save others when it is human nature to stay alive?  
+<br />
+
+<br />
+Perhaps you might answer, "the cause of their action was the result of saving lives."  In that case, why didn't everyone else in that situation (let's say the situation involves a group of successful businessmen into which group a grenade is tossed, and one of the businessmen jumps over the grenade) do the same thing?  Circumstances in life may have been different for each person, but they are all relatively successful and have families, etc. so the hero wouldn't have had anymore of a reason to jump than any other businessman would have.  With all external stimuli at that point being the same (grenade = lives threatened), he made his decision to save the lives of his colleagues.  Nothing was causing his decision, unless you say that the act of saving his colleagues caused him to do so, in which case I ask you to explain why that same cause which existed in everyone else's mind (the thought of being heroic at least flashes through everyone's mind in such a situation as far as I'm concerned) as well did not cause him/her to jump over the grenade first/instead.
+<br />
+
+<br />
+</span><table width="90%" cellspacing="1" cellpadding="3" border="0" align="center"><tr> 	  <td><span class="genmed"><b>Ben wrote:</b></span></td>	</tr>	<tr>	  <td class="quote">Oh well... you say it isn't valuable to have us doing things in case they are caused? Because we wouldn't really make a difference as human beings. Because our existence wouldn't matter if we didn't have free will... Well, this I cannot accept.  Obviously, even without free will, our existence makes a difference. I mean, just look at a different example. If you got a heater with a thermostate, surely the thermostate cannot CHOOSE to turn off the heater. But that doesn't mean its existence doesn't make a difference. Of course it makes a difference!</td>	</tr></table><span class="postbody">
+<br />
+
+<br />
+Comparing the value of a human to that of a thermostate is something that I just cannot accept.  Objects like a thermostate are created to serve some purpose, be it entertainment, protection, or convenience, and they are made by some higher being (humans).  By using this example you're opening up the question of God.  So humans are born "predetermined (w/e the verb of determinism is)" to serve some purpose in their lives.  If this is the case, then there HAS to be some greater power that determines what that purpose is.  Causes in life, like how much money is in your pocket at a given BK trip, don't determine your ultimate purpose in life and if they do, then the universe is so perfectly structured that some being beyond us has to exist.
+<br />
+
+<br />
+And so, if humans are not free to make decisions, they do in fact become useless to the world.  If Azdgari, Yomin, you, and I were all locked up separately for the rest of our lives having no freedom to make our decisions, how would we be of any use to anyone?  By essentially saying that fate (determinism, etc.) governs our actions, you are admitting that we are slaves to it and therefore bound by its rules without any hope of being actively useful to others.  If we do happen to be useful to anyone (which we obviously do all the time), the usefulness would be attributed to the causes that made it happen, not to us as human beings.
+<br />
+
+<br />
+This wasn't meant to be a discussion over "truth," but yes I do believe in an objective truth, and personally I find subjectivism to be one of the most illogical, incoherent, unreasonable philosophies or approaches to life that currently exist.
+<br />
+
+<br />
+This was a worthwhile 1338th post.<br />_________________<br /><img src="http://i132.photobucket.com/albums/q13/LMA11/strecthyleet.jpg" border="0" />
+<br />
+&lt;Wraith&gt; trout has a cooldown
+<br />
+&lt;MM&gt; cooldown my ass =p
+<br />
+* hxc cools down MM's ass.</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=6887&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=6887&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="95646"></a><b>Leet_Master_Ace</b></span><br /><span class="postdetails">1337<br /><img src="images/avatars/1361807141453e9b46b12d1.jpg" alt="" border="0" /><br /><br />Joined: 17 Dec 2005<br />Posts: 1806<br />Location: Leading a pack of ravenous zombies to your house</span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=95646&amp;sid=37b4b4426eed67cfbe4906a91288ce72#95646"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Thu Nov 02, 2006 5:43 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=95646&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody"></span><table width="90%" cellspacing="1" cellpadding="3" border="0" align="center"><tr> 	  <td><span class="genmed"><b>Campencarl wrote:</b></span></td>	</tr>	<tr>	  <td class="quote">My therory is that we have free will, but god already knows what was going to happen. In fact he knew what was going to happen before he even created the universe. (BTW this is from a biblical view) Everyone says how can god exsist before time? Well the concept of time had not been invented before the first day (creation of heaven and earth within one rotation) so if God DID do anything before then, then it would have been done in NO TIME at all. It would have always been since the concept of time is not yet in exsistance. It may have had a point A and B, but not in our view. This is important because I think that during this time (of not time) god created the human race and figured it out top to bottom. Seeing that "He saw that it was good" Either he thought it up as he went along or it means he was going with the plan. So this means that every persons life IS mapped out. I however do beleive in free will as any god who creates people who live on earth for 100 years max and then go to hell for eternity doesnt deserve to be god.
+<br />
+
+<br />
+In short I think were predestined, but we have free will.
+<br />
+
+<br />
+Oh and time travel COULD be a possibility. though I doubt it since no one has come back to change something. That could be a precaution to not screw over the whole butterfly effect chaos thing.</td>	</tr></table><span class="postbody">
+<br />
+
+<br />
+You cannot have free will and be predestined simultaneously.  Either one or the other exists.  I have actually had the following problem for a LOOOONG time.
+<br />
+
+<br />
+God creates us with free will.  That's all good.  But then, God also knows exactly what we are going to do in our lifetimes.  Therefore, we are technically speaking, fated to act that way, for how can a human act in opposition to the way God knows he is going to act?
+<br />
+
+<br />
+The answer is more simple than I had imagined.  As you mentioned, God exists outside of the rules that define our material plane of existence.  For Him, time as we perceive it does not exist; He sees everything all at once (every point in every being's life as if it happened all at the same time).
+<br />
+
+<br />
+That being said, when God grants a human being a soul, He immediately sees all of the decisions that the person HAD ALREADY MADE in His lifetime before He is even born, because as God sees it, that person is born and dies at the same time. 
+<br />
+
+<br />
+In short, we do have free will.  God doesn't know what decisions we are GOING TO make, he knows what decisions we have ALREADY made.<br />_________________<br /><img src="http://i132.photobucket.com/albums/q13/LMA11/strecthyleet.jpg" border="0" />
+<br />
+&lt;Wraith&gt; trout has a cooldown
+<br />
+&lt;MM&gt; cooldown my ass =p
+<br />
+* hxc cools down MM's ass.</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=6887&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=6887&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="95659"></a><b>Elodea</b></span><br /><span class="postdetails">Vet<br /><img src="images/avatars/208615649243466868513e0.jpg" alt="" border="0" /><br /><br />Joined: 14 Aug 2005<br />Posts: 395<br />Location: Reshef - 150</span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=95659&amp;sid=37b4b4426eed67cfbe4906a91288ce72#95659"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Thu Nov 02, 2006 7:54 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=95659&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody"></span><table width="90%" cellspacing="1" cellpadding="3" border="0" align="center"><tr> 	  <td><span class="genmed"><b>Leet_Master_Ace wrote:</b></span></td>	</tr>	<tr>	  <td class="quote">
+<br />
+You cannot have free will and be predestined simultaneously.  Either one or the other exists.  I have actually had the following problem for a LOOOONG time.</td>	</tr></table><span class="postbody">
+<br />
+Yes u can - unless you bring in all the parallel universe jazz.  Due to the nature of linear events, freewill ultimately leads to an 'inevitable' event.  So that it is incorrect to say we are pre-destined and thus have freewill as this does not necessarily follow.  Instead, having freewill leads to a kind of determinism.
+<br />
+
+<br />
+</span><table width="90%" cellspacing="1" cellpadding="3" border="0" align="center"><tr> 	  <td><span class="genmed"><b>PurpleHaze wrote:</b></span></td>	</tr>	<tr>	  <td class="quote">
+<br />
+determinism is to be favoured over free will
+<br />
+</td>	</tr></table><span class="postbody">
+<br />
+The only real thing i have with determinism is that it seems to be akin to freewill in that it admits a break in causation itself - namely at the origin.  Unless causes and effects have an infinite past, i find it disturbing that at the very beginning of the sequence of events, there is room for what one would call freewill.  mm.. actually, even if the history of causation stretches to infinity, you'd end up with the same problem.  What caused the infinite progression to exist?  Well! one could say the causing of the infinite sequence of events itself has an infinite history of causation.  And so.. we go into an infinite regression (i seem to be saying infinite alot.. o.0).
+<br />
+
+<br />
+Now, let us consider this simple chain of causation.  X causes Y.  If an infinite regression were to be the case, the starting - whatever that might be - would simply be termed undefined.  It does not exist.  As such, X does not exist, and since X does not exist, Y does not exist or take place.  So in this sense, determinism itself is an illusion in that it presents us with a chain of events that while may be observed to lead from one to another, do not actually exist at all.
+<br />
+
+<br />
+I hope it makes sense.. i find that i tend not to make sense even though it seems to work out in my head.<br />_________________<br /><img src="http://img154.imageshack.us/img154/8413/georgedance7ne.gif" border="0" /></span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=1409&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=1409&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <a href="profile.php?mode=viewprofile&amp;u=1409&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_msnm.gif" alt="MSN Messenger" title="MSN Messenger" border="0" /></a><script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="95663"></a><b>Leet_Master_Ace</b></span><br /><span class="postdetails">1337<br /><img src="images/avatars/1361807141453e9b46b12d1.jpg" alt="" border="0" /><br /><br />Joined: 17 Dec 2005<br />Posts: 1806<br />Location: Leading a pack of ravenous zombies to your house</span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=95663&amp;sid=37b4b4426eed67cfbe4906a91288ce72#95663"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Thu Nov 02, 2006 8:25 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=95663&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Alright I really dont know what determinism and causation are.  I assume determinism is akin to fate and causation is simply the effect of events causing your decisions to happen or something.  Anyone care to elaborate as I am too tired to search it on google?<br />_________________<br /><img src="http://i132.photobucket.com/albums/q13/LMA11/strecthyleet.jpg" border="0" />
+<br />
+&lt;Wraith&gt; trout has a cooldown
+<br />
+&lt;MM&gt; cooldown my ass =p
+<br />
+* hxc cools down MM's ass.</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=6887&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=6887&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="95696"></a><b>nitrogen</b></span><br /><span class="postdetails">Forum Whore in Training<br /><img src="http://img155.imageshack.us/img155/882/sephirothmh4.gif" alt="" border="0" /><br /><br />Joined: 26 Aug 2006<br />Posts: 688<br />Location: River Styx, Hell</span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=95696&amp;sid=37b4b4426eed67cfbe4906a91288ce72#95696"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Thu Nov 02, 2006 10:51 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: okay tell me this</span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=95696&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">yeah youre too tired to search it in google and i on the otherhand got my mind all mixed up..
+<br />
+
+<br />
+talking about google and fate... check this out and explain to me if the ending is fate or freewill...
+<br />
+
+<br />
+<a href="http://video.google.com/videoplay?docid=4434444760553123057&amp;q=tori+amos+caught&amp;hl=en" target="_blank">http://video.google.com/videoplay?docid=4434444760553123057&amp;q=tori+amos+caught&amp;hl=en</a><br />_________________<br /><a href="http://imageshack.us" target="_blank" class="postlink"><img src="http://img222.imageshack.us/img222/3749/shermiegp7.gif" border="0" /></a>
+<br />
+I live to die not on the other day but on the next day preceeding the other day after tommorow
+<br />
+<span style="font-size: 16px; line-height: normal"><span style="color: red"><span style="font-weight: bold">-Gix Armadelites</span></span></span>
+<br />
+<span style="font-size: 16px; line-height: normal"><span style="color: green"><span style="font-weight: bold">-Nitrogen</span></span></span>
+<br />
+<span style="font-size: 16px; line-height: normal"><span style="color: blue"><span style="font-weight: bold">-Uchiha Sasuke</span></span></span>
+<br />
+GA IA CR GR</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=13822&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=13822&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>  <a href="http://www.tankuloy@yahoo.com" target="_userwww"><img src="templates/SpacePilot3K/images/lang_english/icon_www.gif" alt="Visit poster's website" title="Visit poster's website" border="0" /></a>  <a href="http://edit.yahoo.com/config/send_webmesg?.target=tankuloy&amp;.src=pg"><img src="templates/SpacePilot3K/images/lang_english/icon_yim.gif" alt="Yahoo Messenger" title="Yahoo Messenger" border="0" /></a> <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="95700"></a><b>Leet_Master_Ace</b></span><br /><span class="postdetails">1337<br /><img src="images/avatars/1361807141453e9b46b12d1.jpg" alt="" border="0" /><br /><br />Joined: 17 Dec 2005<br />Posts: 1806<br />Location: Leading a pack of ravenous zombies to your house</span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=95700&amp;sid=37b4b4426eed67cfbe4906a91288ce72#95700"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Thu Nov 02, 2006 11:22 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=95700&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">That's total BS and has ntohing to do with this discussion, BUT...
+<br />
+
+<br />
+From what I gathered, it was still all free will.  They freely chose to fight.  When the dark-haired guy fell down, the blondie freely chose to kick the shit ouf ot him.  Of course, one may argue that the dark haired boy's falling was an opportunity that "caused" the blonde-haired boy to attack, so therefore it was fated to end that way, but the blondie had just as much of a choice to not attack his fallen opponent.  He just chose too because it behooved him in the fight, though some other person may have thought "This is the perfect situation to attack, but I'd rather he stand up and fight because attacking helpless victims isn't my style."<br />_________________<br /><img src="http://i132.photobucket.com/albums/q13/LMA11/strecthyleet.jpg" border="0" />
+<br />
+&lt;Wraith&gt; trout has a cooldown
+<br />
+&lt;MM&gt; cooldown my ass =p
+<br />
+* hxc cools down MM's ass.</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=6887&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=6887&amp;sid=37b4b4426eed67cfbe4906a91288ce72"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr align="center">
+		<td class="catBottom" colspan="2" height="28"><table cellspacing="0" cellpadding="0" border="0">
+			<tr><form method="post" action="viewtopic.php?t=13041&amp;start=0&amp;sid=37b4b4426eed67cfbe4906a91288ce72">
+				<td align="center"><span class="gensmall">Display posts from previous: <select name="postdays"><option value="0" selected="selected">All Posts</option><option value="1">1 Day</option><option value="7">7 Days</option><option value="14">2 Weeks</option><option value="30">1 Month</option><option value="90">3 Months</option><option value="180">6 Months</option><option value="364">1 Year</option></select>&nbsp;<select name="postorder"><option value="asc" selected="selected">Oldest First</option><option value="desc">Newest First</option></select>&nbsp;<input type="submit" value="Go" class="liteoption" name="submit" /></span></td>
+			 </form></tr>
+		</table></td>
+	</tr>
+</table>
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0" align="center">
+  <tr>
+	<td align="left" valign="middle" nowrap="nowrap"><span class="nav"><a href="posting.php?mode=newtopic&amp;f=9&amp;sid=37b4b4426eed67cfbe4906a91288ce72" onMouseOver="rollover('bottom_newtopic','templates/SpacePilot3K/images/lang_english/post_on.gif');" onMouseOut="rollover('bottom_newtopic','templates/SpacePilot3K/images/lang_english/post_off.gif');"><img name="bottom_newtopic" src="templates/SpacePilot3K/images/lang_english/post_off.gif" border="0" alt="Post new topic" align="middle"/></a>&nbsp;&nbsp;&nbsp;<a href="posting.php?mode=reply&amp;t=13041&amp;sid=37b4b4426eed67cfbe4906a91288ce72" onMouseOver="rollover('bottom_postreply','templates/SpacePilot3K/images/lang_english/reply_on.gif');" onMouseOut="rollover('bottom_postreply','templates/SpacePilot3K/images/lang_english/reply_off.gif');"><img name="bottom_postreply" src="templates/SpacePilot3K/images/lang_english/reply_off.gif" border="0" alt="Reply to topic" align="middle" /></a></span></td>
+	<td align="left" valign="middle" width="100%"><span class="nav">&nbsp;&nbsp;&nbsp;<a href="index.php?sid=37b4b4426eed67cfbe4906a91288ce72" class="nav">Archspace Forum Index</a>
+	  -> <a href="viewforum.php?f=9&amp;sid=37b4b4426eed67cfbe4906a91288ce72" class="nav">Politics/Religion Forum</a></span></td>
+	<td align="right" valign="top" nowrap="nowrap"><span class="gensmall">All times are GMT - 6 Hours</span><br /><span class="nav">Goto page <b>1</b>, <a href="viewtopic.php?t=13041&amp;postdays=0&amp;postorder=asc&amp;start=15&amp;sid=37b4b4426eed67cfbe4906a91288ce72">2</a>, <a href="viewtopic.php?t=13041&amp;postdays=0&amp;postorder=asc&amp;start=30&amp;sid=37b4b4426eed67cfbe4906a91288ce72">3</a>, <a href="viewtopic.php?t=13041&amp;postdays=0&amp;postorder=asc&amp;start=45&amp;sid=37b4b4426eed67cfbe4906a91288ce72">4</a>&nbsp;&nbsp;<a href="viewtopic.php?t=13041&amp;postdays=0&amp;postorder=asc&amp;start=15&amp;sid=37b4b4426eed67cfbe4906a91288ce72">Next</a></span>
+	  </td>
+  </tr>
+  <tr>
+	<td align="left" colspan="3"><span class="nav">Page <b>1</b> of <b>4</b></span></td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="2" border="0" align="center">
+  <tr>
+	<td width="40%" valign="top" nowrap="nowrap" align="left"><span class="gensmall"></span><br />
+	  &nbsp;<br />
+	  </td>
+	<td align="right" valign="top" nowrap="nowrap">
+<form method="get" name="jumpbox" action="viewforum.php?sid=37b4b4426eed67cfbe4906a91288ce72" onSubmit="if(document.jumpbox.f.value == -1){return false;}"><table cellspacing="0" cellpadding="0" border="0">
+	<tr>
+		<td nowrap="nowrap"><span class="gensmall">Jump to:&nbsp;<select name="f" onchange="if(this.options[this.selectedIndex].value != -1){ forms['jumpbox'].submit() }"><option value="-1">Select a forum</option><option value="-1">&nbsp;</option><option value="-1">Archspace - Public</option><option value="-1">----------------</option><option value="1">News</option><option value="13">Change Log</option><option value="3">Player Board</option><option value="4">Bug Board</option><option value="5">Suggestion Board</option><option value="8">Help Board</option><option value="11">Recruiting</option><option value="12">Community Art and Literature</option><option value="9"selected="selected">Politics/Religion Forum</option><option value="14">Archspace 2.0</option><option value="15">Programming</option></select><input type="hidden" name="sid" value="37b4b4426eed67cfbe4906a91288ce72" />&nbsp;<input type="submit" value="Go" class="liteoption" /></span></td>
+	</tr>
+</table> </form>
+
+<span class="gensmall">You <b>cannot</b> post new topics in this forum<br />You <b>cannot</b> reply to topics in this forum<br />You <b>cannot</b> edit your posts in this forum<br />You <b>cannot</b> delete your posts in this forum<br />You <b>cannot</b> vote in polls in this forum<br /></span></td>
+  </tr>
+</table>
+
+
+<div align="center"><span class="copyright"><br /><br />
+<!--
+	We request you retain the full copyright notice below including the link to www.phpbb.com.
+	This not only gives respect to the large amount of time given freely by the developers
+	but also helps build interest, traffic and use of phpBB 2.0. If you cannot (for good
+	reason) retain the full copyright we request you at least leave in place the
+	Powered by phpBB  line, with phpBB linked to www.phpbb.com. If you refuse
+	to include even this then support on our forums may be affected.
+
+	The phpBB Group : 2002
+// -->
+Space Pilot 3K template by <a href="http://www.jakob-persson.com" class="copyright">Jakob Persson</a>.<br />
+Powered by <a href="http://www.phpbb.com/" target="_phpbb" class="copyright">phpBB</a>  &copy; 2001 phpBB Group<br /></span></div>
+<div align="center"><span class="copyright">Protected by <a href="http://www.lithiumstudios.org/" target="_blank" class="copyright">Anti-Spam ACP</a></span></div>
+		</td>
+	</tr>
+	<tr>
+		<td align="center">
+			<script type="text/javascript"><!--
+			google_ad_client = "pub-9347639997854244";
+			google_ad_width = 728;
+			google_ad_height = 90;
+			google_ad_format = "728x90_as";
+			google_ad_type = "text_image";
+			google_ad_channel ="";
+			google_color_border = "6699CC";
+			google_color_bg = "003366";
+			google_color_link = "FFFFFF";
+			google_color_url = "AECCEB";
+			google_color_text = "AECCEB";
+			//--></script>
+			<script type="text/javascript"
+			  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+			</script>
+		</td>
+	</tr>
+</table>
+
+</body><script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script
+type="text/javascript">_uacct = "UA-278580-1"; urchinTracker();</script>
+</html>
+

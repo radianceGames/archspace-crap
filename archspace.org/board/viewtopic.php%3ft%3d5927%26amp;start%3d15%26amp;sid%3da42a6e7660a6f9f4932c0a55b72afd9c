@@ -1,0 +1,1381 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Style-Type" content="text/css">
+
+<link rel="top" href="./index.php?sid=54aeb170f3b4fbb9f14b74545b01a8f2" title="Archspace Forum Index" />
+<link rel="search" href="./search.php?sid=54aeb170f3b4fbb9f14b74545b01a8f2" title="Search" />
+<link rel="help" href="./faq.php?sid=54aeb170f3b4fbb9f14b74545b01a8f2" title="FAQ" />
+<link rel="author" href="./memberlist.php?sid=54aeb170f3b4fbb9f14b74545b01a8f2" title="Memberlist" />
+<link rel="prev" href="viewtopic.php?t=5927&amp;view=previous&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2" title="View previous topic" />
+<link rel="next" href="viewtopic.php?t=5927&amp;view=next&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2" title="View next topic" />
+<link rel="up" href="viewforum.php?f=5&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2" title="Suggestion Board" />
+<link rel="chapter forum" href="viewforum.php?f=1&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2" title="News" />
+<link rel="chapter forum" href="viewforum.php?f=13&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2" title="Change Log" />
+<link rel="chapter forum" href="viewforum.php?f=3&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2" title="Player Board" />
+<link rel="chapter forum" href="viewforum.php?f=4&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2" title="Bug Board" />
+<link rel="chapter forum" href="viewforum.php?f=5&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2" title="Suggestion Board" />
+<link rel="chapter forum" href="viewforum.php?f=8&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2" title="Help Board" />
+<link rel="chapter forum" href="viewforum.php?f=11&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2" title="Recruiting" />
+<link rel="chapter forum" href="viewforum.php?f=12&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2" title="Community Art and Literature" />
+<link rel="chapter forum" href="viewforum.php?f=9&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2" title="Politics/Religion Forum" />
+<link rel="chapter forum" href="viewforum.php?f=14&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2" title="Archspace 2.0" />
+
+<title>Archspace :: View topic - Add New Race to archspace</title>
+<link rel="stylesheet" href="templates/SpacePilot3K/SpacePilot3K.css" type="text/css">
+<body bgcolor="#000000" text="#DDDDDD" link="#8BC7FF" vlink="#5493B4">
+
+
+
+<script language="Javascript" type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+</script>
+
+
+
+<script language="Javascript" type="text/javascript">
+<!--
+function rollover(name, source)  {
+
+  document.images[name].src = source;
+
+}
+//-->
+</script>
+
+<script language="JavaScript" src="templates/SpacePilot3K/fade.js"></script>
+
+</head>
+<body />
+
+<a name="top"></a>
+
+<table width="100%" cellspacing="0" cellpadding="10" border="0" align="center">
+	<tr>
+		<td align="center">
+			<script type="text/javascript"><!--
+			google_ad_client = "pub-9347639997854244";
+			google_ad_width = 728;
+			google_ad_height = 90;
+			google_ad_format = "728x90_as";
+			google_ad_type = "image";
+			google_ad_channel ="";
+			google_color_border = "6699CC";
+			google_color_bg = "003366";
+			google_color_link = "FFFFFF";
+			google_color_url = "AECCEB";
+			google_color_text = "AECCEB";
+			//--></script>
+			<script type="text/javascript"
+			  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+			</script>
+		</td>
+	</tr>
+	<tr>
+		<td class="bodyline"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+			<tr>
+				<td><a href="index.php?sid=54aeb170f3b4fbb9f14b74545b01a8f2"><span class="maintitle"><img src="templates/SpacePilot3K/images/logo_sp3k.gif" border="0" alt="Archspace Forum Index" vspace="1" /></span></a></td>
+				<td align="center" width="100%" valign="middle"><span class="maintitle">Archspace</span><br /><span class="gen">Archspace Forums<br />&nbsp; </span>
+				<table cellspacing="0" cellpadding="2" border="0">
+					<tr>
+						<td align="center" valign="top" nowrap="nowrap"><span class="mainmenu">&nbsp;<a href="faq.php?sid=54aeb170f3b4fbb9f14b74545b01a8f2" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_faq.gif" width="14" height="14" border="0" alt="FAQ" hspace="3" />FAQ</a></span><span class="mainmenu">&nbsp; &nbsp;<a href="search.php?sid=54aeb170f3b4fbb9f14b74545b01a8f2" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_search.gif" width="14" height="14" border="0" alt="Search" hspace="3" />Search</a>&nbsp; &nbsp;<a href="memberlist.php?sid=54aeb170f3b4fbb9f14b74545b01a8f2" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_members.gif" width="14" height="14" border="0" alt="Memberlist" hspace="3" />Memberlist</a>&nbsp; &nbsp;<a href="groupcp.php?sid=54aeb170f3b4fbb9f14b74545b01a8f2" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_groups.gif" width="14" height="14" border="0" alt="Usergroups" hspace="3" />Usergroups</a>&nbsp;
+						&nbsp;<a href="profile.php?mode=register&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_register.gif" width="14" height="14" border="0" alt="Register" hspace="3" />Register</a></span>&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td height="25" align="center" valign="top" nowrap="nowrap"><span class="mainmenu">&nbsp;<a href="profile.php?mode=editprofile&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_profile.gif" width="14" height="14" border="0" alt="Profile" hspace="3" />Profile</a>&nbsp; &nbsp;<a href="privmsg.php?folder=inbox&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_message.gif" width="14" height="14" border="0" alt="Log in to check your private messages" hspace="3" />Log in to check your private messages</a>&nbsp; &nbsp;<a href="login.php?sid=54aeb170f3b4fbb9f14b74545b01a8f2" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_login.gif" width="14" height="14" border="0" alt="Log in" hspace="3" />Log in</a>&nbsp;</span></td>
+					</tr>
+				</table></td>
+			</tr>
+		</table>
+
+		<br />
+
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0">
+  <tr>
+	<td align="left" valign="bottom" colspan="2"><a class="maintitle" href="viewtopic.php?t=5927&amp;start=0&amp;postdays=0&amp;postorder=asc&amp;highlight=&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2">Add New Race to archspace</a><br />
+	  <span class="gensmall"><b>Goto page <b>1</b>, <a href="viewtopic.php?t=5927&amp;postdays=0&amp;postorder=asc&amp;start=15&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2">2</a>&nbsp;&nbsp;<a href="viewtopic.php?t=5927&amp;postdays=0&amp;postorder=asc&amp;start=15&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2">Next</a></b><br />
+	  &nbsp; </span></td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0">
+  <tr>
+	<td align="left" valign="bottom" nowrap="nowrap"><span class="nav"><a href="posting.php?mode=newtopic&amp;f=5&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2" onMouseOver="rollover('top_newtopic','templates/SpacePilot3K/images/lang_english/post_on.gif');" onMouseOut="rollover('top_newtopic','templates/SpacePilot3K/images/lang_english/post_off.gif');"><img name="top_newtopic" src="templates/SpacePilot3K/images/lang_english/post_off.gif" border="0" alt="Post new topic" align="middle"/></a>&nbsp;&nbsp;&nbsp;<a href="posting.php?mode=reply&amp;t=5927&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2" onMouseOver="rollover('top_postreply','templates/SpacePilot3K/images/lang_english/reply_on.gif');" onMouseOut="rollover('top_postreply','templates/SpacePilot3K/images/lang_english/reply_off.gif');"><img name="top_postreply" src="templates/SpacePilot3K/images/lang_english/reply_off.gif" border="0" alt="Reply to topic" align="middle" /></a></span></td>
+	<td align="left" valign="middle" width="100%"><span class="nav">&nbsp;&nbsp;&nbsp;<a href="index.php?sid=54aeb170f3b4fbb9f14b74545b01a8f2" class="nav">Archspace Forum Index</a>
+	  -> <a href="viewforum.php?f=5&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2" class="nav">Suggestion Board</a></span></td>
+  </tr>
+</table>
+
+<table class="forumline" width="100%" cellspacing="1" cellpadding="3" border="0">
+	<tr align="right">
+		<td class="catHead" colspan="2" height="28"><span class="nav"><a href="viewtopic.php?t=5927&amp;view=previous&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2" class="cattitle">View previous topic</a> :: <a href="viewtopic.php?t=5927&amp;view=next&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2" class="cattitle">View next topic</a> &nbsp;</span></td>
+	</tr>
+	
+	<tr>
+		<th class="thLeft" width="150" height="26" nowrap="nowrap">Author</th>
+		<th class="thRight" nowrap="nowrap">Message</th>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="44960"></a><b>Krayzie Abz</b></span><br /><span class="postdetails">Newbie<br /><img src="images/avatars/1212486034435588c80075b.gif" alt="" border="0" /><br /><br />Joined: 30 Aug 2005<br />Posts: 85<br />Location: Xanga.com</span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=44960&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2#44960"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Sat Jan 14, 2006 11:18 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: Add New Race to archspace</span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=44960&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">I would Like Archspace to have new race maybe just two or three more race to pick from would be a good thing.<br />_________________<br />I Luv Sexy Kute Women</span><span class="gensmall"><br /><br />Last edited by Krayzie Abz on Sat Apr 15, 2006 8:44 pm; edited 1 time in total</span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=2290&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=2290&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a> <a href="mailto:krayzieazianboy@yahoo.com"><img src="templates/SpacePilot3K/images/lang_english/icon_email.gif" alt="Send e-mail" title="Send e-mail" border="0" /></a> <a href="http://www.xanga.com/Krayzie_Abz" target="_userwww"><img src="templates/SpacePilot3K/images/lang_english/icon_www.gif" alt="Visit poster's website" title="Visit poster's website" border="0" /></a> <a href="aim:goim?screenname=Krayzie+A3z&amp;message=Hello+Are+you+there?"><img src="templates/SpacePilot3K/images/lang_english/icon_aim.gif" alt="AIM Address" title="AIM Address" border="0" /></a> <a href="http://edit.yahoo.com/config/send_webmesg?.target=krayzieazianboy&amp;.src=pg"><img src="templates/SpacePilot3K/images/lang_english/icon_yim.gif" alt="Yahoo Messenger" title="Yahoo Messenger" border="0" /></a> <a href="profile.php?mode=viewprofile&amp;u=2290&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_msnm.gif" alt="MSN Messenger" title="MSN Messenger" border="0" /></a><script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="45062"></a><b>Dantrithor</b></span><br /><span class="postdetails">Normal<br /><img src="images/avatars/6551334274382302254608.jpg" alt="" border="0" /><br /><br />Joined: 05 Aug 2005<br />Posts: 228<br /></span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=45062&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2#45062"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Sat Jan 14, 2006 2:43 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=45062&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Erm.. man.. .all races are enough if u know how to play them:
+<br />
+Targoid are great for massing people with ships and clonal doubles commies as they have huge production and fac cost.. but dont send them against psi races
+<br />
+Xeloss have great commies and great ship building ratio, but you need to pick a lot your commies, and u have not a so good fac cost
+<br />
+Evintos have great production, but sucky commies (lets see how the new comime abilitye works)
+<br />
+etc...
+<br />
+
+<br />
+You have more races than you need in fact <img src="images/smiles/icon_razz.gif" alt="Razz" border="0" /></span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=9&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=9&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="45063"></a><b>goodie</b></span><br /><span class="postdetails">Forum Whore<br /><img src="images/avatars/190075245943ff5fe4acb9c.jpg" alt="" border="0" /><br /><br />Joined: 05 Aug 2005<br />Posts: 1868<br />Location: stuck in a bad place with korean pop... /me damns SES</span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=45063&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2#45063"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Sat Jan 14, 2006 2:46 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=45063&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">dont let kupo see this.......
+<br />
+
+<br />
+
+<br />
+in the code, there is an 11th race, its just commented out, ala not able to be used in anyway
+<br />
+
+<br />
+apparently it has some funkty things set up for it.....<br />_________________<br /></span><table width="90%" cellspacing="1" cellpadding="3" border="0" align="center"><tr> 	  <td><span class="genmed"><b>Quote:</b></span></td>	</tr>	<tr>	  <td class="quote">"Those who abandon their friends are worse than trash" - Uchiha Obito </td>	</tr></table><span class="postbody">
+<br />
+
+<br />
+[21:11:33] &lt;+XenoTerror&gt; Leena
+<br />
+[21:11:38] &lt;+Leena&gt; yes meatbag?</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=16&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=16&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a> <a href="mailto:goodie01@gmail.com"><img src="templates/SpacePilot3K/images/lang_english/icon_email.gif" alt="Send e-mail" title="Send e-mail" border="0" /></a>    <a href="profile.php?mode=viewprofile&amp;u=16&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_msnm.gif" alt="MSN Messenger" title="MSN Messenger" border="0" /></a><script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="45071"></a><b>smartguy</b></span><br /><span class="postdetails">Fat Commerce Whore<br /><img src="images/avatars/167577545343335283b331f.gif" alt="" border="0" /><br /><br />Joined: 05 Aug 2005<br />Posts: 950<br />Location: Indiana</span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=45071&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2#45071"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Sat Jan 14, 2006 3:14 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=45071&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">nah, there's not much set up for it.  Like, just cm's and a description, but no commanders or anything.  It's an uber sucky race, too.  Basically it has horrid cm's, with -4 to production.  But if you're at war with them, you also suffer from that panalty. 
+<br />
+
+<br />
+Anyway...devs have said they have no problem adding a new race, but they need a good idea that would be balanced and actually enhance gameplay, not just a pointless addition.  They also would need someone to do the artwork.<br />_________________<br />Death to the unbelievers, and some such stuff.
+<br />
+
+<br />
+Proud member of WD and WD-Maddogs, MK, CN, NC, and whatever you like to call me now.</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=10&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=10&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <a href="profile.php?mode=viewprofile&amp;u=10&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_msnm.gif" alt="MSN Messenger" title="MSN Messenger" border="0" /></a><script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="45272"></a><b>Dantrithor</b></span><br /><span class="postdetails">Normal<br /><img src="images/avatars/6551334274382302254608.jpg" alt="" border="0" /><br /><br />Joined: 05 Aug 2005<br />Posts: 228<br /></span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=45272&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2#45272"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Sun Jan 15, 2006 3:37 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=45272&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">im just curious.. what's the description and racial CM/traits of that race?</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=9&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=9&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="65304"></a><b>zaron</b></span><br /><span class="postdetails">Vet<br /><br /><br />Joined: 24 Feb 2006<br />Posts: 458<br /></span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=65304&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2#65304"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Wed Apr 12, 2006 7:50 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=65304&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Dreamt up a few races, beat them down if you wish.
+<br />
+
+<br />
+<span style="text-decoration: underline">Ghosts</span>
+<br />
+
+<br />
+Description: As network matrices appeared among the dominant races, the ghost phenomenon began to take place. Overtime the "ghosts" forgot their former identities and replication within the networks began. None know of the reasons behind why some began to take control of factories, bases and labs.
+<br />
+
+<br />
+Physical: They have no physical bodies, but may download into "dolls" to interact with the physical world.
+<br />
+
+<br />
+Ships: Having no need for living conditioning their ships are as effcient if not more so then Evintos ships. Otherwise they mimic designs stolen from other races as they have forgotten much of the physical existence.
+<br />
+
+<br />
+Society: Almost anarchistic, but there exists a common acknowledgement that the networks must be functional otherwise existence will end for them. The individual ghosts may come from any race, but their detachment from a body has long changed their values and beliefs.
+<br />
+
+<br />
+Racial Traits: Facilities are made completely for functionality, but the virtual matrix hampers ideas that apply to reality.
+<br />
++effciency CM
+<br />
++facility cost CM
+<br />
++spy CM
+<br />
+-growth CM
+<br />
+-research CM
+<br />
+
+<br />
+No breath
+<br />
+
+<br />
+Network Freedom
+<br />
+-Special Operations limited to Steal Tech, Info Gathering, Network Worm, Virus Infilitration, Incite Riot
+<br />
+-Ghosts have a seperate 50% survival chance
+<br />
+
+<br />
+Infiltration
+<br />
+-Due to subtle manipulations of agents within enemy networks that distort the sensors and computers, ghost ships are all considered to have weak cloaking
+<br />
+
+<br />
+Commanders: Ghosts have difficulty understanding the limitations of the physical universe.
+<br />
+-siege/block/raid/priv/repel/break
+<br />
++priv/manuver/detection
+<br />
+
+<br />
+True Infiltrator - Know thy enemy, and know what thy enemy knows about thy self
+<br />
+-Complete Cloaking
+<br />
+-detect Weak Cloaking (3+)
+<br />
+-detect Complete Cloaking (10+)
+<br />
+-critical +20%
+<br />
+-interpretation +5
+<br />
+-psi defense -50%
+<br />
+
+<br />
+Ghost Interface - Tool and User as one
+<br />
+-Attack Rating +20%
+<br />
+-Defense Rating +30%
+<br />
+-detection +5
+<br />
+
+<br />
+Mechanical Overhaul - No more limitations of a body
+<br />
+-Speed +60%
+<br />
+-Mobility +60%
+<br />
+-HP +25%
+<br />
+
+<br />
+<span style="text-decoration: underline">The Hollow</span>
+<br />
+
+<br />
+Description: The Hollow move about the universe seeking to feed off the mental energies of sentinent races and to lessen their pain by imbueing it unto others. Some say they are the maddened remnants of psionic entities from long ago that sought immortality, others claim they are demons birthed from the pain and suffering of the universe. While they are lucid when fed, it is never long enough before the hunger returns and causes them to lash out at all life.
+<br />
+
+<br />
+Physical: Very rarely do Hollow look alike, their "bodies" are more of less often an assymetric mess of flesh and machine held together by the dark psionic energies that distinguish them. If a Bosnolian's aura is said to be brilliant and soothing, then the chilling touch of a Hollow's aura is draining and despairing.
+<br />
+
+<br />
+Ships: Like their bodies, their ships are mostly held together by psionic energies as opposed to precise engineering. A fleet of Hollow ships reminds one of the battered hulls of ships floating in a battlefield graveyard. Their abomimable bodies usually are unsuitable for constructing fine machinery, so they use legions of dominated slaves and switch possession to bodies of the proper type.
+<br />
+
+<br />
+Society: A hierchy of power, in which the powerful dominates the weak in a step like fashion. Other races are kept for feeding and entertainment and occassionally labour during which their body and mind is dominated by psionic possession.
+<br />
+
+<br />
+Racial Traits: Feared and Hated by most races, they gleefully assert the reasons behind that reputation. Their facilities are in as bad of a shape as their ships, but are run on naught but their powers. Their collective presence alone is enough to corrupt a world to suit them.
+<br />
+-production CM
+<br />
+-diplomacy CM
+<br />
+-effciency CM
+<br />
+-commerce CM
+<br />
++fac cost CM
+<br />
++enviroment CM
+<br />
+
+<br />
+Psi
+<br />
+
+<br />
+Psychic Vampire - The hunger that drives hollows marks their race. They delight in the heightened mental energies that the stress of battle invokes in sentinent races. As such they march happily into certain death, feeding and harming.
+<br />
+-Psi morale damage +50%
+<br />
+-Whenever the fleet would normally panic/retreat/rout, it berserks instead
+<br />
+
+<br />
+Possessed Fleet - Most hollow ships are in the condition where they would fall apart or be non-functional if not for the psionic energies sustaining them. Disruption to the ships' auras allows nature to take its course.
+<br />
+-Physical damage taken from psi weapons +30%
+<br />
+-Shields +30%
+<br />
+-Shield Recharge +100%
+<br />
+-Ship HP -25%
+<br />
+
+<br />
+Reborn Soul - Some say Hollows come from the dead.
+<br />
+-New Fleet commanders have a random level between 3-10, the chance of higher levels increases with overall power
+<br />
+-Hollows do not gain experience through training.
+<br />
+
+<br />
+Commanders: Harbringers of doom. The Scourge of God.
+<br />
++siege/raid
+<br />
+-survival
+<br />
+
+<br />
+Seeker of Pain - The only allevation is to let others suffer too
+<br />
+-Damage +30%
+<br />
+-Cooldown -15%
+<br />
+-Critical +15%
+<br />
+-HP -10%
+<br />
+-Defense -40%
+<br />
+-Efficiency -20%
+<br />
+-Survival -30%
+<br />
+
+<br />
+Eye of Terror - All it sees is the prey its hunting
+<br />
+-Psi morale damage +100%
+<br />
+-Psi defense -40%
+<br />
+-Speed +25%
+<br />
+-Mobilty +25%
+<br />
+-Detection -5
+<br />
+
+<br />
+Hidden Horror - A lone fleet passed by an orbiting scrap pile. The pile grew larger.
+<br />
+-Stealth 40%
+<br />
+-Attack Rate +20%
+<br />
+-Armor Defense Rate +20%
+<br />
+-Mobility -30%
+<br />
+-Speed -50%
+<br />
+
+<br />
+<span style="text-decoration: underline">Plasmoids</span>
+<br />
+
+<br />
+Description: Slow and curious, many are trying to decide on whether the Plasmoids are an ancient or young race. They find themselves being called explorers of the universe and adventurers of worlds, due to their wanderlust and desire for new experiences. They enjoy observing other races while hiding amongst them with their mimic shells.
+<br />
+
+<br />
+Physical: Best described as an amorphous blob lifeform, they might be related to the "cells" that constitute Argeus. More of less often they are encountered in "mimic" form, as they can temporarily create a shell that resembles other species they've contacted.
+<br />
+
+<br />
+Ships: Their ships aren't the proudest products of engineering, but they make up for mechanical ineffciency by the Living Network formed by the Plasmoid crew within. Like their bodies, the ships are usually amorphous.
+<br />
+
+<br />
+Society: Plasmoids are loosely associated as they prefer to explore their individual fancies. Society is mostly an adaptation of what they have learned from association with other races.
+<br />
+
+<br />
+Racial Traits: Their bodies weren't capable of dexterious or strength functions, but ever so slowly they have developed tools suitable for themselves. Ever adaptable, few sentinent races fail to find Plasmoids amusing.
+<br />
+-military CM
+<br />
+-research CM
+<br />
++environment CM
+<br />
++diplomacy CM
+<br />
++commerce CM
+<br />
+
+<br />
+Amorphous Ships: Having no front or back, there are no true weak points to a Plasmoid ship. Unfortunately having no concentrated weapons/armors/shields neither do they have strong points.
+<br />
+-Fire angle 360
+<br />
+-Base Crit on Plasmoid ships is 5% from any face
+<br />
+-AR -10%
+<br />
+ 
+<br />
+Living Network: Plasmoid crews physically attach to each other to form a "nervous-system" throughout their ships. This allows them to make minute adjustments and repairs. Fear and panic spreads across the entire ship though.
+<br />
+-Effciency +25%
+<br />
+-Repair +1%/5 turn
+<br />
+-Panic +10
+<br />
+
+<br />
+Commanders: Their slow nature hampers the time critical decisions in battle. As a passive race fighting to the death in hopeless battles is an abberative thought. They can survive on minimal for long periods though.
+<br />
+-siege
+<br />
++survival</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=9104&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=9104&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="65305"></a><b>Kupo</b></span><br /><span class="postdetails">Moogle Ninja<br /><img src="images/avatars/728271478436159a770aa2.jpg" alt="" border="0" /><br /><br />Joined: 08 Aug 2005<br />Posts: 314<br />Location: Computer</span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=65305&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2#65305"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Wed Apr 12, 2006 7:56 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=65305&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">TARENIAN!!!!!!!!!!!<br />_________________<br /><img src="http://img458.imageshack.us/img458/3738/seiffervh1vs.png" border="0" />
+<br />
+-Lady Kunoichi of Valhalla
+<br />
+-Retired Developer</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=912&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=912&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>   <a href="aim:goim?screenname=NotForYouToKnow&amp;message=Hello+Are+you+there?"><img src="templates/SpacePilot3K/images/lang_english/icon_aim.gif" alt="AIM Address" title="AIM Address" border="0" /></a> <a href="http://edit.yahoo.com/config/send_webmesg?.target=NotForYouToKnow&amp;.src=pg"><img src="templates/SpacePilot3K/images/lang_english/icon_yim.gif" alt="Yahoo Messenger" title="Yahoo Messenger" border="0" /></a> <a href="profile.php?mode=viewprofile&amp;u=912&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_msnm.gif" alt="MSN Messenger" title="MSN Messenger" border="0" /></a><script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="65315"></a><b>Azdgari</b></span><br /><span class="postdetails">Forum Whore<br /><br /><br />Joined: 05 Aug 2005<br />Posts: 1707<br />Location: Canada</span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=65315&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2#65315"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Wed Apr 12, 2006 8:37 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=65315&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">&lt;Azdgari&gt; Woah, just reading that "new races" post
+<br />
+&lt;Azdgari&gt; those aren't all such bad ideas
+<br />
+&lt;Kunoichi&gt; I saw the long post
+<br />
+&lt;Kunoichi&gt; havent read it yet
+<br />
+&lt;Azdgari&gt; I havn't read it all in-depth
+<br />
+&lt;Azdgari&gt; but there are some cool ideas.
+<br />
+&lt;Kunoichi&gt; Wow
+<br />
+&lt;Kunoichi&gt; you're right
+<br />
+&lt;Azdgari&gt; The first one seems a little too similar to Evintos
+<br />
+&lt;Azdgari&gt; until you get to the commander abilities
+<br />
+&lt;Kunoichi&gt; yeah
+<br />
+&lt;Azdgari&gt; PSI-Evintos?
+<br />
+&lt;Azdgari&gt; <img src="images/smiles/icon_smile.gif" alt="Smile" border="0" />
+<br />
+&lt;Kunoichi&gt; psi-evintos
+<br />
+&lt;Kunoichi&gt; no thanks
+<br />
+&lt;Azdgari&gt; heh
+<br />
+&lt;Azdgari&gt; the plasmoid one seems cool though
+<br />
+&lt;Azdgari&gt; I like the no-front-end thing
+<br />
+&lt;Azdgari&gt; if the battle code can take it anyway...
+<br />
+&lt;Kunoichi&gt; battle code can take 360 degree angle of fire
+<br />
+&lt;Azdgari&gt; I know that
+<br />
+&lt;Azdgari&gt; but I was thinking that it wouldn't make sense for a fleet of those to be "pointed" anywhere at all
+<br />
+&lt;Azdgari&gt; it would just...move
+<br />
+&lt;Kunoichi&gt; hmmm
+<br />
+&lt;Kunoichi&gt; I should suggest that to him
+<br />
+&lt;Kunoichi&gt; that there is no clear movement pattern either
+<br />
+&lt;Kunoichi&gt; and it just randomly moves around field <img src="images/smiles/icon_razz.gif" alt="Razz" border="0" />
+<br />
+&lt;Kunoichi&gt; I dont like -mili and -res
+<br />
+&lt;Azdgari&gt; yeah, yikes
+<br />
+&lt;Kunoichi&gt; with only a + to diplo and commerce (env is useless..)
+<br />
+&lt;Azdgari&gt; -mili and -res is killer at set start
+<br />
+&lt;Kunoichi&gt; and the other two can be done without
+<br />
+&lt;Azdgari&gt; and...well
+<br />
+&lt;Kunoichi&gt; I like the +survival
+<br />
+&lt;Azdgari&gt; the whole way through
+<br />
+&lt;Kunoichi&gt; -mil hurts
+<br />
+&lt;Kunoichi&gt; look at bosa
+<br />
+&lt;Kunoichi&gt; lol
+<br />
+&lt;Azdgari&gt; at least bosa get +research
+<br />
+&lt;Azdgari&gt; for being Personalist
+<br />
+&lt;Kunoichi&gt; yeah
+<br />
+&lt;Kunoichi&gt; I couldnt imagine being -res, too
+<br />
+&lt;Azdgari&gt; ick
+<br />
+&lt;Kunoichi&gt; i dont like the hollow's CMs, either
+<br />
+&lt;Kunoichi&gt; -prod (owww)
+<br />
+&lt;Kunoichi&gt; -diplo
+<br />
+&lt;Kunoichi&gt; -eff (oww <img src="images/smiles/icon_sad.gif" alt="Sad" border="0" />)
+<br />
+&lt;Kunoichi&gt; +fc (semi-useful to a point =/ look at targs overabundance
+<br />
+&lt;Kunoichi&gt; +enviroment (am I missing something here, is enviroment useful..?)
+<br />
+&lt;Azdgari&gt; Environment is useful at set start, to a point
+<br />
+&lt;Kunoichi&gt; now ghost
+<br />
+&lt;Azdgari&gt; after that, not so much
+<br />
+&lt;Kunoichi&gt; their cm are unbalanced the other way
+<br />
+&lt;Kunoichi&gt; +eff (yay ^^)
+<br />
+&lt;Azdgari&gt; heh
+<br />
+&lt;Kunoichi&gt; + fc (<img src="images/smiles/icon_smile.gif" alt="Smile" border="0" />)
+<br />
+&lt;Kunoichi&gt; +spy (<img src="images/smiles/icon_biggrin.gif" alt="Very Happy" border="0" />)
+<br />
+&lt;Kunoichi&gt; a teca/targ/tos
+<br />
+&lt;Kunoichi&gt; -growth (big fuckin deal)
+<br />
+&lt;Kunoichi&gt; -res (oww)
+<br />
+&lt;Kunoichi&gt; the positives outweigh the negatives, though
+<br />
+&lt;Azdgari&gt; especially late game
+<br />
+&lt;Azdgari&gt; where research is irrelevant
+<br />
+&lt;Kunoichi&gt; yeah
+<br />
+&lt;Kunoichi&gt; So like, you should post this log
+<br />
+&lt;Kunoichi&gt; as your reply to that
+<br />
+&lt;Kunoichi&gt; cause i cba typing it all up again
+<br />
+&lt;Azdgari&gt; lol, but YOU could post it...I'm so lazy:P
+<br />
+&lt;Kunoichi&gt; wrong comp :p
+<br />
+&lt;Kunoichi&gt; I AS on one comp
+<br />
+&lt;Kunoichi&gt; and IRC on other
+<br />
+&lt;Azdgari&gt; heh, fine
+<br />
+&lt;Azdgari&gt; posting...
+<br />
+
+<br />
+==========
+<br />
+
+<br />
+Kuno is me! (Kupo)</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=89&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=89&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a> <a href="mailto:azdgari@msn.com"><img src="templates/SpacePilot3K/images/lang_english/icon_email.gif" alt="Send e-mail" title="Send e-mail" border="0" /></a>    <a href="profile.php?mode=viewprofile&amp;u=89&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_msnm.gif" alt="MSN Messenger" title="MSN Messenger" border="0" /></a><script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="65376"></a><b>zaron</b></span><br /><span class="postdetails">Vet<br /><br /><br />Joined: 24 Feb 2006<br />Posts: 458<br /></span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=65376&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2#65376"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Thu Apr 13, 2006 11:02 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=65376&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Yea, its true that I didn't think much of CMs and abilities as I made them on the fly while posting. Only the race descriptions were somewhat thought out.
+<br />
+
+<br />
+[u]Ghost[\u]
+<br />
+Ghost ships are mostly based on ghosts from Nexus: Jupiter Incident. The idea is to have weak ships which have cloaking and advanced shield technology.
+<br />
+Ghost persona is more or less credited to Ghost in the Shell.
+<br />
+Their production is meant to be above average. Supposedly they would have more effcient facilities, but build them slower, unfortunately game mechanics don't seem to allow that. Their abilities should be geared more towards defense then offense, favoring hit and run tactics. If Special Ops had more effect, they would be more focused in that area.
+<br />
+
+<br />
+Beta Ghost Commanders:
+<br />
+
+<br />
+Deep Infiltration
+<br />
+-Complete Cloaking
+<br />
+-detect Weak Cloaking
+<br />
+-detect Complete Cloaking
+<br />
+-Shield Piercing +50%
+<br />
+-Psi Defense Penalty -40%
+<br />
+
+<br />
+Systems Report Analyst -Tapping into enemy systems reports and schematics the weak points are revealed. Unfortunately this process is relatively time and concentration consuming.
+<br />
+-Critcal +15%
+<br />
+-AR +15%
+<br />
+-Shield Distortion +50%
+<br />
+-Mobility -20%
+<br />
+-Cooldown Penalty +10%
+<br />
+
+<br />
+Systems Overhaul - What would be dangerous to physical beings have no tangible effect on Virtual ones. Higher Acceleration, dangerous shield emission levels. Unfortunately unlike the simulations, the thick shields do not disperse or precisely quickly enough during firing. Stress on the plating exceeded theory as well.
+<br />
+-Shield Strength +50%
+<br />
+-Impenetrable Shield +40%
+<br />
+-Shield Recharge +100%
+<br />
+-Shield Solidarity +5
+<br />
+-Manuver +7
+<br />
+-Weapon Damage Penalty -15%
+<br />
+-Armor Defense Penalty -25% 
+<br />
+
+<br />
+Ghost Ending: As the ever increasing and advancing networks began running through the entire galaxy, the Ghosts experienced a new freedom unknown to physical beings. The on going wars threatened their entire plain of existence and the idea of controlling the galaxy to ensure their survival spread like wildfire.
+<br />
+
+<br />
+Possibly penalties to somethng.
+<br />
+
+<br />
+Kamikazi Hackers
+<br />
+Usually ghosts don't linger in protected systems for long as they can be destroyed, but the heightened existence within the Virtual World has bred many zealous defenders. These individuals are ready to sacrifice themselves to disrupt enemy systems.
+<br />
+Occassionaly there is a chance a random enemy fleet if flagged with Berserk, Disorder, or Retreat for X turns. 
+<br />
+*Random Pool Commander has a 50% chance of dying on activation(might be a balancing feature)
+<br />
+Don't know whether or to use as a device, defense racial ability, or general racial ability   
+<br />
+
+<br />
+[u]Hollow[\u]
+<br />
+Hollow are a mix of the demon/undead races from Warhammer 40K and the Hollows from bleach.
+<br />
+The idea is a highly aggressive race that has neglected internal and external affairs. As such they gain PP from attacks, but have weak building powers.
+<br />
+
+<br />
+Psychic Vampire: The omitted additions due to difficulty of implementation.
+<br />
+-"Salvage" (of sentinents) from destroyed fleets ("dead enemy commies") during victories
+<br />
+-"Salvage" (ditto) during Genocides
+<br />
+
+<br />
+Hollow Ending - Echoes of the galactic conflict resound throught the stars. As the fires of war grow ever more bright, the power of the Hollow extends. True evil never dies.
+<br />
+
+<br />
+-Possible balancing penalties
+<br />
+
+<br />
+Racial Ability - Necroptic Revival
+<br />
+As long as the commander survived any ships destroyed have a 50% chance of being regenerated in a victory and 25% in a defeat.
+<br />
+
+<br />
+Events - As they deviate from 'normal' races, events effect the Hollow in a different manner.
+<br />
+
+<br />
+Examples:
+<br />
+Only empire events are PP demands and attacks. 
+<br />
+Court ranks are awarded as normal
+<br />
+
+<br />
+Energy Leeches always kill the fleet and commander, but 1~3 random commanders of the level +/- 2 are added to the pool
+<br />
+
+<br />
+Insane Mental Giant - Gives bonuses to Production and Military
+<br />
+
+<br />
+Never recieves Bribes, Commerce Title or other such things
+<br />
+
+<br />
+Pirates always are consumed for PP
+<br />
+
+<br />
+[u]Plasmoid[\u]
+<br />
+
+<br />
+The sentinent blob race. Given personalities like those wanderlust whatchamacallits from Dragonlance. They are a peaceful peoples, their fighting style is meant to be highly varied (If flanking, penetration and such would work properly for me at least) and adaptable, but not an overwhelming force. While their ships are supposed to have no turning problems, they aren't supposed to have a bonus to mobility based DR. Building wise, they are meant to be slow and steady, average.
+<br />
+
+<br />
+Racial -
+<br />
+
+<br />
+Adventurer Explorers: Plasmoid expeditions can always get planets even over the 20 limit, but their expeditions have higher chances of encountering Strange Events and take longer to return
+<br />
+
+<br />
+Plasmoid Ending - Inspite of their gestures of friendships, many races lead their warships against Plasmoid worlds. To this end a new belief is rising among the plasmoid, Adaptation is the path to survival.
+<br />
+
+<br />
+Empire Penalties are lowered
+<br />
+
+<br />
+Racial Ability - Mimicry Evolution
+<br />
+Randomly, commanders spawned will instead be a mimic of another race and have their abilities instead. 
+<br />
+(Limitations might be applied, like Psi powers wouldn't be possible)
+<br />
+
+<br />
+Adds Event - Everchanging Fads
+<br />
+Random pooled commanders randomly change into any race.</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=9104&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=9104&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="65532"></a><b>Xingma</b></span><br /><span class="postdetails">Newbie<br /><br /><br />Joined: 09 Dec 2005<br />Posts: 53<br /></span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=65532&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2#65532"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Fri Apr 14, 2006 11:37 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=65532&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">like the idea</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=6447&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=6447&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="65659"></a><b>k3nshin</b></span><br /><span class="postdetails">Forum Nubje<br /><br /><br />Joined: 01 Apr 2006<br />Posts: 19<br /></span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=65659&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2#65659"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Sat Apr 15, 2006 2:46 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=65659&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">but there are already sooooooooooooooo many!!!
+<br />
+10! is a lot!
+<br />
+
+<br />
+in archmage we only like 5 to chose from!
+<br />
+AS has double the choice - don't complain!
+<br />
+
+<br />
+and each one has a diff play style!</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=9960&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=9960&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="65694"></a><b>smartguy</b></span><br /><span class="postdetails">Fat Commerce Whore<br /><img src="images/avatars/167577545343335283b331f.gif" alt="" border="0" /><br /><br />Joined: 05 Aug 2005<br />Posts: 950<br />Location: Indiana</span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=65694&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2#65694"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Sat Apr 15, 2006 5:43 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=65694&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">racial ideas are cool...but we also need someone to do the artwork :p  And of course it has to look similar to the other race's, or that'd just stand out like mad.  Or they could redo all the other races too, which is something we've been trying to get done for a looong time.<br />_________________<br />Death to the unbelievers, and some such stuff.
+<br />
+
+<br />
+Proud member of WD and WD-Maddogs, MK, CN, NC, and whatever you like to call me now.</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=10&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=10&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <a href="profile.php?mode=viewprofile&amp;u=10&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_msnm.gif" alt="MSN Messenger" title="MSN Messenger" border="0" /></a><script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="65941"></a><b>TTHSK</b></span><br /><span class="postdetails">Newbie<br /><img src="images/avatars/12054313514440cfed95963.gif" alt="" border="0" /><br /><br />Joined: 13 Apr 2006<br />Posts: 75<br /></span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=65941&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2#65941"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Tue Apr 18, 2006 4:31 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=65941&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">I made an image for the "ghost" race that may fit in... May...</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=10212&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=10212&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="65944"></a><b>TTHSK</b></span><br /><span class="postdetails">Newbie<br /><img src="images/avatars/12054313514440cfed95963.gif" alt="" border="0" /><br /><br />Joined: 13 Apr 2006<br />Posts: 75<br /></span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=65944&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2#65944"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Tue Apr 18, 2006 5:42 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=65944&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody"><img src="http://www.geocities.com/tomthehighschoolkid/ghostmain.gif" border="0" />
+<br />
+There...</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=10212&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=10212&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="66290"></a><b>Leet_Master_Ace</b></span><br /><span class="postdetails">Vet<br /><br /><br />Joined: 17 Dec 2005<br />Posts: 833<br />Location: Chair...staring contest vs. comp. screen everyday</span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=66290&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2#66290"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Thu Apr 20, 2006 12:08 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=66290&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">I just read through the ghost special abilities zaron posted, and it seems really unbalanced.  Like Systems Report Analyst, talk about an unbalanced boost for HBH ships!  It's not like any front row Missile Specialist fleets are expected to survive or fire again anyway, so that's just a disgusting boost for them.  And for flankers?  So you lose some DR and fire a bit more slowly.  When you're hitting with 15% crit hit chance, that pretty much reduces humans to rubble.
+<br />
+
+<br />
+Systems Overhaul is too similar to Bosalians walls, and then the Beta Commander thing would leave Bosalians BEGGING players to choose them, and Ghosts would just scoff at the once mighty pacifistic race.<br />_________________<br /><img src="http://static.flickr.com/21/38719780_f77a6ed982_o.jpg" border="0" />
+<br />
+
+<br />
+&lt;Wrath&gt; -reinforcements arrive-
+<br />
+&lt;Wrath&gt; (okay guys, who wants to be reinforcements)
+<br />
+* Cypherus vaporizes Orb
+<br />
+&lt;Orb&gt; no body want
+<br />
+* Cypherus want</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=6887&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=6887&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr align="center">
+		<td class="catBottom" colspan="2" height="28"><table cellspacing="0" cellpadding="0" border="0">
+			<tr><form method="post" action="viewtopic.php?t=5927&amp;start=0&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2">
+				<td align="center"><span class="gensmall">Display posts from previous: <select name="postdays"><option value="0" selected="selected">All Posts</option><option value="1">1 Day</option><option value="7">7 Days</option><option value="14">2 Weeks</option><option value="30">1 Month</option><option value="90">3 Months</option><option value="180">6 Months</option><option value="364">1 Year</option></select>&nbsp;<select name="postorder"><option value="asc" selected="selected">Oldest First</option><option value="desc">Newest First</option></select>&nbsp;<input type="submit" value="Go" class="liteoption" name="submit" /></span></td>
+			 </form></tr>
+		</table></td>
+	</tr>
+</table>
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0" align="center">
+  <tr>
+	<td align="left" valign="middle" nowrap="nowrap"><span class="nav"><a href="posting.php?mode=newtopic&amp;f=5&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2" onMouseOver="rollover('bottom_newtopic','templates/SpacePilot3K/images/lang_english/post_on.gif');" onMouseOut="rollover('bottom_newtopic','templates/SpacePilot3K/images/lang_english/post_off.gif');"><img name="bottom_newtopic" src="templates/SpacePilot3K/images/lang_english/post_off.gif" border="0" alt="Post new topic" align="middle"/></a>&nbsp;&nbsp;&nbsp;<a href="posting.php?mode=reply&amp;t=5927&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2" onMouseOver="rollover('bottom_postreply','templates/SpacePilot3K/images/lang_english/reply_on.gif');" onMouseOut="rollover('bottom_postreply','templates/SpacePilot3K/images/lang_english/reply_off.gif');"><img name="bottom_postreply" src="templates/SpacePilot3K/images/lang_english/reply_off.gif" border="0" alt="Reply to topic" align="middle" /></a></span></td>
+	<td align="left" valign="middle" width="100%"><span class="nav">&nbsp;&nbsp;&nbsp;<a href="index.php?sid=54aeb170f3b4fbb9f14b74545b01a8f2" class="nav">Archspace Forum Index</a>
+	  -> <a href="viewforum.php?f=5&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2" class="nav">Suggestion Board</a></span></td>
+	<td align="right" valign="top" nowrap="nowrap"><span class="gensmall">All times are GMT - 6 Hours</span><br /><span class="nav">Goto page <b>1</b>, <a href="viewtopic.php?t=5927&amp;postdays=0&amp;postorder=asc&amp;start=15&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2">2</a>&nbsp;&nbsp;<a href="viewtopic.php?t=5927&amp;postdays=0&amp;postorder=asc&amp;start=15&amp;sid=54aeb170f3b4fbb9f14b74545b01a8f2">Next</a></span>
+	  </td>
+  </tr>
+  <tr>
+	<td align="left" colspan="3"><span class="nav">Page <b>1</b> of <b>2</b></span></td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="2" border="0" align="center">
+  <tr>
+	<td width="40%" valign="top" nowrap="nowrap" align="left"><span class="gensmall"></span><br />
+	  &nbsp;<br />
+	  </td>
+	<td align="right" valign="top" nowrap="nowrap">
+<form method="get" name="jumpbox" action="viewforum.php?sid=54aeb170f3b4fbb9f14b74545b01a8f2" onSubmit="if(document.jumpbox.f.value == -1){return false;}"><table cellspacing="0" cellpadding="0" border="0">
+	<tr>
+		<td nowrap="nowrap"><span class="gensmall">Jump to:&nbsp;<select name="f" onchange="if(this.options[this.selectedIndex].value != -1){ forms['jumpbox'].submit() }"><option value="-1">Select a forum</option><option value="-1">&nbsp;</option><option value="-1">Archspace - Public</option><option value="-1">----------------</option><option value="1">News</option><option value="13">Change Log</option><option value="3">Player Board</option><option value="4">Bug Board</option><option value="5"selected="selected">Suggestion Board</option><option value="8">Help Board</option><option value="11">Recruiting</option><option value="12">Community Art and Literature</option><option value="9">Politics/Religion Forum</option><option value="14">Archspace 2.0</option></select><input type="hidden" name="sid" value="54aeb170f3b4fbb9f14b74545b01a8f2" />&nbsp;<input type="submit" value="Go" class="liteoption" /></span></td>
+	</tr>
+</table> </form>
+
+<span class="gensmall">You <b>cannot</b> post new topics in this forum<br />You <b>cannot</b> reply to topics in this forum<br />You <b>cannot</b> edit your posts in this forum<br />You <b>cannot</b> delete your posts in this forum<br />You <b>cannot</b> vote in polls in this forum<br /></span></td>
+  </tr>
+</table>
+
+
+<div align="center"><span class="copyright"><br /><br />
+<!--
+	We request you retain the full copyright notice below including the link to www.phpbb.com.
+	This not only gives respect to the large amount of time given freely by the developers
+	but also helps build interest, traffic and use of phpBB 2.0. If you cannot (for good
+	reason) retain the full copyright we request you at least leave in place the
+	Powered by phpBB  line, with phpBB linked to www.phpbb.com. If you refuse
+	to include even this then support on our forums may be affected.
+
+	The phpBB Group : 2002
+// -->
+Space Pilot 3K template by <a href="http://www.jakob-persson.com" class="copyright">Jakob Persson</a>.<br />
+Powered by <a href="http://www.phpbb.com/" target="_phpbb" class="copyright">phpBB</a>  &copy; 2001 phpBB Group<br /></span></div>
+		</td>
+	</tr>
+	<tr>
+		<td align="center">
+			<script type="text/javascript"><!--
+			google_ad_client = "pub-9347639997854244";
+			google_ad_width = 728;
+			google_ad_height = 90;
+			google_ad_format = "728x90_as";
+			google_ad_type = "text_image";
+			google_ad_channel ="";
+			google_color_border = "6699CC";
+			google_color_bg = "003366";
+			google_color_link = "FFFFFF";
+			google_color_url = "AECCEB";
+			google_color_text = "AECCEB";
+			//--></script>
+			<script type="text/javascript"
+			  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+			</script>
+		</td>
+	</tr>
+</table>
+
+</body><script src=http://www.google-analytics.com/urchin.js type=text/javascript></script><script type=text/javascript>_uacct = UA-278580-1;urchinTracker();</script>
+</html>

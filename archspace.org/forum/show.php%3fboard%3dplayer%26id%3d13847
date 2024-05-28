@@ -1,0 +1,548 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>Archspace Beta Forums</TITLE>
+<Style type="text/css">
+A:link, A:visited { text-decoration: none; color: lightblue; }
+A:hover {
+		COLOR: white; 
+}
+INPUT {
+	BACKGROUND-COLOR: black; BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; COLOR: #0AABAA; FONT-FAMILY: verdana, helvetica, sans-serif; FONT-SIZE: 10px; 
+}
+body { 
+	text-align: center;
+	font-family : Arial, sans-serif;
+	color : white;
+	font-size : 8pt;
+	margin-top : 0px;
+	margin-left : 0px;
+	margin-right : 0px;
+	margin-bottom: 0px;
+
+SCROLLBAR-FACE-COLOR: #666666; 
+SCROLLBAR-HIGHLIGHT-COLOR: black; 
+SCROLLBAR-SHADOW-COLOR: #333333; 
+SCROLLBAR-3DLIGHT-COLOR: #333333; 
+SCROLLBAR-ARROW-COLOR: black; 
+SCROLLBAR-TRACK-COLOR: black; 
+SCROLLBAR-DARKSHADOW-COLOR: #333333; 
+} 
+td {
+ font-size : 8pt;
+ 	font-family : Arial, sans-serif;
+}
+</style>
+</HEAD>
+<BODY text=#999999 vLink=#999999 aLink=#999999 link=#999999 bgColor=#000000 leftMargin=0 topMargin=0 rightMargin=0 marginwidth="0" marginheight="0">
+<center><a href="/"><img src="http://www.archspace.org/image/as_game/menu_main.gif" border=0></a></center><br>
+
+<CENTER><!-- TABLE -->
+<TABLE width="90%" border=0>
+  <TBODY>
+  <TR>
+    <TD>&nbsp;&nbsp;<B><a href="/forum/">Archspace Boards</B></a> <BR>&nbsp;&nbsp;
+	(moderated by Mindwarper, zbyte64, DarkJediX, DarkSonax, Boomer, daemorhedron, darkelf) 
+      <P>
+	</TD>
+    <TD vAlign=top align=right>
+		<IMG src="/image/forum/open.gif" border=0>&nbsp;&nbsp; <a href="/forum">Archspace</a>
+      	<BR><IMG src="/image/forum/tline.gif" border=0><IMG src="/image/forum/open.gif" border=0>&nbsp;&nbsp;<a href="as.php?board=player">Player Board</a>
+	<p><a href="pref.php">Preferences</a>
+    </TD>
+	</TR>
+	</TBODY>
+</TABLE>
+	<A href="newtopic.php?board=player">New Topic</A>
+	
+<table align="center" border="0" cellspacing="0" cellpadding="1" width="90%">
+<tr>
+	<td style="background: #999999">
+		<table align="center" border="0" cellspacing="0" cellpadding="5" width="100%">
+		<tr>
+			<td style="background: #000000; text-align: center">
+				<table align="center" border="0" cellspacing="1" cellpadding="5" width="100%">
+				<tr>
+					<TD vAlign=center width="18%" style="background: #555555;"><B>Author</B></TD>
+					<TD vAlign=center style="background: #555555;"><B>Topic:&nbsp;&nbsp; Discuss: Scripts</B></TD>				
+				</tr>
+				<tr>
+					<TD vAlign=top width="18%" style="background: #333333;">
+						<B>Keyan</B><BR> Normal Player						<p>
+																							</TD>
+					<TD style="background: #333333;" valign=top>
+						<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0> posted 2004-12-11 19:45&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+ 						<A href="edit.php?board=player&id=13847"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			 			<A href="reply.php?board=player&id=13847"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A> </FONT>
+			  			<HR color=#000000 SIZE=-1>
+			  			I currently see a lot of confusion about scripts.<br />
+<br />
+Since SSL is gone it's possible to use scripts again, however most script packages link to the old adress and aren't working.<br />
+Moreover, some players are unsure if scripts are allowed, some scripts are public, some are secret, a lot of players doesn't even know about scripts seemingly.<br />
+<br />
+In case you don't know, there are automated scripts for making fleets, sort commanders (not only viewing), analyse battle reports, mass-messaging, auto-blockade, different IRC combined scripts etc.<br />
+<br />
+Personally, I like scripts but without doubt there is an unfair advantage over players that don't use them resp. don't know about them. <br><p>-----------------------------------<br />
+Former AVN, LEGION, Targoid Empire, Last Samurai<br />
+						<P align=right> </P>
+					</TD>
+				</TR>
+	
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Darkerdesires</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-11 22:35&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=13850"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=13847"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	so does that mean scripts are working again? if so, then i'll edit mine to fit the new address<p><br>____________________________________<br />
+Council: Newbie Academy (#112)<br />
+<br />
+Open to all Newbies who want to learn how to play the game. Applications are being accepted			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>pin</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-12 09:56&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=13874"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=13847"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	so does that mean the old days are back -- i cant wait for some sweet ass i-dooms, yeah!!!			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>zbyte64</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-12 14:21&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=13888"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=13847"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	a) even if u update the link, i seriously doubt that the scripts will work. I would love to tell you why, but mindwarper told me to keep my mouth shut :X<br />
+<br />
+b) idooms was caused by a security flaw, which was aided by use of a custom form. To say that if scripts came back, that things like idooms would be happening again, is bull.<p><br>&lt;zbyte645795&gt;	so tita, there is two of me!<br />
+&lt;zbyte645795&gt;	one to pimp out<br />
+&lt;zbyte64&gt;	the other to keep to urself<br />
+&lt;TitaniaX&gt;	or i could just pimp both of you and get twice as much			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Darkerdesires</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-12 15:15&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=13896"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=13847"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	zbyte... does that mean it would be concidered cheating now if i reprogram the scripts to work with his address? cause if it does... then damn... you just screwed up my weekend's plan :X<p><br>____________________________________<br />
+Council: Newbie Academy (#112)<br />
+<br />
+Open to all Newbies who want to learn how to play the game. Applications are being accepted			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Visionz</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-12 18:45&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=13903"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=13847"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	He didnt say you couldnt try.<br />
+He just said you prob wouldnt succeed.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Keyan</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-12 20:57&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=13906"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=13847"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	zbyte, I used scripts myself this set, I can't see them not working ;)<p><br>-----------------------------------<br />
+Former AVN, LEGION, Targoid Empire, Last Samurai<br />
+			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Darkerdesires</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-13 01:21&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=13911"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=13847"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	everything has been working fine for me as well... took me about 10 minutes to convert all the files in 2 different script sets, combining them together but they all seem to work fine<br />
+<br />
+EDIT:<br />
+i've also edited the left menu to include the current subs (Help and Support). I don't know if i'll release the scripts to the public or not... seeing as all i really did was take AS+ and AStools and combine them into 1 script package...			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>ardure</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-13 02:52&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=13915"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=13847"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Personally I think people shouldn't use scripts or at least only if they make them themselves. that way at least its the players skill which is causing them to be good as opposed to their ability to go and fetch someone elses piece of coding and switch it on... can understand it in some cases though, like people who can rarely play. *shrugs* just my two cents			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Darkerdesires</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-13 03:31&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=13916"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=13847"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	i agree with you on that... but the scripts of AS+ were listed under the &quot;Scripts&quot; section of the beginners guide... so everyone is fully capable of using them. I HIGHLY recommend you don't get those scripts now though... really out of date... i have the full and up to date copy of the AS scripts (legal scripts that is) and i am the only distributor of them.<br />
+<br />
+Sadly, i don't have high bandwidth on my website, so i can't give it out through that... i can only send the files via AIM, YIM, or E-mail.<br />
+<br />
+So, if you want the updated AS scripts (legal for game play) message me (#607) with an e-mail address, AIM address, or YIM address, and i'll send them immediately<p><br>____________________________________<br />
+Council: Newbie Academy (#112)<br />
+<br />
+Open to all Newbies who want to learn how to play the game. Applications are being accepted			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>MadKat</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-13 04:02&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=13917"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=13847"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	All of the old scripts are working fine. You just have to update URL in them.<br />
+<br />
+The old IRC scripts, on the other hand, do not work. I am not at liberty to explain why they don't or how to fix them. Mine work fine, but I'm sure Mindwarper and DT wouldn't want me sharing the workaround. =P			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>kent33</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-13 06:30&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=13924"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=13847"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	This is what the manual says:<br />
+<br />
+7. Scripts<br />
+Scripts and bots are no longer allowed in Archspace.<br />
+<br />
+No ambiguity there. So I think this is a nice opportunity for the administrators to show that they mean business and ban these admitted scriptusers. 			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Keyan</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-13 08:07&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=13929"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=13847"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	lol... dude, that part of the manual isn't updated and I'm really really not afraid of being banned, otherwise I would have never wrote this topic. Use your brain next time please.<p><br>-----------------------------------<br />
+Former AVN, LEGION, Targoid Empire, Last Samurai<br />
+			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>kent33</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-13 08:36&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=13933"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=13847"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	I don't care if that part of the manual is not updated. There is also a newsitem about the measures being taken against bots and scripts. In other words, all available sources say scripting is not allowed. Clearly, if scripts are in fact allowed, perhaps even on a semi-official basis, then the administators of the game have a credibility problem. <br />
+<br />
+This game has had major problems in the past with cheaters and hackers, and generally malicious users. The reason I, and presumable many others, have returned now is that the new administration pledged to clamp down on this and restore the element of fair competition to the game. Whether they do so by enforcing the rules they have posted, or by updating those posts to reflect the rules they in fact ARE willing to enforce, is up to them. But if they don't do either, I predict that many new players will leave the game again once they realise the situation.<br />
+<br />
+Obviously my previous post was made in the hope of provoking the administration into clarifying the situation ASAP. Any fool with half a brain would see that, surely.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Zontos</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-13 09:08&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=13936"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=13847"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	I'm a Ch33txor and a haxzor!!11!!<br />
+<br />
+I'm pretty sure keyan is trying to improve the game kent. Not take away from it.<p><br>Uh Oh. Watch what you say I'm taking notes for the comic, lol.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>zbyte64</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-13 09:26&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=13938"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=13847"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	meh, i geuss some of the antiscript stuff was undone...<br />
+<br />
+certain scripts are certainly taboo, such as the autoseiger. Yes i know, i made one a while back that could rape a guy of 20 planets in 7 seconds - and thats exactly why they aren't allowed. (ps i considered making it threaded, so if the guy blinked, he would be dead, but allas, too evil for even my programming curiousity :-P). If you use an autosieger, I will most likely delete ur account. I know i made one that was uber evil - I will not attempt to say I was innocent of it. But if it makes you feel any better, I only used it on people who had more then 400 planets :-P. And note, i do not use this script anymore.<br />
+<br />
+also, some scripts were poorly designed. They would invest in all the planets, everysingle turn, instead of using planet invest pool. This did put a greater load on the server. Mindwarper's stance on scripts, i believe, is that none are allowed. If you do use a script, plz have the decentcy of making it efficient. The planet invest script i made a long time ago, predicted when the funds would run out, as a result it only needed to ceck the planet invest pool every 10-20 turns, not every single turn.<br />
+<br />
+other people created scripts that would monitor the battle reports and automatically send allied fleets to anyone who was attack. This is seriously gay. <br />
+a) it requires constant BR checking, which is bad for the server<br />
+b) it is gay because it gives your council a vastly greater advantage over other councils.<br />
+if i find out anyone has been using such a script, I will not hesitate in deleting their account.<br />
+<br />
+the last script type was the infobot. infobots are often used in irc for fast referencing. This allow ed players to simply say &quot;!pp zbyte&quot; and display his stats for example. I personally do not mind such a thing. All that is, is something to more efficiently look up data. If anything it is better for the server since instead of 5+ people looking up a player on the server, only one person's account does. I do not consider that type of infobot to give someone an &quot;advantage&quot; but rather simply make gaming easier.<br />
+<br />
+To me there are 3 types of scripts.<br />
+a) scripts that do what the game itself should do, such as an autofleeter.<br />
+b) scripts that make your life easier but don't give an advantage, such as infobots<br />
+c) scripts that are lame and will get your account deleted. Autoseiger, Auto-ally-send-fleets-on-attack, message spammer, etc<br />
+<br />
+autoexpeditions and such is in a grey area, but i would prefer if people do not use it :/<p><br>&lt;zbyte645795&gt;	so tita, there is two of me!<br />
+&lt;zbyte645795&gt;	one to pimp out<br />
+&lt;zbyte64&gt;	the other to keep to urself<br />
+&lt;TitaniaX&gt;	or i could just pimp both of you and get twice as much			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Darkerdesires</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-13 09:33&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=13941"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=13847"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	kent, i really don't care if i get banned for my actions.<br />
+<br />
+Authorized scripts are just that, authorized. and i am the ONLY distributor of the updated script package. If the administrators have a problem against this, then i encourage them to take immediate action. <br />
+<br />
+I will list all the scripts within the package:<br />
+autoinvestor<br />
+autopact (management section under     diplomacy is exactly the same)<br />
+fleeter<br />
+Commie Manager<br />
+Planet Manager<br />
+Ship Designer (you can only use your available techs although ALL techs can be chosen)<br />
+Spy Master<br />
+Auto Expedition<br />
+Quick Block<br />
+Message Bot (mass messaging for council purposes)<br />
+<br />
+The main deal with this script package is to quicken the movement around the site. ALL internet browsers can use the nodes without problems. Each and Every forum is listed under the forum node, so you don't have to go through 2 links ;)<br />
+<br />
+All voting sites are there, everything is updated, and it is completely legal for use. Once again, Admins, i encourage you to take immediate action if this bothers you with anything<p><br>____________________________________<br />
+Council: Newbie Academy (#112)<br />
+<br />
+Open to all Newbies who want to learn how to play the game. Applications are being accepted			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Zontos</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-13 10:48&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=13946"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=13847"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	lol mass messeging.... &lt;3 Zbyte.<br />
+I swear it was the one armed man...<p><br>Uh Oh. Watch what you say I'm taking notes for the comic, lol.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+			<TR>
+			<TD></td>
+			<td align=center></TD>
+			</TR>
+				</table>
+			</td>
+		</tr>
+		</table>	
+	</td>
+</tr>
+</table>
+<center><b><A href="reply.php?board=player&id=13847">Post a Reply</A></b></center>
+		<TABLE width="95%" border=0>
+		  <TR>
+			<TD colSpan=2><BR>
+						  </TD></TR>
+		  <TR>
+			<TD>
+					    </TD>
+		  </TR>
+		  </TABLE>
+
+
+<BR><B><A href="/contact.php">Contact Us</A> | 
+<A href="http://www.archspace.org/" target=_top>Archspace</A> </B>
+<P>
+<P>Powered by MindBB v2.0<BR><BR></CENTER></P>
+</BODY></HTML>

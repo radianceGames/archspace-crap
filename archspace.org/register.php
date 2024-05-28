@@ -1,0 +1,7 @@
+<html>
+<body bgcolor="#000000" text="white">
+<p><center>
+
+Please fill in the required information.<form method=post><font size=3>Sign up below</font><p><table cellpadding=2 cellspacing=0 border=0><td><font size="2" face="Arial, Helvetica, sans-serif">Username:</td><td><input type="text" name="user" size=20></td><tr><td><font size="2" face="Arial, Helvetica, sans-serif">Password:</td><td><input type="password" name="pass" size=20></td><tr><td><font size="2" face="Arial, Helvetica, sans-serif">Email:</td><td><input type="text" name="email" size=20></td><tr><td><font size="2" face="Arial, Helvetica, sans-serif">Age:</td><td><input type="text" name="age" size=20></td><tr><td><font size="2" face="Arial, Helvetica, sans-serif">Country:</td><td><input type="text" name="country" size=20></td><tr><td><font size="2" face="Arial, Helvetica, sans-serif">Sex:</td><td><select name="sex" width=20><option value="Male">Male</option><option value="Female">Female</option></select></td><tr><td><font size="2" face="Arial, Helvetica, sans-serif">How did you get here?</td><td><input type="text" name="how" size=20></td><tr><td><font size="2" face="Arial, Helvetica, sans-serif">Secret Question:</td><td><input type="text" name="question" size=20></td><tr><td><font size="2" face="Arial, Helvetica, sans-serif">Secret Answer:</td><td><input type="text" name="answer" size=20></td><tr><td>&nbsp;</td><td>&nbsp;&nbsp;&nbsp;<input type="submit" name="signup" value="Sign Up"></td></table></form></center></p></font>
+</body>
+</html>

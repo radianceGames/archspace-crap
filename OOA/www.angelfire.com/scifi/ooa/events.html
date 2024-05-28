@@ -1,0 +1,696 @@
+<html>
+
+
+<!-- Mirrored from www.angelfire.com/scifi/ooa/events.htm by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 28 Jul 2015 08:27:08 GMT -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Events</title>
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta name="Microsoft Theme" content="none, default">
+<meta name="Microsoft Border" content="none, default">
+</head>
+
+<body background="images/TV_bkg2.gif"><!--'"</title></head>-->
+
+<script type="text/javascript">
+////// Compete /////////////////////
+__compete_code = '667f89f26d96c30e99728fe6a608804d';
+(function () {
+    var s = document.createElement('script'),
+        d = document.getElementsByTagName('head')[0] ||
+            document.getElementsByTagName('body')[0],
+        t = 'https:' == document.location.protocol ? 
+            'https://c.compete.com/bootstrap/' : 
+            'http://c.compete.com/bootstrap/';
+    s.src = t + __compete_code + '/bootstrap.js';
+    s.type = 'text/javascript';
+    s.async = 'async'; 
+    if (d) { d.appendChild(s); }
+//console.log(">>>", $('div.adCenterClass').get(0));
+})();
+
+
+////// Quantcast  /////////////////////
+function channValidator(chann) {
+    return (typeof(chann) == 'string' && chann != '');
+}
+
+function lycosQuantcast(){
+    var lb = "";
+    if(typeof(cm_host) !== 'undefined' && channValidator(cm_host)){
+        lb += cm_host.split('.')[0] + '.';
+    }
+
+    if(typeof(cm_taxid) !== 'undefined' && channValidator(cm_taxid)){
+        lb += cm_taxid;
+        lb = lb.replace('http://www.angelfire.com/','');
+    } else {
+        lb = lb.replace('.','');
+    }
+    return lb;
+}
+
+var _qevents = _qevents || [];
+
+(function() {
+    var elem = document.createElement('script');
+    elem.src = (document.location.protocol == "https:" ? "https://secure" :"http://edge") + ".quantserve.com/quant.js";
+    elem.async = true;
+    elem.type = "text/javascript";
+    var scpt = document.getElementsByTagName('script')[0];
+    scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+    qacct:"p-6eQegedn62bSo",
+    labels:lycosQuantcast()
+});
+
+/////// Google Analytics
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-21402695-21']);
+_gaq.push(['_setDomainName', 'angelfire.com']);
+_gaq.push(['_setCustomVar', 1, 'member_name', 'scifi/ooa', 3]);
+_gaq.push(['_trackPageview']);
+(function() {
+  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+////// Lycos Initialization /////////////////////
+var lycos_ad = Array();
+var lycos_search_query = "";
+var lycos_onload_timer;
+
+var cm_role = "live";
+var cm_host = "angelfire.lycos.com";
+var cm_taxid = "/memberembedded";
+var angelfire_member_name = "scifi/ooa";
+var angelfire_member_page = "scifi/ooa/events.html";
+var angelfire_ratings_hash = "1438071958:81b631839672dbb5e774503b8ca2c941";
+
+var lycos_ad_category = {"dmoz":"sports\/rodeo","ontarget":"&CAT=sports%20and%20recreation&L2CAT=horses%20and%20rodeo","find_what":"paris"};
+
+var lycos_ad_remote_addr = "125.239.160.54";
+var lycos_ad_www_server = "www.angelfire.lycos.com";
+var edit_site_url = "http://www.angelfire.com/sys/no_download.shtml";
+
+////// Criteo /////////////////////
+var cto_conf = { a:true, i: "294", c:"img", kw: "" } ;
+(function (){
+    var c = document.createElement("script"); c.type = "text/javascript"; c.async = true;
+    c.src = "../../adm/js/partner/criteo_ld_kw.js";
+    var s = document.getElementsByTagName("body")[0]; s.appendChild(c);
+})(); 
+
+</script>
+<script type="text/javascript" src="../../../scripts.lycos.com/catman/init.js"></script>
+<script type="text/javascript">
+(function(isV) {
+    if (!isV) {
+        return;
+    }
+
+    //this.lycos_search_query = lycos_get_search_referrer();
+    var adMgr = new AdManager();
+    var lycos_prod_set = adMgr.chooseProductSet();
+    var slots = ["leaderboard", "leaderboard2", "toolbar_image", "toolbar_text", "smallbox", "top_promo", "footer2","slider"];
+    var adCat = this.lycos_ad_category;
+    adMgr.setForcedParam('page', (adCat && adCat.dmoz) ? adCat.dmoz : 'member');
+
+    if (this.lycos_search_query) {
+        adMgr.setForcedParam("keyword", this.lycos_search_query);
+    } 
+    else if (adCat && adCat.find_what) {
+        adMgr.setForcedParam('keyword', adCat.find_what);
+    }
+
+    for (var s in slots) {
+        var slot = slots[s];
+        if (adMgr.isSlotAvailable(slot)) {
+            this.lycos_ad[slot] = adMgr.getSlot(slot);
+        }
+    }
+
+
+    adMgr.renderHeader();
+    adMgr.renderFooter();
+}((function() {
+    var w = 0, h = 0, minimumThreshold = 300;
+    if (top == self) {
+        return true;
+    }
+
+    if (typeof(window.innerWidth) == 'number' ) {
+        w = window.innerWidth;
+        h = window.innerHeight;
+    }
+    else if (document.documentElement && (document.documentElement.clientWidth || document.documentElement.clientHeight)) {
+        w = document.documentElement.clientWidth;
+        h = document.documentElement.clientHeight;
+    }
+    else if (document.body && (document.body.clientWidth || document.body.clientHeight)) {
+        w = document.body.clientWidth;
+        h = document.body.clientHeight;
+    }
+
+    return ((w > minimumThreshold) && (h > minimumThreshold));
+}())));
+
+
+
+window.onload = function() {
+    var f = document.getElementById("lycosFooterAd");
+    var b = document.getElementsByTagName("body")[0];
+    b.appendChild(f);
+    f.style.display = "block";
+    document.getElementById('lycosFooterAdiFrame').src = 'http://www.angelfire.com/adm/ad/footerAd.iframe.html';
+
+    // Slider Injection
+    (function() {
+        var e = document.createElement('iframe');
+        e.style.border = '0';
+        e.style.margin = 0;
+        e.style.display = 'block';
+        e.style.cssFloat = 'right';
+        e.style.height = '254px';
+        e.style.overflow = 'hidden';
+        e.style.padding = 0;
+        e.style.width = '300px';
+    })();
+
+
+    // Bottom Ad Injection
+    ( function() {
+        var b = document.getElementsByTagName("body")[0];
+
+        var iif = document.createElement('iframe');
+        iif.style.border = '0';
+        iif.style.margin = 0;
+        iif.style.display = 'block';
+        iif.style.cssFloat = 'right';
+        iif.style.height = '254px';
+        iif.style.overflow = 'hidden';
+        iif.style.padding = 0;
+        iif.style.width = '300px';
+        iif.src = 'http://www.angelfire.com/adm/ad/injectAd.iframe.html';
+        
+        var cdiv = document.createElement('div');
+        cdiv.style = "width:300px;margin:10px auto;";
+        cdiv.appendChild( iif );
+        if( b )
+        {
+            b.insertBefore(cdiv, b.lastChild);
+        }
+    })();
+
+}
+
+
+</script>
+
+<style>
+	#body .adCenterClass{margin:0 auto}
+</style>
+
+<div style="background:#abe6f6; border-bottom:1px solid #507a87; position:relative; z-index:9999999">
+    <!-- Search Box -->
+<!--<form name="search" onSubmit="return searchit()" id='header_search' >
+            <input type="text" placeholder="Search" size=30 name="search2" value="">
+            <input type="button" value="Go!" onClick="searchit()">
+            </form>
+            <style>
+            form#header_search {
+                width: 916px;
+                margin: 0 auto 8px;
+                position: relative;
+            }
+
+
+            form#header_search input {
+                height: 40px;
+                font-size: 14px;
+                line-height: 40px;
+                padding: 0 8px;
+                box-sizing: border-box;
+                background: #F4F2E9;
+                border: 1px solid #BBB8B8;
+                transition: background-color 300ms ease-out,
+                            color 300ms ease;
+            }
+
+            form#header_search input[type="text"] {
+                width: 100%;
+            }
+            form#header_search input[type="text"]:focus {
+                border-color: #A2D054;
+                background-color: #fff;
+                box-shadow: 0 0px 12px -4px #A2D054;
+            }
+
+
+
+            form#header_search input[type="button"] {
+                position: absolute;
+                top: 1px;
+                right: 1px;
+                opacity: 1;
+                background: #DFDCCF;
+                color: #463734;
+                width: 125px;
+                cursor: pointer;
+                height: 38px;
+                border: none;
+            }
+            form#header_search input[type="text"]:focus ~ input[type='button']:hover,
+            form#header_search input[type='button']:hover {
+                background-color: #A5CE56;
+                color: #fff;
+            }
+            form#header_search input[type="text"]:focus ~ input[type='button'] {
+                background-color: #52AEDF;
+                color: #fff;
+            }
+
+            </style>
+
+            <script>
+            function searchit(){
+                
+                // determine environment 
+                var search_env 
+                if (lycos_ad_www_server.indexOf(".pd.") > -1) {
+                   search_env = 'http://search52.pd.lycos.com/a/';
+                } else if (lycos_ad_www_server.indexOf(".qa.") > -1) {
+                   search_env = 'http://search52.qa.lycos.com/a/';
+                } else {
+                   search_env = 'http://search52.lycos.com/a/';
+                }
+
+            var search_term = encodeURIComponent(document.search.search2.value)
+            var search_url = search_env+search_term;
+            window.open(search_url);
+
+            return false
+            }
+            </script-->
+        <!--end search box -->
+
+
+    <div class="adCenterClass" style="display:block!important; overflow:hidden; width:916px;">
+        <a href="http://www.angelfire.lycos.com/" title="Angelfire.com: build your free website today!" style="display:block; float:left; width:186px; border:0">
+        <img src="../../adm/ad/angelfire-freeAd.jpg" alt="Site hosted by Angelfire.com: Build your free website today!" style="display:block; border:0" />
+        </a>
+        <script type="text/javascript">document.write(lycos_ad['leaderboard']);</script>
+    </div>
+</div>
+
+<!-- ///////////////////////////////////// -->
+<script type="text/javascript">document.write(lycos_ad['slider']);</script>
+
+
+<div id="lycosFooterAd" style="background:#abe6f6; border-top:1px solid #507a87; clear:both; display:none; position:relative; z-index:9999999">
+<div class="adCenterClass" style="display:block!important; overflow:hidden; width:936px;">
+	<div id="aflinksholder" style="float:left; width:186px;">
+        <a href="http://www.angelfire.lycos.com/" title="Angelfire.com: build your free website today!" style="display:block; border:0">
+            <img src="../../adm/ad/angelfire-freeAd2.jpg" alt="Site hosted by Angelfire.com: Build your free website today!" style="display:block; border:0" />
+        </a>
+        <div style="text-align:center">
+        	<span style="color:#393939!important; font-size:12px!important; position:relative; top:-6px">
+            	Sponsored by
+            </span>
+            
+            <a href="http://www.listen.com/disty/index.jsp?from=lycos" target="_blank">
+                <img src="../../../af.lygo.com/d/toolbar/sponsors/rhapsody_logo.jpg" alt="sponsor logo" title="Rhapsody"/>
+            </a>
+        </div>
+    </div>
+    <iframe id="lycosFooterAdiFrame" style="border:0; display:block; float:left; height:96px; overflow:hidden; padding:0; width:750px"></iframe>
+</div>
+</div>
+
+<noscript>
+<img src="../../../www.angelfire.lycos.com/doc/images/track/ot_noscript8ffb.gif?rand=252373" alt="" width="1" height="1" />
+<!-- BEGIN STANDARD TAG - 728 x 90 - Lycos - Angelfire Fallthrough - DO NOT MODIFY -->
+<iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="728" height="90" src="http://ad.yieldmanager.com/st?ad_type=iframe&amp;ad_size=728x90&amp;section=280303"></iframe>
+<!-- END TAG -->
+</noscript>
+
+<!-- Start Ybrant tracker -->
+<img src="http://ad.yieldmanager.com/pixel?id=1901600&amp;t=2" width="1" height="1" />
+<!--   End Ybrant tracker -->
+
+<!-- Start Datonics -->
+<script type="text/javascript" src="../../../ads.pro-market.net/ads/scripts/site-132783.js"></script>
+<!--   End Datonics -->
+
+<!-- Start Chango -->
+<script type="text/javascript">
+    var __cho__ = {"pid":1694};
+    (function() {
+        var c = document.createElement('script');
+        c.type = 'text/javascript';
+        c.async = true;
+        c.src = document.location.protocol + '//cc.chango.com/static/o.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(c, s);
+    })();
+</script>
+<!--   End Chango -->
+
+
+<u><font face="OCR A Extended" color="#00FF00">
+
+Events</font></u>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0">&nbsp;</p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Freakish Weather<br>
+TYPE : System Immune to Agerus<br>
+One of your planets suffers major storms such as tornadoes and hurricanes. This
+wrecks some buildings, kills some people, and reduces production.<br>
+Effect: I lose population and buildings each turn.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0">&nbsp;
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Super Nova<br>
+TYPE : Cluster<br>
+One of the stars in this start cluster goes supernova. This has enormous effects
+in this cluster. This is causing many horrible problems for planets in that
+system.<br>
+Effect: Slower growth and building.</font>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0">&nbsp;</p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">New Tech Discovered<br>
+TYPE : System<br>
+Your scout ships find a relic from earlier in the Empire, and thinking to
+salvage the materials, return with it. Upon looting the remains, your engineers
+discover valuable information in the computers.<br>
+Effect: Got a new tech.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0">&nbsp;</p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Commerce Title Offered<br>
+TYPE : System Answer Immune to Agerus<br>
+You are elected as the guardian of free commerce by the galaxy commerce guild.
+All you have to do is pay 1,000,000 PP, and you'll have the title.<br>
+Effect: Increases empire relation, honor, and commerce. Loses 1,000,000.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0">&nbsp;</p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Agerus Spawning Frenzy<br>
+TYPE : System<br>
+Your system is filled with millions of tiny Agerus spawn. They are too small to
+recognize as Agerus, but are in search of a good asteroid belt to colonize. They
+clog all ship traffic and their hard bodies constantly strain ship shields.&nbsp;&nbsp;&nbsp;</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">
+Effect:</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0">&nbsp;</p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Past Memory Core Found<br>
+TYPE : Racial Evintos Only<br>
+An old memory core from a lost colony is found. This core has the knowledge of
+ages past.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Effect:&nbsp;</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0">&nbsp;</p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Invasion from a Ruined Galaxy<br>
+TYPE : System<br>
+An unknown fleet, composed of newly arrived survivors of G-13, has invaded your
+system. You have to fight back against them or die.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Effect:</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0">&nbsp;</p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Imperial Investigator<br>
+TYPE : System Empire<br>
+The Empire has sent an investigator to determine if the Magistrate has been
+giving accurate reports. He reports to the Empire on your loyalty and the Empire
+decides that the magistrate has been to kind for one as evil as you.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Effect: Lowers Empire Relation</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0">&nbsp;</p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Imperial Investigator<br>
+TYPE : System Empire<br>
+The Empire has sent an investigator to determine if the Magistrate has been
+giving accurate reports. He reports to the Empire on your loyalty and the Empire
+decides that the magistrate has been to humble on your behalf.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Effect: Raises empire relation.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0">&nbsp;</p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Industrial Nanite Failure<br>
+TYPE : System<br>
+These nanites were originally produced in order to help reduce waste. There was
+an error in their programming somewhere. They have been weakening the end
+product of many of your critical processes. This is adding major excess waste.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Effect: Higher Waste Ratios</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0">&nbsp;</p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Solar Blackout<br>
+TYPE : System<br>
+The sun just seemed to disappear one day. When your scientists went to study
+why, they found that there were billions of small creatures hurling themselves
+into the star. The scientists assume the light from the star will be allowed
+through in a couple of days. During the meantime, your planets can survive on
+their reserve energy. In fact, the lack of solar rays is allowing some excellent
+viewings of the galaxy because of a lack of solar interference.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Effect:</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0">&nbsp;
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Temporary Wormhole<br>
+TYPE: system</font>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">You have found a temporary wormhole. With you current technology, you can
+even make it open where you want. This helps reduce the time it takes for your
+attacking fleets to travel.<br>
+Effect: Fleets return quicker.</font>
+</p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0">&nbsp;</p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Imperial Levies<br>
+TYPE : System Magistrate<br>
+The Emperor has decided to improve the fleets of the Magistrate. To do this, he
+is calling for all systems to send warriors. From your system he demands
+commanders.<br>
+Effect:&nbsp; Lose Commanders</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0">&nbsp;</p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Computer Virus<br>
+TYPE : System<br>
+Your computer system has been corrupted by a sentient form of AI. This AI is
+drastically slowing your development progress.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Effect: Slower building rate.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0">&nbsp;</p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Angry Entertainment<br>
+TYPE : System<br>
+The young on your planets have started enjoying a new violent form of
+entertainment. There are many accidents and many of them seem to be ignoring
+education</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Effect: Lowers population expansion and research rate.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0">&nbsp;</p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Whispers of the Ascended<br>
+TYPE : System<br>
+From somewhere, the whispering of those who have ascended is being broadcast to
+your people's minds. None of your people can understand what the voices are
+whispering, nor can they determine where the voices are speaking from. The
+effect is critical however, because everyone is starting to day-dream, and all
+industry is stopping, All your fleets are sitting idle.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Effect: Lowers production.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0">&nbsp;</p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Silly Old Game<br>
+TYPE : System<br>
+Your people discover an old game from the 'web' days called 'Ultra-Wizard'. This
+seems to help morale a lot, but a while later it seems to be affecting your
+commanders as they all seem to think that a new strategy called 'stracking'
+would definitely help win battles.<br>
+Effect: Causes Irrational Tactics.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0">&nbsp;</p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Pirates in Your Trading Lanes<br>
+TYPE : System<br>
+There have been pirates sighted in your system. Your trading lanes are under
+attack by pirates. All commerce you are under is reduced.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Effect: Lowers commerce.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0">&nbsp;</p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Pirates in Your Trading Lanes<br>
+TYPE : System<br>
+There have been pirates sighted in your system. Your scout ships detected a band
+of roving pirates in your trade lanes. After dispatching them, you gained 500k
+reward for their deaths.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Effect: Extra PP</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0">&nbsp;</p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">New Resources Discovered<br>
+TYPE : System<br>
+Just as you thought that you had exhausted the remains of the main resource of
+the planet, your scientists discover a large amount of another useful resource.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Effect: Raises the economic status of a planet.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0">&nbsp;</p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Traitorous Commander<br>
+TYPE : System<br>
+One of your commanders has gotten bored with being passed by for promotion. He
+has left your system, and takes some money and a ship with him.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Effect: Lose PP, Commander, and Ships.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0">&nbsp;</p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Silicon Insect Swarm<br>
+TYPE : System<br>
+These insects fly in one day on the dark side of your planet. You are afraid at
+first what damage they might cause. Then you realize that all they are eating is
+scrap material. When they leave weeks later, your planet has undergone a great
+change.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Effect: Raises Economic level of one of your planets.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0">&nbsp;</p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Workers Stay Overtime<br>
+TYPE : System<br>
+Your workers have been inspired by something, no one is sure what, but they have
+been working extra lately.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Effect: Increased Production</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0">&nbsp;</p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Imperial Gift<br>
+TYPE : System Magistrate<br>
+The Emperor, or the Magistrate in his place, has deemed you worth of a gift.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Effect: Some sort of gift. Commanders, ships, planets, pp, etc.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0">&nbsp;</p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Previous Civilization Discovered<br>
+TYPE : System Immune to Agerus<br>
+Your archaeologists discover the remains of a highly advanced civilization on
+one of your planets.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Effect: Increased Research.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0">&nbsp;</p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Carbon Cloud<br>
+TYPE : System<br>
+A large dark cloud rolls into your system one day. Any ships, which travel
+through the cloud, build up a large deposit of carbon on their hulls. This
+greatly slows them down, but ballistic weapons have less effect as this coating
+absorbs their force.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Effect: Decreases effect of enemies missile in a defensive battle.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0">&nbsp;</p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Mass Hysteria<br>
+TYPE : System<br>
+Your people are convinced that they are being infiltrated by some alien race.
+Suspicion is everywhere and people no longer trust anything.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Effect: Destroys some buildings and population.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0">&nbsp;
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">
+Imperial Tour<br>
+TYPE : System Empire<br>
+The Emperor has decided to tour your system. The Emperor demands tribute from
+you because the Emperor thinks you have too much money. Also, the Emperor has
+brought his own defensive fleet with him, and they will defend you while he is
+in the area.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Effect: A defensive fleet and a demand tribute.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended"><br>
+Horrible Accusations<br>
+TYPE : System Magistrate<br>
+Some unknown party has implicated you in an attempt to remove the magistrate
+from the Emperor's favor. However, the Magistrate entrusted you.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Effect: Nothing.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0">&nbsp;</p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Horrible Accusations<br>
+TYPE : System Magistrate<br>
+Some unknown party has implicated you in an attempt to remove the magistrate
+from the Emperor's favor. The Magistrate trusted the party and you could feel
+his scorn response.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Effect: Lowers empire relation.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0">&nbsp;</p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Discrimination Demonstrations<br>
+TYPE : System<br>
+A segment of you population demands equal treatment. They complain for weeks and
+finally you give in to their demands. You will let them work, just like all your
+other subjects. After a while, they decide they don't like work much after all
+and quit.<br>
+Effect: Slight increase in production.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0">&nbsp;</p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Population Explosion<br>
+TYPE : System<br>
+One of your planets has had a massive population surge..</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Effect: Increased Population</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0">&nbsp;</p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Information Routing Error<br>
+TYPE : System<br>
+Your main coordination system had a horrible malfunction. You learned about it
+in time to avoid it destroying your empire, but it did cause some problems.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Effect: PP loss and production reduction.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0">&nbsp;
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Experiment Gone Wrong<br>
+TYPE : System<br>
+Your scientists were studying how your brain works and they made a horrible
+error. They accidentally irradiated their own brains too much. Your research
+capacity drops alarmingly until you can train some new scientists</font>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Effect: Lowers research.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0">&nbsp;</p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Insane Mental Giant<br>
+TYPE : System<br>
+Somewhere in your system, someone or something with enormous psychic powers has
+gone insane. It has been broadcasting non-stop on all psychic wavelengths. All
+you know is that it is reducing the effects of all psychic attacks in your
+system, and he keeps repeating something about a being known as 'Dora'.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Effect: Reduces effect of psi weapons in a defensive battle.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0">&nbsp;
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">
+Living Asteroid Belt Found</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">TYPE : Racial Agerus Only<br>
+In your wanderings you encounter a rogue spawn of young Agerus. You bring them
+under your control and add them to your fleet.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Effect: More ships.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0">&nbsp;</p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Attempted Military Coup<br>
+TYPE : Major<br>
+The on planet military on one of your planets attempts to take the planet from
+you. You are able to put the revolt down yourself, but you must divert critical
+resources to the effort.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Effect: PP and ship loss.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0">&nbsp;</p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Expedition Encounter<br>
+TYPE : Empire Space<br>
+Your fleet has stumbled into an Imperial junkyard. The derelicts have been
+restored and placed in your pool. The science team have also discovered new
+technology from the abandoned ships.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Effect: More ships and free tech.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0">&nbsp;</p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font face="OCR A Extended" size="1" color="#00FF00">Beneficial
+Defection<br>
+TYPE : System<br>
+One of your enemies has angered his people. You benefit from this because one of
+his commanders wishes to join your cause. It will only take a little money to
+pay for them to escape their current leader.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font face="OCR A Extended" size="1" color="#00FF00">Effect: Loss of
+PP, gain of commander</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0">&nbsp;</p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font size="1" face="OCR A Extended" color="#00FF00">Interstellar Dust Cloud<br>
+TYPE : System<br>
+Your system is filled with a fine particulate cloud which moves seemingly of its
+own will. This cloud has the effect of dispersing beams fired in it.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font size="1" face="OCR A Extended" color="#00FF00">Effect: Lessens effect of beam weapons in a defensive battle.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0">&nbsp;</p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font size="1" face="OCR A Extended" color="#00FF00">Ransom a Famous Pirate<br>
+TYPE : Racial Buckaneer Only<br>
+You are lucky enough to be in the right place at the right time. You are able to
+pay the ransom for a famous pirate who agrees to work for you in repayment.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font size="1" face="OCR A Extended" color="#00FF00">Effect: Loss of PP, gain commander</font></p>
+
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0">&nbsp;</p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Fanatic
+Craze amongst the Young<br>
+TYPE : Cluster<br>
+The youth of your cluster have all become obsessed with a new interactive game.
+They must have anything with the logo on it, or they throw fits. This is forcing
+you to divert many needed resources to making things for them to buy. Hopefully
+this craze will not last too long.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Effect:
+Production loss.</font></p>
+
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0">&nbsp;
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" face="OCR A Extended" size="1">Bribe
+from a wealthy merchant</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" face="OCR A Extended" size="1">TYPE:
+System</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" face="OCR A Extended" size="1">A
+wealthy trading baron asks to open trade with your planets. In exchange he is
+offering to help start the local economy by giving you 300K PP.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" face="OCR A Extended" size="1">Effect:
+Gain 300K PP, Increased Commerce</font></p>
+
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0">&nbsp;</p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Council-Wide
+Pressing of Total War Declaration<br>
+TYPE : System Council<br>
+The people within your council's territory are rioting. They are pressing for a
+total war declaration against your enemy. As the Speaker, you cannot help but to
+declare total war.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Effect:
+If you are speaker, your council declares war on someone.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0">&nbsp;</p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Heroic
+Rescue<br>
+TYPE : System Magistrate<br>
+One of your commanders succeeds in rescuing a kidnapped child of your
+magistrate.</font></p>
+<p style="word-spacing: 0; margin-top: 0; margin-bottom: 0"><font color="#00FF00" size="1" face="OCR A Extended">Effect:
+Commander gains a level and empire relation improves.</font></p>
+
+</body>
+
+
+<!-- Mirrored from www.angelfire.com/scifi/ooa/events.htm by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 28 Jul 2015 08:27:10 GMT -->
+</html>

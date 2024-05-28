@@ -1,0 +1,177 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>Archspace Beta Forums</TITLE>
+<Style type="text/css">
+A:link, A:visited { text-decoration: none; color: lightblue; }
+A:hover {
+		COLOR: white; 
+}
+INPUT {
+	BACKGROUND-COLOR: black; BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; COLOR: #0AABAA; FONT-FAMILY: verdana, helvetica, sans-serif; FONT-SIZE: 10px; 
+}
+body { 
+	text-align: center;
+	font-family : Arial, sans-serif;
+	color : white;
+	font-size : 8pt;
+	margin-top : 0px;
+	margin-left : 0px;
+	margin-right : 0px;
+	margin-bottom: 0px;
+
+SCROLLBAR-FACE-COLOR: #666666; 
+SCROLLBAR-HIGHLIGHT-COLOR: black; 
+SCROLLBAR-SHADOW-COLOR: #333333; 
+SCROLLBAR-3DLIGHT-COLOR: #333333; 
+SCROLLBAR-ARROW-COLOR: black; 
+SCROLLBAR-TRACK-COLOR: black; 
+SCROLLBAR-DARKSHADOW-COLOR: #333333; 
+} 
+td {
+ font-size : 8pt;
+ 	font-family : Arial, sans-serif;
+}
+</style>
+</HEAD>
+<BODY text=#999999 vLink=#999999 aLink=#999999 link=#999999 bgColor=#000000 leftMargin=0 topMargin=0 rightMargin=0 marginwidth="0" marginheight="0">
+<center><a href="/"><img src="http://www.archspace.org/image/as_game/menu_main.gif" border=0></a></center><br>
+
+<CENTER><!-- TABLE -->
+<TABLE width="90%" border=0>
+  <TBODY>
+  <TR>
+    <TD>&nbsp;&nbsp;<B><a href="/forum/">Archspace Boards</B></a> <BR>&nbsp;&nbsp;
+	(moderated by Mindwarper, zbyte64, DarkTempes, DarkJediX, LordBen) 
+      <P>
+	</TD>
+    <TD vAlign=top align=right>
+		<IMG src="/image/forum/open.gif" border=0>&nbsp;&nbsp; <a href="/forum">Archspace</a>
+      	<BR><IMG src="/image/forum/tline.gif" border=0><IMG src="/image/forum/open.gif" border=0>&nbsp;&nbsp;<a href="as.php?board=bug">Bug Board</a>
+	<p><a href="pref.php">Preferences</a>
+    </TD>
+	</TR>
+	</TBODY>
+</TABLE>
+	<A href="newtopic.php?board=bug">New Topic</A>
+	
+<table align="center" border="0" cellspacing="0" cellpadding="1" width="90%">
+<tr>
+	<td style="background: #999999">
+		<table align="center" border="0" cellspacing="0" cellpadding="5" width="100%">
+		<tr>
+			<td style="background: #000000; text-align: center">
+				<table align="center" border="0" cellspacing="1" cellpadding="5" width="100%">
+				<tr>
+					<TD vAlign=center width="18%" style="background: #555555;"><B>Author</B></TD>
+					<TD vAlign=center style="background: #555555;"><B>Topic:&nbsp;&nbsp; List of things that shouldn't be reported</B></TD>				
+				</tr>
+				<tr>
+					<TD vAlign=top width="18%" style="background: #333333;">
+						<B>LordBen</B><BR>Moderator						<p>
+																							</TD>
+					<TD style="background: #333333;" valign=top>
+						<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0> posted 2004-05-30 03:18&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+ 						<A href="edit.php?board=bug&id=500"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			 			<A href="reply.php?board=bug&id=500"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A> </FONT>
+			  			<HR color=#000000 SIZE=-1>
+			  			This is a list of commonly reported bugs that aren't bugs.  Basically I made it so that I can just post this url instead of explaining why it isn't a bug every time.  I might edit it to add new/elaborate on stuff. <br />
+<br />
+---------------------------------------------- <br />
+<br />
+LordBen's list of things frequently reported as bugs that aren't<br />
+<br />
+Note: Some of these might actually be bugs, but they are very well known and it is not neccessary to report them<br />
+<br />
+1. I get the message &quot;you seemed to have aproached this page in the wrong way&quot; or some similar message when I try to access certain pages<br />
+<br />
+   Just disable any firewall you have and this should fix it.<br />
+   <br />
+   But I don't have a firewall<br />
+   You allmost certainly do if your getting this error so please check carefully (Also if you don't get to the page by clicking the link it can give the same error if thats your problem just use the link)<br />
+<br />
+<br />
+2. I get &quot;null&quot; whenever I try to access a page<br />
+   This means that the server is down.  Wait a little while, take a look at the forums it should go back up quickly.  If it dosn't you'll just have to wait :-/ <br />
+<br />
+<br />
+2. The black market never has anything in it<br />
+<br />
+   This isn't a bug. For variouse reasons the black market is being purposly kept at a very low level.<br />
+<br />
+<br />
+3. Something is innacurate or missing from the encyclopedia<br />
+   The encyclopedia will be updated in due time.  Right now it's not being updated so please don't report it<br />
+<br />
+<br />
+4. Something in the game is spelled wrong/has incorrect grammer<br />
+   It'll be fixed eventually Please don't report this<br />
+<br />
+<br />
+5. When I invest in the ship pool it suddenly shows a much larger number in the &quot;PP income assigned to build ships(per turn)&quot;<br />
+   This isn't a bug the game for some odd reason shows the total ammount assigned to invest in ships instead of the amount you get from your planets like it's supposed to.  (it adds the investment ammount)  (Note: This is actually usefull, but confusing)<br />
+<br />
+6. My fleets never apear where I placed them<br />
+   Don't scroll untill your done placing your ships.  Scrolling is what causes this problem.<br />
+<br />
+Edit: Added 6 &amp; said some might actually be bugs, but are well known<br />
+<br />
+<br />
+PLEASE DON'T REPLY I want to keep this thread neat and tidy.  If you have a good explaination for something just put it in the thread where it was posted and i'll copy/paste it...<br />
+						<P align=right> </P>
+					</TD>
+				</TR>
+	
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>LordBen</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-07-07 00:24&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=bug&id=795"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=bug&id=500"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Bump It\'s on the second page I figure I should try too keep it on the first page.  Incidently latly I haven\'t seen these things being reported. <br />
+Thank You :)<br />
+<br />
+BTW don't report the apostropohe giving an \ before it thats not a very big bug though it is annoying me...<br />
+''''''''''''''''			   <P align=right></P>
+			</TD>
+		  </TR>
+
+			<TR>
+			<TD></td>
+			<td align=center></TD>
+			</TR>
+				</table>
+			</td>
+		</tr>
+		</table>	
+	</td>
+</tr>
+</table>
+<center><b><A href="reply.php?board=bug&id=500">Post a Reply</A></b></center>
+		<TABLE width="95%" border=0>
+		  <TR>
+			<TD colSpan=2><BR>
+						  </TD></TR>
+		  <TR>
+			<TD>
+					    </TD>
+		  </TR>
+		  </TABLE>
+
+
+<BR><B><A href="/contact.php">Contact Us</A> | 
+<A href="http://www.archspace.org/" target=_top>Archspace</A> </B>
+<P>
+<P>Powered by MindBB v2.0<BR><BR></CENTER></P>
+</BODY></HTML>

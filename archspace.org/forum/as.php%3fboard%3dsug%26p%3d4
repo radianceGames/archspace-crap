@@ -1,0 +1,287 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>Archspace Beta Forums</TITLE>
+<Style type="text/css">
+A:link, A:visited { text-decoration: none; color: lightblue; }
+A:hover {
+		COLOR: white; 
+}
+INPUT {
+	BACKGROUND-COLOR: black; BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; COLOR: #0AABAA; FONT-FAMILY: verdana, helvetica, sans-serif; FONT-SIZE: 10px; 
+}
+body { 
+	text-align: center;
+	font-family : Arial, sans-serif;
+	color : white;
+	font-size : 8pt;
+	margin-top : 0px;
+	margin-left : 0px;
+	margin-right : 0px;
+	margin-bottom: 0px;
+
+SCROLLBAR-FACE-COLOR: #666666; 
+SCROLLBAR-HIGHLIGHT-COLOR: black; 
+SCROLLBAR-SHADOW-COLOR: #333333; 
+SCROLLBAR-3DLIGHT-COLOR: #333333; 
+SCROLLBAR-ARROW-COLOR: black; 
+SCROLLBAR-TRACK-COLOR: black; 
+SCROLLBAR-DARKSHADOW-COLOR: #333333; 
+} 
+td {
+ font-size : 8pt;
+ 	font-family : Arial, sans-serif;
+}
+</style>
+</HEAD>
+<BODY text=#999999 vLink=#999999 aLink=#999999 link=#999999 bgColor=#000000 leftMargin=0 topMargin=0 rightMargin=0 marginwidth="0" marginheight="0">
+<center><a href="/"><img src="http://www.archspace.org/image/as_game/menu_main.gif" border=0></a></center><br>
+
+<CENTER><!-- TABLE -->
+<TABLE width="90%" border=0>
+  <TBODY>
+  <TR>
+    <TD>&nbsp;&nbsp;<B><a href="/forum/">Archspace Boards</B></a> <BR>&nbsp;&nbsp;
+	(moderated by Mindwarper) 
+      <P>
+	</TD>
+    <TD vAlign=top align=right>
+		<IMG src="/image/forum/open.gif" border=0>&nbsp;&nbsp; <a href="/forum">Archspace</a>
+      	<BR><IMG src="/image/forum/tline.gif" border=0><IMG src="/image/forum/open.gif" border=0>&nbsp;&nbsp;<a href="as.php?board=sug">Suggestion Board</a>
+	<p><a href="pref.php">Preferences</a>
+    </TD>
+	</TR>
+	</TBODY>
+</TABLE>
+<A href="newtopic.php?board=sug">New Topic</A>
+
+<table align="center" border="0" cellspacing="0" cellpadding="1" width="90%">
+<tr>
+	<td style="background: #999999">
+		<table align="center" border="0" cellspacing="0" cellpadding="5" width="100%">
+		<tr>
+			<td style="background: #000000; text-align: center">
+				<table align="center" border="0" cellspacing="1" cellpadding="5" width="100%">
+				<tr>
+				    <TD vAlign=bottom style="background: #555555;">&nbsp;</TD>
+					<TD vAlign=bottom style="background: #555555;"><B>Topic</B></TD>
+					<TD vAlign=bottom style="background: #555555;" align="center"><B>Topic Starter</B> </TD>
+					<TD vAlign=bottom style="background: #555555;" align="center"><B>Replies</B> </TD>
+					<TD vAlign=bottom style="background: #555555;" align="center"><B>Last Post</B> </TD>				
+				</tr>
+
+ <TR>
+   <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1385">Persistent defense plan.</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Psycholis</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">4</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-10-13 18:34 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1341">Assassination</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Santa</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">1</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-10-13 18:28 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1395">OMG, new little suggestion... or 2</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Redjack</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">6</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-10-13 18:25 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1360">Blockading</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">intellect</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">5</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-10-13 18:23 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1432">Planet Based combat?</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">mhonning</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">1</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-10-13 18:15 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1369">Council News page</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">lueyyou</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">7</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-10-13 03:30 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1401">Ship Weapon Exchange</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">HegemonGideon</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">11</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-10-13 03:28 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=983">Allied Fleets -- Limitation Ideas</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">DarkTempes</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">50</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-10-11 13:42 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1357">Commie View Options</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Darkerdesires</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-10-11 13:17 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1381">A couple of Ideas</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">ArchSeraphim</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">6</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-10-10 13:21 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1393">CM Mode idea</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Christian</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">0</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-10-08 07:54 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1376">Online Idea</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Lithicus</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">5</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-10-06 01:30 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1372">Special Ops success rate.</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Tedjung</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">0</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-10-02 21:58 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1364">Targoid Assorted</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Locke</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-10-02 16:07 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1368">Renaming Fleets</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Nova</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">0</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-10-02 12:22 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1337">profile information + more black market sale</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">saelensstephen</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">3</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-10-01 08:20 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1345">Black Market</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">destroyer</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">1</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-29 19:42 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1173">Commies keep coming!! ahhh!!</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Tabby</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">4</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-29 19:23 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1312">Research Queue</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">foo</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">5</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-29 18:16 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1269">Council Forum Suggestion</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Darkerdesires</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">7</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-29 10:12 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1323">Vacation Mode</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">mcloud</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">4</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-29 02:21 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1335">advertisement</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Keyan</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">0</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-28 06:58 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1294">Regarding single-council-domination of AS.</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Nighty</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">12</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-26 16:49 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1315">Allied attacks</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Yoda</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">5</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-24 22:30 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1225">A more aggressive Empire</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">tueac</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">11</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-24 18:29 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1280">empier</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">gunner2000</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">3</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-22 11:28 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1284">eh, race's special traits?</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Kaistar</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">1</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-17 08:57 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1267">Balanced Game?</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">noobie</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">5</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-17 08:47 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1259">Commies</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Fatality</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">7</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-17 08:12 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1182">an 'auto ally' checkbox</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">shwouchk</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">3</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-16 16:08 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1198">Suggestions for gameplay</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Tedjung</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">11</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-16 07:30 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1232">commander &quot;learning speed&quot;</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">thlayli</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-14 08:12 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1256">Changes not for the better</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">certifiedgeek</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">0</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-14 05:41 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1255">Name planets</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Kriss</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">0</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-14 02:56 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1245">When Planet Invest list gets to big!</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left"></TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">3</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-10 15:27 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=966">Events Suggestions</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Fizban</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">24</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-10 12:56 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1242">council speaker</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">starlight</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">3</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-09 13:04 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1243">Allied fleets--attack possibilities</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">evilstorm</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">0</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-08 21:53 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1155">Extra council speaker feature</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">argoman</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">4</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-07 21:23 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1234">Increase ship building pool</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">PoGo</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">1</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-07 03:16 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1180">Black MArket</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">wagonman</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">6</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-05 09:12 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1195">Confirm multiple actions at once</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">math4jedi</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">1</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-02 00:46 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1216">Scripts</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Liquid</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">0</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-02 00:28 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1203">Autorecall</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Bernhelm</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">3</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-01 14:56 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1206">Sorting Fleet Comanders</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Thamkeng</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">1</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-09-01 08:46 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1190">wartime fusion/admission</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">tehriaz</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">1</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-08-30 10:21 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1170">A simple suggestion!</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left"></TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">4</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-08-30 01:45 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1189">Implement Fleeter and commie manager</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">Redjack</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">1</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-08-29 06:33 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1139">Game Start</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">StyeL</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">5</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-08-28 00:45 </TD></TR> <TD vAlign=bottom style="background: #333333;"></TD>
+					<TD vAlign=bottom style="background: #333333;"><A href="show.php?board=sug&id=1183">Small Suggestion to make the game slower paced</A></TD>
+					<TD vAlign=bottom style="background: #333333;" align="left">mcloud</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2</TD>
+					<TD vAlign=bottom style="background: #333333;" align="center">2004-08-27 22:22 </TD></TR>  				
+				</table>
+			</td>
+		</tr>
+		</table>	
+	</td>
+</tr>
+</table>
+  <a href='as.php?board=sug&p=0'>0</a> <a href='as.php?board=sug&p=1'>1</a> <a href='as.php?board=sug&p=2'>2</a> <a href='as.php?board=sug&p=3'>3</a> <a href='as.php?board=sug&p=4'>4</a>   </p>
+  <BR><B><A href="/contact.php">Contact Us</A> | 
+<A href="http://www.archspace.org/" target=_top>Archspace</A> </B>
+<P>
+<P>Powered by MindBB v2.0<BR><BR></CENTER></P>
+</BODY></HTML>

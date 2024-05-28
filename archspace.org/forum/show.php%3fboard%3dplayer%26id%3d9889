@@ -1,0 +1,574 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>Archspace Beta Forums</TITLE>
+<Style type="text/css">
+A:link, A:visited { text-decoration: none; color: lightblue; }
+A:hover {
+		COLOR: white; 
+}
+INPUT {
+	BACKGROUND-COLOR: black; BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; COLOR: #0AABAA; FONT-FAMILY: verdana, helvetica, sans-serif; FONT-SIZE: 10px; 
+}
+body { 
+	text-align: center;
+	font-family : Arial, sans-serif;
+	color : white;
+	font-size : 8pt;
+	margin-top : 0px;
+	margin-left : 0px;
+	margin-right : 0px;
+	margin-bottom: 0px;
+
+SCROLLBAR-FACE-COLOR: #666666; 
+SCROLLBAR-HIGHLIGHT-COLOR: black; 
+SCROLLBAR-SHADOW-COLOR: #333333; 
+SCROLLBAR-3DLIGHT-COLOR: #333333; 
+SCROLLBAR-ARROW-COLOR: black; 
+SCROLLBAR-TRACK-COLOR: black; 
+SCROLLBAR-DARKSHADOW-COLOR: #333333; 
+} 
+td {
+ font-size : 8pt;
+ 	font-family : Arial, sans-serif;
+}
+</style>
+</HEAD>
+<BODY text=#999999 vLink=#999999 aLink=#999999 link=#999999 bgColor=#000000 leftMargin=0 topMargin=0 rightMargin=0 marginwidth="0" marginheight="0">
+<center><a href="/"><img src="http://www.archspace.org/image/as_game/menu_main.gif" border=0></a></center><br>
+
+<CENTER><!-- TABLE -->
+<TABLE width="90%" border=0>
+  <TBODY>
+  <TR>
+    <TD>&nbsp;&nbsp;<B><a href="/forum/">Archspace Boards</B></a> <BR>&nbsp;&nbsp;
+	(moderated by Mindwarper, zbyte64, DarkJediX, DarkSonax, Boomer, daemorhedron, darkelf) 
+      <P>
+	</TD>
+    <TD vAlign=top align=right>
+		<IMG src="/image/forum/open.gif" border=0>&nbsp;&nbsp; <a href="/forum">Archspace</a>
+      	<BR><IMG src="/image/forum/tline.gif" border=0><IMG src="/image/forum/open.gif" border=0>&nbsp;&nbsp;<a href="as.php?board=player">Player Board</a>
+	<p><a href="pref.php">Preferences</a>
+    </TD>
+	</TR>
+	</TBODY>
+</TABLE>
+	<A href="newtopic.php?board=player">New Topic</A>
+	
+<table align="center" border="0" cellspacing="0" cellpadding="1" width="90%">
+<tr>
+	<td style="background: #999999">
+		<table align="center" border="0" cellspacing="0" cellpadding="5" width="100%">
+		<tr>
+			<td style="background: #000000; text-align: center">
+				<table align="center" border="0" cellspacing="1" cellpadding="5" width="100%">
+				<tr>
+					<TD vAlign=center width="18%" style="background: #555555;"><B>Author</B></TD>
+					<TD vAlign=center style="background: #555555;"><B>Topic:&nbsp;&nbsp; Changes not for the better.</B></TD>				
+				</tr>
+				<tr>
+					<TD vAlign=top width="18%" style="background: #333333;">
+						<B>certifiedgeek</B><BR> Normal Player						<p>
+											</TD>
+					<TD style="background: #333333;" valign=top>
+						<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0> posted 2004-09-14 05:30&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+ 						<A href="edit.php?board=player&id=9889"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			 			<A href="reply.php?board=player&id=9889"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A> </FONT>
+			  			<HR color=#000000 SIZE=-1>
+			  			Since coming back to Archspace I have noticed several of the changes have not helped but hurt the game play and competitiveness.<br />
+<br />
+1 - Destroy Planets.  As much as we all like this ability, it is getting abused and makes it way too easy for someone to stay low and attack those who may be starting out or recently lost there fleets.<br />
+<br />
+Suggestions - I'm for removing this altogether, but at least something like only being able to destroy one planet at a time to prevent people from taking planets they don't want just to hurt someone else.<br />
+<br />
+2 - Attack Range.  The attack down range of 50% from 20% makes it too easy to hit someone with significantly smaller fleet.<br />
+<br />
+Suggestion - Return the attack range to where it was... it is too wide and again hurts the game play.<br />
+<br />
+3 - Attack Delay.  The delay preventing someone from attacking multiple times within the same turn or being attack multiple times was a good thing.  This just feeds planet grabbing and killing players off.<br />
+<br />
+<br />
+<br />
+I don't want you to think I hate the game or feel nothing positive has been done, so...<br />
+<br />
+Positive - The planet invest tool was a great tool and not only cuts down on tedious tasks, but allows more flexibility in planet investment and development.<br />
+<br />
+In general the level of cheating and server crashes has been greatly curbed and seems much more managible.<br />
+<br />
+Thanks to all and hope to see Archspace to continue to grow and improve.<br />
+<br />
+--CertGeek--						<P align=right> </P>
+					</TD>
+				</TR>
+	
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Santa</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-14 05:53&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=9890"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=9889"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	destroying planets takes 24 hours so i dont know how that is being abused, with so little people in archspace the larger attack ranges is kinda needed, and with the attack delay people who spend all day at a computer at their work or whatever would dominate and people who only check once or twice a day would stand no chance<br />
+<br />
+but maybe your right who knows, something i think needs changing is commander special abilitys, put like a - to fleet commanding on cyber scan unit so people wouldnt only use that, and change useless things like blitzkrieg, pattern broadcaster, scavenger, ridgid thinking, lone wolf, irrational tactics, and breeder male			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Santa</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-14 06:08&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=9892"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=9889"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	o ya i forgot retreat shield, dont know anyone who would use that			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Akira</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-14 07:43&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=9893"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=9889"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	the destroy planet thing IS kinda wierd. to balance it out a little, maybe take it down to 6 hours or something, but make it so that you can only destroy 1 planet at a time....this way it is still a benefit, but lso cant really be abused. <br />
+<br />
+<br />
+as for your comment about the attack range...what it &quot;USED&quot; to be, was this attack range. Mari put in the 75%-200% or whatever bullshit it was. it sucked, and this is way better. and besides, Santa's right, with so few players a larger attack range is needed. <br />
+--&gt; plus, apparantly a new and improved honor system has been included. i believe attacking people with power way lower than your own means a drop in honor, and also bad events occuring in your domain (thereby balancing out the wide power range)			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Nova</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-14 08:24&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=9894"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=9889"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	1. Destroy Planets - If your complaint is that the top players are blowing up planets, there are quicker ways to reduce your planet power.  Simply have a friend in your council declare war on you and take all of your planets (except a few).  When you are done, you could take them back, or better yet, have the top ranked player in your council take them all and become a permanent planet repository so that the top player can continually lend fleets to everyone else in the council.<br />
+<br />
+2. Attack Range - From what I have been able to discern, it would appear that honor is being implemented to curb attacks on weaker players.  At one point this set, whole fleets of dooms were running from single fleets of inneffective ships just because the player with dooms had an honor of 0.  Pretty cool, but I believe it will be toned down a little in the next set and it has been completely removed this set.  I do however agree with you in principle that something has to be done about being able to attack players half your size without even receiving a scratch.  If a tighter attack range is put in place it should be 80 - 125 or some other range that is fair for both attacker and defender and not the lopsided range that was in place in the old days.  I am willing to wait and see how the honor system plays out though, before I rant about tighter attack ranges again.<br />
+<br />
+3. Attack Delay - I assume you are suggesting a 10 minute delay.  That would mean that you could lose 6 planets an hour or 48 planets in the 8 hours that many people sleep.  So you can still be killed once you log off.  If you happen to be online when you are being wiped out you can place your fleets on the defensive and lose them, or if you have too many in your ship pool and not enough commanders, you can destroy them and drop out of range of your attackers.  If you are up against someone that is really out to kill you, there isn't much you can do about it even with a 10 minute limitation.  With the ten minute limitation, you wind up with combat that resembles the Black Market, where a group of players attacking a single target all just keep sending in their fleets as quickly as possible in hopes of being the lucky player to do the attack.  Is that really what you want?  Then it would become necessary to post the time that the player can be attacked again (and still everyone would then attack at that time and only one would get the prize and then everyone waits 10 more minutes for an opportunity to attack).<br />
+<br />
+Akira - My honor is at 96 and bad events still happen to me too, unless Mass Hysteria has suddenly been changed to a good event (I'm currently suffering that one right now).			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Darkerdesires</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-14 08:35&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=9896"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=9889"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	I say the game, as it is, is really good! the attack ranges is well balanced, seeing as you lose honor for attacking someone really low below your power, as previously noted.<br />
+<br />
+The destroy planet function is there for a good reason. You can destroy multiple planets (after 95 turns or so) to get rid of the crap planets, reform your inner core, then remaking your outer core. It is also a risky gamble, seeing as if you are in a war, you can set possible planetary targets to be destroyed after 95 turns. If the planet gets taken, the person who recieved the planet would lose it instead of getting stronger by keeping a potentially useful planet.<br />
+<br />
+The only thing that i would say isn't very useful (at the moment due to possible server crash bugs unless it got fixed/taken out) is the auto-reply tool.<br />
+<br />
+<br />
+BTW... this topic really should be under suggestions if you think about it ;)			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>DarkTempes</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-14 09:26&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=9899"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=9889"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	hmm, well.<br />
+<br />
+this probably belongs in the suggestions forum first of all ;/<br />
+<br />
+but anyway. we (the devs) for the most part don't see these things as a problem. what we don't like are the super-councils. (like TE) that make it so there is no competition in the game.<br />
+<br />
+i would say more on the subject but i've talked about it so many times it's just not worth the time ;/			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Santa</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-14 10:15&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=9900"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=9889"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	in other words, all of archspace vs TE<br />
+<br />
+http://batman.jypoly.fi/~93981/stuff/elukat/Rabbit%20vs%20Wolf.jpg			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Houston</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-14 11:32&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=9906"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=9889"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	I know it doesn't help much DarkTempes, but what about limiting council size? say, 10 members each? TE Would still have to have all their cells, but at least it is MORE possible for everyone to choose one of their little cells and take it down...even if the other cells band together, you would have the satisfaction of taking out 10 members of a super council<br />
+<br />
+Houston			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Santa</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-14 11:45&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=9907"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=9889"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	you think that would really work?<br />
+<br />
+i guess it would lower allied fleets, but TE would just blockade your council to nothing			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Nova</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-14 13:00&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=9911"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=9889"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Allied fleets are already limited to 10 max and at most 2 from any one player, so councils would have to be limited to 5 or less to affect the current allied fleet limitations.<br />
+<br />
+I agree with Santa that smaller councils would not help.  Tighter attack ranges would make battles more costly and therefore they wouldn't occur as often, because the person breaking another player, would be vulnerable to attacks themselves after that.  That is where the allied fleets would be very important.  Also, the tighter ranges make it more difficult for a single player to take someone completely out because their target would drop out of range quickly, maybe even after the first round of combat.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Yoda</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-14 14:12&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=9914"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=9889"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	The only bad thing, and it only really sucks early on, is allied fleets. Toward the end of the game its set who is going to win (TE) so you just don't attack TE. They are the only ones who allied fleets I fear, cause I don't have any allies that can touch a guy with 7 mil power. Now during the start of the round allied fleets really hurt. When your 10K power and a guy with 15K power just sent all his fleets after you, you go to farm your planets back.. but oh, he has 10 battleships from a 50K power guy.. You can't compete. Thats why I think allied fleets should be changed, either you can only send to people in your attack range, or get rid of them all together. 			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>gwayne</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-14 21:21&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=9924"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=9889"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Actually complaining about allied fleets is complaining about team play.<br />
+<br />
+The 50k player still has to send those ships. In the past we (TE) did just attack the guy(s) who did send the allied fleets. Because when they are away, they cant devent there own planets.<br />
+<br />
+After all it is a team game.<br />
+<br />
+What you can actually do is downturn efficiency of allied commanders. <br />
+<br />
+But I also think it should be easyer to build a reasenable non-ship devence.<br />
+<br />
+That should make it easyer in the start of the game to protect yourself.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>certifiedgeek</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-15 05:49&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=9928"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=9889"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Thanks for the replies and feedback.  I posted this under suggestions as well.. but no one really adds much there.  Here atleast i can get some feed back and see what others are thinking.<br />
+<br />
+Nova - the fact that you can have a friend grab planets off you to reduce your value or take poor planets is not the same Destorying planets.  Now someone else is just carrying these planets and if a planet is deep enough into your core you'll have to pull other planets to get to it or just leave it.  I don't mind these tatics because the impact to the game play and competitiveness is minimal.<br />
+<br />
+But the ability to Destory planets adds a twist to the game play that unbalances it.  My suggest to limit it 1 planet at a time allows you to remove poor planets you not longer need for research or grabbed when exploring.<br />
+<br />
+<br />
+The attack range hurts the most the game play... when someone twice your size decides to attack you there is not much you can do about it accept rebuilt.  The penalties associated with honor is not signicant to discourage these actions.<br />
+<br />
+Either increase the positives and negatives or honor or returning the attack range to only 20% smaller targets.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>certifiedgeek</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-15 05:56&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=9929"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=9889"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	A council limit of 10 isn't bad... but even 20 would help.  The commerce gained amoung larger councils with at or close to 40 members can be huge.  Some planets can generate more from commerce than there own production.<br />
+<br />
+Some additional options may be adding a delay to council moves.  Such as 4 hours delay once council admission is approved and/or a 4-8 hour minimum stay time after joining a new council.<br />
+<br />
+This prevents a 1 member council declaring on you and quickly becoming a 20 member council.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Nova</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-15 08:10&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=9935"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=9889"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	certifiedgeek;<br />
+<br />
+Planet rearranging (digging into the core to put good planets there) is done all the time by the successful councils, even OOA teaches it to the new players.  So getting rid of the planet destruction probably only hurts the uncoordinated councils full of new players that haven't learned all of the tricks of the trade yet.<br />
+<br />
+As for commerce, please keep in mind that commerce is not just with other members of your council.  You also establish commerce routes with players from other councils that your council is allied or pacted with.  As for the amount of PP you get from commerce, it is a percentage of the PP produced on the planets you are trading with (up to three per planet).  So it has nothing to do with how many players are in the council (well, it isn't limited by that).  For instance, if you are in a council of 40 new players that have nothing but a bunch of planets with 70% bases on them, you will not do as well as you might in a council with 3 veteran players that have cores of URs with 100% factories.  Keep these things in mind when determining which councils to accept alliances or pacts with.  If they are a puny council with little hope of gaining high producing planets, simply reject the offer and suggest it be a verbal alliance (other than trade, there isn't any real game reason to be allied with other councils anyway).  Most players have relationships with other players in the game that supercede any council relationships (there are some players I won't attack, nor will they attack me, even if our councils are at war - I let my council leaders know of these situations as they arise).			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Azrai</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-16 14:45&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10054"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=9889"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	the problem isn't the number of people in one council, but the number of councils in one council...<br />
+<br />
+If TE's main council is limited to 20 people, the other 20 will just make another council named TE-whatever. Commerce PP is really not so important...			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>DarkTempes</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-16 16:05&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10060"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=9889"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Quote: &quot;I know it doesn't help much DarkTempes, but what about limiting council size? say, 10 members each? TE Would still have to have all their cells, but at least it is MORE possible for everyone to choose one of their little cells and take it down...even if the other cells band together, you would have the satisfaction of taking out 10 members of a super council<br />
+<br />
+Houston&quot;<br />
+<br />
+Well. The only way i see that method even being effective is if we made subs official in-game with a limited number of subs. and a limited number of allies. or just a limited number of allies. and then actually enforced the rule: <br />
+VI<br />
+YOU MAY ONLY COORDINATE YOUR ACTIONS WITH THOSE RELATED TO YOUR POWER STRUCTURE <br />
+<br />
+which brings in tons of problems and requires intensive moderating.<br />
+<br />
+which is something i am a proponent for, but probably wouldn't happen due to the &quot;requires intensive moderating&quot;.<br />
+<br />
+though, i've been thinking it over alot.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Nova</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-17 07:23&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10110"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=9889"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	I'm guessing that you would have to limit the amount of information that can be gathered about other players outside of special ops.  You would probably have to limit viewing of BRs to only those councils to which you are allied.  Information on power levels, number of fleets, the ranking page in general, would all have to be removed or the information made available only through the use of special ops (making the Agerus more interesting and making expenditures in defense levels more important). Unfortunately, as much as I like the idea of &quot;the fog of war&quot;, I guess that the well coordinated councils (e.g. TE) would share this information outside of game channels and have an advantage over less coordinated councils.  The current open information system actually levels the playing field somewhat since information truly is power.<br />
+<br />
+Good luck			   <P align=right></P>
+			</TD>
+		  </TR>
+
+			<TR>
+			<TD></td>
+			<td align=center></TD>
+			</TR>
+				</table>
+			</td>
+		</tr>
+		</table>	
+	</td>
+</tr>
+</table>
+<center><b><A href="reply.php?board=player&id=9889">Post a Reply</A></b></center>
+		<TABLE width="95%" border=0>
+		  <TR>
+			<TD colSpan=2><BR>
+						  </TD></TR>
+		  <TR>
+			<TD>
+					    </TD>
+		  </TR>
+		  </TABLE>
+
+
+<BR><B><A href="/contact.php">Contact Us</A> | 
+<A href="http://www.archspace.org/" target=_top>Archspace</A> </B>
+<P>
+<P>Powered by MindBB v2.0<BR><BR></CENTER></P>
+</BODY></HTML>

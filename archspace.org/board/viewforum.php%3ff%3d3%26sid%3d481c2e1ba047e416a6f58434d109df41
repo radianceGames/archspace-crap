@@ -1,0 +1,670 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Style-Type" content="text/css">
+
+<link rel="top" href="./index.php?sid=6e009dd1034fdb42e58f28b757b52bda" title="Archspace Forum Index" />
+<link rel="search" href="./search.php?sid=6e009dd1034fdb42e58f28b757b52bda" title="Search" />
+<link rel="help" href="./faq.php?sid=6e009dd1034fdb42e58f28b757b52bda" title="FAQ" />
+<link rel="author" href="./memberlist.php?sid=6e009dd1034fdb42e58f28b757b52bda" title="Memberlist" />
+<link rel="up" href="index.php?sid=6e009dd1034fdb42e58f28b757b52bda" title="Archspace Forum Index" />
+
+<title>Archspace :: View Forum - Player Board</title>
+<link rel="stylesheet" href="templates/SpacePilot3K/SpacePilot3K.css" type="text/css">
+<body bgcolor="#000000" text="#DDDDDD" link="#8BC7FF" vlink="#5493B4">
+
+
+
+<script language="Javascript" type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+</script>
+
+
+
+<script language="Javascript" type="text/javascript">
+<!--
+function rollover(name, source)  {
+
+  document.images[name].src = source;
+
+}
+//-->
+</script>
+
+<script language="JavaScript" src="templates/SpacePilot3K/fade.js"></script>
+
+</head>
+<body />
+
+<a name="top"></a>
+
+<table width="100%" cellspacing="0" cellpadding="10" border="0" align="center">
+	<tr>
+		<td align="center">
+			<script type="text/javascript"><!--
+			google_ad_client = "pub-9347639997854244";
+			google_ad_width = 728;
+			google_ad_height = 90;
+			google_ad_format = "728x90_as";
+			google_ad_type = "image";
+			google_ad_channel ="";
+			google_color_border = "6699CC";
+			google_color_bg = "003366";
+			google_color_link = "FFFFFF";
+			google_color_url = "AECCEB";
+			google_color_text = "AECCEB";
+			//--></script>
+			<script type="text/javascript"
+			  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+			</script>
+		</td>
+	</tr>
+	<tr>
+		<td class="bodyline"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+			<tr>
+				<td><a href="index.php?sid=6e009dd1034fdb42e58f28b757b52bda"><span class="maintitle"><img src="templates/SpacePilot3K/images/logo_sp3k.gif" border="0" alt="Archspace Forum Index" vspace="1" /></span></a></td>
+				<td align="center" width="100%" valign="middle"><span class="maintitle">Archspace</span><br /><span class="gen">Archspace Forums<br />&nbsp; </span>
+				<table cellspacing="0" cellpadding="2" border="0">
+					<tr>
+						<td align="center" valign="top" nowrap="nowrap"><span class="mainmenu">&nbsp;<a href="faq.php?sid=6e009dd1034fdb42e58f28b757b52bda" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_faq.gif" width="14" height="14" border="0" alt="FAQ" hspace="3" />FAQ</a></span><span class="mainmenu">&nbsp; &nbsp;<a href="search.php?sid=6e009dd1034fdb42e58f28b757b52bda" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_search.gif" width="14" height="14" border="0" alt="Search" hspace="3" />Search</a>&nbsp; &nbsp;<a href="memberlist.php?sid=6e009dd1034fdb42e58f28b757b52bda" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_members.gif" width="14" height="14" border="0" alt="Memberlist" hspace="3" />Memberlist</a>&nbsp; &nbsp;<a href="groupcp.php?sid=6e009dd1034fdb42e58f28b757b52bda" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_groups.gif" width="14" height="14" border="0" alt="Usergroups" hspace="3" />Usergroups</a>&nbsp;
+						&nbsp;<a href="profile.php?mode=register&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_register.gif" width="14" height="14" border="0" alt="Register" hspace="3" />Register</a></span>&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td height="25" align="center" valign="top" nowrap="nowrap"><span class="mainmenu">&nbsp;<a href="profile.php?mode=editprofile&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_profile.gif" width="14" height="14" border="0" alt="Profile" hspace="3" />Profile</a>&nbsp; &nbsp;<a href="privmsg.php?folder=inbox&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_message.gif" width="14" height="14" border="0" alt="Log in to check your private messages" hspace="3" />Log in to check your private messages</a>&nbsp; &nbsp;<a href="login.php?sid=6e009dd1034fdb42e58f28b757b52bda" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_login.gif" width="14" height="14" border="0" alt="Log in" hspace="3" />Log in</a>&nbsp;</span></td>
+					</tr>
+				</table></td>
+			</tr>
+		</table>
+
+		<br />
+
+
+<form method="post" action="viewforum.php?f=3&amp;start=0&amp;sid=6e009dd1034fdb42e58f28b757b52bda">
+  <table width="100%" cellspacing="2" cellpadding="2" border="0" align="center">
+	<tr>
+	  <td align="left" valign="bottom" colspan="2"><a class="maintitle" href="viewforum.php?f=3&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Player Board</a><br /><span class="gensmall"><b>Moderators: <a href="profile.php?mode=viewprofile&amp;u=10&amp;sid=6e009dd1034fdb42e58f28b757b52bda">smartguy</a>, <a href="profile.php?mode=viewprofile&amp;u=89&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Azdgari</a>, <a href="profile.php?mode=viewprofile&amp;u=164&amp;sid=6e009dd1034fdb42e58f28b757b52bda">ahosea</a>, <a href="profile.php?mode=viewprofile&amp;u=257&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Ariana</a>, <a href="profile.php?mode=viewprofile&amp;u=9565&amp;sid=6e009dd1034fdb42e58f28b757b52bda">HardcoreMatty</a><br /><br />Users browsing this forum: None</b></span></td>
+	  <td align="right" valign="bottom" nowrap><span class="gensmall"><b>Goto page <b>1</b>, <a href="viewforum.php?f=3&amp;topicdays=0&amp;start=50&amp;sid=6e009dd1034fdb42e58f28b757b52bda">2</a>, <a href="viewforum.php?f=3&amp;topicdays=0&amp;start=100&amp;sid=6e009dd1034fdb42e58f28b757b52bda">3</a> ... <a href="viewforum.php?f=3&amp;topicdays=0&amp;start=600&amp;sid=6e009dd1034fdb42e58f28b757b52bda">13</a>, <a href="viewforum.php?f=3&amp;topicdays=0&amp;start=650&amp;sid=6e009dd1034fdb42e58f28b757b52bda">14</a>, <a href="viewforum.php?f=3&amp;topicdays=0&amp;start=700&amp;sid=6e009dd1034fdb42e58f28b757b52bda">15</a>&nbsp;&nbsp;<a href="viewforum.php?f=3&amp;topicdays=0&amp;start=50&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Next</a></b></span></td>
+	</tr>
+	<tr>
+	  <td align="left" valign="middle" width="50"><a href="posting.php?mode=newtopic&amp;f=3&amp;sid=6e009dd1034fdb42e58f28b757b52bda" onMouseOver="rollover('top_newtopic','templates/SpacePilot3K/images/lang_english/post_on.gif');" onMouseOut="rollover('top_newtopic','templates/SpacePilot3K/images/lang_english/post_off.gif');"><img name="top_newtopic" src="templates/SpacePilot3K/images/lang_english/post_off.gif" border="0" alt="Post new topic" /></a></td>
+	  <td align="left" valign="middle" class="nav" width="100%"><span class="nav">&nbsp;&nbsp;&nbsp;<a href="index.php?sid=6e009dd1034fdb42e58f28b757b52bda" class="nav">Archspace Forum Index</a> -> <a class="nav" href="viewforum.php?f=3&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Player Board</a></span></td>
+	  <td align="right" valign="bottom" class="nav" nowrap="nowrap"><span class="gensmall"><a href="viewforum.php?f=3&amp;mark=topics&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Mark all topics read</a></span></td>
+	</tr>
+  </table>
+
+  <table border="0" cellpadding="4" cellspacing="1" width="100%" class="forumline">
+	<tr>
+	  <th colspan="2" align="center" height="25" class="thCornerL" nowrap="nowrap">&nbsp;Topics&nbsp;</th>
+	  <th width="50" align="center" class="thTop" nowrap="nowrap">&nbsp;Replies&nbsp;</th>
+	  <th width="100" align="center" class="thTop" nowrap="nowrap">&nbsp;Author&nbsp;</th>
+	  <th width="50" align="center" class="thTop" nowrap="nowrap">&nbsp;Views&nbsp;</th>
+	  <th align="center"  nowrap="nowrap" class="thCornerR" nowrap="nowrap">&nbsp;Last Post&nbsp;</th>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder_sticky.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><b>Sticky:</b> <a href="viewtopic.php?t=36&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">Help advertize for Archspace!</a></span><span class="gensmall"><br />
+		 [ <img src="templates/SpacePilot3K/images/icon_minipost.gif" alt="Goto page" title="Goto page" />Goto page: <a href="viewtopic.php?t=36&amp;start=0&amp;sid=6e009dd1034fdb42e58f28b757b52bda">1</a>, <a href="viewtopic.php?t=36&amp;start=15&amp;sid=6e009dd1034fdb42e58f28b757b52bda">2</a>, <a href="viewtopic.php?t=36&amp;start=30&amp;sid=6e009dd1034fdb42e58f28b757b52bda">3</a> ] </span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">30</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=496&amp;sid=6e009dd1034fdb42e58f28b757b52bda">DarkArchon</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">6841</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mon Jun 18, 2007 11:52 am<br /><a href="profile.php?mode=viewprofile&amp;u=11218&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Cpt Jack Sparrow</a> <a href="viewtopic.php?p=114468&amp;sid=6e009dd1034fdb42e58f28b757b52bda#114468"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder_sticky.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><b>Sticky:</b> <a href="viewtopic.php?t=10631&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">Vote For AS</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">9</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=5&amp;sid=6e009dd1034fdb42e58f28b757b52bda">HippieHunter</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">3046</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Sun May 13, 2007 3:09 pm<br /><a href="profile.php?mode=viewprofile&amp;u=8910&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Tueky</a> <a href="viewtopic.php?p=112037&amp;sid=6e009dd1034fdb42e58f28b757b52bda#112037"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder_sticky.gif" width="35" height="21" alt="This topic is locked: you cannot edit posts or make replies." title="This topic is locked: you cannot edit posts or make replies." /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><b>Sticky:</b> <a href="viewtopic.php?t=22&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">Links to Useful Info</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=19&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Kenshin</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">4255</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Thu Jul 13, 2006 7:41 am<br /><a href="profile.php?mode=viewprofile&amp;u=19&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Kenshin</a> <a href="viewtopic.php?p=79465&amp;sid=6e009dd1034fdb42e58f28b757b52bda#79465"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=16840&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">Post Your Final Goodbyes and Final Flames Here</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">14</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=11218&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Cpt Jack Sparrow</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">285</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Wed Aug 29, 2007 4:00 am<br /><a href="profile.php?mode=viewprofile&amp;u=1303&amp;sid=6e009dd1034fdb42e58f28b757b52bda">mcloud</a> <a href="viewtopic.php?p=120597&amp;sid=6e009dd1034fdb42e58f28b757b52bda#120597"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=16847&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">http://www.the-reincarnation.com/</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=3161&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Idalio</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">28</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Tue Aug 28, 2007 9:19 pm<br /><a href="profile.php?mode=viewprofile&amp;u=3161&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Idalio</a> <a href="viewtopic.php?p=120594&amp;sid=6e009dd1034fdb42e58f28b757b52bda#120594"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><b>[ Poll ]</b> <a href="viewtopic.php?t=16841&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">Vote!</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">3</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=3161&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Idalio</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">133</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Tue Aug 28, 2007 9:07 pm<br /><a href="profile.php?mode=viewprofile&amp;u=3161&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Idalio</a> <a href="viewtopic.php?p=120593&amp;sid=6e009dd1034fdb42e58f28b757b52bda#120593"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=16828&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">A real Post from Clown</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">10</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=13382&amp;sid=6e009dd1034fdb42e58f28b757b52bda">clown</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">285</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Tue Aug 28, 2007 2:13 pm<br /><a href="profile.php?mode=viewprofile&amp;u=91&amp;sid=6e009dd1034fdb42e58f28b757b52bda">nefus</a> <a href="viewtopic.php?p=120592&amp;sid=6e009dd1034fdb42e58f28b757b52bda#120592"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=16838&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">THE END</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">13</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=912&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Kupo</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">309</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Tue Aug 28, 2007 11:39 am<br /><a href="profile.php?mode=viewprofile&amp;u=12234&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Son Johan</a> <a href="viewtopic.php?p=120590&amp;sid=6e009dd1034fdb42e58f28b757b52bda#120590"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=16596&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">All hail Noble Starbuck the Baron of Allekto (#87)!!!</a></span><span class="gensmall"><br />
+		 [ <img src="templates/SpacePilot3K/images/icon_minipost.gif" alt="Goto page" title="Goto page" />Goto page: <a href="viewtopic.php?t=16596&amp;start=0&amp;sid=6e009dd1034fdb42e58f28b757b52bda">1</a>, <a href="viewtopic.php?t=16596&amp;start=15&amp;sid=6e009dd1034fdb42e58f28b757b52bda">2</a> ] </span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">17</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=190&amp;sid=6e009dd1034fdb42e58f28b757b52bda">rio</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">704</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mon Aug 27, 2007 7:57 am<br /><a href="profile.php?mode=viewprofile&amp;u=190&amp;sid=6e009dd1034fdb42e58f28b757b52bda">rio</a> <a href="viewtopic.php?p=120569&amp;sid=6e009dd1034fdb42e58f28b757b52bda#120569"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=16825&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">I got Beef</a></span><span class="gensmall"><br />
+		 [ <img src="templates/SpacePilot3K/images/icon_minipost.gif" alt="Goto page" title="Goto page" />Goto page: <a href="viewtopic.php?t=16825&amp;start=0&amp;sid=6e009dd1034fdb42e58f28b757b52bda">1</a>, <a href="viewtopic.php?t=16825&amp;start=15&amp;sid=6e009dd1034fdb42e58f28b757b52bda">2</a> ] </span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">17</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=3161&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Idalio</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">381</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mon Aug 27, 2007 7:16 am<br /><a href="profile.php?mode=viewprofile&amp;u=1303&amp;sid=6e009dd1034fdb42e58f28b757b52bda">mcloud</a> <a href="viewtopic.php?p=120568&amp;sid=6e009dd1034fdb42e58f28b757b52bda#120568"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=16806&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">Who wants to duel Houston?</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">11</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2655&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Houston</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">253</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Fri Aug 24, 2007 7:47 pm<br /><a href="profile.php?mode=viewprofile&amp;u=190&amp;sid=6e009dd1034fdb42e58f28b757b52bda">rio</a> <a href="viewtopic.php?p=120397&amp;sid=6e009dd1034fdb42e58f28b757b52bda#120397"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=16795&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">Archspace cheaters</a></span><span class="gensmall"><br />
+		 [ <img src="templates/SpacePilot3K/images/icon_minipost.gif" alt="Goto page" title="Goto page" />Goto page: <a href="viewtopic.php?t=16795&amp;start=0&amp;sid=6e009dd1034fdb42e58f28b757b52bda">1</a>, <a href="viewtopic.php?t=16795&amp;start=15&amp;sid=6e009dd1034fdb42e58f28b757b52bda">2</a> ] </span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">17</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=12268&amp;sid=6e009dd1034fdb42e58f28b757b52bda">darlie</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">706</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Fri Aug 24, 2007 10:38 am<br /><a href="profile.php?mode=viewprofile&amp;u=13382&amp;sid=6e009dd1034fdb42e58f28b757b52bda">clown</a> <a href="viewtopic.php?p=120342&amp;sid=6e009dd1034fdb42e58f28b757b52bda#120342"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=16757&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">World Slayer</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">11</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=1712&amp;sid=6e009dd1034fdb42e58f28b757b52bda">BigQBoris</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">421</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Fri Aug 24, 2007 8:30 am<br /><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Oxygen</a> <a href="viewtopic.php?p=120339&amp;sid=6e009dd1034fdb42e58f28b757b52bda#120339"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=16627&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">Ending Project Mk. I Requirements</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">6</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=1789&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Narusegawa</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">544</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Fri Aug 24, 2007 8:14 am<br /><a href="profile.php?mode=viewprofile&amp;u=1303&amp;sid=6e009dd1034fdb42e58f28b757b52bda">mcloud</a> <a href="viewtopic.php?p=120337&amp;sid=6e009dd1034fdb42e58f28b757b52bda#120337"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=14252&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">Chronicles of Annoyance</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">14</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=1894&amp;sid=6e009dd1034fdb42e58f28b757b52bda">ElGobblo</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">367</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Thu Aug 23, 2007 6:30 pm<br /><a href="profile.php?mode=viewprofile&amp;u=3595&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Rosengaard</a> <a href="viewtopic.php?p=120305&amp;sid=6e009dd1034fdb42e58f28b757b52bda#120305"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=16770&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">What is life without &quot;ARCHSPACE?&quot;</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">12</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=966&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Soulrage</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">335</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Wed Aug 22, 2007 6:30 pm<br /><a href="profile.php?mode=viewprofile&amp;u=4227&amp;sid=6e009dd1034fdb42e58f28b757b52bda">unknown55</a> <a href="viewtopic.php?p=120221&amp;sid=6e009dd1034fdb42e58f28b757b52bda#120221"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder_hot.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><b>[ Poll ]</b> <a href="viewtopic.php?t=15553&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">AS Noobs</a></span><span class="gensmall"><br />
+		 [ <img src="templates/SpacePilot3K/images/icon_minipost.gif" alt="Goto page" title="Goto page" />Goto page: <a href="viewtopic.php?t=15553&amp;start=0&amp;sid=6e009dd1034fdb42e58f28b757b52bda">1</a>, <a href="viewtopic.php?t=15553&amp;start=15&amp;sid=6e009dd1034fdb42e58f28b757b52bda">2</a>, <a href="viewtopic.php?t=15553&amp;start=30&amp;sid=6e009dd1034fdb42e58f28b757b52bda">3</a>, <a href="viewtopic.php?t=15553&amp;start=45&amp;sid=6e009dd1034fdb42e58f28b757b52bda">4</a> ] </span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">53</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=6887&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Leet_Master_Ace</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">3923</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Wed Aug 22, 2007 5:10 pm<br /><a href="profile.php?mode=viewprofile&amp;u=781&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Torque</a> <a href="viewtopic.php?p=120189&amp;sid=6e009dd1034fdb42e58f28b757b52bda#120189"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder_hot.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=16764&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">What Fun!</a></span><span class="gensmall"><br />
+		 [ <img src="templates/SpacePilot3K/images/icon_minipost.gif" alt="Goto page" title="Goto page" />Goto page: <a href="viewtopic.php?t=16764&amp;start=0&amp;sid=6e009dd1034fdb42e58f28b757b52bda">1</a>, <a href="viewtopic.php?t=16764&amp;start=15&amp;sid=6e009dd1034fdb42e58f28b757b52bda">2</a>, <a href="viewtopic.php?t=16764&amp;start=30&amp;sid=6e009dd1034fdb42e58f28b757b52bda">3</a> ] </span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">31</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=3161&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Idalio</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">884</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Wed Aug 22, 2007 12:36 am<br /><a href="profile.php?mode=viewprofile&amp;u=14229&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Jadore</a> <a href="viewtopic.php?p=120115&amp;sid=6e009dd1034fdb42e58f28b757b52bda#120115"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=16768&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">whoops</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">4</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=14797&amp;sid=6e009dd1034fdb42e58f28b757b52bda">nemesis7</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">169</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mon Aug 20, 2007 8:46 pm<br /><a href="profile.php?mode=viewprofile&amp;u=14797&amp;sid=6e009dd1034fdb42e58f28b757b52bda">nemesis7</a> <a href="viewtopic.php?p=119975&amp;sid=6e009dd1034fdb42e58f28b757b52bda#119975"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=16752&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">post from a forum noob</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">12</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=1225&amp;sid=6e009dd1034fdb42e58f28b757b52bda">alex</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">334</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mon Aug 20, 2007 10:10 am<br /><a href="profile.php?mode=viewprofile&amp;u=6887&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Leet_Master_Ace</a> <a href="viewtopic.php?p=119927&amp;sid=6e009dd1034fdb42e58f28b757b52bda#119927"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=16738&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">Facebook / Myspace</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">3</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=6887&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Leet_Master_Ace</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">173</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Sat Aug 18, 2007 9:22 pm<br /><a href="profile.php?mode=viewprofile&amp;u=1894&amp;sid=6e009dd1034fdb42e58f28b757b52bda">ElGobblo</a> <a href="viewtopic.php?p=119801&amp;sid=6e009dd1034fdb42e58f28b757b52bda#119801"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder_hot.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=16367&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">RETURNING VETS FOR THE LAST SET</a></span><span class="gensmall"><br />
+		 [ <img src="templates/SpacePilot3K/images/icon_minipost.gif" alt="Goto page" title="Goto page" />Goto page: <a href="viewtopic.php?t=16367&amp;start=0&amp;sid=6e009dd1034fdb42e58f28b757b52bda">1</a>, <a href="viewtopic.php?t=16367&amp;start=15&amp;sid=6e009dd1034fdb42e58f28b757b52bda">2</a>, <a href="viewtopic.php?t=16367&amp;start=30&amp;sid=6e009dd1034fdb42e58f28b757b52bda">3</a> ] </span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">30</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2655&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Houston</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">1777</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Sat Aug 18, 2007 12:21 am<br /><a href="profile.php?mode=viewprofile&amp;u=599&amp;sid=6e009dd1034fdb42e58f28b757b52bda">destroyer</a> <a href="viewtopic.php?p=119704&amp;sid=6e009dd1034fdb42e58f28b757b52bda#119704"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=16713&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">Pardus</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=3161&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Idalio</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">87</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Wed Aug 15, 2007 9:38 pm<br /><a href="profile.php?mode=viewprofile&amp;u=3161&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Idalio</a> <a href="viewtopic.php?p=119402&amp;sid=6e009dd1034fdb42e58f28b757b52bda#119402"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=16613&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">Lowest rating yet?</a></span><span class="gensmall"><br />
+		 [ <img src="templates/SpacePilot3K/images/icon_minipost.gif" alt="Goto page" title="Goto page" />Goto page: <a href="viewtopic.php?t=16613&amp;start=0&amp;sid=6e009dd1034fdb42e58f28b757b52bda">1</a>, <a href="viewtopic.php?t=16613&amp;start=15&amp;sid=6e009dd1034fdb42e58f28b757b52bda">2</a> ] </span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">18</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=599&amp;sid=6e009dd1034fdb42e58f28b757b52bda">destroyer</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">762</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Wed Aug 15, 2007 7:21 am<br /><a href="profile.php?mode=viewprofile&amp;u=2697&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Shadowman</a> <a href="viewtopic.php?p=119365&amp;sid=6e009dd1034fdb42e58f28b757b52bda#119365"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=16702&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">Trabotulin Racial Profile</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">2</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=1789&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Narusegawa</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">245</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Wed Aug 15, 2007 4:41 am<br /><a href="profile.php?mode=viewprofile&amp;u=13333&amp;sid=6e009dd1034fdb42e58f28b757b52bda">hellfire</a> <a href="viewtopic.php?p=119358&amp;sid=6e009dd1034fdb42e58f28b757b52bda#119358"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=16691&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">research upgrades for low power players</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">6</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=11654&amp;sid=6e009dd1034fdb42e58f28b757b52bda">stanleyipcuss</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">271</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mon Aug 13, 2007 7:36 pm<br /><a href="profile.php?mode=viewprofile&amp;u=2655&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Houston</a> <a href="viewtopic.php?p=119293&amp;sid=6e009dd1034fdb42e58f28b757b52bda#119293"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder_hot.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=16304&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">Trabotulin Commander Name List!</a></span><span class="gensmall"><br />
+		 [ <img src="templates/SpacePilot3K/images/icon_minipost.gif" alt="Goto page" title="Goto page" />Goto page: <a href="viewtopic.php?t=16304&amp;start=0&amp;sid=6e009dd1034fdb42e58f28b757b52bda">1</a>, <a href="viewtopic.php?t=16304&amp;start=15&amp;sid=6e009dd1034fdb42e58f28b757b52bda">2</a>, <a href="viewtopic.php?t=16304&amp;start=30&amp;sid=6e009dd1034fdb42e58f28b757b52bda">3</a> ] </span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">43</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=1789&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Narusegawa</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">2558</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mon Aug 13, 2007 9:01 am<br /><a href="profile.php?mode=viewprofile&amp;u=94&amp;sid=6e009dd1034fdb42e58f28b757b52bda">frostys</a> <a href="viewtopic.php?p=119256&amp;sid=6e009dd1034fdb42e58f28b757b52bda#119256"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=16652&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">Official Archspace World of Warcraft guild</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">6</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=3028&amp;sid=6e009dd1034fdb42e58f28b757b52bda">DarkJediX</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">337</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Fri Aug 10, 2007 4:09 pm<br /><a href="profile.php?mode=viewprofile&amp;u=3595&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Rosengaard</a> <a href="viewtopic.php?p=119076&amp;sid=6e009dd1034fdb42e58f28b757b52bda#119076"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=16620&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">cyas :)</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">3</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=4507&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Nighty</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">244</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Wed Aug 08, 2007 8:59 pm<br /><a href="profile.php?mode=viewprofile&amp;u=781&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Torque</a> <a href="viewtopic.php?p=118927&amp;sid=6e009dd1034fdb42e58f28b757b52bda#118927"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=16640&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">wtf with the rollbacks?</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">5</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=3161&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Idalio</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">286</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Wed Aug 08, 2007 3:43 pm<br /><a href="profile.php?mode=viewprofile&amp;u=1789&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Narusegawa</a> <a href="viewtopic.php?p=118892&amp;sid=6e009dd1034fdb42e58f28b757b52bda#118892"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=16611&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">I have 1 planets it says I have 11</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">4</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=7530&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Zenjin</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">241</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mon Aug 06, 2007 10:54 pm<br /><a href="profile.php?mode=viewprofile&amp;u=1789&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Narusegawa</a> <a href="viewtopic.php?p=118600&amp;sid=6e009dd1034fdb42e58f28b757b52bda#118600"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=16594&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">WHAT THE FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">1</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=16396&amp;sid=6e009dd1034fdb42e58f28b757b52bda">ME</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">148</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Sat Aug 04, 2007 4:31 pm<br /><a href="profile.php?mode=viewprofile&amp;u=19947&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Kyogre</a> <a href="viewtopic.php?p=118473&amp;sid=6e009dd1034fdb42e58f28b757b52bda#118473"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder_hot.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=42&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">Nimball(tm)</a></span><span class="gensmall"><br />
+		 [ <img src="templates/SpacePilot3K/images/icon_minipost.gif" alt="Goto page" title="Goto page" />Goto page: <a href="viewtopic.php?t=42&amp;start=0&amp;sid=6e009dd1034fdb42e58f28b757b52bda">1</a>, <a href="viewtopic.php?t=42&amp;start=15&amp;sid=6e009dd1034fdb42e58f28b757b52bda">2</a>, <a href="viewtopic.php?t=42&amp;start=30&amp;sid=6e009dd1034fdb42e58f28b757b52bda">3</a>, <a href="viewtopic.php?t=42&amp;start=45&amp;sid=6e009dd1034fdb42e58f28b757b52bda">4</a> ] </span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">59</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=496&amp;sid=6e009dd1034fdb42e58f28b757b52bda">DarkArchon</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">4072</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Sat Aug 04, 2007 11:36 am<br /><a href="profile.php?mode=viewprofile&amp;u=233&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Yomin_Carr</a> <a href="viewtopic.php?p=118426&amp;sid=6e009dd1034fdb42e58f28b757b52bda#118426"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=16532&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">why did I do this?</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">1</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=20977&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Jykle</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">163</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Sat Jul 28, 2007 2:04 pm<br /><a href="profile.php?mode=viewprofile&amp;u=1894&amp;sid=6e009dd1034fdb42e58f28b757b52bda">ElGobblo</a> <a href="viewtopic.php?p=117872&amp;sid=6e009dd1034fdb42e58f28b757b52bda#117872"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=16513&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">Racial Abilities</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">1</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=519&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Riva</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">151</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Fri Jul 27, 2007 8:12 am<br /><a href="profile.php?mode=viewprofile&amp;u=1789&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Narusegawa</a> <a href="viewtopic.php?p=117794&amp;sid=6e009dd1034fdb42e58f28b757b52bda#117794"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder_hot.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2521&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">How old were you when you started playing AS?</a></span><span class="gensmall"><br />
+		 [ <img src="templates/SpacePilot3K/images/icon_minipost.gif" alt="Goto page" title="Goto page" />Goto page: <a href="viewtopic.php?t=2521&amp;start=0&amp;sid=6e009dd1034fdb42e58f28b757b52bda">1</a> ... <a href="viewtopic.php?t=2521&amp;start=105&amp;sid=6e009dd1034fdb42e58f28b757b52bda">8</a>, <a href="viewtopic.php?t=2521&amp;start=120&amp;sid=6e009dd1034fdb42e58f28b757b52bda">9</a>, <a href="viewtopic.php?t=2521&amp;start=135&amp;sid=6e009dd1034fdb42e58f28b757b52bda">10</a> ] </span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">135</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Oxygen</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">10918</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Thu Jul 26, 2007 12:24 am<br /><a href="profile.php?mode=viewprofile&amp;u=2044&amp;sid=6e009dd1034fdb42e58f28b757b52bda">razor84</a> <a href="viewtopic.php?p=117707&amp;sid=6e009dd1034fdb42e58f28b757b52bda#117707"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=16465&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">wtf</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">4</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=14797&amp;sid=6e009dd1034fdb42e58f28b757b52bda">nemesis7</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">338</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Wed Jul 25, 2007 2:21 pm<br /><a href="profile.php?mode=viewprofile&amp;u=2655&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Houston</a> <a href="viewtopic.php?p=117660&amp;sid=6e009dd1034fdb42e58f28b757b52bda#117660"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=16470&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">Council honor is dropped</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2202&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Invincible</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">174</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Sun Jul 22, 2007 7:11 pm<br /><a href="profile.php?mode=viewprofile&amp;u=2202&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Invincible</a> <a href="viewtopic.php?p=117488&amp;sid=6e009dd1034fdb42e58f28b757b52bda#117488"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=16443&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">sucks Armada Synergy Specialist</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">2</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2202&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Invincible</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">316</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Fri Jul 20, 2007 7:54 pm<br /><a href="profile.php?mode=viewprofile&amp;u=194&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Replicator</a> <a href="viewtopic.php?p=117411&amp;sid=6e009dd1034fdb42e58f28b757b52bda#117411"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=16361&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">Going prices on Trab. Commanders</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">6</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=20353&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Katar Hol</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">502</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Thu Jul 19, 2007 5:02 am<br /><a href="profile.php?mode=viewprofile&amp;u=2697&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Shadowman</a> <a href="viewtopic.php?p=117273&amp;sid=6e009dd1034fdb42e58f28b757b52bda#117273"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=16271&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">Now that Archspace will be no more</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">12</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=10164&amp;sid=6e009dd1034fdb42e58f28b757b52bda">deathbagel</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">800</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Fri Jul 13, 2007 6:07 am<br /><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Oxygen</a> <a href="viewtopic.php?p=116773&amp;sid=6e009dd1034fdb42e58f28b757b52bda#116773"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=16341&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">Umm is this game dead or what?</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">1</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=21267&amp;sid=6e009dd1034fdb42e58f28b757b52bda">fatalcough</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">236</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Thu Jul 12, 2007 9:30 pm<br /><a href="profile.php?mode=viewprofile&amp;u=91&amp;sid=6e009dd1034fdb42e58f28b757b52bda">nefus</a> <a href="viewtopic.php?p=116765&amp;sid=6e009dd1034fdb42e58f28b757b52bda#116765"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><b>[ Poll ]</b> <a href="viewtopic.php?t=16328&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">New changes for the last set of Archspace?!?!</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">4</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=4227&amp;sid=6e009dd1034fdb42e58f28b757b52bda">unknown55</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">479</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Wed Jul 11, 2007 9:16 pm<br /><a href="profile.php?mode=viewprofile&amp;u=2712&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Agamemnon</a> <a href="viewtopic.php?p=116711&amp;sid=6e009dd1034fdb42e58f28b757b52bda#116711"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=16314&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">Archspace goes out on top</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">5</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=11218&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Cpt Jack Sparrow</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">470</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Wed Jul 11, 2007 8:59 pm<br /><a href="profile.php?mode=viewprofile&amp;u=2712&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Agamemnon</a> <a href="viewtopic.php?p=116710&amp;sid=6e009dd1034fdb42e58f28b757b52bda#116710"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=16320&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">WOW</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">6</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=13382&amp;sid=6e009dd1034fdb42e58f28b757b52bda">clown</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">397</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Tue Jul 10, 2007 12:16 pm<br /><a href="profile.php?mode=viewprofile&amp;u=20353&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Katar Hol</a> <a href="viewtopic.php?p=116624&amp;sid=6e009dd1034fdb42e58f28b757b52bda#116624"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=16278&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">lol</a></span><span class="gensmall"><br />
+		 [ <img src="templates/SpacePilot3K/images/icon_minipost.gif" alt="Goto page" title="Goto page" />Goto page: <a href="viewtopic.php?t=16278&amp;start=0&amp;sid=6e009dd1034fdb42e58f28b757b52bda">1</a>, <a href="viewtopic.php?t=16278&amp;start=15&amp;sid=6e009dd1034fdb42e58f28b757b52bda">2</a> ] </span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">18</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=3&amp;sid=6e009dd1034fdb42e58f28b757b52bda">MadKat</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">904</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Sun Jul 08, 2007 7:07 pm<br /><a href="profile.php?mode=viewprofile&amp;u=4507&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Nighty</a> <a href="viewtopic.php?p=116473&amp;sid=6e009dd1034fdb42e58f28b757b52bda#116473"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=16307&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">what is the highest lvl</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">1</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=7770&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Imperial_Dragon</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">194</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Sun Jul 08, 2007 10:16 am<br /><a href="profile.php?mode=viewprofile&amp;u=89&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Azdgari</a> <a href="viewtopic.php?p=116405&amp;sid=6e009dd1034fdb42e58f28b757b52bda#116405"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=16289&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">To everyone in Archspace!! *READ PLEASE*</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">3</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=6054&amp;sid=6e009dd1034fdb42e58f28b757b52bda">ymbsnakeeye</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">359</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Sat Jul 07, 2007 7:24 am<br /><a href="profile.php?mode=viewprofile&amp;u=194&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Replicator</a> <a href="viewtopic.php?p=116268&amp;sid=6e009dd1034fdb42e58f28b757b52bda#116268"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=16286&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">The ASylum</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">2</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=496&amp;sid=6e009dd1034fdb42e58f28b757b52bda">DarkArchon</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">247</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Sat Jul 07, 2007 12:15 am<br /><a href="profile.php?mode=viewprofile&amp;u=496&amp;sid=6e009dd1034fdb42e58f28b757b52bda">DarkArchon</a> <a href="viewtopic.php?p=116262&amp;sid=6e009dd1034fdb42e58f28b757b52bda#116262"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/SpacePilot3K/images/folder.gif" width="35" height="21" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=16244&amp;sid=6e009dd1034fdb42e58f28b757b52bda" class="topictitle">Calling out to all players</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">5</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2697&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Shadowman</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">387</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Thu Jul 05, 2007 1:01 pm<br /><a href="profile.php?mode=viewprofile&amp;u=408&amp;sid=6e009dd1034fdb42e58f28b757b52bda">ywm</a> <a href="viewtopic.php?p=116098&amp;sid=6e009dd1034fdb42e58f28b757b52bda#116098"><img src="templates/SpacePilot3K/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="catBottom" align="center" valign="middle" colspan="6" height="28"><span class="genmed">Display topics from previous:&nbsp;<select name="topicdays"><option value="0" selected="selected">All Topics</option><option value="1">1 Day</option><option value="7">7 Days</option><option value="14">2 Weeks</option><option value="30">1 Month</option><option value="90">3 Months</option><option value="180">6 Months</option><option value="364">1 Year</option></select>&nbsp;
+		<input type="submit" class="liteoption" value="Go" name="submit" />
+		</span></td>
+	</tr>
+  </table>
+
+  <table width="100%" cellspacing="2" border="0" align="center" cellpadding="2">
+	<tr>
+	  <td align="left" valign="middle" width="50"><a href="posting.php?mode=newtopic&amp;f=3&amp;sid=6e009dd1034fdb42e58f28b757b52bda" onMouseOver="rollover('bottom_newtopic','templates/SpacePilot3K/images/lang_english/post_on.gif');" onMouseOut="rollover('bottom_newtopic','templates/SpacePilot3K/images/lang_english/post_off.gif');"><img name="bottom_newtopic" src="templates/SpacePilot3K/images/lang_english/post_off.gif" border="0" alt="Post new topic" /></a></td>
+	  <td align="left" valign="middle" width="100%"><span class="nav">&nbsp;&nbsp;&nbsp;<a href="index.php?sid=6e009dd1034fdb42e58f28b757b52bda" class="nav">Archspace Forum Index</a> -> <a class="nav" href="viewforum.php?f=3&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Player Board</a></span></td>
+	  <td align="right" valign="middle" nowrap="nowrap"><span class="gensmall">All times are GMT - 6 Hours</span><br /><span class="nav">Goto page <b>1</b>, <a href="viewforum.php?f=3&amp;topicdays=0&amp;start=50&amp;sid=6e009dd1034fdb42e58f28b757b52bda">2</a>, <a href="viewforum.php?f=3&amp;topicdays=0&amp;start=100&amp;sid=6e009dd1034fdb42e58f28b757b52bda">3</a> ... <a href="viewforum.php?f=3&amp;topicdays=0&amp;start=600&amp;sid=6e009dd1034fdb42e58f28b757b52bda">13</a>, <a href="viewforum.php?f=3&amp;topicdays=0&amp;start=650&amp;sid=6e009dd1034fdb42e58f28b757b52bda">14</a>, <a href="viewforum.php?f=3&amp;topicdays=0&amp;start=700&amp;sid=6e009dd1034fdb42e58f28b757b52bda">15</a>&nbsp;&nbsp;<a href="viewforum.php?f=3&amp;topicdays=0&amp;start=50&amp;sid=6e009dd1034fdb42e58f28b757b52bda">Next</a></span>
+		</td>
+	</tr>
+	<tr>
+	  <td align="left" colspan="3"><span class="nav">Page <b>1</b> of <b>15</b></span></td>
+	</tr>
+  </table>
+ </form>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+	<td align="right">
+<form method="get" name="jumpbox" action="viewforum.php?sid=6e009dd1034fdb42e58f28b757b52bda" onSubmit="if(document.jumpbox.f.value == -1){return false;}"><table cellspacing="0" cellpadding="0" border="0">
+	<tr>
+		<td nowrap="nowrap"><span class="gensmall">Jump to:&nbsp;<select name="f" onchange="if(this.options[this.selectedIndex].value != -1){ forms['jumpbox'].submit() }"><option value="-1">Select a forum</option><option value="-1">&nbsp;</option><option value="-1">Archspace - Public</option><option value="-1">----------------</option><option value="1">News</option><option value="13">Change Log</option><option value="3">Player Board</option><option value="4">Bug Board</option><option value="5">Suggestion Board</option><option value="8">Help Board</option><option value="11">Recruiting</option><option value="12">Community Art and Literature</option><option value="9">Politics/Religion Forum</option><option value="14">Archspace 2.0</option><option value="15">Programming</option></select><input type="hidden" name="sid" value="6e009dd1034fdb42e58f28b757b52bda" />&nbsp;<input type="submit" value="Go" class="liteoption" /></span></td>
+	</tr>
+</table> </form>
+
+</td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="0" border="0" align="center" cellpadding="0">
+	<tr>
+		<td align="left" valign="top"><table cellspacing="3" cellpadding="0" border="0">
+			<tr>
+				<td width="20" align="left"><img src="templates/SpacePilot3K/images/folder_new.gif" alt="New posts" width="35" height="21" /></td>
+				<td class="gensmall">New posts</td>
+				<td>&nbsp;&nbsp;</td>
+				<td width="20" align="center"><img src="templates/SpacePilot3K/images/folder.gif" alt="No new posts" width="35" height="21" /></td>
+				<td class="gensmall">No new posts</td>
+				<td>&nbsp;&nbsp;</td>
+				<td width="20" align="center"><img src="templates/SpacePilot3K/images/folder_announce.gif" alt="Announcement" width="35" height="21" /></td>
+				<td class="gensmall">Announcement</td>
+			</tr>
+			<tr>
+				<td width="20" align="center"><img src="templates/SpacePilot3K/images/folder_new_hot.gif" alt="New posts [ Popular ]" width="35" height="21" /></td>
+				<td class="gensmall">New posts [ Popular ]</td>
+				<td>&nbsp;&nbsp;</td>
+				<td width="20" align="center"><img src="templates/SpacePilot3K/images/folder_hot.gif" alt="No new posts [ Popular ]" width="35" height="21" /></td>
+				<td class="gensmall">No new posts [ Popular ]</td>
+				<td>&nbsp;&nbsp;</td>
+				<td width="20" align="center"><img src="templates/SpacePilot3K/images/folder_sticky.gif" alt="Sticky" width="35" height="21" /></td>
+				<td class="gensmall">Sticky</td>
+			</tr>
+			<tr>
+				<td class="gensmall"><img src="templates/SpacePilot3K/images/folder_lock_new.gif" alt="New posts [ Locked ]" width="35" height="21" /></td>
+				<td class="gensmall">New posts [ Locked ]</td>
+				<td>&nbsp;&nbsp;</td>
+				<td class="gensmall"><img src="templates/SpacePilot3K/images/folder_lock.gif" alt="No new posts [ Locked ]" width="35" height="21" /></td>
+				<td class="gensmall">No new posts [ Locked ]</td>
+			</tr>
+		</table></td>
+		<td align="right"><span class="gensmall">You <b>cannot</b> post new topics in this forum<br />You <b>cannot</b> reply to topics in this forum<br />You <b>cannot</b> edit your posts in this forum<br />You <b>cannot</b> delete your posts in this forum<br />You <b>cannot</b> vote in polls in this forum<br /></span></td>
+	</tr>
+</table>
+
+
+<div align="center"><span class="copyright"><br /><br />
+<!--
+	We request you retain the full copyright notice below including the link to www.phpbb.com.
+	This not only gives respect to the large amount of time given freely by the developers
+	but also helps build interest, traffic and use of phpBB 2.0. If you cannot (for good
+	reason) retain the full copyright we request you at least leave in place the
+	Powered by phpBB  line, with phpBB linked to www.phpbb.com. If you refuse
+	to include even this then support on our forums may be affected.
+
+	The phpBB Group : 2002
+// -->
+Space Pilot 3K template by <a href="http://www.jakob-persson.com" class="copyright">Jakob Persson</a>.<br />
+Powered by <a href="http://www.phpbb.com/" target="_phpbb" class="copyright">phpBB</a>  &copy; 2001 phpBB Group<br /></span></div>
+<div align="center"><span class="copyright">Protected by <a href="http://www.lithiumstudios.org/" target="_blank" class="copyright">Anti-Spam ACP</a></span></div>
+		</td>
+	</tr>
+	<tr>
+		<td align="center">
+			<script type="text/javascript"><!--
+			google_ad_client = "pub-9347639997854244";
+			google_ad_width = 728;
+			google_ad_height = 90;
+			google_ad_format = "728x90_as";
+			google_ad_type = "text_image";
+			google_ad_channel ="";
+			google_color_border = "6699CC";
+			google_color_bg = "003366";
+			google_color_link = "FFFFFF";
+			google_color_url = "AECCEB";
+			google_color_text = "AECCEB";
+			//--></script>
+			<script type="text/javascript"
+			  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+			</script>
+		</td>
+	</tr>
+</table>
+
+</body><script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script
+type="text/javascript">_uacct = "UA-278580-1"; urchinTracker();</script>
+</html>

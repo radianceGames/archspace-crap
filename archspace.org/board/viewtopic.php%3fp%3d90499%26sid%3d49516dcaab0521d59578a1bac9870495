@@ -1,0 +1,970 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Style-Type" content="text/css">
+
+<link rel="top" href="./index.php?sid=6cc3fcc2b8b77ccdfd6dba434c69af99" title="Archspace Forum Index" />
+<link rel="search" href="./search.php?sid=6cc3fcc2b8b77ccdfd6dba434c69af99" title="Search" />
+<link rel="help" href="./faq.php?sid=6cc3fcc2b8b77ccdfd6dba434c69af99" title="FAQ" />
+<link rel="author" href="./memberlist.php?sid=6cc3fcc2b8b77ccdfd6dba434c69af99" title="Memberlist" />
+<link rel="prev" href="viewtopic.php?t=12439&amp;view=previous&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99" title="View previous topic" />
+<link rel="next" href="viewtopic.php?t=12439&amp;view=next&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99" title="View next topic" />
+<link rel="up" href="viewforum.php?f=9&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99" title="Politics/Religion Forum" />
+<link rel="chapter forum" href="viewforum.php?f=1&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99" title="News" />
+<link rel="chapter forum" href="viewforum.php?f=13&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99" title="Change Log" />
+<link rel="chapter forum" href="viewforum.php?f=3&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99" title="Player Board" />
+<link rel="chapter forum" href="viewforum.php?f=4&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99" title="Bug Board" />
+<link rel="chapter forum" href="viewforum.php?f=5&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99" title="Suggestion Board" />
+<link rel="chapter forum" href="viewforum.php?f=8&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99" title="Help Board" />
+<link rel="chapter forum" href="viewforum.php?f=11&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99" title="Recruiting" />
+<link rel="chapter forum" href="viewforum.php?f=12&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99" title="Community Art and Literature" />
+<link rel="chapter forum" href="viewforum.php?f=9&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99" title="Politics/Religion Forum" />
+<link rel="chapter forum" href="viewforum.php?f=14&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99" title="Archspace 2.0" />
+<link rel="chapter forum" href="viewforum.php?f=15&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99" title="Programming" />
+
+<title>Archspace :: View topic - So, I heard this joke today....</title>
+<link rel="stylesheet" href="templates/SpacePilot3K/SpacePilot3K.css" type="text/css">
+<body bgcolor="#000000" text="#DDDDDD" link="#8BC7FF" vlink="#5493B4">
+
+
+
+<script language="Javascript" type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+</script>
+
+
+
+<script language="Javascript" type="text/javascript">
+<!--
+function rollover(name, source)  {
+
+  document.images[name].src = source;
+
+}
+//-->
+</script>
+
+<script language="JavaScript" src="templates/SpacePilot3K/fade.js"></script>
+
+<!-- SNOW CRAP !-->
+<script>
+// Set the number of snowflakes (more than 30 - 40 not recommended)
+var snowmax=14
+
+// Set the colors for the snow. Add as many colors as you like
+var snowcolor=new Array("#aaaacc","#ddddFF","#ccccDD")
+
+// Set the fonts, that create the snowflakes. Add as many fonts as you like
+var snowtype=new Array("Arial Black","Arial Narrow","Times","Comic Sans MS")
+
+// Set the letter that creates your snowflake (recommended:*)
+var snowletter="*" // (use "*" for snow flakes)
+
+// Set the speed of sinking (recommended values range from 0.3 to 2)
+var sinkspeed=0.5
+
+// Set the maximal-size of your snowflaxes
+var snowmaxsize=30
+
+// Set the minimal-size of your snowflaxes
+var snowminsize=10
+
+// Set the snowing-zone
+// Set 1 for all-over-snowing, set 2 for left-side-snowing
+// Set 3 for center-snowing, set 4 for right-side-snowing
+var snowingzone=1
+
+///////////////////////////////////////////////////////////////////////////
+// CONFIGURATION ENDS HERE
+///////////////////////////////////////////////////////////////////////////
+
+
+// Do not edit below this line
+var snow=new Array()
+var marginbottom
+var marginright
+var timer
+var i_snow=0
+var x_mv=new Array();
+var crds=new Array();
+var lftrght=new Array();
+var browserinfos=navigator.userAgent
+var ie5=document.all&&document.getElementById&&!browserinfos.match(/Opera/)
+var ns6=document.getElementById&&!document.all
+var opera=browserinfos.match(/Opera/)
+var browserok=ie5||ns6||opera
+
+function randommaker(range) {
+   rand=Math.floor(range*Math.random())
+    return rand
+}
+
+function initsnow() {
+   if (ie5 || opera) {
+      marginbottom = document.body.clientHeight
+      marginright = document.body.clientWidth
+   }
+   else if (ns6) {
+      marginbottom = window.innerHeight
+      marginright = window.innerWidth
+   }
+   var snowsizerange=snowmaxsize-snowminsize
+   for (i=0;i<=snowmax;i++) {
+      crds[i] = 0;
+       lftrght[i] = Math.random()*15;
+       x_mv[i] = 0.03 + Math.random()/10;
+      snow[i]=document.getElementById("s"+i)
+      snow[i].style.fontFamily=snowtype[randommaker(snowtype.length)]
+      snow[i].size=randommaker(snowsizerange)+snowminsize
+      snow[i].style.fontSize=snow[i].size
+      snow[i].style.color=snowcolor[randommaker(snowcolor.length)]
+      snow[i].sink=sinkspeed*snow[i].size/5
+      if (snowingzone==1) {snow[i].posx=randommaker(marginright-snow[i].size)}
+      if (snowingzone==2) {snow[i].posx=randommaker(marginright/2-snow[i].size)}
+      if (snowingzone==3) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/4}
+      if (snowingzone==4) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/2}
+      snow[i].posy=randommaker(2*marginbottom-marginbottom-2*snow[i].size)
+      snow[i].style.left=snow[i].posx
+      snow[i].style.top=snow[i].posy
+   }
+   movesnow()
+}
+
+function movesnow() {
+   for (i=0;i<=snowmax;i++) {
+      crds[i] += x_mv[i];
+      snow[i].posy+=snow[i].sink
+      snow[i].style.left=snow[i].posx+lftrght[i]*Math.sin(crds[i]);
+      snow[i].style.top=snow[i].posy
+
+      if (snow[i].posy>=marginbottom-2*snow[i].size || parseInt(snow[i].style.left)>(marginright-3*lftrght[i])){
+         if (snowingzone==1) {snow[i].posx=randommaker(marginright-snow[i].size)}
+         if (snowingzone==2) {snow[i].posx=randommaker(marginright/2-snow[i].size)}
+         if (snowingzone==3) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/4}
+         if (snowingzone==4) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/2}
+         snow[i].posy=0
+      }
+   }
+   var timer=setTimeout("movesnow()",50)
+}
+
+for (i=0;i<=snowmax;i++) {
+   document.write("<span id='s"+i+"' style='position:absolute;top:-"+snowmaxsize+"'>"+snowletter+"</span>")
+}
+if (browserok) {
+   window.onload=initsnow
+}
+</script>
+<!-- End of Snow crap !-->
+
+</head>
+<body />
+
+<a name="top"></a>
+
+<table width="100%" cellspacing="0" cellpadding="10" border="0" align="center">
+	<tr>
+		<td align="center">
+			<script type="text/javascript"><!--
+			google_ad_client = "pub-9347639997854244";
+			google_ad_width = 728;
+			google_ad_height = 90;
+			google_ad_format = "728x90_as";
+			google_ad_type = "image";
+			google_ad_channel ="";
+			google_color_border = "6699CC";
+			google_color_bg = "003366";
+			google_color_link = "FFFFFF";
+			google_color_url = "AECCEB";
+			google_color_text = "AECCEB";
+			//--></script>
+			<script type="text/javascript"
+			  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+			</script>
+		</td>
+	</tr>
+	<tr>
+		<td class="bodyline"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+			<tr>
+				<td><a href="index.php?sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><span class="maintitle"><img src="templates/SpacePilot3K/images/logo_sp3k.gif" border="0" alt="Archspace Forum Index" vspace="1" /></span></a></td>
+				<td align="center" width="100%" valign="middle"><span class="maintitle">Archspace</span><br /><span class="gen">Archspace Forums<br />&nbsp; </span>
+				<table cellspacing="0" cellpadding="2" border="0">
+					<tr>
+						<td align="center" valign="top" nowrap="nowrap"><span class="mainmenu">&nbsp;<a href="faq.php?sid=6cc3fcc2b8b77ccdfd6dba434c69af99" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_faq.gif" width="14" height="14" border="0" alt="FAQ" hspace="3" />FAQ</a></span><span class="mainmenu">&nbsp; &nbsp;<a href="search.php?sid=6cc3fcc2b8b77ccdfd6dba434c69af99" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_search.gif" width="14" height="14" border="0" alt="Search" hspace="3" />Search</a>&nbsp; &nbsp;<a href="memberlist.php?sid=6cc3fcc2b8b77ccdfd6dba434c69af99" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_members.gif" width="14" height="14" border="0" alt="Memberlist" hspace="3" />Memberlist</a>&nbsp; &nbsp;<a href="groupcp.php?sid=6cc3fcc2b8b77ccdfd6dba434c69af99" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_groups.gif" width="14" height="14" border="0" alt="Usergroups" hspace="3" />Usergroups</a>&nbsp;
+						&nbsp;<a href="profile.php?mode=register&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_register.gif" width="14" height="14" border="0" alt="Register" hspace="3" />Register</a></span>&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td height="25" align="center" valign="top" nowrap="nowrap"><span class="mainmenu">&nbsp;<a href="profile.php?mode=editprofile&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_profile.gif" width="14" height="14" border="0" alt="Profile" hspace="3" />Profile</a>&nbsp; &nbsp;<a href="privmsg.php?folder=inbox&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_message.gif" width="14" height="14" border="0" alt="Log in to check your private messages" hspace="3" />Log in to check your private messages</a>&nbsp; &nbsp;<a href="login.php?sid=6cc3fcc2b8b77ccdfd6dba434c69af99" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_login.gif" width="14" height="14" border="0" alt="Log in" hspace="3" />Log in</a>&nbsp;</span></td>
+					</tr>
+				</table></td>
+			</tr>
+		</table>
+
+		<br />
+
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0">
+  <tr>
+	<td align="left" valign="bottom" colspan="2"><a class="maintitle" href="viewtopic.php?t=12439&amp;start=0&amp;postdays=0&amp;postorder=asc&amp;highlight=&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99">So, I heard this joke today....</a><br />
+	  <span class="gensmall"><b>Goto page <b>1</b>, <a href="viewtopic.php?t=12439&amp;postdays=0&amp;postorder=asc&amp;start=15&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99">2</a>, <a href="viewtopic.php?t=12439&amp;postdays=0&amp;postorder=asc&amp;start=30&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99">3</a>, <a href="viewtopic.php?t=12439&amp;postdays=0&amp;postorder=asc&amp;start=45&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99">4</a>, <a href="viewtopic.php?t=12439&amp;postdays=0&amp;postorder=asc&amp;start=60&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99">5</a>, <a href="viewtopic.php?t=12439&amp;postdays=0&amp;postorder=asc&amp;start=75&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99">6</a>&nbsp;&nbsp;<a href="viewtopic.php?t=12439&amp;postdays=0&amp;postorder=asc&amp;start=15&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99">Next</a></b><br />
+	  &nbsp; </span></td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0">
+  <tr>
+	<td align="left" valign="bottom" nowrap="nowrap"><span class="nav"><a href="posting.php?mode=newtopic&amp;f=9&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99" onMouseOver="rollover('top_newtopic','templates/SpacePilot3K/images/lang_english/post_on.gif');" onMouseOut="rollover('top_newtopic','templates/SpacePilot3K/images/lang_english/post_off.gif');"><img name="top_newtopic" src="templates/SpacePilot3K/images/lang_english/post_off.gif" border="0" alt="Post new topic" align="middle"/></a>&nbsp;&nbsp;&nbsp;<a href="posting.php?mode=reply&amp;t=12439&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99" onMouseOver="rollover('top_postreply','templates/SpacePilot3K/images/lang_english/reply_on.gif');" onMouseOut="rollover('top_postreply','templates/SpacePilot3K/images/lang_english/reply_off.gif');"><img name="top_postreply" src="templates/SpacePilot3K/images/lang_english/reply_off.gif" border="0" alt="Reply to topic" align="middle" /></a></span></td>
+	<td align="left" valign="middle" width="100%"><span class="nav">&nbsp;&nbsp;&nbsp;<a href="index.php?sid=6cc3fcc2b8b77ccdfd6dba434c69af99" class="nav">Archspace Forum Index</a>
+	  -> <a href="viewforum.php?f=9&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99" class="nav">Politics/Religion Forum</a></span></td>
+  </tr>
+</table>
+
+<table class="forumline" width="100%" cellspacing="1" cellpadding="3" border="0">
+	<tr align="right">
+		<td class="catHead" colspan="2" height="28"><span class="nav"><a href="viewtopic.php?t=12439&amp;view=previous&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99" class="cattitle">View previous topic</a> :: <a href="viewtopic.php?t=12439&amp;view=next&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99" class="cattitle">View next topic</a> &nbsp;</span></td>
+	</tr>
+	
+	<tr>
+		<th class="thLeft" width="150" height="26" nowrap="nowrap">Author</th>
+		<th class="thRight" nowrap="nowrap">Message</th>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="90455"></a><b>gumpus</b></span><br /><span class="postdetails">Sheep Master<br /><img src="images/avatars/122017584842fc36e312663.gif" alt="" border="0" /><br /><br />Joined: 06 Aug 2005<br />Posts: 110<br />Location: Chicago</span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=90455&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99#90455"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Sun Sep 24, 2006 2:10 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: So, I heard this joke today....</span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=90455&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">You remember last week, when the president of Iran was giving his speech at the UN right? Well, when he was coming down from the podium and got into the waiting room, he spotted GWB and called him over.
+<br />
+
+<br />
+"George, I have been in America for a week or so now and I have a question for you." he says. "Sure, ask away" George replies.
+<br />
+
+<br />
+"Well, since we got to this country, my son has been watching a lot of this program called "Star Trek" and I had noticed that in this program there is a Scot named Scottie, a Russian named Chekhov and a Japanese character named Sulu, but there are no Arab or Iranian characters. Why is that?" Says Ahmedinijihad to Bush.
+<br />
+
+<br />
+George leans in real close to him, and whispers:
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+"That's because it takes place in the future...."<br />_________________<br />DEM, AZG, BE, HC... Freelance
+<br />
+
+<br />
+No I do not want to join your council</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=161&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=161&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>   <a href="aim:goim?screenname=sheephump0r&amp;message=Hello+Are+you+there?"><img src="templates/SpacePilot3K/images/lang_english/icon_aim.gif" alt="AIM Address" title="AIM Address" border="0" /></a> <a href="http://edit.yahoo.com/config/send_webmesg?.target=archspaceaddict@yahoo.com&amp;.src=pg"><img src="templates/SpacePilot3K/images/lang_english/icon_yim.gif" alt="Yahoo Messenger" title="Yahoo Messenger" border="0" /></a> <a href="profile.php?mode=viewprofile&amp;u=161&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_msnm.gif" alt="MSN Messenger" title="MSN Messenger" border="0" /></a><script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=4731954"><img src="templates/SpacePilot3K/images/lang_english/icon_icq_add.gif" alt="ICQ Number" title="ICQ Number" border="0" /></a>');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=4731954"><img src="templates/SpacePilot3K/images/lang_english/icon_icq_add.gif" alt="ICQ Number" title="ICQ Number" border="0" /></a></div><div style="position:absolute;left:4px;top:2px"><a href="http://wwp.icq.com/4731954#pager"><img src="http://web.icq.com/whitepages/online?icq=4731954&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=4731954"><img src="templates/SpacePilot3K/images/lang_english/icon_icq_add.gif" alt="ICQ Number" title="ICQ Number" border="0" /></a></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="90469"></a><b>nitrogen</b></span><br /><span class="postdetails">Forum Whore in Training<br /><img src="http://img155.imageshack.us/img155/882/sephirothmh4.gif" alt="" border="0" /><br /><br />Joined: 26 Aug 2006<br />Posts: 703<br />Location: River Styx, Hell</span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=90469&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99#90469"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Sun Sep 24, 2006 6:47 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: not funny</span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=90469&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">not funny  <img src="images/smiles/icon_sad.gif" alt="Sad" border="0" /><br />_________________<br /><a href="http://imageshack.us" target="_blank" class="postlink"><img src="http://img222.imageshack.us/img222/3749/shermiegp7.gif" border="0" /></a>
+<br />
+I live to die not on the other day but on the next day preceeding the other day after tommorow
+<br />
+<span style="font-size: 16px; line-height: normal"><span style="color: red"><span style="font-weight: bold">-Gix Armadelites</span></span></span>
+<br />
+<span style="font-size: 16px; line-height: normal"><span style="color: green"><span style="font-weight: bold">-Nitrogen</span></span></span>
+<br />
+<span style="font-size: 16px; line-height: normal"><span style="color: blue"><span style="font-weight: bold">-Uchiha Sasuke</span></span></span>
+<br />
+GA IA CR GR</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=13822&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=13822&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>  <a href="http://www.tankuloy@yahoo.com" target="_userwww"><img src="templates/SpacePilot3K/images/lang_english/icon_www.gif" alt="Visit poster's website" title="Visit poster's website" border="0" /></a>  <a href="http://edit.yahoo.com/config/send_webmesg?.target=tankuloy&amp;.src=pg"><img src="templates/SpacePilot3K/images/lang_english/icon_yim.gif" alt="Yahoo Messenger" title="Yahoo Messenger" border="0" /></a> <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="90478"></a><b>EdgeWalker</b></span><br /><span class="postdetails">Newbie<br /><br /><br />Joined: 19 Sep 2006<br />Posts: 49<br /></span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=90478&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99#90478"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Sun Sep 24, 2006 9:17 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: well...</span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=90478&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">I laughed... because honestly it was kinda funny... well at least when I first read through it.
+<br />
+
+<br />
+However, this american arrogance is what bothers me the most. I respected americans for their open-mindness and their willingness to embrace other cultures, but since 9/11 I'm beggining to have doubts about this.<br />_________________<br />EdgeWalker -
+<br />
+Walking on the Edge
+<br />
+Living on the Edge</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=14307&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=14307&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="90499"></a><b>smartguy</b></span><br /><span class="postdetails">Fat Commerce Whore<br /><img src="images/avatars/167577545343335283b331f.gif" alt="" border="0" /><br /><br />Joined: 05 Aug 2005<br />Posts: 1301<br />Location: Indiana</span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=90499&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99#90499"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Sun Sep 24, 2006 11:36 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=90499&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">We embrace all cultures...except crazy people who constantly call for our destruction.  It's kinda hard to love them.<br />_________________<br />Death to the unbelievers, and some such stuff.
+<br />
+
+<br />
+Proud member of WD and WD-Maddogs, MK, CN, NC, and AGOD.</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=10&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=10&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <a href="profile.php?mode=viewprofile&amp;u=10&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_msnm.gif" alt="MSN Messenger" title="MSN Messenger" border="0" /></a><script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="90504"></a><b>Yomin_Carr</b></span><br /><span class="postdetails">Jo ' Keric<br /><br /><br />Joined: 06 Aug 2005<br />Posts: 1794<br />Location: Dirkadirkastan</span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=90504&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99#90504"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Sun Sep 24, 2006 11:52 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=90504&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Lol, I have heard it before but i still found it funny.
+<br />
+
+<br />
+I think it's more of a Bush jibe than Americans not appreciating other cultures.<br />_________________<br /><img src="http://www.venganza.org/images/spreadword/pastafarian85x115_th.jpg" border="0" /></span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=233&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=233&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>  <a href="http://en.wikipedia.org/wiki/Hax0r#Pr0n" target="_userwww"><img src="templates/SpacePilot3K/images/lang_english/icon_www.gif" alt="Visit poster's website" title="Visit poster's website" border="0" /></a>   <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="90506"></a><b>smartguy</b></span><br /><span class="postdetails">Fat Commerce Whore<br /><img src="images/avatars/167577545343335283b331f.gif" alt="" border="0" /><br /><br />Joined: 05 Aug 2005<br />Posts: 1301<br />Location: Indiana</span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=90506&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99#90506"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Sun Sep 24, 2006 12:25 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=90506&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">I don't really think it's a bush jibe, since i've heard it in various other contexts.  Plus, it doesn't say WE are the ones who are gonna destroy the middle east, i think it's safe to say they're potentially gonna destroy themselves.  I mean, they don't even hate each other with negotiable differences (like the protestant/catholic problems in ireland), they literally just have no tolerance and want to wipe out people with even slightly different religious beliefs than their own.  Now I understand not all muslims are like that, and I understand the middle east isn't 100% islamic, but that intolerence towards others seems to be the pervailing opinion of those in power in the region.  The countries that don't have that general opinion tend to get attacked in various ways by the others.<br />_________________<br />Death to the unbelievers, and some such stuff.
+<br />
+
+<br />
+Proud member of WD and WD-Maddogs, MK, CN, NC, and AGOD.</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=10&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=10&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <a href="profile.php?mode=viewprofile&amp;u=10&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_msnm.gif" alt="MSN Messenger" title="MSN Messenger" border="0" /></a><script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="90546"></a><b>DrJekyl</b></span><br /><span class="postdetails">Silly Canadian<br /><br /><br />Joined: 06 Aug 2005<br />Posts: 275<br />Location: British Columbia, Canada</span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=90546&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99#90546"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Sun Sep 24, 2006 4:54 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=90546&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody"><img src="images/smiles/icon_rolleyes.gif" alt="Rolling Eyes" border="0" /><br />_________________<br />Owner of teh infamous dockside sabotage   
+<br />
+
+<br />
+
+<br />
+Proud to have used boomer, DrJekyl, Agathodemon, Zooboombafoo, Sasha, BlueDevil, Jo'Keric
+<br />
+
+<br />
+
+<br />
+<img src="http://i7.photobucket.com/albums/y268/hardcorematty/drj.jpg" border="0" /></span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=528&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=528&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a> <a href="mailto:martian_69@hotmail.com"><img src="templates/SpacePilot3K/images/lang_english/icon_email.gif" alt="Send e-mail" title="Send e-mail" border="0" /></a>   <a href="http://edit.yahoo.com/config/send_webmesg?.target=martian_69@hotmail.com&amp;.src=pg"><img src="templates/SpacePilot3K/images/lang_english/icon_yim.gif" alt="Yahoo Messenger" title="Yahoo Messenger" border="0" /></a> <a href="profile.php?mode=viewprofile&amp;u=528&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_msnm.gif" alt="MSN Messenger" title="MSN Messenger" border="0" /></a><script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="90548"></a><b>rio</b></span><br /><span class="postdetails">Helper<br /><img src="images/avatars/1252941470433f0f03a12b3.jpg" alt="" border="0" /><br /><br />Joined: 06 Aug 2005<br />Posts: 84<br />Location: Lisbon, Portugal</span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=90548&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99#90548"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Sun Sep 24, 2006 5:16 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=90548&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Are you on drugs Smarty?<br />_________________<br />rio
+<br />
+
+<br />
+TE's last nub, Lost Boys, DF, DSWL, 21CN, KR killah wannabe</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=190&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=190&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <a href="profile.php?mode=viewprofile&amp;u=190&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_msnm.gif" alt="MSN Messenger" title="MSN Messenger" border="0" /></a><script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="90563"></a><b>gumpus</b></span><br /><span class="postdetails">Sheep Master<br /><img src="images/avatars/122017584842fc36e312663.gif" alt="" border="0" /><br /><br />Joined: 06 Aug 2005<br />Posts: 110<br />Location: Chicago</span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=90563&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99#90563"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Sun Sep 24, 2006 6:06 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=90563&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">He is totally right. They danced in the streets celebrating the trade center bombing - both times. Continuously they call for "death to america" in some form or another. Not only us, but the brits and french see a lot of it going on as well. The people who have the power in most muslim countries have this notion that the only way to bring peace to the world is by conquering and converting everyone living on it to their system of beliefs. They have no tolerance for anything not in line with this belief system. I will provide you one example.
+<br />
+
+<br />
+A couple years ago if you will remember, there was that danish newspaper which published caricature pictures of muhammad, thereby pissing off a bunch of the muslim population. Riots, protests, burning cars, death threats.
+<br />
+
+<br />
+Around that same time period, there was a display at the new yourk museum of modern art which consisted of a crucifix inside a jar of urine. No protests, no riots, no destruction or threats - just respect for the people's right to have freedom in their art.
+<br />
+
+<br />
+But nevertheless, I feel if it comes down to it, the US does not have the political will to be able to do what needs to be done for the current threats to be nullified.<br />_________________<br />DEM, AZG, BE, HC... Freelance
+<br />
+
+<br />
+No I do not want to join your council</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=161&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=161&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>   <a href="aim:goim?screenname=sheephump0r&amp;message=Hello+Are+you+there?"><img src="templates/SpacePilot3K/images/lang_english/icon_aim.gif" alt="AIM Address" title="AIM Address" border="0" /></a> <a href="http://edit.yahoo.com/config/send_webmesg?.target=archspaceaddict@yahoo.com&amp;.src=pg"><img src="templates/SpacePilot3K/images/lang_english/icon_yim.gif" alt="Yahoo Messenger" title="Yahoo Messenger" border="0" /></a> <a href="profile.php?mode=viewprofile&amp;u=161&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_msnm.gif" alt="MSN Messenger" title="MSN Messenger" border="0" /></a><script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=4731954"><img src="templates/SpacePilot3K/images/lang_english/icon_icq_add.gif" alt="ICQ Number" title="ICQ Number" border="0" /></a>');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=4731954"><img src="templates/SpacePilot3K/images/lang_english/icon_icq_add.gif" alt="ICQ Number" title="ICQ Number" border="0" /></a></div><div style="position:absolute;left:4px;top:2px"><a href="http://wwp.icq.com/4731954#pager"><img src="http://web.icq.com/whitepages/online?icq=4731954&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=4731954"><img src="templates/SpacePilot3K/images/lang_english/icon_icq_add.gif" alt="ICQ Number" title="ICQ Number" border="0" /></a></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="90574"></a><b>Draconis</b></span><br /><span class="postdetails">Avatar of Affliction<br /><img src="http://img206.imageshack.us/img206/1743/crazycat0le.gif" alt="" border="0" /><br /><br />Joined: 02 Dec 2005<br />Posts: 71<br />Location: The Seventh Circle</span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=90574&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99#90574"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Sun Sep 24, 2006 7:03 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=90574&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">I DO!!!! 
+<br />
+
+<br />
+
+<br />
+
+<br />
+DRAC FOR EVIL DICTATOR!!!!<br />_________________<br />&lt;goodie&gt; drac &gt; dracy's pet &gt; seif &gt; gumpus &gt; sheep / PPG &gt; all &gt; goodie
+<br />
+Uber 1337 Ninja Sithari
+<br />
+Forum Killer
+<br />
+Total @sshole
+<br />
+<img src="http://i10.photobucket.com/albums/a106/ElGobblo/asdasd.jpg" border="0" /></span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=6201&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=6201&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="90583"></a><b>EdgeWalker</b></span><br /><span class="postdetails">Newbie<br /><br /><br />Joined: 19 Sep 2006<br />Posts: 49<br /></span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=90583&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99#90583"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Sun Sep 24, 2006 8:34 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: now again...</span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=90583&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">The anger over the danish cartoon is all misunderstood. It's not because Muhhamad was depicted in a cartoon. Muhhamad is not supposed to be depicted in any form; painting, cartoon, or statue. Moreover, many of the cartoons drew the prophet as the 'terrorist god'. This is different from the 'crucifix in the urine jar'. This is a direct insult to the muslims and their prophet.
+<br />
+
+<br />
+It wouldn't have angered so many muslims if the cartoons made fun of Osama BinLaden or Al-Zarkawi.
+<br />
+
+<br />
+Muhhamed would be ashamed of the muslims today. Or rather, the few radicals that soil the name of Islam. Nowhere in the koran does it say to slaughter innocent civilians and downgrade women. Maybe the terrorist need a lesson on the 'correct interpretation' of the koran.<br />_________________<br />EdgeWalker -
+<br />
+Walking on the Edge
+<br />
+Living on the Edge</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=14307&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=14307&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="90591"></a><b>gumpus</b></span><br /><span class="postdetails">Sheep Master<br /><img src="images/avatars/122017584842fc36e312663.gif" alt="" border="0" /><br /><br />Joined: 06 Aug 2005<br />Posts: 110<br />Location: Chicago</span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=90591&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99#90591"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Sun Sep 24, 2006 9:42 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=90591&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Solution = 
+<br />
+
+<br />
+<img src="http://www.strangehorizons.com/2004/20040906/trinitite.jpg" border="0" /><br />_________________<br />DEM, AZG, BE, HC... Freelance
+<br />
+
+<br />
+No I do not want to join your council</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=161&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=161&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>   <a href="aim:goim?screenname=sheephump0r&amp;message=Hello+Are+you+there?"><img src="templates/SpacePilot3K/images/lang_english/icon_aim.gif" alt="AIM Address" title="AIM Address" border="0" /></a> <a href="http://edit.yahoo.com/config/send_webmesg?.target=archspaceaddict@yahoo.com&amp;.src=pg"><img src="templates/SpacePilot3K/images/lang_english/icon_yim.gif" alt="Yahoo Messenger" title="Yahoo Messenger" border="0" /></a> <a href="profile.php?mode=viewprofile&amp;u=161&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_msnm.gif" alt="MSN Messenger" title="MSN Messenger" border="0" /></a><script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=4731954"><img src="templates/SpacePilot3K/images/lang_english/icon_icq_add.gif" alt="ICQ Number" title="ICQ Number" border="0" /></a>');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=4731954"><img src="templates/SpacePilot3K/images/lang_english/icon_icq_add.gif" alt="ICQ Number" title="ICQ Number" border="0" /></a></div><div style="position:absolute;left:4px;top:2px"><a href="http://wwp.icq.com/4731954#pager"><img src="http://web.icq.com/whitepages/online?icq=4731954&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=4731954"><img src="templates/SpacePilot3K/images/lang_english/icon_icq_add.gif" alt="ICQ Number" title="ICQ Number" border="0" /></a></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="90604"></a><b>smartguy</b></span><br /><span class="postdetails">Fat Commerce Whore<br /><img src="images/avatars/167577545343335283b331f.gif" alt="" border="0" /><br /><br />Joined: 05 Aug 2005<br />Posts: 1301<br />Location: Indiana</span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=90604&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99#90604"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Sun Sep 24, 2006 10:57 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=90604&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">lol
+<br />
+
+<br />
+And how is the symbol of chritianity in a jar of urine not an insult to christians and their prophet?  I fail to see how it's any different from a caricature of muhammed.<br />_________________<br />Death to the unbelievers, and some such stuff.
+<br />
+
+<br />
+Proud member of WD and WD-Maddogs, MK, CN, NC, and AGOD.</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=10&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=10&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <a href="profile.php?mode=viewprofile&amp;u=10&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_msnm.gif" alt="MSN Messenger" title="MSN Messenger" border="0" /></a><script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="90642"></a><b>Yomin_Carr</b></span><br /><span class="postdetails">Jo ' Keric<br /><br /><br />Joined: 06 Aug 2005<br />Posts: 1794<br />Location: Dirkadirkastan</span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=90642&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99#90642"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Mon Sep 25, 2006 1:26 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: Re: now again...</span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=90642&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody"></span><table width="90%" cellspacing="1" cellpadding="3" border="0" align="center"><tr> 	  <td><span class="genmed"><b>EdgeWalker wrote:</b></span></td>	</tr>	<tr>	  <td class="quote">Muhhamed would be ashamed of the muslims today.... Nowhere in the koran does it say to slaughter innocent civilians and downgrade women.</td>	</tr></table><span class="postbody">
+<br />
+
+<br />
+</span><table width="90%" cellspacing="1" cellpadding="3" border="0" align="center"><tr> 	  <td><span class="genmed"><b>Quran 4:34 wrote:</b></span></td>	</tr>	<tr>	  <td class="quote">Men are the maintainers of women because Allah has made some of them to excel others and because they spend out of their property; the good women are therefore obedient, guarding the unseen as Allah has guarded; and (as to) those on whose part you fear desertion, admonish them, and leave them alone in their sleeping places and <span style="font-weight: bold">beat them</span>; then if they obey you, do not seek a way against them; surely Allah is High, Great.</td>	</tr></table><span class="postbody">
+<br />
+
+<br />
+</span><table width="90%" cellspacing="1" cellpadding="3" border="0" align="center"><tr> 	  <td><span class="genmed"><b>Quran 9.29 wrote:</b></span></td>	</tr>	<tr>	  <td class="quote">Fight those who believe not in Allah nor the Last Day</td>	</tr></table><span class="postbody">
+<br />
+
+<br />
+Looks like it does...<br />_________________<br /><img src="http://www.venganza.org/images/spreadword/pastafarian85x115_th.jpg" border="0" /></span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=233&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=233&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>  <a href="http://en.wikipedia.org/wiki/Hax0r#Pr0n" target="_userwww"><img src="templates/SpacePilot3K/images/lang_english/icon_www.gif" alt="Visit poster's website" title="Visit poster's website" border="0" /></a>   <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="90660"></a><b>Draconis</b></span><br /><span class="postdetails">Avatar of Affliction<br /><img src="http://img206.imageshack.us/img206/1743/crazycat0le.gif" alt="" border="0" /><br /><br />Joined: 02 Dec 2005<br />Posts: 71<br />Location: The Seventh Circle</span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=90660&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99#90660"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Mon Sep 25, 2006 2:40 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=90660&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">would depend where you got that honestly and who translated it etc.<br />_________________<br />&lt;goodie&gt; drac &gt; dracy's pet &gt; seif &gt; gumpus &gt; sheep / PPG &gt; all &gt; goodie
+<br />
+Uber 1337 Ninja Sithari
+<br />
+Forum Killer
+<br />
+Total @sshole
+<br />
+<img src="http://i10.photobucket.com/albums/a106/ElGobblo/asdasd.jpg" border="0" /></span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=6201&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=6201&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr align="center">
+		<td class="catBottom" colspan="2" height="28"><table cellspacing="0" cellpadding="0" border="0">
+			<tr><form method="post" action="viewtopic.php?t=12439&amp;start=0&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99">
+				<td align="center"><span class="gensmall">Display posts from previous: <select name="postdays"><option value="0" selected="selected">All Posts</option><option value="1">1 Day</option><option value="7">7 Days</option><option value="14">2 Weeks</option><option value="30">1 Month</option><option value="90">3 Months</option><option value="180">6 Months</option><option value="364">1 Year</option></select>&nbsp;<select name="postorder"><option value="asc" selected="selected">Oldest First</option><option value="desc">Newest First</option></select>&nbsp;<input type="submit" value="Go" class="liteoption" name="submit" /></span></td>
+			 </form></tr>
+		</table></td>
+	</tr>
+</table>
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0" align="center">
+  <tr>
+	<td align="left" valign="middle" nowrap="nowrap"><span class="nav"><a href="posting.php?mode=newtopic&amp;f=9&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99" onMouseOver="rollover('bottom_newtopic','templates/SpacePilot3K/images/lang_english/post_on.gif');" onMouseOut="rollover('bottom_newtopic','templates/SpacePilot3K/images/lang_english/post_off.gif');"><img name="bottom_newtopic" src="templates/SpacePilot3K/images/lang_english/post_off.gif" border="0" alt="Post new topic" align="middle"/></a>&nbsp;&nbsp;&nbsp;<a href="posting.php?mode=reply&amp;t=12439&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99" onMouseOver="rollover('bottom_postreply','templates/SpacePilot3K/images/lang_english/reply_on.gif');" onMouseOut="rollover('bottom_postreply','templates/SpacePilot3K/images/lang_english/reply_off.gif');"><img name="bottom_postreply" src="templates/SpacePilot3K/images/lang_english/reply_off.gif" border="0" alt="Reply to topic" align="middle" /></a></span></td>
+	<td align="left" valign="middle" width="100%"><span class="nav">&nbsp;&nbsp;&nbsp;<a href="index.php?sid=6cc3fcc2b8b77ccdfd6dba434c69af99" class="nav">Archspace Forum Index</a>
+	  -> <a href="viewforum.php?f=9&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99" class="nav">Politics/Religion Forum</a></span></td>
+	<td align="right" valign="top" nowrap="nowrap"><span class="gensmall">All times are GMT - 6 Hours</span><br /><span class="nav">Goto page <b>1</b>, <a href="viewtopic.php?t=12439&amp;postdays=0&amp;postorder=asc&amp;start=15&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99">2</a>, <a href="viewtopic.php?t=12439&amp;postdays=0&amp;postorder=asc&amp;start=30&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99">3</a>, <a href="viewtopic.php?t=12439&amp;postdays=0&amp;postorder=asc&amp;start=45&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99">4</a>, <a href="viewtopic.php?t=12439&amp;postdays=0&amp;postorder=asc&amp;start=60&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99">5</a>, <a href="viewtopic.php?t=12439&amp;postdays=0&amp;postorder=asc&amp;start=75&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99">6</a>&nbsp;&nbsp;<a href="viewtopic.php?t=12439&amp;postdays=0&amp;postorder=asc&amp;start=15&amp;sid=6cc3fcc2b8b77ccdfd6dba434c69af99">Next</a></span>
+	  </td>
+  </tr>
+  <tr>
+	<td align="left" colspan="3"><span class="nav">Page <b>1</b> of <b>6</b></span></td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="2" border="0" align="center">
+  <tr>
+	<td width="40%" valign="top" nowrap="nowrap" align="left"><span class="gensmall"></span><br />
+	  &nbsp;<br />
+	  </td>
+	<td align="right" valign="top" nowrap="nowrap">
+<form method="get" name="jumpbox" action="viewforum.php?sid=6cc3fcc2b8b77ccdfd6dba434c69af99" onSubmit="if(document.jumpbox.f.value == -1){return false;}"><table cellspacing="0" cellpadding="0" border="0">
+	<tr>
+		<td nowrap="nowrap"><span class="gensmall">Jump to:&nbsp;<select name="f" onchange="if(this.options[this.selectedIndex].value != -1){ forms['jumpbox'].submit() }"><option value="-1">Select a forum</option><option value="-1">&nbsp;</option><option value="-1">Archspace - Public</option><option value="-1">----------------</option><option value="1">News</option><option value="13">Change Log</option><option value="3">Player Board</option><option value="4">Bug Board</option><option value="5">Suggestion Board</option><option value="8">Help Board</option><option value="11">Recruiting</option><option value="12">Community Art and Literature</option><option value="9"selected="selected">Politics/Religion Forum</option><option value="14">Archspace 2.0</option><option value="15">Programming</option></select><input type="hidden" name="sid" value="6cc3fcc2b8b77ccdfd6dba434c69af99" />&nbsp;<input type="submit" value="Go" class="liteoption" /></span></td>
+	</tr>
+</table> </form>
+
+<span class="gensmall">You <b>cannot</b> post new topics in this forum<br />You <b>cannot</b> reply to topics in this forum<br />You <b>cannot</b> edit your posts in this forum<br />You <b>cannot</b> delete your posts in this forum<br />You <b>cannot</b> vote in polls in this forum<br /></span></td>
+  </tr>
+</table>
+
+
+<div align="center"><span class="copyright"><br /><br />
+<!--
+	We request you retain the full copyright notice below including the link to www.phpbb.com.
+	This not only gives respect to the large amount of time given freely by the developers
+	but also helps build interest, traffic and use of phpBB 2.0. If you cannot (for good
+	reason) retain the full copyright we request you at least leave in place the
+	Powered by phpBB  line, with phpBB linked to www.phpbb.com. If you refuse
+	to include even this then support on our forums may be affected.
+
+	The phpBB Group : 2002
+// -->
+Space Pilot 3K template by <a href="http://www.jakob-persson.com" class="copyright">Jakob Persson</a>.<br />
+Powered by <a href="http://www.phpbb.com/" target="_phpbb" class="copyright">phpBB</a>  &copy; 2001 phpBB Group<br /></span></div>
+<div align="center"><span class="copyright">Protected by <a href="http://www.lithiumstudios.org/" target="_blank" class="copyright">Anti-Spam ACP</a></span></div>
+		</td>
+	</tr>
+	<tr>
+		<td align="center">
+			<script type="text/javascript"><!--
+			google_ad_client = "pub-9347639997854244";
+			google_ad_width = 728;
+			google_ad_height = 90;
+			google_ad_format = "728x90_as";
+			google_ad_type = "text_image";
+			google_ad_channel ="";
+			google_color_border = "6699CC";
+			google_color_bg = "003366";
+			google_color_link = "FFFFFF";
+			google_color_url = "AECCEB";
+			google_color_text = "AECCEB";
+			//--></script>
+			<script type="text/javascript"
+			  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+			</script>
+		</td>
+	</tr>
+</table>
+
+</body><script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script
+type="text/javascript">_uacct = "UA-278580-1"; urchinTracker();</script>
+</html>
+

@@ -1,0 +1,696 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Style-Type" content="text/css">
+
+<link rel="top" href="./index.php?sid=2e022ed995268f6ce7ec893fe691c68f" title="Archspace Forum Index" />
+<link rel="search" href="./search.php?sid=2e022ed995268f6ce7ec893fe691c68f" title="Search" />
+<link rel="help" href="./faq.php?sid=2e022ed995268f6ce7ec893fe691c68f" title="FAQ" />
+<link rel="author" href="./memberlist.php?sid=2e022ed995268f6ce7ec893fe691c68f" title="Memberlist" />
+<link rel="prev" href="viewtopic.php?t=13445&amp;view=previous&amp;sid=2e022ed995268f6ce7ec893fe691c68f" title="View previous topic" />
+<link rel="next" href="viewtopic.php?t=13445&amp;view=next&amp;sid=2e022ed995268f6ce7ec893fe691c68f" title="View next topic" />
+<link rel="up" href="viewforum.php?f=12&amp;sid=2e022ed995268f6ce7ec893fe691c68f" title="Community Art and Literature" />
+<link rel="chapter forum" href="viewforum.php?f=1&amp;sid=2e022ed995268f6ce7ec893fe691c68f" title="News" />
+<link rel="chapter forum" href="viewforum.php?f=13&amp;sid=2e022ed995268f6ce7ec893fe691c68f" title="Change Log" />
+<link rel="chapter forum" href="viewforum.php?f=3&amp;sid=2e022ed995268f6ce7ec893fe691c68f" title="Player Board" />
+<link rel="chapter forum" href="viewforum.php?f=4&amp;sid=2e022ed995268f6ce7ec893fe691c68f" title="Bug Board" />
+<link rel="chapter forum" href="viewforum.php?f=5&amp;sid=2e022ed995268f6ce7ec893fe691c68f" title="Suggestion Board" />
+<link rel="chapter forum" href="viewforum.php?f=8&amp;sid=2e022ed995268f6ce7ec893fe691c68f" title="Help Board" />
+<link rel="chapter forum" href="viewforum.php?f=11&amp;sid=2e022ed995268f6ce7ec893fe691c68f" title="Recruiting" />
+<link rel="chapter forum" href="viewforum.php?f=12&amp;sid=2e022ed995268f6ce7ec893fe691c68f" title="Community Art and Literature" />
+<link rel="chapter forum" href="viewforum.php?f=9&amp;sid=2e022ed995268f6ce7ec893fe691c68f" title="Politics/Religion Forum" />
+<link rel="chapter forum" href="viewforum.php?f=14&amp;sid=2e022ed995268f6ce7ec893fe691c68f" title="Archspace 2.0" />
+<link rel="chapter forum" href="viewforum.php?f=15&amp;sid=2e022ed995268f6ce7ec893fe691c68f" title="Programming" />
+
+<title>Archspace :: View topic - Archived Stories</title>
+<link rel="stylesheet" href="templates/SpacePilot3K/SpacePilot3K.css" type="text/css">
+<body bgcolor="#000000" text="#DDDDDD" link="#8BC7FF" vlink="#5493B4">
+
+
+
+<script language="Javascript" type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+</script>
+
+
+
+<script language="Javascript" type="text/javascript">
+<!--
+function rollover(name, source)  {
+
+  document.images[name].src = source;
+
+}
+//-->
+</script>
+
+<script language="JavaScript" src="templates/SpacePilot3K/fade.js"></script>
+
+<!-- SNOW CRAP !-->
+<script>
+// Set the number of snowflakes (more than 30 - 40 not recommended)
+var snowmax=14
+
+// Set the colors for the snow. Add as many colors as you like
+var snowcolor=new Array("#aaaacc","#ddddFF","#ccccDD")
+
+// Set the fonts, that create the snowflakes. Add as many fonts as you like
+var snowtype=new Array("Arial Black","Arial Narrow","Times","Comic Sans MS")
+
+// Set the letter that creates your snowflake (recommended:*)
+var snowletter="*" // (use "*" for snow flakes)
+
+// Set the speed of sinking (recommended values range from 0.3 to 2)
+var sinkspeed=0.5
+
+// Set the maximal-size of your snowflaxes
+var snowmaxsize=30
+
+// Set the minimal-size of your snowflaxes
+var snowminsize=10
+
+// Set the snowing-zone
+// Set 1 for all-over-snowing, set 2 for left-side-snowing
+// Set 3 for center-snowing, set 4 for right-side-snowing
+var snowingzone=1
+
+///////////////////////////////////////////////////////////////////////////
+// CONFIGURATION ENDS HERE
+///////////////////////////////////////////////////////////////////////////
+
+
+// Do not edit below this line
+var snow=new Array()
+var marginbottom
+var marginright
+var timer
+var i_snow=0
+var x_mv=new Array();
+var crds=new Array();
+var lftrght=new Array();
+var browserinfos=navigator.userAgent
+var ie5=document.all&&document.getElementById&&!browserinfos.match(/Opera/)
+var ns6=document.getElementById&&!document.all
+var opera=browserinfos.match(/Opera/)
+var browserok=ie5||ns6||opera
+
+function randommaker(range) {
+   rand=Math.floor(range*Math.random())
+    return rand
+}
+
+function initsnow() {
+   if (ie5 || opera) {
+      marginbottom = document.body.clientHeight
+      marginright = document.body.clientWidth
+   }
+   else if (ns6) {
+      marginbottom = window.innerHeight
+      marginright = window.innerWidth
+   }
+   var snowsizerange=snowmaxsize-snowminsize
+   for (i=0;i<=snowmax;i++) {
+      crds[i] = 0;
+       lftrght[i] = Math.random()*15;
+       x_mv[i] = 0.03 + Math.random()/10;
+      snow[i]=document.getElementById("s"+i)
+      snow[i].style.fontFamily=snowtype[randommaker(snowtype.length)]
+      snow[i].size=randommaker(snowsizerange)+snowminsize
+      snow[i].style.fontSize=snow[i].size
+      snow[i].style.color=snowcolor[randommaker(snowcolor.length)]
+      snow[i].sink=sinkspeed*snow[i].size/5
+      if (snowingzone==1) {snow[i].posx=randommaker(marginright-snow[i].size)}
+      if (snowingzone==2) {snow[i].posx=randommaker(marginright/2-snow[i].size)}
+      if (snowingzone==3) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/4}
+      if (snowingzone==4) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/2}
+      snow[i].posy=randommaker(2*marginbottom-marginbottom-2*snow[i].size)
+      snow[i].style.left=snow[i].posx
+      snow[i].style.top=snow[i].posy
+   }
+   movesnow()
+}
+
+function movesnow() {
+   for (i=0;i<=snowmax;i++) {
+      crds[i] += x_mv[i];
+      snow[i].posy+=snow[i].sink
+      snow[i].style.left=snow[i].posx+lftrght[i]*Math.sin(crds[i]);
+      snow[i].style.top=snow[i].posy
+
+      if (snow[i].posy>=marginbottom-2*snow[i].size || parseInt(snow[i].style.left)>(marginright-3*lftrght[i])){
+         if (snowingzone==1) {snow[i].posx=randommaker(marginright-snow[i].size)}
+         if (snowingzone==2) {snow[i].posx=randommaker(marginright/2-snow[i].size)}
+         if (snowingzone==3) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/4}
+         if (snowingzone==4) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/2}
+         snow[i].posy=0
+      }
+   }
+   var timer=setTimeout("movesnow()",50)
+}
+
+for (i=0;i<=snowmax;i++) {
+   document.write("<span id='s"+i+"' style='position:absolute;top:-"+snowmaxsize+"'>"+snowletter+"</span>")
+}
+if (browserok) {
+   window.onload=initsnow
+}
+</script>
+<!-- End of Snow crap !-->
+
+</head>
+<body />
+
+<a name="top"></a>
+
+<table width="100%" cellspacing="0" cellpadding="10" border="0" align="center">
+	<tr>
+		<td align="center">
+			<script type="text/javascript"><!--
+			google_ad_client = "pub-9347639997854244";
+			google_ad_width = 728;
+			google_ad_height = 90;
+			google_ad_format = "728x90_as";
+			google_ad_type = "image";
+			google_ad_channel ="";
+			google_color_border = "6699CC";
+			google_color_bg = "003366";
+			google_color_link = "FFFFFF";
+			google_color_url = "AECCEB";
+			google_color_text = "AECCEB";
+			//--></script>
+			<script type="text/javascript"
+			  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+			</script>
+		</td>
+	</tr>
+	<tr>
+		<td class="bodyline"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+			<tr>
+				<td><a href="index.php?sid=2e022ed995268f6ce7ec893fe691c68f"><span class="maintitle"><img src="templates/SpacePilot3K/images/logo_sp3k.gif" border="0" alt="Archspace Forum Index" vspace="1" /></span></a></td>
+				<td align="center" width="100%" valign="middle"><span class="maintitle">Archspace</span><br /><span class="gen">Archspace Forums<br />&nbsp; </span>
+				<table cellspacing="0" cellpadding="2" border="0">
+					<tr>
+						<td align="center" valign="top" nowrap="nowrap"><span class="mainmenu">&nbsp;<a href="faq.php?sid=2e022ed995268f6ce7ec893fe691c68f" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_faq.gif" width="14" height="14" border="0" alt="FAQ" hspace="3" />FAQ</a></span><span class="mainmenu">&nbsp; &nbsp;<a href="search.php?sid=2e022ed995268f6ce7ec893fe691c68f" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_search.gif" width="14" height="14" border="0" alt="Search" hspace="3" />Search</a>&nbsp; &nbsp;<a href="memberlist.php?sid=2e022ed995268f6ce7ec893fe691c68f" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_members.gif" width="14" height="14" border="0" alt="Memberlist" hspace="3" />Memberlist</a>&nbsp; &nbsp;<a href="groupcp.php?sid=2e022ed995268f6ce7ec893fe691c68f" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_groups.gif" width="14" height="14" border="0" alt="Usergroups" hspace="3" />Usergroups</a>&nbsp;
+						&nbsp;<a href="profile.php?mode=register&amp;sid=2e022ed995268f6ce7ec893fe691c68f" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_register.gif" width="14" height="14" border="0" alt="Register" hspace="3" />Register</a></span>&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td height="25" align="center" valign="top" nowrap="nowrap"><span class="mainmenu">&nbsp;<a href="profile.php?mode=editprofile&amp;sid=2e022ed995268f6ce7ec893fe691c68f" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_profile.gif" width="14" height="14" border="0" alt="Profile" hspace="3" />Profile</a>&nbsp; &nbsp;<a href="privmsg.php?folder=inbox&amp;sid=2e022ed995268f6ce7ec893fe691c68f" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_message.gif" width="14" height="14" border="0" alt="Log in to check your private messages" hspace="3" />Log in to check your private messages</a>&nbsp; &nbsp;<a href="login.php?sid=2e022ed995268f6ce7ec893fe691c68f" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_login.gif" width="14" height="14" border="0" alt="Log in" hspace="3" />Log in</a>&nbsp;</span></td>
+					</tr>
+				</table></td>
+			</tr>
+		</table>
+
+		<br />
+
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0">
+  <tr>
+	<td align="left" valign="bottom" colspan="2"><a class="maintitle" href="viewtopic.php?t=13445&amp;start=0&amp;postdays=0&amp;postorder=asc&amp;highlight=&amp;sid=2e022ed995268f6ce7ec893fe691c68f">Archived Stories</a><br />
+	  <span class="gensmall"><b></b><br />
+	  &nbsp; </span></td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0">
+  <tr>
+	<td align="left" valign="bottom" nowrap="nowrap"><span class="nav"><a href="posting.php?mode=newtopic&amp;f=12&amp;sid=2e022ed995268f6ce7ec893fe691c68f" onMouseOver="rollover('top_newtopic','templates/SpacePilot3K/images/lang_english/post_on.gif');" onMouseOut="rollover('top_newtopic','templates/SpacePilot3K/images/lang_english/post_off.gif');"><img name="top_newtopic" src="templates/SpacePilot3K/images/lang_english/post_off.gif" border="0" alt="Post new topic" align="middle"/></a>&nbsp;&nbsp;&nbsp;<a href="posting.php?mode=reply&amp;t=13445&amp;sid=2e022ed995268f6ce7ec893fe691c68f" onMouseOver="rollover('top_postreply','templates/SpacePilot3K/images/lang_english/reply_on.gif');" onMouseOut="rollover('top_postreply','templates/SpacePilot3K/images/lang_english/reply_off.gif');"><img name="top_postreply" src="templates/SpacePilot3K/images/lang_english/reply_off.gif" border="0" alt="Reply to topic" align="middle" /></a></span></td>
+	<td align="left" valign="middle" width="100%"><span class="nav">&nbsp;&nbsp;&nbsp;<a href="index.php?sid=2e022ed995268f6ce7ec893fe691c68f" class="nav">Archspace Forum Index</a>
+	  -> <a href="viewforum.php?f=12&amp;sid=2e022ed995268f6ce7ec893fe691c68f" class="nav">Community Art and Literature</a></span></td>
+  </tr>
+</table>
+
+<table class="forumline" width="100%" cellspacing="1" cellpadding="3" border="0">
+	<tr align="right">
+		<td class="catHead" colspan="2" height="28"><span class="nav"><a href="viewtopic.php?t=13445&amp;view=previous&amp;sid=2e022ed995268f6ce7ec893fe691c68f" class="cattitle">View previous topic</a> :: <a href="viewtopic.php?t=13445&amp;view=next&amp;sid=2e022ed995268f6ce7ec893fe691c68f" class="cattitle">View next topic</a> &nbsp;</span></td>
+	</tr>
+	
+	<tr>
+		<th class="thLeft" width="150" height="26" nowrap="nowrap">Author</th>
+		<th class="thRight" nowrap="nowrap">Message</th>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="98714"></a><b>Nimitz</b></span><br /><span class="postdetails">Forum Nubje<br /><img src="images/avatars/893834963455d2a523ad8f.gif" alt="" border="0" /><br /><br />Joined: 16 Nov 2006<br />Posts: 15<br /></span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=98714&amp;sid=2e022ed995268f6ce7ec893fe691c68f#98714"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Thu Nov 23, 2006 4:18 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: Archived Stories</span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=98714&amp;sid=2e022ed995268f6ce7ec893fe691c68f"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Here are two stories I managed to find that date back to when mari owned AS. These were two of the winning stories for some competition that I never understood. There's a whole list of other stories that were written unfotunately the links are to the old AS site so theres nothing there. 
+<br />
+
+<br />
+--------------------------------------------------------------------------------------
+<br />
+1st Story:
+<br />
+--------------------------------------------------------------------------------------
+<br />
+<span style="text-decoration: underline"><span style="font-weight: bold">Hunter, Hunted: Games Of War</span>
+<br />
+By: Erich Devendorf</span>
+<br />
+
+<br />
+The dull glow of artificial light surrounded the primary engine compartment, as the drip of condensation echoed in the otherwise eerily silent chamber.  A lone Xerusian warrior standing two and a half meters tall was present with a sword of light illuminating as she stalked the
+<br />
+compartment in search of her prey.  Above the slightly neurotic drip of water, the inevitable clink and clatter of full battle gear, glinting in the light, could be heard with each deliberate step taken.  The bowels of a spacecraft was no place for the weak of heart, but that seldom
+<br />
+presented a problem for a race born and bred to battle.  This endeavor was no less a battle than the Great Wars of the Samvarra system, fighting the fanatical Xeloss. No, it was no less a battle, only the pursuit of a spy was a slightly more subtle hunt.
+<br />
+
+<br />
+    An echo resounded through the chamber as the prey slipped and slid around a corner.  Damnable spies thought the Xerusian as she continued following the source of the sound with cautious steps.  There was no greater threat than an enemy cornered, as it had nothing to lose. The warrior knew that much in spite of her relative lack of experience. With a whisper she reported into main security
+<br />
+
+<br />
+"We have a runner, unknown faction, unknown race and origin,” she said, only to be greeted by the main computer.
+<br />
+
+<br />
+"Acknowledged 21004, transferring you to Sector Security Chief." replied the emotionless metallic voice.
+<br />
+
+<br />
+"Damn machine," she whispered under her breath. If there was one thing she hated, it was being referred to as a number.  She continued stalking her prey, sword held outward with its tip just below the horned helm which covered her face and attached to the main suit of armor.  Her
+<br />
+armor was capable of repelling the best infantry weapons, so she wasn't necessarily scared of attack as much as her quarry escaping.  A click echoed in her helmet as the Sector Security Chief asked for an update and she repeated her response to the main computer.  She was then
+<br />
+referred to the Local Security Advisor, which meant she would have to go through the
+<br />
+
+<br />
+litany once again before she reached her own "Personal Supervisor."  The only thing that seemed to bother her more than being referred to as a number was probably the inefficient workings of the Xerusian bureaucracy.  You would think a military culture could have managed to gain an edge in the efficiency department somewhere along the lines, but tradition dictated things be
+<br />
+done a particular way.  Who was she to argue with tradition?
+<br />
+
+<br />
+Still fuming over Xerusian Society as a whole that, although it had a few flaws, was obviously superior to all others, she almost failed to notice her prey had ceased making any sounds.  The spy, whoever it was, was planning something she knew and her military training kicked in at
+<br />
+just the right second to allow her to deflect a plasma rifle's beam with her shield.  Nonetheless the weapon left a deep score on the ships hull, which would have to be repaired, probably by
+<br />
+her for allowing it to happen.  Then again, she would be damned if she was going to take a plasma rifle in the chest for no reason.
+<br />
+
+<br />
+She suddenly realized that her pursuit had taken her to the entrance of a new room, and she carefully studied her surroundings from her hiding position next to the airlock.  The chamber was dimly lit, which always seemed to be the case, with a single catwalk spanning a nearly 100 meter gap to the rooms exit, a door which read E-7-G on it.  Off to either side, the chamber fell into nothingness, and the ceiling was so high that it might as well be considered the sky on a planet.  Somehow the spies always seemed to find rooms like these to make their last stand.
+<br />
+Just in time, for once, the Local Security Advisor buzzed in and she updated him as to her situation, requesting the far door, E-7-G be locked shut.  This, naturally, would have to take a number of bureaucratic steps to be completed, but in around twenty minutes it should have been accomplished.  Now, she only had to watch and wait for her chance to move.
+<br />
+
+<br />
+  She considered calling for reinforcements, but honor dictated she handle it alone.  To request aid was a sign of weakness.  After sufficient time had passed she readied herself to enter the chamber, realizing confirmation of her request to shut the door might very well take days.
+<br />
+
+<br />
+There were a number of approaches that might be taken to enter the chamber, but it seemed that direct methods usually worked best for a Xerusian.  She readied her sword and shield for the soon to begin conflict as she contemplated her choice of arms.  Of course, in a modern
+<br />
+age the classic Xerusian weapons of shield and sword may seem out of date until one realizes a single key fact: it is much more likely that stray shots from conventional weapons will destroy
+<br />
+something important, and possibly depressurize a section of a spacecraft, than a sword and shield.  Now, projectiles and beams may work to eliminate an enemy, but the Xerusians also tend to have a strong sense of self-preservation so swords and shields it was.
+<br />
+
+<br />
+With weapons drawn she silently, except for the damnable clinking of her armor, advanced into the chamber from her hiding spot.  The imposter had to be in here somewhere she knew, but doubts began to surface as she nearly reached the end of the catwalk.  Maybe the spy had escaped out the exit she thought...
+<br />
+
+<br />
+It was then that the devastating psychic strike rippled through her consciousness, with the only visible sign of the struggle her slight swaying on the catwalk and lowering of weapons.  Images flashed through her mind, each in grotesque detail, of the red robed Xeloss priests performing ghastly rituals over the defeated corpses of their enemies. More horrifying than this was the fact that on each tortured body she could see only her face, screaming in agony.  Fear gripped her
+<br />
+heart and she wished to flee away from her obviously superior foe.  She stood up shaking, searching for an exit, but the immense security door blocked the way ahead of her. It was when she turned around that her nightmare became reality.
+<br />
+
+<br />
+Standing nearly three meters in height was the imposing figure of a Xeloss warrior priest.  His red robes moved slightly in the chamber breeze and a deep crimson glow surrounded his hands where he held a small crystal, the focus of his psychic attack.  A cruel grin spread across a white skinned face, dominated by various tentacle like appendages, as the priest enjoyed the destruction he wrought upon the mind of his stalker.
+<br />
+ There was no escape for her thought the priest, she was trapped...
+<br />
+
+<br />
+While she cringed in fear of her towering enemy the Xerusian warrior was suddenly gripped by a strange desperation and a bloodthirsty urge to strike back at her tormentor.  In an unexpected motion she stood and uttered a primitive cry, focusing all her fear and hatred into that sound as her instructors had taught her a few short months ago.  The crimson glow of the Xeloss crystal receded, and a blinding white  light exploded from the heart of her armor.  Lightning fast she shot forward to her startled opponent, but he was not to be caught entirely unawares.
+<br />
+
+<br />
+As fast as the glowing white blade struck downward at the head of the priest another crimson blade came to meet it, with sheer chance deflecting his second scimitar off of her shield.  Feeling the impact she jumped backwards, and a for a short second silence dominated the chamber as the two enemies stared one another down in anticipation of the true battle about to erupt.
+<br />
+Sparks of crimson and white filled the chamber as the twin scimitars of the Xeloss met the
+<br />
+sword and shield of the Xerusians.  Stroke followed counter stroke in a brilliant display of martial prowess, but the weight of battle armor began to take its toll upon the Xerusian.  Her stokes gradually slowed and a new panic gripped her as she was pressed increasingly on the
+<br />
+defensive.  Play to her strengths she thought, and realized the burden of the armor was also an asset.  With a quick prayer to whatever god of battle that might be watching she dropped her shield, gripping the white sword in two hands.  In response two red scimitars darted towards
+<br />
+her helm, and the shock of the impact nearly jarred her off the catwalk.
+<br />
+
+<br />
+However, she ignored the pain, instead striking with an overhead smash as the scimitars remained embedded in her thick armor.  Her blow landed true, the Xeloss priest crumpled, and the red of his scimitars and the crystal now hanging around his neck went out.
+<br />
+
+<br />
+With a wrench she removed the helm, now decorated by twin scimitars, from her head and studied the body of the priest, deciding she liked them much more when they were dead.  Quickly, she rummaged among his robes and found what she had been seeking.  A token attached to his robe indicating he was among the "Dead Ones" of Xeloss society, an elite
+<br />
+group who were never to return to their race and lived only to bring destruction to their rivals.  Another suicide mission she thought as she heard the buzz of her communicator within the helm.  Quickly she put it on and was greeted to the clicking of locks behind her and an automated voice which said:
+<br />
+
+<br />
+"Request processed 21004, securing airlock E-7-G."</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=15555&amp;sid=2e022ed995268f6ce7ec893fe691c68f"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=15555&amp;sid=2e022ed995268f6ce7ec893fe691c68f"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="98715"></a><b>Nimitz</b></span><br /><span class="postdetails">Forum Nubje<br /><img src="images/avatars/893834963455d2a523ad8f.gif" alt="" border="0" /><br /><br />Joined: 16 Nov 2006<br />Posts: 15<br /></span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=98715&amp;sid=2e022ed995268f6ce7ec893fe691c68f#98715"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Thu Nov 23, 2006 4:21 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=98715&amp;sid=2e022ed995268f6ce7ec893fe691c68f"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">And here's the second story I found. I found it using yahoo's engine and it took me to the old OOA site with a list of the stories:
+<br />
+
+<br />
+<a href="http://www.angelfire.com/scifi/ooa/literature.htm" target="_blank" class="postlink">http://www.angelfire.com/scifi/ooa/literature.htm</a>
+<br />
+
+<br />
+Like I said the links are broken and I don't have any skill in retrieving the info, but if anyone would want to give it a shot...
+<br />
+
+<br />
+--------------------------------------------------------------------------------------
+<br />
+Story 2:
+<br />
+--------------------------------------------------------------------------------------
+<br />
+
+<br />
+<span style="text-decoration: underline"><span style="font-weight: bold">The Price of Honor</span>
+<br />
+By: Carlo Jan P. Garingarao</span>
+<br />
+
+<br />
+The Trak'na Star Cluster's neutral zone: stretching more than 15 parsecs of demilitarized space, 3 star systems with a total of 14 resource-rich planets. The vast uninhabited area lay deep within the star cluster, effectively marking the boundaries of the several councils that called Trak'na home.
+<br />
+As far as inter-council peace agreements were concerned, the neutral zone was strictly off-limits to ships, military and civilian alike. Not more than half a century ago, it was an area of intense conflict within Trak'na, each council fighting for complete control of the zone and its wealthy star systems. It was not clear which side was winning, the bitter conflict costing dearly in lives and resources, until everyone realized that fighting for the area was starting to cost them more than they could gain. The Jarnapah Protectorate, a Bosalian council, pushed for a cluster-wide ceasefire, which eventually led to the Trak'na Peace Initiative that effectively stopped the conflicts and encouraged inter-council trade and relations. The zone was soon abandoned, blockaded, all grudges forgiven and apparently forgotten.
+<br />
+
+<br />
+
+<br />
+The fleet of bulky ships slowly entered the demilitarized zone unnoticed, unhampered. The cloaking generators were working all too perfectly, the anti-matter engines adapted to leave no trace at the fleet's wake. After a month's travel, it was in the heart of Trak'na at last, with the entire star cluster oblivious to its presence.
+<br />
+Not far ahead stretched a grid of widely spaced cylindrical objects, pulsing a faint green: the neutral zone barricade. The repulsion field generators were of Evintos design, establishing a formidable barrier against any foolhardy ships, with the heavily armored generators safely situated behind the field.
+<br />
+Onward the fleet progressed, unmindful of the barrier that lay before it. The ships' shields flared a brilliant red as they came into contact with the field, but the vessels themselves advanced, lancing through the barricade like laser through flesh. Determining the field's fluctuation rate and adjusting the shield harmonics to match was mere child's play.
+<br />
+Now past their one and only obstacle to the neutral zone, the Targoid seed ships diverged, each proceeding to its designated planet for colonization.
+<br />
+
+<br />
+
+<br />
+The nekral, the most revered and most sacred of the Xerusian honor-duels. Despite the possible death of an opponent, it was still the most convenient manner of resolving conflict between two warriors, whatever the argument. The nekral could be fought anytime and anywhere the contenders agree upon, to refuse meant utter shame. It was fought with metal blades alone; no projectile, psionic or energy weapons were allowed. The loser admits defeat or, sometimes, fights to the death; and the victor has his viewpoint upheld by his triumph. It was so simple; yet so revered.
+<br />
+
+<br />
+Teradin Valinor narrowed his eyes into slits, his right hand tightly gripping his anti-matter reactive broadsword, feet planted widely apart as he held a defensive stance against his opponent. Small rivers of sweat trickled down his neck, arms and chest. Combined with the sparring chamber's humid air and the full combat armor safely encasing him, it made concentrating on the nekral at hand an arduous task. 
+<br />
+Before him, ten feet away, stood Teradin Hieronymus, also in full battle regalia. The Xerusian held a calm, almost negligent pose, blade pointed to the ground, a thin, smug smile plastered on his face. In a fleeting glance, his eyes darted to his sword's hilt and the minute controls imbedded in the pommel. 
+<br />
+    "Don't even think about it," Valinor growled. "Swords powered down."
+<br />
+    Hieronymus's grin widened at the remark, "Why, my dear Valinor, are you implying that I cheat? Or are you just worried that I may be too good for you with our blades activated?"
+<br />
+    Without warning, he charged at full speed, polished armor and blade flashing, bringing the sword down in a diagonal slash on Valinor's left shoulder. But Valinor was ready, used to his opponent's surprise antics, bearing his blade up to meet the blow with a resounding clang. He quickly lunged forward at Hieronymus's abdomen in retaliation, which the other barely evaded by nimbly stepping sideward.
+<br />
+    "Too predictable," Valinor simply announced, resuming his stance.
+<br />
+    The simple comment was enough to ignite Hieronymus's volatile disposition, and he charged again, this time driving his blade down on his adversary's head with all his strength. Valinor easily countered the strong blow, their swords crossed, but Hieronymus pressed downward in a fit of rage, eyes blazing. Valinor thinned his lips into a grim line, maintaining the block. Desperate to preserve his wounded ego, Hieronymus's thumb slowly inched towards the power controls. The other spotted the subtle motion, and heaved forward with all of his strength, throwing the angered Xerusian flat on his back.
+<br />
+    "Damn you, Hieronymus!" Valinor cursed, stepping on his opponent's blade and training his blade's tip on his exposed throat.
+<br />
+    The fallen Teradin held a hand up in surrender, "Good show, Valinor. I admit defeat."      
+<br />
+    Ignoring the blade, he picked himself up, retrieved his weapon from under Valinor, and returned it to its sheath. 
+<br />
+    "Don't think I'm going to let that pass by," he followed suit. "You were going to power up your blade."
+<br />
+    "Why, my dear comrade, what ever made you utter such an accusation?"
+<br />
+    Before he could retort, the sparring chamber's heavy doors slid open with an audible hiss. A Xerusian dragoon entered, bowed deeply at them both, and promptly announced, "Pardon my intrusion, my lords. The Regent seeks both your audience at once, he awaits you in his private chambers."
+<br />
+
+<br />
+    "Of course, the reported field fluctuations in the barricade may mean nothing at all," Percinal, Regent of the Dylanus Dominion, concluded. The large, heavyset Xerusian leaned against his cathedra, his hands steepled beneath his broad chin, flowing crimson robes of office draped over the throne's armrests.
+<br />
+    The throne was set upon a slightly raised landing, while Valinor and Hieronymus knelt on the main floor of the throne room. The recent argument between the two Teradins was forgotten for the moment, the situation at hand requiring utmost attention.
+<br />
+    Not more than two days ago, the Jarnapah Protectorate reported a slight, yet brief, disturbance in the neutral zone barricade, and promptly asked all of the star cluster's councils for any connection with the aberration. As expected, no one stepped forward.</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=15555&amp;sid=2e022ed995268f6ce7ec893fe691c68f"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=15555&amp;sid=2e022ed995268f6ce7ec893fe691c68f"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="99281"></a><b>Ariana</b></span><br /><span class="postdetails">Vet<br /><img src="images/avatars/203445855043f4cad97a9fa.gif" alt="" border="0" /><br /><br />Joined: 06 Aug 2005<br />Posts: 339<br />Location: Texas</span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=99281&amp;sid=2e022ed995268f6ce7ec893fe691c68f#99281"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Mon Nov 27, 2006 6:51 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=99281&amp;sid=2e022ed995268f6ce7ec893fe691c68f"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Very cool <img src="images/smiles/icon_smile.gif" alt="Smile" border="0" />  Thankyou for sharing those<br />_________________<br />No Fear! 
+<br />
+
+<br />
+- darkfyre -  AGOD</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=257&amp;sid=2e022ed995268f6ce7ec893fe691c68f"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=257&amp;sid=2e022ed995268f6ce7ec893fe691c68f"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>    <a href="http://edit.yahoo.com/config/send_webmesg?.target=bikerbabeme&amp;.src=pg"><img src="templates/SpacePilot3K/images/lang_english/icon_yim.gif" alt="Yahoo Messenger" title="Yahoo Messenger" border="0" /></a> <a href="profile.php?mode=viewprofile&amp;u=257&amp;sid=2e022ed995268f6ce7ec893fe691c68f"><img src="templates/SpacePilot3K/images/lang_english/icon_msnm.gif" alt="MSN Messenger" title="MSN Messenger" border="0" /></a><script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="101653"></a><b>Mazuko</b></span><br /><span class="postdetails">Forum Nubje<br /><br /><br />Joined: 10 Mar 2006<br />Posts: 11<br /></span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=101653&amp;sid=2e022ed995268f6ce7ec893fe691c68f#101653"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Mon Dec 18, 2006 7:30 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=101653&amp;sid=2e022ed995268f6ce7ec893fe691c68f"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">It was a contest.  I actually was the 3rd winning entry w/ The Azguard Chronicles and I got:
+<br />
+
+<br />
+an Archspace T-Shirt, an Archspace Mouse Pad, and a set of postcards made up of all the Archspace artwork at the time for each race.  Was actually pretty cool!</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=9422&amp;sid=2e022ed995268f6ce7ec893fe691c68f"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=9422&amp;sid=2e022ed995268f6ce7ec893fe691c68f"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="101774"></a><b>Ariana</b></span><br /><span class="postdetails">Vet<br /><img src="images/avatars/203445855043f4cad97a9fa.gif" alt="" border="0" /><br /><br />Joined: 06 Aug 2005<br />Posts: 339<br />Location: Texas</span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=101774&amp;sid=2e022ed995268f6ce7ec893fe691c68f#101774"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Wed Dec 20, 2006 12:34 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=101774&amp;sid=2e022ed995268f6ce7ec893fe691c68f"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Wow prizes even!  That's very very cool.  Hmmmm we need some more stuff like that <img src="images/smiles/icon_smile.gif" alt="Smile" border="0" /><br />_________________<br />No Fear! 
+<br />
+
+<br />
+- darkfyre -  AGOD</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=257&amp;sid=2e022ed995268f6ce7ec893fe691c68f"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=257&amp;sid=2e022ed995268f6ce7ec893fe691c68f"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>    <a href="http://edit.yahoo.com/config/send_webmesg?.target=bikerbabeme&amp;.src=pg"><img src="templates/SpacePilot3K/images/lang_english/icon_yim.gif" alt="Yahoo Messenger" title="Yahoo Messenger" border="0" /></a> <a href="profile.php?mode=viewprofile&amp;u=257&amp;sid=2e022ed995268f6ce7ec893fe691c68f"><img src="templates/SpacePilot3K/images/lang_english/icon_msnm.gif" alt="MSN Messenger" title="MSN Messenger" border="0" /></a><script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr align="center">
+		<td class="catBottom" colspan="2" height="28"><table cellspacing="0" cellpadding="0" border="0">
+			<tr><form method="post" action="viewtopic.php?t=13445&amp;start=0&amp;sid=2e022ed995268f6ce7ec893fe691c68f">
+				<td align="center"><span class="gensmall">Display posts from previous: <select name="postdays"><option value="0" selected="selected">All Posts</option><option value="1">1 Day</option><option value="7">7 Days</option><option value="14">2 Weeks</option><option value="30">1 Month</option><option value="90">3 Months</option><option value="180">6 Months</option><option value="364">1 Year</option></select>&nbsp;<select name="postorder"><option value="asc" selected="selected">Oldest First</option><option value="desc">Newest First</option></select>&nbsp;<input type="submit" value="Go" class="liteoption" name="submit" /></span></td>
+			 </form></tr>
+		</table></td>
+	</tr>
+</table>
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0" align="center">
+  <tr>
+	<td align="left" valign="middle" nowrap="nowrap"><span class="nav"><a href="posting.php?mode=newtopic&amp;f=12&amp;sid=2e022ed995268f6ce7ec893fe691c68f" onMouseOver="rollover('bottom_newtopic','templates/SpacePilot3K/images/lang_english/post_on.gif');" onMouseOut="rollover('bottom_newtopic','templates/SpacePilot3K/images/lang_english/post_off.gif');"><img name="bottom_newtopic" src="templates/SpacePilot3K/images/lang_english/post_off.gif" border="0" alt="Post new topic" align="middle"/></a>&nbsp;&nbsp;&nbsp;<a href="posting.php?mode=reply&amp;t=13445&amp;sid=2e022ed995268f6ce7ec893fe691c68f" onMouseOver="rollover('bottom_postreply','templates/SpacePilot3K/images/lang_english/reply_on.gif');" onMouseOut="rollover('bottom_postreply','templates/SpacePilot3K/images/lang_english/reply_off.gif');"><img name="bottom_postreply" src="templates/SpacePilot3K/images/lang_english/reply_off.gif" border="0" alt="Reply to topic" align="middle" /></a></span></td>
+	<td align="left" valign="middle" width="100%"><span class="nav">&nbsp;&nbsp;&nbsp;<a href="index.php?sid=2e022ed995268f6ce7ec893fe691c68f" class="nav">Archspace Forum Index</a>
+	  -> <a href="viewforum.php?f=12&amp;sid=2e022ed995268f6ce7ec893fe691c68f" class="nav">Community Art and Literature</a></span></td>
+	<td align="right" valign="top" nowrap="nowrap"><span class="gensmall">All times are GMT - 6 Hours</span><br /><span class="nav"></span>
+	  </td>
+  </tr>
+  <tr>
+	<td align="left" colspan="3"><span class="nav">Page <b>1</b> of <b>1</b></span></td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="2" border="0" align="center">
+  <tr>
+	<td width="40%" valign="top" nowrap="nowrap" align="left"><span class="gensmall"></span><br />
+	  &nbsp;<br />
+	  </td>
+	<td align="right" valign="top" nowrap="nowrap">
+<form method="get" name="jumpbox" action="viewforum.php?sid=2e022ed995268f6ce7ec893fe691c68f" onSubmit="if(document.jumpbox.f.value == -1){return false;}"><table cellspacing="0" cellpadding="0" border="0">
+	<tr>
+		<td nowrap="nowrap"><span class="gensmall">Jump to:&nbsp;<select name="f" onchange="if(this.options[this.selectedIndex].value != -1){ forms['jumpbox'].submit() }"><option value="-1">Select a forum</option><option value="-1">&nbsp;</option><option value="-1">Archspace - Public</option><option value="-1">----------------</option><option value="1">News</option><option value="13">Change Log</option><option value="3">Player Board</option><option value="4">Bug Board</option><option value="5">Suggestion Board</option><option value="8">Help Board</option><option value="11">Recruiting</option><option value="12"selected="selected">Community Art and Literature</option><option value="9">Politics/Religion Forum</option><option value="14">Archspace 2.0</option><option value="15">Programming</option></select><input type="hidden" name="sid" value="2e022ed995268f6ce7ec893fe691c68f" />&nbsp;<input type="submit" value="Go" class="liteoption" /></span></td>
+	</tr>
+</table> </form>
+
+<span class="gensmall">You <b>cannot</b> post new topics in this forum<br />You <b>cannot</b> reply to topics in this forum<br />You <b>cannot</b> edit your posts in this forum<br />You <b>cannot</b> delete your posts in this forum<br />You <b>cannot</b> vote in polls in this forum<br /></span></td>
+  </tr>
+</table>
+
+
+<div align="center"><span class="copyright"><br /><br />
+<!--
+	We request you retain the full copyright notice below including the link to www.phpbb.com.
+	This not only gives respect to the large amount of time given freely by the developers
+	but also helps build interest, traffic and use of phpBB 2.0. If you cannot (for good
+	reason) retain the full copyright we request you at least leave in place the
+	Powered by phpBB  line, with phpBB linked to www.phpbb.com. If you refuse
+	to include even this then support on our forums may be affected.
+
+	The phpBB Group : 2002
+// -->
+Space Pilot 3K template by <a href="http://www.jakob-persson.com" class="copyright">Jakob Persson</a>.<br />
+Powered by <a href="http://www.phpbb.com/" target="_phpbb" class="copyright">phpBB</a>  &copy; 2001 phpBB Group<br /></span></div>
+<div align="center"><span class="copyright">Protected by <a href="http://www.lithiumstudios.org/" target="_blank" class="copyright">Anti-Spam ACP</a></span></div>
+		</td>
+	</tr>
+	<tr>
+		<td align="center">
+			<script type="text/javascript"><!--
+			google_ad_client = "pub-9347639997854244";
+			google_ad_width = 728;
+			google_ad_height = 90;
+			google_ad_format = "728x90_as";
+			google_ad_type = "text_image";
+			google_ad_channel ="";
+			google_color_border = "6699CC";
+			google_color_bg = "003366";
+			google_color_link = "FFFFFF";
+			google_color_url = "AECCEB";
+			google_color_text = "AECCEB";
+			//--></script>
+			<script type="text/javascript"
+			  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+			</script>
+		</td>
+	</tr>
+</table>
+
+</body><script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script
+type="text/javascript">_uacct = "UA-278580-1"; urchinTracker();</script>
+</html>
+

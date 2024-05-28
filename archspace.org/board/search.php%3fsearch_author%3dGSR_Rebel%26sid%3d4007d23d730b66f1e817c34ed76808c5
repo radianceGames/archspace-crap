@@ -1,0 +1,494 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Style-Type" content="text/css">
+
+<link rel="top" href="./index.php?sid=af95b77d493e3030793070a4a5da37a6" title="Archspace Forum Index" />
+<link rel="search" href="./search.php?sid=af95b77d493e3030793070a4a5da37a6" title="Search" />
+<link rel="help" href="./faq.php?sid=af95b77d493e3030793070a4a5da37a6" title="FAQ" />
+<link rel="author" href="./memberlist.php?sid=af95b77d493e3030793070a4a5da37a6" title="Memberlist" />
+
+<title>Archspace :: Search</title>
+<link rel="stylesheet" href="templates/SpacePilot3K/SpacePilot3K.css" type="text/css">
+<body bgcolor="#000000" text="#DDDDDD" link="#8BC7FF" vlink="#5493B4">
+
+
+
+<script language="Javascript" type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+</script>
+
+
+
+<script language="Javascript" type="text/javascript">
+<!--
+function rollover(name, source)  {
+
+  document.images[name].src = source;
+
+}
+//-->
+</script>
+
+<script language="JavaScript" src="templates/SpacePilot3K/fade.js"></script>
+
+<!-- SNOW CRAP !-->
+<script>
+// Set the number of snowflakes (more than 30 - 40 not recommended)
+var snowmax=14
+
+// Set the colors for the snow. Add as many colors as you like
+var snowcolor=new Array("#aaaacc","#ddddFF","#ccccDD")
+
+// Set the fonts, that create the snowflakes. Add as many fonts as you like
+var snowtype=new Array("Arial Black","Arial Narrow","Times","Comic Sans MS")
+
+// Set the letter that creates your snowflake (recommended:*)
+var snowletter="*" // (use "*" for snow flakes)
+
+// Set the speed of sinking (recommended values range from 0.3 to 2)
+var sinkspeed=0.5
+
+// Set the maximal-size of your snowflaxes
+var snowmaxsize=30
+
+// Set the minimal-size of your snowflaxes
+var snowminsize=10
+
+// Set the snowing-zone
+// Set 1 for all-over-snowing, set 2 for left-side-snowing
+// Set 3 for center-snowing, set 4 for right-side-snowing
+var snowingzone=1
+
+///////////////////////////////////////////////////////////////////////////
+// CONFIGURATION ENDS HERE
+///////////////////////////////////////////////////////////////////////////
+
+
+// Do not edit below this line
+var snow=new Array()
+var marginbottom
+var marginright
+var timer
+var i_snow=0
+var x_mv=new Array();
+var crds=new Array();
+var lftrght=new Array();
+var browserinfos=navigator.userAgent
+var ie5=document.all&&document.getElementById&&!browserinfos.match(/Opera/)
+var ns6=document.getElementById&&!document.all
+var opera=browserinfos.match(/Opera/)
+var browserok=ie5||ns6||opera
+
+function randommaker(range) {
+   rand=Math.floor(range*Math.random())
+    return rand
+}
+
+function initsnow() {
+   if (ie5 || opera) {
+      marginbottom = document.body.clientHeight
+      marginright = document.body.clientWidth
+   }
+   else if (ns6) {
+      marginbottom = window.innerHeight
+      marginright = window.innerWidth
+   }
+   var snowsizerange=snowmaxsize-snowminsize
+   for (i=0;i<=snowmax;i++) {
+      crds[i] = 0;
+       lftrght[i] = Math.random()*15;
+       x_mv[i] = 0.03 + Math.random()/10;
+      snow[i]=document.getElementById("s"+i)
+      snow[i].style.fontFamily=snowtype[randommaker(snowtype.length)]
+      snow[i].size=randommaker(snowsizerange)+snowminsize
+      snow[i].style.fontSize=snow[i].size
+      snow[i].style.color=snowcolor[randommaker(snowcolor.length)]
+      snow[i].sink=sinkspeed*snow[i].size/5
+      if (snowingzone==1) {snow[i].posx=randommaker(marginright-snow[i].size)}
+      if (snowingzone==2) {snow[i].posx=randommaker(marginright/2-snow[i].size)}
+      if (snowingzone==3) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/4}
+      if (snowingzone==4) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/2}
+      snow[i].posy=randommaker(2*marginbottom-marginbottom-2*snow[i].size)
+      snow[i].style.left=snow[i].posx
+      snow[i].style.top=snow[i].posy
+   }
+   movesnow()
+}
+
+function movesnow() {
+   for (i=0;i<=snowmax;i++) {
+      crds[i] += x_mv[i];
+      snow[i].posy+=snow[i].sink
+      snow[i].style.left=snow[i].posx+lftrght[i]*Math.sin(crds[i]);
+      snow[i].style.top=snow[i].posy
+
+      if (snow[i].posy>=marginbottom-2*snow[i].size || parseInt(snow[i].style.left)>(marginright-3*lftrght[i])){
+         if (snowingzone==1) {snow[i].posx=randommaker(marginright-snow[i].size)}
+         if (snowingzone==2) {snow[i].posx=randommaker(marginright/2-snow[i].size)}
+         if (snowingzone==3) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/4}
+         if (snowingzone==4) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/2}
+         snow[i].posy=0
+      }
+   }
+   var timer=setTimeout("movesnow()",50)
+}
+
+for (i=0;i<=snowmax;i++) {
+   document.write("<span id='s"+i+"' style='position:absolute;top:-"+snowmaxsize+"'>"+snowletter+"</span>")
+}
+if (browserok) {
+   window.onload=initsnow
+}
+</script>
+<!-- End of Snow crap !-->
+
+</head>
+<body />
+
+<a name="top"></a>
+
+<table width="100%" cellspacing="0" cellpadding="10" border="0" align="center">
+	<tr>
+		<td align="center">
+			<script type="text/javascript"><!--
+			google_ad_client = "pub-9347639997854244";
+			google_ad_width = 728;
+			google_ad_height = 90;
+			google_ad_format = "728x90_as";
+			google_ad_type = "image";
+			google_ad_channel ="";
+			google_color_border = "6699CC";
+			google_color_bg = "003366";
+			google_color_link = "FFFFFF";
+			google_color_url = "AECCEB";
+			google_color_text = "AECCEB";
+			//--></script>
+			<script type="text/javascript"
+			  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+			</script>
+		</td>
+	</tr>
+	<tr>
+		<td class="bodyline"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+			<tr>
+				<td><a href="index.php?sid=af95b77d493e3030793070a4a5da37a6"><span class="maintitle"><img src="templates/SpacePilot3K/images/logo_sp3k.gif" border="0" alt="Archspace Forum Index" vspace="1" /></span></a></td>
+				<td align="center" width="100%" valign="middle"><span class="maintitle">Archspace</span><br /><span class="gen">Archspace Forums<br />&nbsp; </span>
+				<table cellspacing="0" cellpadding="2" border="0">
+					<tr>
+						<td align="center" valign="top" nowrap="nowrap"><span class="mainmenu">&nbsp;<a href="faq.php?sid=af95b77d493e3030793070a4a5da37a6" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_faq.gif" width="14" height="14" border="0" alt="FAQ" hspace="3" />FAQ</a></span><span class="mainmenu">&nbsp; &nbsp;<a href="search.php?sid=af95b77d493e3030793070a4a5da37a6" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_search.gif" width="14" height="14" border="0" alt="Search" hspace="3" />Search</a>&nbsp; &nbsp;<a href="memberlist.php?sid=af95b77d493e3030793070a4a5da37a6" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_members.gif" width="14" height="14" border="0" alt="Memberlist" hspace="3" />Memberlist</a>&nbsp; &nbsp;<a href="groupcp.php?sid=af95b77d493e3030793070a4a5da37a6" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_groups.gif" width="14" height="14" border="0" alt="Usergroups" hspace="3" />Usergroups</a>&nbsp;
+						&nbsp;<a href="profile.php?mode=register&amp;sid=af95b77d493e3030793070a4a5da37a6" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_register.gif" width="14" height="14" border="0" alt="Register" hspace="3" />Register</a></span>&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td height="25" align="center" valign="top" nowrap="nowrap"><span class="mainmenu">&nbsp;<a href="profile.php?mode=editprofile&amp;sid=af95b77d493e3030793070a4a5da37a6" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_profile.gif" width="14" height="14" border="0" alt="Profile" hspace="3" />Profile</a>&nbsp; &nbsp;<a href="privmsg.php?folder=inbox&amp;sid=af95b77d493e3030793070a4a5da37a6" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_message.gif" width="14" height="14" border="0" alt="Log in to check your private messages" hspace="3" />Log in to check your private messages</a>&nbsp; &nbsp;<a href="login.php?sid=af95b77d493e3030793070a4a5da37a6" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_login.gif" width="14" height="14" border="0" alt="Log in" hspace="3" />Log in</a>&nbsp;</span></td>
+					</tr>
+				</table></td>
+			</tr>
+		</table>
+
+		<br />
+
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0" align="center">
+  <tr>
+	<td align="left" valign="bottom"><span class="maintitle">Search found 235 matches</span><br /></td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0" align="center">
+  <tr>
+	<td align="left"><span class="nav"><a href="index.php?sid=af95b77d493e3030793070a4a5da37a6" class="nav">Archspace Forum Index</a></span></td>
+  </tr>
+</table>
+
+<table border="0" cellpadding="3" cellspacing="1" width="100%" class="forumline" align="center">
+  <tr>
+	<th width="150" height="25" class="thCornerL" nowrap="nowrap">Author</th>
+	<th width="100%" class="thCornerR" nowrap="nowrap">Message</th>
+  </tr>
+  <tr>
+	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/SpacePilot3K/images/folder.gif" align="absmiddle">&nbsp; Topic:&nbsp;<a href="viewtopic.php?t=12086&amp;highlight=&amp;sid=af95b77d493e3030793070a4a5da37a6" class="topictitle">An End to the Blitz</a></span></td>
+  </tr>
+  <tr>
+	<td width="150" align="left" valign="top" class="row1" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=457&amp;sid=af95b77d493e3030793070a4a5da37a6">GSR_Rebel</a></b></span><br />
+	  <br />
+	  <span class="postdetails">Replies: <b>21</b><br />
+	  Views: <b>3013</b></span><br />
+	</td>
+	<td width="100%" valign="top" class="row1"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=1&amp;sid=af95b77d493e3030793070a4a5da37a6" class="postdetails">News</a></b>&nbsp; &nbsp;Posted: Sat Sep 09, 2006 11:36 am&nbsp; &nbsp;Subject: <b><a href="viewtopic.php?p=89020&amp;highlight=&amp;sid=af95b77d493e3030793070a4a5da37a6#89020">An End to the Blitz</a></b></span></td>
+  </tr>
+  <tr>
+	<td valign="top" class="row1"><span class="postbody">Lol. My birthday.<br /><br />911 is my birthday too</span></td>
+  </tr>
+  <tr>
+	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/SpacePilot3K/images/folder.gif" align="absmiddle">&nbsp; Topic:&nbsp;<a href="viewtopic.php?t=11782&amp;highlight=&amp;sid=af95b77d493e3030793070a4a5da37a6" class="topictitle">Blitz Set</a></span></td>
+  </tr>
+  <tr>
+	<td width="150" align="left" valign="top" class="row1" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=457&amp;sid=af95b77d493e3030793070a4a5da37a6">GSR_Rebel</a></b></span><br />
+	  <br />
+	  <span class="postdetails">Replies: <b>42</b><br />
+	  Views: <b>4942</b></span><br />
+	</td>
+	<td width="100%" valign="top" class="row1"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=1&amp;sid=af95b77d493e3030793070a4a5da37a6" class="postdetails">News</a></b>&nbsp; &nbsp;Posted: Mon Sep 04, 2006 12:15 am&nbsp; &nbsp;Subject: <b><a href="viewtopic.php?p=88555&amp;highlight=&amp;sid=af95b77d493e3030793070a4a5da37a6#88555">Blitz Set</a></b></span></td>
+  </tr>
+  <tr>
+	<td valign="top" class="row1"><span class="postbody">i saw all these accusations of calling me a noob and laughed for about 5 seconds in real life.  You guys remind me of the little middle school children who throw insults at older people sometimes..so; ...</span></td>
+  </tr>
+  <tr>
+	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/SpacePilot3K/images/folder.gif" align="absmiddle">&nbsp; Topic:&nbsp;<a href="viewtopic.php?t=11782&amp;highlight=&amp;sid=af95b77d493e3030793070a4a5da37a6" class="topictitle">Blitz Set</a></span></td>
+  </tr>
+  <tr>
+	<td width="150" align="left" valign="top" class="row1" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=457&amp;sid=af95b77d493e3030793070a4a5da37a6">GSR_Rebel</a></b></span><br />
+	  <br />
+	  <span class="postdetails">Replies: <b>42</b><br />
+	  Views: <b>4942</b></span><br />
+	</td>
+	<td width="100%" valign="top" class="row1"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=1&amp;sid=af95b77d493e3030793070a4a5da37a6" class="postdetails">News</a></b>&nbsp; &nbsp;Posted: Fri Sep 01, 2006 3:05 pm&nbsp; &nbsp;Subject: <b><a href="viewtopic.php?p=88303&amp;highlight=&amp;sid=af95b77d493e3030793070a4a5da37a6#88303">Blitz Set</a></b></span></td>
+  </tr>
+  <tr>
+	<td valign="top" class="row1"><span class="postbody">You sure? Noob != Newbie <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" /><br /><br /><br />1) iv seen that comic before.<br /><br />2) You need to stop trying to make me look like an idiot by changing what  was said. i had said that 1000 planets with race with worst ...</span></td>
+  </tr>
+  <tr>
+	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/SpacePilot3K/images/folder.gif" align="absmiddle">&nbsp; Topic:&nbsp;<a href="viewtopic.php?t=11782&amp;highlight=&amp;sid=af95b77d493e3030793070a4a5da37a6" class="topictitle">Blitz Set</a></span></td>
+  </tr>
+  <tr>
+	<td width="150" align="left" valign="top" class="row1" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=457&amp;sid=af95b77d493e3030793070a4a5da37a6">GSR_Rebel</a></b></span><br />
+	  <br />
+	  <span class="postdetails">Replies: <b>42</b><br />
+	  Views: <b>4942</b></span><br />
+	</td>
+	<td width="100%" valign="top" class="row1"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=1&amp;sid=af95b77d493e3030793070a4a5da37a6" class="postdetails">News</a></b>&nbsp; &nbsp;Posted: Thu Aug 31, 2006 7:53 am&nbsp; &nbsp;Subject: <b><a href="viewtopic.php?p=88093&amp;highlight=&amp;sid=af95b77d493e3030793070a4a5da37a6#88093">Blitz Set</a></b></span></td>
+  </tr>
+  <tr>
+	<td valign="top" class="row1"><span class="postbody">actually Cypherus, contrary to your popular belief, i DO know AS.  If you are so determined to think i am a noob, i have been playing AS since about 9 months before mari shutdown. here i started again ...</span></td>
+  </tr>
+  <tr>
+	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/SpacePilot3K/images/folder.gif" align="absmiddle">&nbsp; Topic:&nbsp;<a href="viewtopic.php?t=11782&amp;highlight=&amp;sid=af95b77d493e3030793070a4a5da37a6" class="topictitle">Blitz Set</a></span></td>
+  </tr>
+  <tr>
+	<td width="150" align="left" valign="top" class="row1" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=457&amp;sid=af95b77d493e3030793070a4a5da37a6">GSR_Rebel</a></b></span><br />
+	  <br />
+	  <span class="postdetails">Replies: <b>42</b><br />
+	  Views: <b>4942</b></span><br />
+	</td>
+	<td width="100%" valign="top" class="row1"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=1&amp;sid=af95b77d493e3030793070a4a5da37a6" class="postdetails">News</a></b>&nbsp; &nbsp;Posted: Wed Aug 30, 2006 10:35 pm&nbsp; &nbsp;Subject: <b><a href="viewtopic.php?p=88027&amp;highlight=&amp;sid=af95b77d493e3030793070a4a5da37a6#88027">Blitz Set</a></b></span></td>
+  </tr>
+  <tr>
+	<td valign="top" class="row1"><span class="postbody">"You are aware that efficiency actually does effect your waste rates still, right?"<br /><br /> "The previous waste rate system allowed someone with 40 planets to have the same production capability as someon ...</span></td>
+  </tr>
+  <tr>
+	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/SpacePilot3K/images/folder.gif" align="absmiddle">&nbsp; Topic:&nbsp;<a href="viewtopic.php?t=11782&amp;highlight=&amp;sid=af95b77d493e3030793070a4a5da37a6" class="topictitle">Blitz Set</a></span></td>
+  </tr>
+  <tr>
+	<td width="150" align="left" valign="top" class="row1" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=457&amp;sid=af95b77d493e3030793070a4a5da37a6">GSR_Rebel</a></b></span><br />
+	  <br />
+	  <span class="postdetails">Replies: <b>42</b><br />
+	  Views: <b>4942</b></span><br />
+	</td>
+	<td width="100%" valign="top" class="row1"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=1&amp;sid=af95b77d493e3030793070a4a5da37a6" class="postdetails">News</a></b>&nbsp; &nbsp;Posted: Wed Aug 30, 2006 11:12 am&nbsp; &nbsp;Subject: <b><a href="viewtopic.php?p=87940&amp;highlight=&amp;sid=af95b77d493e3030793070a4a5da37a6#87940">Re: Blitz Set</a></b></span></td>
+  </tr>
+  <tr>
+	<td valign="top" class="row1"><span class="postbody"><br />It gives the top and everyone else something to do, especially late game. Obviously it's more benificial for the council to spread the wealth until the point where you have excess, and any intellige ...</span></td>
+  </tr>
+  <tr>
+	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/SpacePilot3K/images/folder.gif" align="absmiddle">&nbsp; Topic:&nbsp;<a href="viewtopic.php?t=11782&amp;highlight=&amp;sid=af95b77d493e3030793070a4a5da37a6" class="topictitle">Blitz Set</a></span></td>
+  </tr>
+  <tr>
+	<td width="150" align="left" valign="top" class="row1" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=457&amp;sid=af95b77d493e3030793070a4a5da37a6">GSR_Rebel</a></b></span><br />
+	  <br />
+	  <span class="postdetails">Replies: <b>42</b><br />
+	  Views: <b>4942</b></span><br />
+	</td>
+	<td width="100%" valign="top" class="row1"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=1&amp;sid=af95b77d493e3030793070a4a5da37a6" class="postdetails">News</a></b>&nbsp; &nbsp;Posted: Tue Aug 29, 2006 8:01 pm&nbsp; &nbsp;Subject: <b><a href="viewtopic.php?p=87842&amp;highlight=&amp;sid=af95b77d493e3030793070a4a5da37a6#87842">Re: Blitz Set</a></b></span></td>
+  </tr>
+  <tr>
+	<td valign="top" class="row1"><span class="postbody"><br />-Waste rate cap reduced from 90% to 40% and 35% in your home <br /><br />I am heavily against this, this is just something that boosts those on top and hampers those below, i thought the entire point of was ...</span></td>
+  </tr>
+  <tr>
+	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/SpacePilot3K/images/folder.gif" align="absmiddle">&nbsp; Topic:&nbsp;<a href="viewtopic.php?t=11636&amp;highlight=&amp;sid=af95b77d493e3030793070a4a5da37a6" class="topictitle">Some More Changes/Fixes</a></span></td>
+  </tr>
+  <tr>
+	<td width="150" align="left" valign="top" class="row1" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=457&amp;sid=af95b77d493e3030793070a4a5da37a6">GSR_Rebel</a></b></span><br />
+	  <br />
+	  <span class="postdetails">Replies: <b>16</b><br />
+	  Views: <b>2450</b></span><br />
+	</td>
+	<td width="100%" valign="top" class="row1"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=1&amp;sid=af95b77d493e3030793070a4a5da37a6" class="postdetails">News</a></b>&nbsp; &nbsp;Posted: Mon Aug 21, 2006 4:53 am&nbsp; &nbsp;Subject: <b><a href="viewtopic.php?p=85550&amp;highlight=&amp;sid=af95b77d493e3030793070a4a5da37a6#85550">Some More Changes/Fixes</a></b></span></td>
+  </tr>
+  <tr>
+	<td valign="top" class="row1"><span class="postbody"> <br /> For logical reasoning, why the hell would a fleet that isn't going to fire on you in the first place that you can't see going to interfear with you sieging a planet?<br /><br />Hit and fade attacks on sie ...</span></td>
+  </tr>
+  <tr>
+	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/SpacePilot3K/images/folder.gif" align="absmiddle">&nbsp; Topic:&nbsp;<a href="viewtopic.php?t=11352&amp;highlight=&amp;sid=af95b77d493e3030793070a4a5da37a6" class="topictitle">43 Days!!</a></span></td>
+  </tr>
+  <tr>
+	<td width="150" align="left" valign="top" class="row1" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=457&amp;sid=af95b77d493e3030793070a4a5da37a6">GSR_Rebel</a></b></span><br />
+	  <br />
+	  <span class="postdetails">Replies: <b>17</b><br />
+	  Views: <b>999</b></span><br />
+	</td>
+	<td width="100%" valign="top" class="row1"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=3&amp;sid=af95b77d493e3030793070a4a5da37a6" class="postdetails">Player Board</a></b>&nbsp; &nbsp;Posted: Sat Aug 05, 2006 1:04 pm&nbsp; &nbsp;Subject: <b><a href="viewtopic.php?p=83264&amp;highlight=&amp;sid=af95b77d493e3030793070a4a5da37a6#83264">43 Days!!</a></b></span></td>
+  </tr>
+  <tr>
+	<td valign="top" class="row1"><span class="postbody">unless your refering to limestone, the correct way to spell it is:<br /><br />lis</span></td>
+  </tr>
+  <tr>
+	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/SpacePilot3K/images/folder.gif" align="absmiddle">&nbsp; Topic:&nbsp;<a href="viewtopic.php?t=11352&amp;highlight=&amp;sid=af95b77d493e3030793070a4a5da37a6" class="topictitle">43 Days!!</a></span></td>
+  </tr>
+  <tr>
+	<td width="150" align="left" valign="top" class="row1" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=457&amp;sid=af95b77d493e3030793070a4a5da37a6">GSR_Rebel</a></b></span><br />
+	  <br />
+	  <span class="postdetails">Replies: <b>17</b><br />
+	  Views: <b>999</b></span><br />
+	</td>
+	<td width="100%" valign="top" class="row1"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=3&amp;sid=af95b77d493e3030793070a4a5da37a6" class="postdetails">Player Board</a></b>&nbsp; &nbsp;Posted: Sat Aug 05, 2006 10:45 am&nbsp; &nbsp;Subject: <b><a href="viewtopic.php?p=83251&amp;highlight=&amp;sid=af95b77d493e3030793070a4a5da37a6#83251">43 Days!!</a></b></span></td>
+  </tr>
+  <tr>
+	<td valign="top" class="row1"><span class="postbody">yeah, usa, where the temp has a high of 85, alot of green, a lack of people who want to run up to you and blow themselves up, where everyone speaks english, (except in mexifornia, where everyone speak ...</span></td>
+  </tr>
+  <tr>
+	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/SpacePilot3K/images/folder.gif" align="absmiddle">&nbsp; Topic:&nbsp;<a href="viewtopic.php?t=11275&amp;highlight=&amp;sid=af95b77d493e3030793070a4a5da37a6" class="topictitle">What gender are you?</a></span></td>
+  </tr>
+  <tr>
+	<td width="150" align="left" valign="top" class="row1" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=457&amp;sid=af95b77d493e3030793070a4a5da37a6">GSR_Rebel</a></b></span><br />
+	  <br />
+	  <span class="postdetails">Replies: <b>20</b><br />
+	  Views: <b>1324</b></span><br />
+	</td>
+	<td width="100%" valign="top" class="row1"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=3&amp;sid=af95b77d493e3030793070a4a5da37a6" class="postdetails">Player Board</a></b>&nbsp; &nbsp;Posted: Fri Aug 04, 2006 8:44 am&nbsp; &nbsp;Subject: <b><a href="viewtopic.php?p=83142&amp;highlight=&amp;sid=af95b77d493e3030793070a4a5da37a6#83142">What gender are you?</a></b></span></td>
+  </tr>
+  <tr>
+	<td valign="top" class="row1"><span class="postbody">whats a woman?</span></td>
+  </tr>
+  <tr>
+	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/SpacePilot3K/images/folder.gif" align="absmiddle">&nbsp; Topic:&nbsp;<a href="viewtopic.php?t=11352&amp;highlight=&amp;sid=af95b77d493e3030793070a4a5da37a6" class="topictitle">43 Days!!</a></span></td>
+  </tr>
+  <tr>
+	<td width="150" align="left" valign="top" class="row1" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=457&amp;sid=af95b77d493e3030793070a4a5da37a6">GSR_Rebel</a></b></span><br />
+	  <br />
+	  <span class="postdetails">Replies: <b>17</b><br />
+	  Views: <b>999</b></span><br />
+	</td>
+	<td width="100%" valign="top" class="row1"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=3&amp;sid=af95b77d493e3030793070a4a5da37a6" class="postdetails">Player Board</a></b>&nbsp; &nbsp;Posted: Fri Aug 04, 2006 8:43 am&nbsp; &nbsp;Subject: <b><a href="viewtopic.php?p=83141&amp;highlight=&amp;sid=af95b77d493e3030793070a4a5da37a6#83141">43 Days!!</a></b></span></td>
+  </tr>
+  <tr>
+	<td valign="top" class="row1"><span class="postbody">it looks more like a:<br /><br />I get to leave this shithole and go home to the USA!!!!!!!!!!!!!!!!<br /><br />than a<br /><br />I cant believe i join the military, this was one of my worst decisions</span></td>
+  </tr>
+  <tr>
+	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/SpacePilot3K/images/folder.gif" align="absmiddle">&nbsp; Topic:&nbsp;<a href="viewtopic.php?t=11190&amp;highlight=&amp;sid=af95b77d493e3030793070a4a5da37a6" class="topictitle">war question please help</a></span></td>
+  </tr>
+  <tr>
+	<td width="150" align="left" valign="top" class="row1" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=457&amp;sid=af95b77d493e3030793070a4a5da37a6">GSR_Rebel</a></b></span><br />
+	  <br />
+	  <span class="postdetails">Replies: <b>3</b><br />
+	  Views: <b>274</b></span><br />
+	</td>
+	<td width="100%" valign="top" class="row1"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=8&amp;sid=af95b77d493e3030793070a4a5da37a6" class="postdetails">Help Board</a></b>&nbsp; &nbsp;Posted: Fri Jul 28, 2006 12:24 pm&nbsp; &nbsp;Subject: <b><a href="viewtopic.php?p=82168&amp;highlight=&amp;sid=af95b77d493e3030793070a4a5da37a6#82168">war question please help</a></b></span></td>
+  </tr>
+  <tr>
+	<td valign="top" class="row1"><span class="postbody">click on the + sign to the left of war, then click on siege planet, if you just declared hostilities, click on blockade, because you cant siege them if you only declared hostilities</span></td>
+  </tr>
+  <tr>
+	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/SpacePilot3K/images/folder.gif" align="absmiddle">&nbsp; Topic:&nbsp;<a href="viewtopic.php?t=8962&amp;highlight=&amp;sid=af95b77d493e3030793070a4a5da37a6" class="topictitle">Welcome New Players!</a></span></td>
+  </tr>
+  <tr>
+	<td width="150" align="left" valign="top" class="row1" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=457&amp;sid=af95b77d493e3030793070a4a5da37a6">GSR_Rebel</a></b></span><br />
+	  <br />
+	  <span class="postdetails">Replies: <b>43</b><br />
+	  Views: <b>15192</b></span><br />
+	</td>
+	<td width="100%" valign="top" class="row1"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=1&amp;sid=af95b77d493e3030793070a4a5da37a6" class="postdetails">News</a></b>&nbsp; &nbsp;Posted: Thu Jul 27, 2006 8:14 am&nbsp; &nbsp;Subject: <b><a href="viewtopic.php?p=81953&amp;highlight=&amp;sid=af95b77d493e3030793070a4a5da37a6#81953">Welcome New Players!</a></b></span></td>
+  </tr>
+  <tr>
+	<td valign="top" class="row1"><span class="postbody">"And when you are planet fat compared to your opponent, do not just give up, be as annoying as you can! The opponent would most likely be using fleets of 2 cruisers to rape your planets (to rape someo ...</span></td>
+  </tr>
+  <tr>
+	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/SpacePilot3K/images/folder.gif" align="absmiddle">&nbsp; Topic:&nbsp;<a href="viewtopic.php?t=11120&amp;highlight=&amp;sid=af95b77d493e3030793070a4a5da37a6" class="topictitle">From OGame...</a></span></td>
+  </tr>
+  <tr>
+	<td width="150" align="left" valign="top" class="row1" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=457&amp;sid=af95b77d493e3030793070a4a5da37a6">GSR_Rebel</a></b></span><br />
+	  <br />
+	  <span class="postdetails">Replies: <b>1</b><br />
+	  Views: <b>203</b></span><br />
+	</td>
+	<td width="100%" valign="top" class="row1"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=14&amp;sid=af95b77d493e3030793070a4a5da37a6" class="postdetails">Archspace 2.0</a></b>&nbsp; &nbsp;Posted: Tue Jul 25, 2006 10:38 pm&nbsp; &nbsp;Subject: <b><a href="viewtopic.php?p=81771&amp;highlight=&amp;sid=af95b77d493e3030793070a4a5da37a6#81771">From OGame...</a></b></span></td>
+  </tr>
+  <tr>
+	<td valign="top" class="row1"><span class="postbody">i play ogame and i dont want to see archspace turn into ogame...</span></td>
+  </tr>
+  <tr>
+	<td class="catBottom" colspan="2" height="28" align="center">&nbsp; </td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="2" border="0" align="center" cellpadding="2">
+  <tr>
+	<td align="left" valign="top"><span class="nav">Page <b>1</b> of <b>16</b></span></td>
+	<td align="right" valign="top" nowrap="nowrap"><span class="nav">Goto page <b>1</b>, <a href="search.php?search_id=163760833&amp;start=15&amp;sid=af95b77d493e3030793070a4a5da37a6">2</a>, <a href="search.php?search_id=163760833&amp;start=30&amp;sid=af95b77d493e3030793070a4a5da37a6">3</a> ... <a href="search.php?search_id=163760833&amp;start=195&amp;sid=af95b77d493e3030793070a4a5da37a6">14</a>, <a href="search.php?search_id=163760833&amp;start=210&amp;sid=af95b77d493e3030793070a4a5da37a6">15</a>, <a href="search.php?search_id=163760833&amp;start=225&amp;sid=af95b77d493e3030793070a4a5da37a6">16</a>&nbsp;&nbsp;<a href="search.php?search_id=163760833&amp;start=15&amp;sid=af95b77d493e3030793070a4a5da37a6">Next</a></span><br /><span class="gensmall">All times are GMT - 6 Hours</span></td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="2" border="0" align="center">
+  <tr>
+	<td valign="top" align="right">
+<form method="get" name="jumpbox" action="viewforum.php?sid=af95b77d493e3030793070a4a5da37a6" onSubmit="if(document.jumpbox.f.value == -1){return false;}"><table cellspacing="0" cellpadding="0" border="0">
+	<tr>
+		<td nowrap="nowrap"><span class="gensmall">Jump to:&nbsp;<select name="f" onchange="if(this.options[this.selectedIndex].value != -1){ forms['jumpbox'].submit() }"><option value="-1">Select a forum</option><option value="-1">&nbsp;</option><option value="-1">Archspace - Public</option><option value="-1">----------------</option><option value="1">News</option><option value="13">Change Log</option><option value="3">Player Board</option><option value="4">Bug Board</option><option value="5">Suggestion Board</option><option value="8">Help Board</option><option value="11">Recruiting</option><option value="12">Community Art and Literature</option><option value="9">Politics/Religion Forum</option><option value="14">Archspace 2.0</option><option value="15">Programming</option></select><input type="hidden" name="sid" value="af95b77d493e3030793070a4a5da37a6" />&nbsp;<input type="submit" value="Go" class="liteoption" /></span></td>
+	</tr>
+</table> </form>
+
+</td>
+  </tr>
+</table>
+
+
+<div align="center"><span class="copyright"><br /><br />
+<!--
+	We request you retain the full copyright notice below including the link to www.phpbb.com.
+	This not only gives respect to the large amount of time given freely by the developers
+	but also helps build interest, traffic and use of phpBB 2.0. If you cannot (for good
+	reason) retain the full copyright we request you at least leave in place the
+	Powered by phpBB  line, with phpBB linked to www.phpbb.com. If you refuse
+	to include even this then support on our forums may be affected.
+
+	The phpBB Group : 2002
+// -->
+Space Pilot 3K template by <a href="http://www.jakob-persson.com" class="copyright">Jakob Persson</a>.<br />
+Powered by <a href="http://www.phpbb.com/" target="_phpbb" class="copyright">phpBB</a>  &copy; 2001 phpBB Group<br /></span></div>
+<div align="center"><span class="copyright">Protected by <a href="http://www.lithiumstudios.org/" target="_blank" class="copyright">Anti-Spam ACP</a></span></div>
+		</td>
+	</tr>
+	<tr>
+		<td align="center">
+			<script type="text/javascript"><!--
+			google_ad_client = "pub-9347639997854244";
+			google_ad_width = 728;
+			google_ad_height = 90;
+			google_ad_format = "728x90_as";
+			google_ad_type = "text_image";
+			google_ad_channel ="";
+			google_color_border = "6699CC";
+			google_color_bg = "003366";
+			google_color_link = "FFFFFF";
+			google_color_url = "AECCEB";
+			google_color_text = "AECCEB";
+			//--></script>
+			<script type="text/javascript"
+			  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+			</script>
+		</td>
+	</tr>
+</table>
+
+</body><script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script
+type="text/javascript">_uacct = "UA-278580-1"; urchinTracker();</script>
+</html>
+

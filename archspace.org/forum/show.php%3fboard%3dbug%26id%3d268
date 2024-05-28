@@ -1,0 +1,252 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>Archspace Beta Forums</TITLE>
+<Style type="text/css">
+A:link, A:visited { text-decoration: none; color: lightblue; }
+A:hover {
+		COLOR: white; 
+}
+INPUT {
+	BACKGROUND-COLOR: black; BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; COLOR: #0AABAA; FONT-FAMILY: verdana, helvetica, sans-serif; FONT-SIZE: 10px; 
+}
+body { 
+	text-align: center;
+	font-family : Arial, sans-serif;
+	color : white;
+	font-size : 8pt;
+	margin-top : 0px;
+	margin-left : 0px;
+	margin-right : 0px;
+	margin-bottom: 0px;
+
+SCROLLBAR-FACE-COLOR: #666666; 
+SCROLLBAR-HIGHLIGHT-COLOR: black; 
+SCROLLBAR-SHADOW-COLOR: #333333; 
+SCROLLBAR-3DLIGHT-COLOR: #333333; 
+SCROLLBAR-ARROW-COLOR: black; 
+SCROLLBAR-TRACK-COLOR: black; 
+SCROLLBAR-DARKSHADOW-COLOR: #333333; 
+} 
+td {
+ font-size : 8pt;
+ 	font-family : Arial, sans-serif;
+}
+</style>
+</HEAD>
+<BODY text=#999999 vLink=#999999 aLink=#999999 link=#999999 bgColor=#000000 leftMargin=0 topMargin=0 rightMargin=0 marginwidth="0" marginheight="0">
+<center><a href="/"><img src="http://www.archspace.org/image/as_game/menu_main.gif" border=0></a></center><br>
+
+<CENTER><!-- TABLE -->
+<TABLE width="90%" border=0>
+  <TBODY>
+  <TR>
+    <TD>&nbsp;&nbsp;<B><a href="/forum/">Archspace Boards</B></a> <BR>&nbsp;&nbsp;
+	(moderated by Mindwarper, zbyte64, DarkTempes, DarkJediX, LordBen) 
+      <P>
+	</TD>
+    <TD vAlign=top align=right>
+		<IMG src="/image/forum/open.gif" border=0>&nbsp;&nbsp; <a href="/forum">Archspace</a>
+      	<BR><IMG src="/image/forum/tline.gif" border=0><IMG src="/image/forum/open.gif" border=0>&nbsp;&nbsp;<a href="as.php?board=bug">Bug Board</a>
+	<p><a href="pref.php">Preferences</a>
+    </TD>
+	</TR>
+	</TBODY>
+</TABLE>
+	<A href="newtopic.php?board=bug">New Topic</A>
+	
+<table align="center" border="0" cellspacing="0" cellpadding="1" width="90%">
+<tr>
+	<td style="background: #999999">
+		<table align="center" border="0" cellspacing="0" cellpadding="5" width="100%">
+		<tr>
+			<td style="background: #000000; text-align: center">
+				<table align="center" border="0" cellspacing="1" cellpadding="5" width="100%">
+				<tr>
+					<TD vAlign=center width="18%" style="background: #555555;"><B>Author</B></TD>
+					<TD vAlign=center style="background: #555555;"><B>Topic:&nbsp;&nbsp; Population Summary Bug</B></TD>				
+				</tr>
+				<tr>
+					<TD vAlign=top width="18%" style="background: #333333;">
+						<B>moojuck</B><BR> Normal Player						<p>
+																							</TD>
+					<TD style="background: #333333;" valign=top>
+						<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0> posted 2004-05-15 21:39&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+ 						<A href="edit.php?board=bug&id=268"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			 			<A href="reply.php?board=bug&id=268"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A> </FONT>
+			  			<HR color=#000000 SIZE=-1>
+			  			Event log reports population increased.<br />
+But Summary log reports population decreased.<br />
+<br />
+-------------<br />
+<br />
+Summary<br />
+From 2,913 to 2,915(in turn) <br />
+PP Change : 7,357,076<br />
+ <br />
+RP Change : 94,112<br />
+ <br />
+Population Change : -41,594<br />
+ <br />
+<br />
+ EVENT <br />
+<br />
+<br />
+ Kama-383 Planet Report <br />
+Population has been increased by 300 k.(from 170,185 k to 170,485 k)<br />
+ <br />
+Kama-839 Planet Report <br />
+Population has been increased by 300 k.(from 140,223 k to 140,523 k)<br />
+ <br />
+1 factory has been built.(1,286 unit(s) now)<br />
+ <br />
+Idun-950 Planet Report <br />
+Population has been increased by 300 k.(from 140,138 k to 140,438 k)<br />
+ <br />
+Idun-1827 Planet Report <br />
+Population has been increased by 300 k.(from 200,216 k to 200,516 k)<br />
+ <br />
+1 factory has been built.(1,579 unit(s) now)<br />
+ <br />
+Kama-1161 Planet Report <br />
+Population has been increased by 300 k.(from 140,169 k to 140,469 k)<br />
+ <br />
+Idun-774 Planet Report <br />
+Population has been increased by 300 k.(from 140,171 k to 140,471 k)<br />
+ <br />
+1 factory has been built.(1,233 unit(s) now)<br />
+ <br />
+Idun-322 Planet Report <br />
+1 military base has been built.(1,369 unit(s) now)<br />
+ <br />
+Kama-1672 Planet Report <br />
+Population has been increased by 300 k.(from 200,197 k to 200,497 k)<br />
+ <br />
+1 factory has been built.(1,533 unit(s) now)<br />
+ <br />
+Idun-501 Planet Report <br />
+Population has been increased by 300 k.(from 170,194 k to 170,494 k)<br />
+ <br />
+2 research labs. have been built.(912 unit(s) now)<br />
+ <br />
+Kama-780 Planet Report <br />
+2 military bases have been built.(984 unit(s) now)<br />
+ <br />
+Kama-808 Planet Report <br />
+2 military bases have been built.(801 unit(s) now)<br />
+ <br />
+Idun-2026 Planet Report <br />
+Population has been increased by 300 k.(from 170,190 k to 170,490 k)<br />
+ <br />
+2 research labs. have been built.(678 unit(s) now)<br />
+ <br />
+Idun-913 Planet Report <br />
+Population has been increased by 300 k.(from 170,179 k to 170,479 k)<br />
+ <br />
+1 factory has been built.(1,335 unit(s) now)<br />
+ <br />
+Trabus-2795 Planet Report <br />
+Population has been increased by 300 k.(from 170,268 k to 170,568 k)<br />
+ <br />
+2 factories have been built.(737 unit(s) now)<br />
+ <br />
+Trabus-2767 Planet Report <br />
+2 factories have been built.(683 unit(s) now)<br />
+ <br />
+Trabus-2751 Planet Report <br />
+2 military bases have been built.(666 unit(s) now)<br />
+ <br />
+Trabus-2521 Planet Report <br />
+Population has been increased by 240 k.(from 126,500 k to 126,740 k)<br />
+ <br />
+2 military bases have been built.(90 unit(s) now)<br />
+ <br />
+Trabus-2514 Planet Report <br />
+Population has been increased by 1,948 k.(from 87,953 k to 89,901 k)<br />
+ <br />
+2 factories have been built.(66 unit(s) now)<br />
+ <br />
+Trabus-2512 Planet Report <br />
+Population has been increased by 1,883 k.(from 78,758 k to 80,641 k)<br />
+ <br />
+2 factories have been built.(33 unit(s) now)<br />
+ <br />
+Trabus-2501 Planet Report <br />
+Population has been increased by 1,292 k.(from 10,813 k to 12,105 k)<br />
+ <br />
+1 factory has been built.(8 unit(s) now)<br />
+ <br />
+Trabus-2498 Planet Report <br />
+Population has been increased by 1,012 k.(from 8,085 k to 9,097 k)<br />
+ <br />
+1 factory has been built.(6 unit(s) now)<br />
+ <br />
+Trabus-2494 Planet Report <br />
+Population has been increased by 511 k.(from 3,198 k to 3,709 k)<br />
+ <br />
+1 factory has been built.(2 unit(s) now)<br />
+ <br />
+Trabus-2490 Planet Report <br />
+Population has been increased by 400 k.(from 2,119 k to 2,519 k)<br />
+ <br />
+1 factory has been built.(1 unit(s) now)<br />
+ <br />
+Trabus-2631 Planet Report <br />
+Population has been increased by 2,636 k.(from 22,732 k to 25,368 k)<br />
+ <br />
+2 factories have been built.(25 unit(s) now)<br />
+ <br />
+Trabus-2546 Planet Report <br />
+Population has been increased by 2,636 k.(from 22,732 k to 25,368 k)<br />
+ <br />
+2 factories have been built.(26 unit(s) now)<br />
+ <br />
+Trabus-2491 Planet Report <br />
+Population has been increased by 2,499 k.(from 21,397 k to 23,896 k)<br />
+ <br />
+2 factories have been built.(15 unit(s) now)<br />
+ <br />
+Trabus-2485 Planet Report <br />
+Population has been increased by 419 k.(from 1,699 k to 2,118 k)<br />
+ <br />
+Trabus-2481 Planet Report <br />
+Population has been increased by 313 k.(from 661 k to 974 k)<br />
+ <br />
+Trabus-2479 Planet Report <br />
+Population has been increased by 184 k.(from 0 k to 184 k)<br />
+ <br />
+<br />
+-----<br />
+<br />
+ps. Current Population Total indicates 3,884,718 k.						<P align=right> </P>
+					</TD>
+				</TR>
+	
+			<TR>
+			<TD></td>
+			<td align=center></TD>
+			</TR>
+				</table>
+			</td>
+		</tr>
+		</table>	
+	</td>
+</tr>
+</table>
+<center><b><A href="reply.php?board=bug&id=268">Post a Reply</A></b></center>
+		<TABLE width="95%" border=0>
+		  <TR>
+			<TD colSpan=2><BR>
+						  </TD></TR>
+		  <TR>
+			<TD>
+					    </TD>
+		  </TR>
+		  </TABLE>
+
+
+<BR><B><A href="/contact.php">Contact Us</A> | 
+<A href="http://www.archspace.org/" target=_top>Archspace</A> </B>
+<P>
+<P>Powered by MindBB v2.0<BR><BR></CENTER></P>
+</BODY></HTML>

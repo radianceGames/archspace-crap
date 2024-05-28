@@ -1,0 +1,37 @@
+HTTrack3.48-21+htsswf+htsjava launched on Tue, 28 Jul 2015 20:26:10 at http://www.angelfire.com/scifi/ooa/ +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv
+(winhttrack -qwr20C2%Ps2u1%s%uN0%I0p3DaK0c8H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.angelfire.com/scifi/ooa/ -O1 "D:\websites\OOA" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:26:22	Error: 	"Not Found" (404) at link www.angelfire.com/scifi/ooa/scifi/ooa/index.html (from www.angelfire.com/scifi/ooa/)
+20:26:41	Error: 	"Not Found" (404) at link www.angelfire.com/scifi/ooa/scifi/ooa/OrderofAtlasCouncil.htm (from www.angelfire.com/scifi/ooa/OrderofAtlasCouncil.htm)
+20:26:41	Error: 	"Not Found" (404) at link www.angelfire.com/scifi/ooa/scifi/ooa/OrderofAtlasLibrary.htm (from www.angelfire.com/scifi/ooa/OrderofAtlasLibrary.htm)
+20:27:20	Error: 	"Not Found" (404) at link www.angelfire.com/scifi/ooa/scifi/ooa/OrderofAtlasLinks.htm (from www.angelfire.com/scifi/ooa/OrderofAtlasLinks.htm)
+20:27:20	Error: 	"Not Found" (404) at link www.angelfire.com/scifi/ooa/scifi/ooa/agerus.htm (from www.angelfire.com/scifi/ooa/agerus.htm)
+20:27:20	Error: 	"Not Found" (404) at link www.angelfire.com/scifi/ooa/scifi/ooa/bosalian.htm (from www.angelfire.com/scifi/ooa/bosalian.htm)
+20:27:20	Error: 	"Not Found" (404) at link www.angelfire.com/scifi/ooa/scifi/ooa/buckaneer.htm (from www.angelfire.com/scifi/ooa/buckaneer.htm)
+20:27:20	Error: 	"Not Found" (404) at link www.angelfire.com/scifi/ooa/scifi/ooa/evintos.htm (from www.angelfire.com/scifi/ooa/evintos.htm)
+20:27:20	Error: 	"Not Found" (404) at link www.angelfire.com/scifi/ooa/scifi/ooa/human.htm (from www.angelfire.com/scifi/ooa/human.htm)
+20:27:20	Error: 	"Not Found" (404) at link www.angelfire.com/scifi/ooa/scifi/ooa/techanoid.htm (from www.angelfire.com/scifi/ooa/techanoid.htm)
+20:27:20	Error: 	"Not Found" (404) at link www.angelfire.com/scifi/ooa/scifi/ooa/xeloss.htm (from www.angelfire.com/scifi/ooa/xeloss.htm)
+20:27:20	Error: 	"Not Found" (404) at link www.angelfire.com/scifi/ooa/scifi/ooa/xerusian.htm (from www.angelfire.com/scifi/ooa/xerusian.htm)
+20:27:20	Error: 	"Not Found" (404) at link www.angelfire.com/scifi/ooa/scifi/ooa/xesperados.htm (from www.angelfire.com/scifi/ooa/xesperados.htm)
+20:27:20	Error: 	"Not Found" (404) at link www.angelfire.com/scifi/ooa/scifi/ooa/targoid.htm (from www.angelfire.com/scifi/ooa/targoid.htm)
+20:27:20	Error: 	"Not Found" (404) at link www.angelfire.com/scifi/ooa/scifi/ooa/accessing_newbie_guides.htm (from www.angelfire.com/scifi/ooa/accessing_newbie_guides.htm)
+20:27:21	Error: 	"Not Found" (404) at link www.angelfire.com/scifi/ooa/scifi/ooa/literature.htm (from www.angelfire.com/scifi/ooa/literature.htm)
+20:27:21	Error: 	"Not Found" (404) at link www.angelfire.com/scifi/ooa/scifi/ooa/tips.htm (from www.angelfire.com/scifi/ooa/tips.htm)
+20:27:21	Error: 	"Not Found" (404) at link www.angelfire.com/scifi/ooa/scifi/ooa/fcattributes.htm (from www.angelfire.com/scifi/ooa/fcattributes.htm)
+20:27:21	Error: 	"Not Found" (404) at link www.angelfire.com/scifi/ooa/scifi/ooa/events.htm (from www.angelfire.com/scifi/ooa/events.htm)
+20:27:21	Error: 	"Not Found" (404) at link www.angelfire.com/scifi/ooa/scifi/ooa/planet_modifiers.htm (from www.angelfire.com/scifi/ooa/planet_modifiers.htm)
+20:27:21	Error: 	"Not Found" (404) at link www.angelfire.com/scifi/ooa/scifi/ooa/defence_formations.htm (from www.angelfire.com/scifi/ooa/defence_formations.htm)
+20:27:21	Error: 	"Not Found" (404) at link www.angelfire.com/scifi/ooa/scifi/ooa/new_page_1.htm (from www.angelfire.com/scifi/ooa/new_page_1.htm)
+20:27:21	Error: 	"Not Found" (404) at link www.angelfire.com/scifi/ooa/scifi/ooa/new_page_2.htm (from www.angelfire.com/scifi/ooa/new_page_2.htm)
+20:27:21	Error: 	"Not Found" (404) at link www.angelfire.com/scifi/ooa/scifi/ooa/secret_projects.htm (from www.angelfire.com/scifi/ooa/secret_projects.htm)
+20:27:21	Error: 	"Not Found" (404) at link www.angelfire.com/scifi/ooa/scifi/ooa/ChangestoArchspace.htm (from www.angelfire.com/scifi/ooa/ChangestoArchspace.htm)
+20:27:21	Error: 	"Not Found" (404) at link www.angelfire.com/scifi/ooa/scifi/ooa/archspace_guide_by_wonder_bee_a.htm (from www.angelfire.com/scifi/ooa/archspace_guide_by_wonder_bee_a.htm)
+
+HTTrack Website Copier/3.48-21 mirror complete in 1 minutes 12 seconds : 92 links scanned, 65 files written (563610 bytes overall) [359836 bytes received at 4997 bytes/sec], 488072 bytes transferred using HTTP compression in 30 files, ratio 28%
+(26 errors, 0 warnings, 0 messages)

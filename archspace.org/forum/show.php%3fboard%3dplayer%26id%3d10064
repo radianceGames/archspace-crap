@@ -1,0 +1,596 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>Archspace Beta Forums</TITLE>
+<Style type="text/css">
+A:link, A:visited { text-decoration: none; color: lightblue; }
+A:hover {
+		COLOR: white; 
+}
+INPUT {
+	BACKGROUND-COLOR: black; BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; COLOR: #0AABAA; FONT-FAMILY: verdana, helvetica, sans-serif; FONT-SIZE: 10px; 
+}
+body { 
+	text-align: center;
+	font-family : Arial, sans-serif;
+	color : white;
+	font-size : 8pt;
+	margin-top : 0px;
+	margin-left : 0px;
+	margin-right : 0px;
+	margin-bottom: 0px;
+
+SCROLLBAR-FACE-COLOR: #666666; 
+SCROLLBAR-HIGHLIGHT-COLOR: black; 
+SCROLLBAR-SHADOW-COLOR: #333333; 
+SCROLLBAR-3DLIGHT-COLOR: #333333; 
+SCROLLBAR-ARROW-COLOR: black; 
+SCROLLBAR-TRACK-COLOR: black; 
+SCROLLBAR-DARKSHADOW-COLOR: #333333; 
+} 
+td {
+ font-size : 8pt;
+ 	font-family : Arial, sans-serif;
+}
+</style>
+</HEAD>
+<BODY text=#999999 vLink=#999999 aLink=#999999 link=#999999 bgColor=#000000 leftMargin=0 topMargin=0 rightMargin=0 marginwidth="0" marginheight="0">
+<center><a href="/"><img src="http://www.archspace.org/image/as_game/menu_main.gif" border=0></a></center><br>
+
+<CENTER><!-- TABLE -->
+<TABLE width="90%" border=0>
+  <TBODY>
+  <TR>
+    <TD>&nbsp;&nbsp;<B><a href="/forum/">Archspace Boards</B></a> <BR>&nbsp;&nbsp;
+	(moderated by Mindwarper, zbyte64, DarkJediX, DarkSonax, Boomer, daemorhedron, darkelf) 
+      <P>
+	</TD>
+    <TD vAlign=top align=right>
+		<IMG src="/image/forum/open.gif" border=0>&nbsp;&nbsp; <a href="/forum">Archspace</a>
+      	<BR><IMG src="/image/forum/tline.gif" border=0><IMG src="/image/forum/open.gif" border=0>&nbsp;&nbsp;<a href="as.php?board=player">Player Board</a>
+	<p><a href="pref.php">Preferences</a>
+    </TD>
+	</TR>
+	</TBODY>
+</TABLE>
+	<A href="newtopic.php?board=player">New Topic</A>
+	
+<table align="center" border="0" cellspacing="0" cellpadding="1" width="90%">
+<tr>
+	<td style="background: #999999">
+		<table align="center" border="0" cellspacing="0" cellpadding="5" width="100%">
+		<tr>
+			<td style="background: #000000; text-align: center">
+				<table align="center" border="0" cellspacing="1" cellpadding="5" width="100%">
+				<tr>
+					<TD vAlign=center width="18%" style="background: #555555;"><B>Author</B></TD>
+					<TD vAlign=center style="background: #555555;"><B>Topic:&nbsp;&nbsp; When is the next reset??</B></TD>				
+				</tr>
+				<tr>
+					<TD vAlign=top width="18%" style="background: #333333;">
+						<B>johnreuben</B><BR> Normal Player						<p>
+											</TD>
+					<TD style="background: #333333;" valign=top>
+						<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0> posted 2004-09-16 18:45&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+ 						<A href="edit.php?board=player&id=10064"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			 			<A href="reply.php?board=player&id=10064"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A> </FONT>
+			  			<HR color=#000000 SIZE=-1>
+			  			i just want ot be informed about the next reset<br />
+<br />
+ty (&gt;,&lt;)						<P align=right> </P>
+					</TD>
+				</TR>
+	
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>DarkTempes</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-17 00:59&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10098"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10064"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	#archspace on irc.topgamers.net for the *lastest* news...<br />
+<br />
+otherwise, the plan is sometime a week from the set end about.<br />
+<br />
+depends.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>intellect</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-17 03:50&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10103"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10064"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	DT, could you maybe post that topic here. Unfortunately for me, although I had been on IRC regularly, IT has blocked port 6667, so I am unable to access IRC, unless I am home.<br />
+Thanks in advance.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Pinoydragon</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-17 05:21&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10104"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10064"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Shouldn't it be &quot;set&quot; and not &quot;reset&quot;<br />
+<br />
+<br />
+Reset:   [n]  device for resetting instruments or controls <br />
+[v]  adjust again after an initial failure <br />
+[v]  set to zero; &quot;reset instruments and dials&quot; <br />
+[v]  set anew; &quot;They re-set the date&quot;<br />
+<br />
+<br />
+The way you used &quot;reset&quot; would imply that it's a noun, and the only definition for reset as a noun would be that it is a device.  Apparently, the next &quot;reset&quot; isnt a device...<br />
+<br />
+Now here is set, and this is just funny too...<br />
+<br />
+Set:   [n]  several exercises intended to be done in series; &quot;he did four sets of the incline bench press&quot; <br />
+[n]  the act of putting something in position; &quot;he gave a final set to his hat&quot; <br />
+[n]  any electronic equipment that receives or transmits radio or tv signals; &quot;the early sets ran on storage batteries&quot; <br />
+[n]  representation consisting of the scenery and other properties used to identify the location of a dramatic production; &quot;the sets were meticulously authentic&quot; <br />
+[n]  (psychology) a temporary readiness to respond in a particular way; &quot;the subjects' set led them to solve problems the familiar way and to overlook the simpler solution&quot;; &quot;his instructions deliberately gave them the wrong set&quot; <br />
+[n]  a relatively permanent inclination to react in a particular way; &quot;the set of his mind was obvious&quot; <br />
+[n]  the descent of a heavenly body below the horizon; &quot;before the set of sun&quot; <br />
+[n]  a group of things of the same kind that belong together and are so used; &quot;a set of books&quot;; &quot;a set of golf clubs&quot;; &quot;a set of teeth&quot; <br />
+[n]  (mathematics) an abstract collection of numbers or symbols; &quot;the set of prime numbers is infinite&quot; <br />
+[n]  an unofficial association of people or groups; &quot;the smart set goes there&quot;; &quot;they were an angry lot&quot; <br />
+[n]  evil beast-headed god with high square ears and a long snout; brother and murderer of Osiris <br />
+[n]  the process of becoming hard or solid by cooling or drying or crystallization; &quot;the hardening of concrete&quot;; &quot;he tested the set of the glue&quot; <br />
+[n]  a unit of play in tennis or squash; &quot;they played two sets of tennis after dinner&quot; <br />
+[adj]  converted to solid form (as concrete) <br />
+[adj]  fixed and unmoving; &quot;with eyes set in a fixed glassy stare&quot;; &quot;his bearded face already has a set hollow look&quot;- Connor Cruise O'Brien; &quot;a face rigid with pain&quot; <br />
+[adj]  set down according to a plan:&quot;a carefully laid table with places set for four people&quot;; &quot;stones laid in a pattern&quot; <br />
+[adj]  situated in a particular spot or position; &quot;valuable centrally located urban land&quot;; &quot;strategically placed artillery&quot;; &quot;a house set on a hilltop&quot;; &quot;nicely situated on a quiet riverbank&quot; <br />
+[adj]  determined or decided upon as by an authority; &quot;date and place are already determined&quot;; &quot;the dictated terms of surrender&quot;; &quot;the time set for the launching&quot; <br />
+[v]  arrange attractively; &quot;dress my hair for the wedding&quot; <br />
+[v]  bear fruit, of plants <br />
+[v]  alter so as to achieve accuracy; regulate; &quot;Adjust the clock, please&quot; <br />
+[v]  set to a certain position or cause to operate correctly; &quot;set clocks or instruments&quot;; &quot;regulate the thermostat&quot; <br />
+[v]  put into a certain state; cause to be in a certain state; &quot;set the house afire&quot; <br />
+[v]  make ready or suitable or equip in advance for a particular purpose or for some use, event, etc; &quot;Get the children ready for school!&quot;; &quot;prepare for war&quot; <br />
+[v]  get ready for a particular purpose or event; &quot;set up an experiment&quot;; &quot;set the table&quot;; &quot;lay out the tools for the surgery&quot; <br />
+[v]  equip with sails, masts, etc.; of ships <br />
+[v]  become gelatinous; &quot;the liquid jelled after we added the enzyme&quot; <br />
+[v]  estimate; &quot;We put the time of arrival at 8 P.M.&quot; <br />
+[v]  fix conclusively or authoritatively; &quot;set the rules&quot; <br />
+[v]  decide upon or fix definitely; &quot;fix the variables&quot;; &quot;specify the parameters&quot; <br />
+[v]  establish as the highest level or best performance; &quot;set a record&quot; <br />
+[v]  urge a dog to attack someone <br />
+[v]  give a fine, sharp edge to a knife or razor <br />
+[v]  put into a certain place or abstract location; &quot;Put your things here&quot;; &quot;Set the tray down&quot;; &quot;Set the dogs on the scent of the missing children&quot;; &quot;Place emphasis on a certain point&quot; <br />
+[v]  insert (a nail or screw below the surface, as into a countersink) <br />
+[v]  put or set (seeds or seedlings) into the ground; &quot;Let's plant flowers in the garden&quot; <br />
+[v]  fix in a border, as of precious stones <br />
+[v]  put into a position that will restore a normal state; &quot;set a broken bone&quot; <br />
+[v]  apply or start; &quot;set fire to a building&quot; <br />
+[v]  adapt for performance in a different way; &quot;set this poem to music&quot; <br />
+[v]  locate; &quot;The film is set in Africa&quot; <br />
+[v]  disappear beyond the horizon; of celestial bodies such as the sun and the moon  <br />
+<br />
+<br />
+<br />
+Now look only at the nouns:<br />
+<br />
+[n]  the act of putting something in position; &quot;he gave a final set to his hat&quot; <br />
+[n]  any electronic equipment that receives or transmits radio or tv signals; &quot;the early sets ran on storage batteries&quot; <br />
+[n]  representation consisting of the scenery and other properties used to identify the location of a dramatic production; &quot;the sets were meticulously authentic&quot; <br />
+[n]  (psychology) a temporary readiness to respond in a particular way; &quot;the subjects' set led them to solve problems the familiar way and to overlook the simpler solution&quot;; &quot;his instructions deliberately gave them the wrong set&quot; <br />
+[n]  a relatively permanent inclination to react in a particular way; &quot;the set of his mind was obvious&quot; <br />
+[n]  the descent of a heavenly body below the horizon; &quot;before the set of sun&quot; <br />
+[n]  a group of things of the same kind that belong together and are so used; &quot;a set of books&quot;; &quot;a set of golf clubs&quot;; &quot;a set of teeth&quot; <br />
+[n]  (mathematics) an abstract collection of numbers or symbols; &quot;the set of prime numbers is infinite&quot; <br />
+[n]  an unofficial association of people or groups; &quot;the smart set goes there&quot;; &quot;they were an angry lot&quot; <br />
+[n]  evil beast-headed god with high square ears and a long snout; brother and murderer of Osiris <br />
+[n]  the process of becoming hard or solid by cooling or drying or crystallization; &quot;the hardening of concrete&quot;; &quot;he tested the set of the glue&quot;<br />
+<br />
+<br />
+<br />
+<br />
+Now look at this...<br />
+<br />
+[n]  a group of things of the same kind that belong together and are so used; &quot;a set of books&quot;; &quot;a set of golf clubs&quot;; &quot;a set of teeth&quot; <br />
+<br />
+That, in my opinion, would be a better definition than &quot;device&quot; when referring to Archspace.<br />
+<br />
+==<br />
+A &quot;set&quot; of rounds in Archspace<br />
+==<br />
+<br />
+<br />
+<br />
+It doesnt matter though what you use because this is a Sci Fi type game, meaning most people dont use correct grammar.<br />
+<br />
+Ex:<br />
+<br />
+1)<br />
+...As it became possible for the creation of anti-matter, the equal and opposing force of matter, an incredibly power source of energy was made possible...<br />
+-Anti-Matter Power description<br />
+<br />
+...an 'incredibly power' source...<br />
+<br />
+2)<br />
+The glory of the powerful Empire that once ruled the whole universe is already dimmed now...<br />
+<br />
+...is already dimmed now...<br />
+<br />
+Shouldn't it be &quot;...has already dimmed now...&quot; or maybe even &quot;...is dimmed now...&quot;<br />
+<br />
+There are a lot more examples but I need to finish my homework.<br />
+<br />
+I rest my case...<br />
+<br />
+===<br />
+[EDIT]<br />
+===<br />
+<br />
+Oh ya, and if you meant &quot;When is the next [server] reset?&quot; that would make sense.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Nova</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-17 07:49&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10113"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10064"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Actually a server reset doesn't make sense, because the database still holds all of the information from the last turn and only the information for the current turn is lost.  So when a server reset occurs (and as players we see them all the time) it doesn't start everyone out with a fresh start.<br />
+<br />
+Couldn't it be either set or reset?  You reset everyone to beginning stats when you start a new set.  The reset would be the action taken to start the next set.  Both occur at nearly the same time, relative to the length of a set anyway.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Santa</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-17 08:12&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10114"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10064"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	the server will reset on friday at 4:00 east<br />
+-western time, and no this is not a prank<br />
+this is the official time for those people who<br />
+dont take me serious...  			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Nova</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-17 08:10&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10116"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10064"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	what precisely is East - Western time?  And if you were serious, wouldn't you have mentioned am or pm?<br />
+<br />
+Here is my prediction for the next set:<br />
+<br />
+3:00 am plus or minus 30 minutes.<br />
+<br />
+The time-zone will be obvious once the set begins and will not be posted here. ;p			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Santa</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-17 08:13&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10117"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10064"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	nova dont go confusing people with predictions			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Nova</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-17 09:29&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10133"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10064"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	But my prediction is 100% accurate.  The psychic friends hotline could never claim that.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>intellect</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-17 22:47&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10173"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10064"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	He's Bosalian. They know such things.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>weiseworks</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-18 07:04&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10195"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10064"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Guess Santa was wrong...again.  It's either after 4 Eastern or Western, if that's US time that is, and AS is still not up.  Who knows with Santa.  I lean towards the 0 dark 30 scenairo, middle of the night ya know.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Darkerdesires</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-18 10:41&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10196"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10064"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	If you think about it... a [server] reset does make logical sense. Although it doesn't [reset] the server to an empty batabase of players, it does, however, [reset] the player data. <br />
+<br />
+But who really cares about what it means... we all know what it means so does it really matter ;)<br />
+<br />
+btw Pinoy... you need to stop thinking intelligently... it'll kill you someday &gt;:)			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Pinoydragon</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-18 11:49&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10199"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10064"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	ya you're probably right.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Santa</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-18 11:50&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10200"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10064"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	maybe if [you] take [you]r fist and stick it up [you]r ass			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>DarkTempes</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-18 12:16&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10202"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10064"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	preview of the new menu (based on a javascript class called treeview) that works in both mozilla/firefox and IE. it also changed graphically some as a side effect. ooh yeah, and it keeps its state. so if you accidentally browse away and have to reload the window (god forbid you do anything other than play archspace!), it keeps whatever items open that were open.<br />
+<br />
+http://www.orderofatlas.com/files/new_menu.jpg<br />
+<br />
+and in a day or so (mayhaps today) i'll probably post a changelist with the definite changes and tentative changes for the new round.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Santa</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-18 12:43&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10203"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10064"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	glad you decided to post the biggest changes first, god forbid anyone give a crap about what the menu looks like!<br />
+<br />
+btw what does administration mean under help			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Santa</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-18 12:44&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10204"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10064"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	http://www.ebaumsworld.com/schfiftyfive.html<br />
+<br />
+http://www.ebaumsworld.com/schfiftyfive.html			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Turnip</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-20 11:04&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=10283"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=10064"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	let me give you a hint, contrary to belief there is no such thing as east-western time, and if there is its probly in ghetto ville			   <P align=right></P>
+			</TD>
+		  </TR>
+
+			<TR>
+			<TD></td>
+			<td align=center></TD>
+			</TR>
+				</table>
+			</td>
+		</tr>
+		</table>	
+	</td>
+</tr>
+</table>
+<center><b><A href="reply.php?board=player&id=10064">Post a Reply</A></b></center>
+		<TABLE width="95%" border=0>
+		  <TR>
+			<TD colSpan=2><BR>
+						  </TD></TR>
+		  <TR>
+			<TD>
+					    </TD>
+		  </TR>
+		  </TABLE>
+
+
+<BR><B><A href="/contact.php">Contact Us</A> | 
+<A href="http://www.archspace.org/" target=_top>Archspace</A> </B>
+<P>
+<P>Powered by MindBB v2.0<BR><BR></CENTER></P>
+</BODY></HTML>

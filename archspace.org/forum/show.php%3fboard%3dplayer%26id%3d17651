@@ -1,0 +1,3 @@
+<br />
+<b>Warning</b>:  mysql_connect(): #08004Too many connections in <b>/usr/local/space/www/forum/header.php</b> on line <b>1</b><br />
+Error: Could not connect to the database

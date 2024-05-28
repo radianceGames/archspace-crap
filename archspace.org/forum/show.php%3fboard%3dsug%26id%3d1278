@@ -1,0 +1,728 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>Archspace Beta Forums</TITLE>
+<Style type="text/css">
+A:link, A:visited { text-decoration: none; color: lightblue; }
+A:hover {
+		COLOR: white; 
+}
+INPUT {
+	BACKGROUND-COLOR: black; BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; COLOR: #0AABAA; FONT-FAMILY: verdana, helvetica, sans-serif; FONT-SIZE: 10px; 
+}
+body { 
+	text-align: center;
+	font-family : Arial, sans-serif;
+	color : white;
+	font-size : 8pt;
+	margin-top : 0px;
+	margin-left : 0px;
+	margin-right : 0px;
+	margin-bottom: 0px;
+
+SCROLLBAR-FACE-COLOR: #666666; 
+SCROLLBAR-HIGHLIGHT-COLOR: black; 
+SCROLLBAR-SHADOW-COLOR: #333333; 
+SCROLLBAR-3DLIGHT-COLOR: #333333; 
+SCROLLBAR-ARROW-COLOR: black; 
+SCROLLBAR-TRACK-COLOR: black; 
+SCROLLBAR-DARKSHADOW-COLOR: #333333; 
+} 
+td {
+ font-size : 8pt;
+ 	font-family : Arial, sans-serif;
+}
+</style>
+</HEAD>
+<BODY text=#999999 vLink=#999999 aLink=#999999 link=#999999 bgColor=#000000 leftMargin=0 topMargin=0 rightMargin=0 marginwidth="0" marginheight="0">
+<center><a href="/"><img src="http://www.archspace.org/image/as_game/menu_main.gif" border=0></a></center><br>
+
+<CENTER><!-- TABLE -->
+<TABLE width="90%" border=0>
+  <TBODY>
+  <TR>
+    <TD>&nbsp;&nbsp;<B><a href="/forum/">Archspace Boards</B></a> <BR>&nbsp;&nbsp;
+	(moderated by Mindwarper) 
+      <P>
+	</TD>
+    <TD vAlign=top align=right>
+		<IMG src="/image/forum/open.gif" border=0>&nbsp;&nbsp; <a href="/forum">Archspace</a>
+      	<BR><IMG src="/image/forum/tline.gif" border=0><IMG src="/image/forum/open.gif" border=0>&nbsp;&nbsp;<a href="as.php?board=sug">Suggestion Board</a>
+	<p><a href="pref.php">Preferences</a>
+    </TD>
+	</TR>
+	</TBODY>
+</TABLE>
+	<A href="newtopic.php?board=sug">New Topic</A>
+	
+<table align="center" border="0" cellspacing="0" cellpadding="1" width="90%">
+<tr>
+	<td style="background: #999999">
+		<table align="center" border="0" cellspacing="0" cellpadding="5" width="100%">
+		<tr>
+			<td style="background: #000000; text-align: center">
+				<table align="center" border="0" cellspacing="1" cellpadding="5" width="100%">
+				<tr>
+					<TD vAlign=center width="18%" style="background: #555555;"><B>Author</B></TD>
+					<TD vAlign=center style="background: #555555;"><B>Topic:&nbsp;&nbsp; Missiles</B></TD>				
+				</tr>
+				<tr>
+					<TD vAlign=top width="18%" style="background: #333333;">
+						<B>splinter</B><BR> Normal Player						<p>
+																							</TD>
+					<TD style="background: #333333;" valign=top>
+						<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0> posted 2004-09-16 09:59&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+ 						<A href="edit.php?board=sug&id=1278"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			 			<A href="reply.php?board=sug&id=1278"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A> </FONT>
+			  			<HR color=#000000 SIZE=-1>
+			  			Not only do missiles do the most damage, but they have the highest attack rate, the longest range and best firing angle. Their only weakness is speed and cooling time, I haven't seen speed do anything or have any effect and cooling time doesn't matter if the enemy can be destroyed in the first shot. The only defence would be WoK with ECM and still every rack would most likely hit. Missiles, esp. HBH, are too powerful.<br />
+<br />
+I would like to see some defense for missile like a device that would reduce damage done by missiles. Lower the attack rate of missiles, you would think the most powerful weapon would have the lowest attack rate.<br />
+Once a fleet fires it's missiles it should be an easy target for the other fleet, so each fleet would fire their missiles and than damage should be dealt.<br />
+<br />
+<br />
+<br />
+What I would really like to see is the weapons completely redone to look more like this:<br />
+<br />
+Homing Black Hole<br />
+AR:120 D:10d10 CT:70 S:50 R:2000<br />
+Oscillation of Dissonance<br />
+AR:250 D:30d30 CT:500 S:1000 R:800<br />
+Distortion Blaster<br />
+AR:200 D:8d8 CT:30 S:200 R:1000						<P align=right> </P>
+					</TD>
+				</TR>
+	
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>splinter</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-16 10:17&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1279"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1278"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Forgot angle of fire and increased missile damage.<br />
+<br />
+Homing Black Hole<br />
+AR:120 D:15d15 CT:70 S:50 R:2000 AF:120<br />
+Oscillation of Dissonance<br />
+AR:250 D:30d30 CT:500 S:1000 R:800 AF:60<br />
+Distortion Blaster<br />
+AR:200 D:8d8 CT:30 S:200 R:1200 AF:30			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Redjack</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-16 10:31&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1281"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1278"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	you guys smoke too much weed, it's fine as it is.<br />
+<br />
+If you're stupid enough and play with a single doomstar design (HBH-only), call me, and i'll come to own you with my mixed designs. Of course, there's some exception but i haven't see anyone use it at max effectiveness yet.<br />
+<br />
+And the battle outcome isn't only based on your designs, some races have an edge against others, etc... because of the possible commanders abilities.<br />
+<br />
+It is more complex than you may think.<br />
+And believe me, i've won all my fights this set  against people going full HBH.(I was outnumbered a couple times too and managed to won fairly easy)<br />
+<br />
+I don't care if you don't believe this reply but i've proofed that i'm more than a good player.<br />
+<br />
+/me is waiting for the n00bs to flamzor me.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>splinter</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-16 11:28&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1282"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1278"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Of course, A level 20 commie with beams can kill a level 10 commie with missiles, but at the same level beams wouldn't even fire. The one that fires missiles first kills more than half the opposing fleet leaving the battle totally lop sided.<br />
+<br />
+Basically I want to see big damage done up close, and to make more realistic. Beam weapons are the future! <br />
+			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Redjack</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-16 12:31&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1283"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1278"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Nahodooms are overpowered more than HBH imho.<br />
+<br />
+Both could be tone down but i like them as they are now. And i love to DB rape my opponents. Did it a few times today. <br />
+<br />
+WoK+ECM Jammer doomies are like paper.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>seppukujack</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-16 23:35&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1288"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1278"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Nahodoom are difficult for the majority of people to get so I can understand why its ok for them to be overpowered. But the fact that most people are only in it to get 2 or 3 final weapons and only one or 2 armor types makes everything somewhat bland.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Nova</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-17 09:16&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1297"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1278"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	DB fleets vs HBH fleets with equivalent commanders and number of ships/fleets will lose every time.  A mixed fleet is the best you can do with HBH in the front and DB in the back, but those are extremely difficult to optimize for each battle they engage in and if the HBH opponent has only 25% more dooms, the whole thing falls apart.<br />
+<br />
+The point that is being made Redjack is concerning equivalent fleets/commanders and not the situation you found yourself in with a bunch of level 20 commanders against inferior players (not necessarily lower power, just inexperienced in ship design and battle tactics).  Furthermore, you were most likely the agressor if I recall your playing style which gives you a further advantage in that you can arrange your fleets to gain the maximum advantage.  Which is a further argument for tighter attack ranges, because an experienced attacker really should never need to attack someone below 80% of their power to win and should be able to easily win against opponents at 125% of their power that use purely HBH fleets, no?			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Narusegawa</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-09-18 09:14&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1301"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1278"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Theoretically, if both fleets have complete, full fleets (20 fleets, 20 level 20 commanders, 40 ships each, corresponding weapon specialist), then HBH fleets will definitely possess a large advantage. Mixed fleets, such as 4HBH/3DB or 5HBH/2DB cannot deal as much damage in the first volley - and first blood is the determining factor. 7HBH slots on a doomstar causes it to possess enough firepower to take out roughly 1-2 full fleets in the first exchange. So you'd most definitely end up with no fleets left firing, while the other person is left with no fleets at all :)<br />
+<br />
+(Of course... you'd have to level up a whole bunch of commanders and switch from middle game mixed designs to late game pure designs...)<br />
+<br />
+Just my two cents!			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Fimm</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-10-13 08:20&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1435"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1278"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	This Systems are all right.<br />
+<br />
+but we need IMPLEMENT Weapon Speed!<br />
+<br />
+Missile Speed is 50!<br />
+<br />
+So, if fire at range 1500 , they will hit 30turn or less.<br />
+<br />
+That's speed..<br />
+<br />
+Beam speed 1000 range 1000 (1turn)<br />
+Projetile speed 200 range 800 (4turn)			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>terroroftheskie</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-10-14 00:05&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1445"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1278"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	I'm a noob but don't criticize me if you don't like it but no ship should have an infinite supply of missiles. instead a ship should maybe have 2 or 3 missile volleys, after that they are done and you can't use them until they get back home and can reload. in my opinion i think that will help a lot. this way people can't just load up on uberpowerful missiles and destroy everything in the first shot while the other fleets can't even return fire.<br />
+that is my 2 cents			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Nova</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-10-14 05:53&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1450"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1278"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Please don't take this personally, but I believe that most of the HBH battles are over within two volleys.  So to make the suggestion work, Missiles would have to be one use weapons.  In real life, most missile systems are one time use (for a particular melee) because the reload times are excessive or there are no reloads (ICBMs).<br />
+<br />
+Perhaps the reload times for missiles could approach 1500 turns instead of dealing with the number of reloads available (high level commanders would of course drop that number down).  That would allow missiles to retain their all-at-once punch, but make them dismal choices for the long haul.<br />
+<br />
+I'm not a noob (although I've been playing only 6 months) so feel free to bash my comments all you want.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Gandalf1</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-11-03 07:48&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1518"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1278"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	The high-level weaponz could definantly b less lopsided in power, with the exception of the nahadoomray (as previusly sated, you have 2 b xerusian to use it). There could be weapons with less power but sepcial effects such as &quot;dissable engines&quot; like the ion cannonz from star warz. Just my 3 cents :)			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Keyan</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-11-03 17:46&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1521"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1278"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Introduce Weapon speed, very good idea!<br />
+<br />
+That would open a totally new horizon to fleet battles, cause right now missiles are awefully overpowered.<br />
+			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>SheridanStarkiller</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-11-04 14:20&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1531"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1278"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Redjacks running about 50-50 this set.  just watching some of his battle reports and it does just seem to be mased volleys of HBH from each side.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Shadowman</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-11-05 08:35&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1532"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1278"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Alright to make sure everyone sees the benifits of Weapon Speed in AS, I'm going to summarize the numerous benifits provided. Lets recap what it would do. When a ship detects another ship, it will launch its weapon. For this example lets use a Missle. <br />
+<br />
+Turn 0 Fleet A detects Fleet B at range 1000. Fleet A will shoot 880 homing black holes at Fleet B, The missle will take time to travel before it hits an enemy ship and will hit it in 20 turns at the speed of 50. (Additional point: If we do not factor in the position of the targeted ship and just use the intial distance of seperation to count the time it takes for the missle/projectile to travel then maneuvarbility becomes a valued ability.)<br />
+ <br />
+Turn 15 Fleet B detects Fleet A, it sends its 440 HBH missles to Fleet A. <br />
+Turn 20 880 Homing Black Holes hit Fleet B and fleet B is destroyed. The 440 homing black holes lose the AR bonus from the commie, or lose 20% AR on the missles if defender.<br />
+Turn 35 Fleet A is hit with 440 Homing Black Holes and takes damage.<br />
+<br />
+Important notes: If missles fired right before a fleet flees, or turn 1800 is up, or last ship is destroyed, as things are now, the missle won't hit. Can stay that way or not, up to the devs i guess. personally i don't care. <br />
+<br />
+Now how all of this is so good you ask? Well for starters this means a single guy can't defleet a whole council without taking losses. Archspace is the only game i know where you can attack so many people without losing a single doomstar. This places less value in detection. Not making it the be all end all stat of your commies. (i'll post a little later for an Interpertation stat suggestion too) <br />
+So now you will take losses when attacking other opponents, meaning that at high end battles the top council can't keep everyone down, because they will lose dooms constantly blockading even fairly weak people, unless of course they have some really uber commies. <br />
+No more random blockades. People don't care if they lose honor. They will care if they start losing dooms left and right. Now people will blockade only if others call them in, and commanders will be more valued.<br />
+More use of smaller ships. People will want to use smaller ships for effective suicide runs, and im certain we would see lots of these guys flying around now. <br />
+<br />
+Now this reduces the potency of missles to some extent, doesn't make distortion blaster much better but improves battle mechanics in my opinion, because killing 300 dooms and losing 10 is just wrong :/<br />
+<br />
+This of course will change the gameplay mechanics a lot, but i think it will make the game more complete. Solve the complaints most everyone is looking for and perhaps force diplomacy into this game once again, it will bring back one of the factors of gaming of old. Back in the day people didn't know the game play mechanics as well as we do now, and back then we always used to lose ships in attacking too, and the game was fun back then. Of course also there were lots of people too that contributed as well :) but i think it is very important that this be implemented.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>ApolloLi</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-11-09 02:19&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1547"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1278"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	You made some good points but with the introduction of weapon speeds, detection will become pretty useless since it doesn't matter who fires first, you will still have your shot. 			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Keyan</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-11-09 05:55&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1549"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1278"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	First of all, detection is very important for Beam/Projectile Weapons now and moreover it's vital to give some damage decrease when a ship the missiles were fired from is destroyed.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>ApolloLi</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-11-09 06:57&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1550"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1278"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	My solution to this would be introducing the idea of evasion. <br />
+Maneuver (maybe interpretation as well), ship size and weapon range and speed will affect evasion.<br />
+For example, chances to evade an attack = (maneuver * (1+interpretation/10) + shipsize penalty) *  (1+ (range/speed)/100) %. To put it simple, range/speed acts as a modifier to evasion. <br />
+I have also suggested in another post the use of interpretation - station/patrol fleets will have a certain probability to gain info of the incoming attack fleets. This of course needs to be implemented with a launch delay and detection gives a certain probability to actually detect any incoming fleets before you can interpret them.<br />
+To inject yet more randomness in a battle, I would suggest the priority of attack does not only depend on detection difference but rather treat it as a dice. For example, +6 detection will be 6 rolls of dice type 6 and +5 will be 5X5. And of course, comparison between positive and negative values needs to be made before dice roll.<br />
+I think evasion is a good idea because it introduces more randomness in the battle. While AR and DR calculates dmg, evasion gives you an opportunity to evade the round of attack. However, to offset the shipsize penalty of bigger ships, we can either add # of weapon bonus (larger ships carry greater number of weapons per slot and therefore makes a defender harder to evade. This might be hard to code, since I am not sure how dynamica the battle system is) or give larger ships armor bonus. 			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>ApolloLi</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-11-09 07:10&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1551"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1278"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	*formatted the previous post to make it a little easier to read*<br />
+<br />
+My solution to this would be introducing the idea of evasion. <br />
+<br />
+Maneuver (maybe interpretation as well), ship size and weapon range and speed will affect evasion.<br />
+For example, chances to evade an attack = <br />
+(maneuver * (1+interpretation/10) + shipsize penalty) * (1+ (range/speed)/100) %. <br />
+To put it simple, range/speed acts as a modifier to evasion. <br />
+<br />
+I have also suggested in another post the use of interpretation - station/patrol fleets will have a certain probability to gain info of the incoming attack fleets. This of course needs to be implemented with a launch delay and detection gives a certain probability to actually detect any incoming fleets before you can interpret them.<br />
+<br />
+To inject yet more randomness in a battle, I would suggest the priority of attack does not only depend on detection difference but rather treat it as a dice. For example, +6 detection will be 6 rolls of dice type 6 and +5 will be 5X5. And of course, comparison between positive and negative values needs to be made before dice roll.<br />
+<br />
+I think evasion is a good idea because it introduces more randomness in the battle. While AR and DR calculates dmg, evasion gives you an opportunity to evade the round of attack. However, to offset the shipsize penalty of bigger ships, we can either add # of weapon bonus (larger ships carry greater number of weapons per slot and therefore makes a defender harder to evade. This might be hard to code, since I am not sure how dynamica the battle system is) or give larger ships armor bonus.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>ApolloLi</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-11-17 10:09&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1571"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1278"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	another thought: maybe we can add some turn delay between firing weapons in each slot so that both fleets may get to fire their weapons (while interpretion works as a modifier to reduce this delay)			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Shadowman</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-11-18 05:31&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1573"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1278"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Apollo, no offence what you said brings nothing new. Let me point out the obvious, simply because it has to be done. With the introduction of speed most ships will fire all of their weapons as stated above. And evasion is implemented in the game, see my previous post in the General Forum Section.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Gandalf1</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-17 04:46&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1765"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1278"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	I do not agree/disagree with anything that has been said yet, but perhaps if some of the &quot;useless&quot; devices were replaced with devices that actually do something it may also solve our little delema here.(Maybe something like a point defence laser device)			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Fooby987</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-18 16:39&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1780"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1278"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	i like the idea of a device that acually shoots down missles, instead of just adding missle DR, u can litterally pick missles out of space, and i do like the evasion idea, and what whould make sence is adding ship class to the evasion picture aswell, oviously u have a better chance of hitting a doom over a dread<p><br>Watashi wa Daishi desu.<br />
+<br />
+(I am Great Death.)			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Gobberlerra</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-24 01:37&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1820"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1278"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	I think some sort of pd weapon is the best solution the missiles being so powerful. Ive only just started playing this game so i have very little idea of how it fully works, but going on games such as moo, the lower speed of a missile should be its biggest disadvantage, allowing it to be shot down as it comes in, distroying some or all of the incoming fire. The best way to do this would be to have a weapon(thus taking up one of you weapon slots) that fires at incoming missiles, but nothing else. This would mean that you would lose firepower on the ship, while stopping missiles being overpowering. I know this would be horrible to program, but it appears to be one of the major factors missing in the combat, otherwise the combat is one of the best mmo one that i have seen.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Spell</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-01-17 16:43&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1915"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1278"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Weapon speed is great.<br />
+HBH will be nothing more than shock troops.<br />
+GREAT.<br />
+Why`s this not used ?<br />
+			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>garomire</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-01-17 20:25&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=sug&id=1918"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=sug&id=1278"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	I dunt think this game will change at all. <br />
+<br />
+and YES! Missiles are too powerful!!!			   <P align=right></P>
+			</TD>
+		  </TR>
+
+			<TR>
+			<TD></td>
+			<td align=center></TD>
+			</TR>
+				</table>
+			</td>
+		</tr>
+		</table>	
+	</td>
+</tr>
+</table>
+<center><b><A href="reply.php?board=sug&id=1278">Post a Reply</A></b></center>
+		<TABLE width="95%" border=0>
+		  <TR>
+			<TD colSpan=2><BR>
+						  </TD></TR>
+		  <TR>
+			<TD>
+					    </TD>
+		  </TR>
+		  </TABLE>
+
+
+<BR><B><A href="/contact.php">Contact Us</A> | 
+<A href="http://www.archspace.org/" target=_top>Archspace</A> </B>
+<P>
+<P>Powered by MindBB v2.0<BR><BR></CENTER></P>
+</BODY></HTML>

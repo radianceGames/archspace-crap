@@ -1,0 +1,131 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>Archspace Beta Forums</TITLE>
+<Style type="text/css">
+A:link, A:visited { text-decoration: none; color: lightblue; }
+A:hover {
+		COLOR: white; 
+}
+INPUT {
+	BACKGROUND-COLOR: black; BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; COLOR: #0AABAA; FONT-FAMILY: verdana, helvetica, sans-serif; FONT-SIZE: 10px; 
+}
+body { 
+	text-align: center;
+	font-family : Arial, sans-serif;
+	color : white;
+	font-size : 8pt;
+	margin-top : 0px;
+	margin-left : 0px;
+	margin-right : 0px;
+	margin-bottom: 0px;
+
+SCROLLBAR-FACE-COLOR: #666666; 
+SCROLLBAR-HIGHLIGHT-COLOR: black; 
+SCROLLBAR-SHADOW-COLOR: #333333; 
+SCROLLBAR-3DLIGHT-COLOR: #333333; 
+SCROLLBAR-ARROW-COLOR: black; 
+SCROLLBAR-TRACK-COLOR: black; 
+SCROLLBAR-DARKSHADOW-COLOR: #333333; 
+} 
+td {
+ font-size : 8pt;
+ 	font-family : Arial, sans-serif;
+}
+</style>
+</HEAD>
+<BODY text=#999999 vLink=#999999 aLink=#999999 link=#999999 bgColor=#000000 leftMargin=0 topMargin=0 rightMargin=0 marginwidth="0" marginheight="0">
+<center><a href="/"><img src="http://www.archspace.org/image/as_game/menu_main.gif" border=0></a></center><br>
+
+<CENTER><!-- TABLE -->
+<TABLE width="90%" border=0>
+  <TBODY>
+  <TR>
+    <TD>&nbsp;&nbsp;<B><a href="/forum/">Archspace Boards</B></a> <BR>&nbsp;&nbsp;
+	(moderated by Mindwarper, zbyte64, DarkJediX, DarkSonax, Boomer, daemorhedron, darkelf) 
+      <P>
+	</TD>
+    <TD vAlign=top align=right>
+		<IMG src="/image/forum/open.gif" border=0>&nbsp;&nbsp; <a href="/forum">Archspace</a>
+      	<BR><IMG src="/image/forum/tline.gif" border=0><IMG src="/image/forum/open.gif" border=0>&nbsp;&nbsp;<a href="as.php?board=player">Player Board</a>
+	<p><a href="pref.php">Preferences</a>
+    </TD>
+	</TR>
+	</TBODY>
+</TABLE>
+<font color='red' size=5>YOU MUST BE LOGGED IN TO REPLY</font><table align="center" border="0" cellspacing="0" cellpadding="1" width="90%">
+<tr>
+	<td style="background: #999999">
+		<table align="center" border="0" cellspacing="0" cellpadding="5" width="100%">
+		<tr>
+			<td style="background: #000000; text-align: center">
+				<table align="center" border="0" cellspacing="1" cellpadding="5" width="100%">
+				<tr>
+					<TD vAlign=center width="18%" style="background: #555555;"><B>Author</B></TD>
+					<TD vAlign=center style="background: #555555;"><B>Modify</B></TD>
+				</tr>
+		  		<TR>
+					<TD vAlign=top width="18%" style="background: #333333;"><B>--------</B><BR>Modify</TD>
+					<TD style="background: #333333;">
+						<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0> 
+						  <HR color=#000000 SIZE=-1>
+						  <form method="POST">
+						  Message:<br><textarea name="msg"  cols="50" rows="20">Well, I've given up on Mario, that damn gay bastard.
+So, I guess it's time to bring you guys up to date on my prick of a roommate, who currently is whining to his mom on the phone (AGAIN). Chemistry today was quite boring (we did stuff that I had had in Physics - ie, heat change), so I wrote a resolution. And here it is:
+
+Resolution supporting the removal of Luke Burton from the Cate Academic Arts Community, specifically the Brooks 4 hall.
+
+Whereas: Luke Burton is not an integral member of the Honors Dorm or the University of Oklahoma housing as a whole; and,
+
+Whereas: He has been an irritating roommate as:
+1) He has kept his roommate (Matthew) awake on numerous evenings before Matthew's 7:30 AM lab;
+2) He attempts to sabotage any of Matthew's efforts to live a normal college life;
+3) He bothers Matthew when:
+    a) Matthew is doing his homework,
+    b) Matthew is playing on the computer, and
+    c) Matthew is doing various other activities  too numerous to mention;
+4) He constantly turns on the overhead light, without regard to Matthew's state or to the ambient light from the windows;
+5) He consistantly wakes Matthew up on days when Matthew has no early classes by:
+    a) continuous loud closing of te dorm door,
+    b) loud clunking of various objects such as cereal bowls and refrigerator doors;
+6) He has filled Matthew's refrigerator with numerous cartons of milk, so that Matthew cannot keep any food items he wants; and
+7) He has erased Matthew's marker board on various occasions (violating Matthew's Constitutional rights, as given to him by the First Amendment), as he did not like what had been written; and,
+
+Whereas: He is not liked by a majority of the members of the Brooks 4 hall, as:
+1) He is extremely conservative and is easily offended;
+2) He disrupts conversations with his viewpoints; and
+3) He is arrogant and assumes that everyone on the hall needs his help; and,
+
+Whereas: He is completely unaware of anything he has done to annoy the members of Brooks 4 and the other members of the Cate Academic Arts Community; thus
+
+We resolve that:
+1) Luke Burton be removed from Brooks 4;
+2) Luke Burton be prohibited from ever entering Brooks 4; and
+3) Luke Burton be blacklisted and never allowed to serve as a resident advisor at the University of Oklahoma.
+
+Signed,
+Matthew and the other members of the Cate Academic Arts Community</textarea><p></p>
+						  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						  &nbsp;&nbsp;&nbsp;&nbsp;
+						  <input type=submit value="Update">
+						  </form>
+					</TD>
+				</TR>
+				</table>
+			</td>
+		</tr>
+		</table>	
+	</td>
+</tr>
+</table>
+
+
+
+
+
+<BR><B><A href="/contact.php">Contact Us</A> | 
+<A href="http://www.archspace.org/" target=_top>Archspace</A> </B>
+<P>
+<P>Powered by MindBB v2.0<BR><BR></CENTER></P>
+</BODY></HTML>

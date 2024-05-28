@@ -1,0 +1,174 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>Archspace Beta Forums</TITLE>
+<Style type="text/css">
+A:link, A:visited { text-decoration: none; color: lightblue; }
+A:hover {
+		COLOR: white; 
+}
+INPUT {
+	BACKGROUND-COLOR: black; BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; COLOR: #0AABAA; FONT-FAMILY: verdana, helvetica, sans-serif; FONT-SIZE: 10px; 
+}
+body { 
+	text-align: center;
+	font-family : Arial, sans-serif;
+	color : white;
+	font-size : 8pt;
+	margin-top : 0px;
+	margin-left : 0px;
+	margin-right : 0px;
+	margin-bottom: 0px;
+
+SCROLLBAR-FACE-COLOR: #666666; 
+SCROLLBAR-HIGHLIGHT-COLOR: black; 
+SCROLLBAR-SHADOW-COLOR: #333333; 
+SCROLLBAR-3DLIGHT-COLOR: #333333; 
+SCROLLBAR-ARROW-COLOR: black; 
+SCROLLBAR-TRACK-COLOR: black; 
+SCROLLBAR-DARKSHADOW-COLOR: #333333; 
+} 
+td {
+ font-size : 8pt;
+ 	font-family : Arial, sans-serif;
+}
+</style>
+</HEAD>
+<BODY text=#999999 vLink=#999999 aLink=#999999 link=#999999 bgColor=#000000 leftMargin=0 topMargin=0 rightMargin=0 marginwidth="0" marginheight="0">
+<center><a href="/"><img src="http://www.archspace.org/image/as_game/menu_main.gif" border=0></a></center><br>
+
+<CENTER><!-- TABLE -->
+<TABLE width="90%" border=0>
+  <TBODY>
+  <TR>
+    <TD>&nbsp;&nbsp;<B><a href="/forum/">Archspace Boards</B></a> <BR>&nbsp;&nbsp;
+	(moderated by Mindwarper, zbyte64, DarkTempes, DarkJediX, LordBen) 
+      <P>
+	</TD>
+    <TD vAlign=top align=right>
+		<IMG src="/image/forum/open.gif" border=0>&nbsp;&nbsp; <a href="/forum">Archspace</a>
+      	<BR><IMG src="/image/forum/tline.gif" border=0><IMG src="/image/forum/open.gif" border=0>&nbsp;&nbsp;<a href="as.php?board=bug">Bug Board</a>
+	<p><a href="pref.php">Preferences</a>
+    </TD>
+	</TR>
+	</TBODY>
+</TABLE>
+	<A href="newtopic.php?board=bug">New Topic</A>
+	
+<table align="center" border="0" cellspacing="0" cellpadding="1" width="90%">
+<tr>
+	<td style="background: #999999">
+		<table align="center" border="0" cellspacing="0" cellpadding="5" width="100%">
+		<tr>
+			<td style="background: #000000; text-align: center">
+				<table align="center" border="0" cellspacing="1" cellpadding="5" width="100%">
+				<tr>
+					<TD vAlign=center width="18%" style="background: #555555;"><B>Author</B></TD>
+					<TD vAlign=center style="background: #555555;"><B>Topic:&nbsp;&nbsp; Can't to anythin</B></TD>				
+				</tr>
+				<tr>
+					<TD vAlign=top width="18%" style="background: #333333;">
+						<B>Fatality</B><BR> Normal Player						<p>
+																							</TD>
+					<TD style="background: #333333;" valign=top>
+						<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0> posted 2004-06-05 05:38&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+ 						<A href="edit.php?board=bug&id=539"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			 			<A href="reply.php?board=bug&id=539"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A> </FONT>
+			  			<HR color=#000000 SIZE=-1>
+			  			Mods.. I can't do nething.  For example, I can't sent a fleet on expedition, or form a fleet, or recall a fleet, or nething.  I can invest money though.  PLEASE HELP!!!						<P align=right> </P>
+					</TD>
+				</TR>
+	
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>DaveMcW</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-06-05 11:18&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=bug&id=544"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=bug&id=539"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	[23:33] &lt;Fatality&gt; it was working last set<br />
+[23:33] &lt;Fatality&gt; but now it doesn't work <br />
+[23:33] &lt;DaveMcW&gt; can you get the AS main page?<br />
+[23:33] &lt;Fatality&gt; ya<br />
+[23:33] &lt;DaveMcW&gt; can you log in with your portal?<br />
+[23:33] &lt;Fatality&gt; ya<br />
+[23:33] &lt;Fatality&gt; nething involving ships i can't do <br />
+[23:33] &lt;Fatality&gt; like recall, expedition, mission<br />
+[23:33] &lt;Fatality&gt; forming fleets<br />
+[23:33] &lt;Fatality&gt; nothing works<br />
+[23:33] &lt;Fatality&gt; it's like my internet stops working<br />
+[23:34] &lt;DaveMcW&gt; hmmm<br />
+[23:34] &lt;Fatality&gt; but then I can do other stuff<br />
+[23:34] &lt;DaveMcW&gt; do you have norton antivirus?<br />
+[23:34] &lt;Fatality&gt; not that i know of<br />
+[23:34] &lt;DaveMcW&gt; I had that, and it blocked the security check on fleet page<br />
+[23:34] &lt;DaveMcW&gt; what is your error message?<br />
+[23:35] &lt;Fatality&gt; there isn't one<br />
+[23:35] &lt;Fatality&gt; the loading bar appears but then stops<br />
+[23:35] &lt;Fatality&gt; and it's stays the same<br />
+[23:35] &lt;Fatality&gt; it basically doesn't load<br />
+[23:36] &lt;Fatality&gt; beside even if i did have the Norton antivirus doesn't explain why AS worked last set<br />
+[23:37] &lt;DaveMcW&gt; they changed a lot of stuff<br />
+[23:37] &lt;DaveMcW&gt; probably added anti-hacking stuff<br />
+[23:37] &lt;Fatality&gt; i have EZ antivirus<br />
+[23:37] &lt;Fatality&gt; but i diabled it<br />
+[23:38] &lt;DaveMcW&gt; do you use a custom menu bar, or the AS menu?<br />
+[23:38] &lt;Fatality&gt; AS menu<br />
+[23:39] &lt;DaveMcW&gt; I'm out of ideas :(<br />
+[23:40] &lt;Fatality&gt; wellz it's okay<br />
+[23:40] &lt;Fatality&gt; maybe my comp is messed<br />
+[23:40] &lt;DaveMcW&gt; you should get some kind of access denied message<br />
+[23:40] &lt;DaveMcW&gt; freezing up sounds like a server bug<br />
+[23:40] &lt;Fatality&gt; it doesn't freeze though<br />
+[23:40] &lt;Fatality&gt; just doesn't load at all<br />
+[23:40] &lt;DaveMcW&gt; yeah<br />
+[23:40] &lt;DaveMcW&gt; server freezes :P<br />
+[23:40] &lt;DaveMcW&gt; tell mind or zbyte<br />
+[23:41] &lt;Fatality&gt; k thankz for helping:)<br />
+[23:43] &lt;Fatality&gt; hey does it matter if I use two different comps with the same internet connection?<br />
+[23:44] &lt;DaveMcW&gt; I don't think so<br />
+[23:44] &lt;DaveMcW&gt; I use dialup so my connection is different all the time<br />
+[23:44] &lt;Fatality&gt; k cuz i change comps once in a while<br />
+[23:44] &lt;DaveMcW&gt; and also use 2 comps on the same connection<br />
+[23:45] &lt;Fatality&gt; wellz it's okay i'm trying to get hold of mind or zbyte<br />
+			   <P align=right></P>
+			</TD>
+		  </TR>
+
+			<TR>
+			<TD></td>
+			<td align=center></TD>
+			</TR>
+				</table>
+			</td>
+		</tr>
+		</table>	
+	</td>
+</tr>
+</table>
+<center><b><A href="reply.php?board=bug&id=539">Post a Reply</A></b></center>
+		<TABLE width="95%" border=0>
+		  <TR>
+			<TD colSpan=2><BR>
+						  </TD></TR>
+		  <TR>
+			<TD>
+					    </TD>
+		  </TR>
+		  </TABLE>
+
+
+<BR><B><A href="/contact.php">Contact Us</A> | 
+<A href="http://www.archspace.org/" target=_top>Archspace</A> </B>
+<P>
+<P>Powered by MindBB v2.0<BR><BR></CENTER></P>
+</BODY></HTML>

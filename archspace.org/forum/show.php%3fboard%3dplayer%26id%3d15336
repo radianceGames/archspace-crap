@@ -1,0 +1,739 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>Archspace Beta Forums</TITLE>
+<Style type="text/css">
+A:link, A:visited { text-decoration: none; color: lightblue; }
+A:hover {
+		COLOR: white; 
+}
+INPUT {
+	BACKGROUND-COLOR: black; BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; COLOR: #0AABAA; FONT-FAMILY: verdana, helvetica, sans-serif; FONT-SIZE: 10px; 
+}
+body { 
+	text-align: center;
+	font-family : Arial, sans-serif;
+	color : white;
+	font-size : 8pt;
+	margin-top : 0px;
+	margin-left : 0px;
+	margin-right : 0px;
+	margin-bottom: 0px;
+
+SCROLLBAR-FACE-COLOR: #666666; 
+SCROLLBAR-HIGHLIGHT-COLOR: black; 
+SCROLLBAR-SHADOW-COLOR: #333333; 
+SCROLLBAR-3DLIGHT-COLOR: #333333; 
+SCROLLBAR-ARROW-COLOR: black; 
+SCROLLBAR-TRACK-COLOR: black; 
+SCROLLBAR-DARKSHADOW-COLOR: #333333; 
+} 
+td {
+ font-size : 8pt;
+ 	font-family : Arial, sans-serif;
+}
+</style>
+</HEAD>
+<BODY text=#999999 vLink=#999999 aLink=#999999 link=#999999 bgColor=#000000 leftMargin=0 topMargin=0 rightMargin=0 marginwidth="0" marginheight="0">
+<center><a href="/"><img src="http://www.archspace.org/image/as_game/menu_main.gif" border=0></a></center><br>
+
+<CENTER><!-- TABLE -->
+<TABLE width="90%" border=0>
+  <TBODY>
+  <TR>
+    <TD>&nbsp;&nbsp;<B><a href="/forum/">Archspace Boards</B></a> <BR>&nbsp;&nbsp;
+	(moderated by Mindwarper, zbyte64, DarkJediX, DarkSonax, Boomer, daemorhedron, darkelf) 
+      <P>
+	</TD>
+    <TD vAlign=top align=right>
+		<IMG src="/image/forum/open.gif" border=0>&nbsp;&nbsp; <a href="/forum">Archspace</a>
+      	<BR><IMG src="/image/forum/tline.gif" border=0><IMG src="/image/forum/open.gif" border=0>&nbsp;&nbsp;<a href="as.php?board=player">Player Board</a>
+	<p><a href="pref.php">Preferences</a>
+    </TD>
+	</TR>
+	</TBODY>
+</TABLE>
+	<A href="newtopic.php?board=player">New Topic</A>
+	
+<table align="center" border="0" cellspacing="0" cellpadding="1" width="90%">
+<tr>
+	<td style="background: #999999">
+		<table align="center" border="0" cellspacing="0" cellpadding="5" width="100%">
+		<tr>
+			<td style="background: #000000; text-align: center">
+				<table align="center" border="0" cellspacing="1" cellpadding="5" width="100%">
+				<tr>
+					<TD vAlign=center width="18%" style="background: #555555;"><B>Author</B></TD>
+					<TD vAlign=center style="background: #555555;"><B>Topic:&nbsp;&nbsp; newbie thoughts on blocking</B></TD>				
+				</tr>
+				<tr>
+					<TD vAlign=top width="18%" style="background: #333333;">
+						<B>Atreides</B><BR> Normal Player						<p>
+											</TD>
+					<TD style="background: #333333;" valign=top>
+						<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0> posted 2005-01-14 19:42&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+ 						<A href="edit.php?board=player&id=15336"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			 			<A href="reply.php?board=player&id=15336"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A> </FONT>
+			  			<HR color=#000000 SIZE=-1>
+			  			I am addressing only the Blockading of low ranked players by others @ 200% of their power solely for the purpose of gaining XP for the higher ranked players commanders.<br />
+<br />
+I AM NOT ADDRESSING SIEGING IN A WAR - that's something else.<br />
+<br />
+This rule penalises newbies/lowbies at no real cost the attacker. I know the perpetrators get lowered honour when attacking, but anyone can live with honour 1 atm - the increased chance of bad events is just not enough of a deterrent.<br />
+<br />
+There are a few issues issues - remember we are only addressing attacking low rankers for commie XP.<br />
+<br />
+Atm a player can be blocked, defleeted and then blocked blocked blocked until 50% of his planets are useless for 12 hours. That gives no chance for the defending player to rebuild a defence fleet. I propose that there can only be one SUCCESSFUL block on any one player per 24 hours.<br />
+<br />
+The penalty for blocking a player at 50% of your power should be increased - hugely.<br />
+Firstly I think there should be an instant bad event - maybe a version of Traitorous commander whereby a commie leaves in disgust at your dishonourable behaviour or whatever (suggestions please :) )<br />
+Secondly your lowered honour should have worse consequences than they do now. ATM low honour is (apparently) supposed to give a higher |% chance of bad events at the event tick, but speaking on IRC to some of the vets, it seems that there just aren't enough bad events happening. Maybe there is a need for more, or maybe there is a need for a higher % chance for them to happen. I think a player with honour of less than 10 should have a 100% chance of a bad event every single day.<br />
+<br />
+Bad events need to be updated. Looking at the OOA data, all I can see is 9 or 10 bad events, most of which are, to most players, only a minor irritation. Interstellar dust cloud is only of concern to those with NRL, lowered empire relations can be fixed with a bribe, Mass hysteria results (I had this) seems to result in the loss of about 30% of your buildings on one planet. Compare bad with good - silicon insect swarm, discover of new resources - both raise the planet type by 1 level.<br />
+<br />
+Conversely, the reward for high honour needs to be increased in order for people to have more of an incentive for achieving high honour. There is a player on our council who is Saintly. When I tell players that, they laugh and ask WHY? As much as bod honour should result in more bad events, then high honour should result in good events. If a player has 90%+ honour they should be guaranteed a good event every day. I can see a whole change in the style of play if people think they are more likely to get a silicon insect swarm with high honour.<br />
+<br />
+<br />
+Finally, and this is a rhetorical question, why is it that when players attack for XP they ALWAYS attack the UR or R they can see, when they get the same XP for blocking a poor ? Not content with defleeting people these ***** just want to rub salt into a wound &quot;Because they can&quot;.<br />
+<br />
+Your comments please.<br />
+<br />
+Atreides						<P align=right> </P>
+					</TD>
+				</TR>
+	
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Evintor</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-01-14 19:53&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=15341"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=15336"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	We often complain that we do not get enough new players in AS. I am certain that the 50-200% attack ratio has a big effect on that. Many new players start out, and keeps on getting blocked by players 200% their power. Atreides is a good example. The ppl who hang out in #archspace will know that he is REALLY active. He has the potential to be a really good AS player, and is willing to learn. Now I believe he is thinking about quitting because of the constant blocking. <br />
+There is plenty of possible solutions to this problem. For one thing we could start out by changing the attack ratio. <br />
+I also like the idea about honor influencing the game more. Atreides is right when he claims that most ppl do not think about their honor as bad events are very rare, no matter how low your honor is.<br />
+<br />
+And if ppl wan't some free commander xp then attack the empire for Christ's sake.. There is plenty of commander xp for the taking, and if you don't wan't them to keep on attacking you back, all you need to do is donate a lot of pp. Works for me...<br />
+<br />
+			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>ave44</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-01-14 20:47&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=15342"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=15336"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Atreides, you should go and read my idea in the tread &quot;With No Honor&quot; (I don't think it so hard to code, a simple &quot;if&quot; command, or what ever similer in the code lang of AS).<br />
+<br />
+But i'm sorry to say, that I don't think it's going to happend.<br />
+The top players that use this method in order to get exp for thier commie's, do other thing that lower their honor, like transfering planet from one to each other (found it when looking for strategic moves in those players), and who know what else.<br />
+I began doing this also with my council mate becoase we saw that there is no real panishment for low honor.<br />
+We don't attack 50% of our power, but my point is that low honor is not a real threat.<br />
+<br />
+p.s don't let what happened to you, to draw the wind out of your sails, it's a good game, and it's just need a few adjustments to make it more friendly fo newbes.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Houston</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-01-14 22:28&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=15343"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=15336"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	I personnally have 0 honour, and not because I just block people 1/2 my power, I have also blocked people 80% my power, or who are 80k above me. Youa re right about events, I haven't had too many bad ones myself...Its a problem, but good solutions have to be made up...honour drops way too easily to base evertyhing on it without changing how honour is calculated (I lost 25 honour for example for test blocking a guy who was 90% my power, then attacking him)<br />
+<br />
+Houston			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Merlyon</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-01-15 00:05&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=15344"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=15336"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	The best advise for new players, is that they read carefully the manual on the main page, its a good guide, also ask often to vets, mostly we are open to help, since we like this game and want more player base, when i atack rape or block i sometimes give out an advise or offer help, for example i pick on fluffed players to blick that have less fleet power than me that shows a sure win, lets say i have 4 fleets composed of any kind of ship, go to ranking/fleet, and i see a guy with 20 fleets belowe my own power its easy to say that he has tons of crappy ships ready to get exp from, its not the nicest strategy but ill be honest thats how we mostly pick targets for exp, my best advise ALWAYS build the biggest ship you can in less than 13 turns, and the old designs either crash em into a block or test, scrap to save the comanders abd their exp, never keep old designs no matter what, maybe when u have a fleet of time wake dooms composed by 10, get rid of them when u have 6 homing black hole doom fleet, that way u keep low power and solid fleets, to be honest the attack ratio has been discussed for years, and no practical way has been found, the 200-50, is not perfect but there are some good answers to this, if the guy attacking 50% can reach you just to get exp, then u are most lekely fluffed, a ggod strategy is to station ur fleets, then if the player 50% blocks a guy 100%-150%-200% his power and wins, then the guy in 200% wasnt that good or fluffed (planets fleets are fluff), or the guy 50% was rock solid and deserves the win.Maybe AS isnt the more fair game in the net, but it has improved its manners a lot, vets are actually trying to help, and maintain new players around, i only kill players when needed or when they are a menace to me, never for his home planet.<br />
+<br />
+  Dont quit better ask around, im not a top ten player but i have good fights and have fun, thats the point right?<br />
+<br />
+                           Yesus			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>Yomin_Carr</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-01-15 00:21&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=15345"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=15336"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	I lost 4 good commanders and 19 others even when my honor is 92 (imperial commander levies). Blockading was once worse than it is now, dont forget that.<br />
+Id rather be blocked than sieged, which is the other option atm. Commie experience is too hard to get this set, i turned to attacking the empire to train my commies, but that wasnt too fruitful due to counters. Straight after two counters i was blocked, declared war on and i lost over half my planets. THAT makes rebuilding more difficult.<p><br>________________________<br />
+Nimball(tm) master!			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Achren</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-01-15 00:55&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=15346"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=15336"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	The thing is this game can't really be fun for newbies until they tech out, and by then the set could be half over.<br />
+While a lot of the problem is the 50%/200% limit, it's also the fact that newbies can't do a thing against people with stronger weapons.<br />
+Now all the &quot;pros&quot; argue that &quot;oh oh, yes you can&quot; and &quot;just learn how to play the game&quot; and such, but that is a completely pathetic and unacceptable response. Who would want to stay and learn it when they die to things they have no chance in hell of defending against. The fact that so many new players leave just proves that fact.<br />
+			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Gumpus</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-01-15 03:51&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=15350"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=15336"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	No changing the attack ratios. We have been there, done that. Ended up going back to the current system.<br />
+<br />
+The fact that it happens has been a problem for quite some time now, mostly as a consequence of the new commander exp calculations. It eliminated milking, but made the random blockade a much more prominent issue than it had been in the past.<br />
+<br />
+IMO restricting blockades to war (AND TOTAL WAR!) status would be the most sensible solution. Much as I know who will protest it and what their arguments will be, but a blockade is a hostile action, it kills your enemy's army. Raid, a far less harmful op, was restricted to war status, so why not blockade as well?<br />
+<br />
+As a compromise, perhaps making blockading fleets only engage stationed fleets on the planet being blockaded, rather than engaging the standby fleets - this would certainly cut down on the block for exp, but the usefulness of stopping a planet's production would remain.<br />
+<br />
+On a side note, WHY CAN I STILL NOT RAID ANYONE WHO I AM AT TOTAL WAR WITH!!! This is an oversight left over from the mari days, I can't believe no one has fixed it yet!			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>darkelf</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-01-15 04:16&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=15352"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=15336"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	I get plenty of bad events -_- and I have 63 honor. When I block someone I block someone 200% of my power, not 50% I like a challenge, not like the other vets who are too afraid...but mostly now I play with empire. Attack range -- nix that idea. Not gonna happen. blockading to war -- makes sense. Raid doesn't work with total war? *adds to his list* um um um. Yeah more bad events will be made, no worries. and I woudl like to quote drjekyl &quot;I just got the fucking worst event&quot; Dockside Sabotage owns you. You lose all ships in your pool and uh if I think of anything else I will stab it with a spoon<p><br>__________________________________________________<br />
+<br />
+-Iunno my council. Some dumb name most likely.<br />
+-Waspinator (#193)<br />
+-Archspace Balance Developer			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Boomer</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-01-15 08:13&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=15356"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=15336"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Yup, that pretty much sums up my feelings last set darkelf, although i would like to make a  minor change to the phrase, i believe i said, &quot; this is the worst goddamn fucking event ever&quot;. lol. 			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Nighty</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-01-15 09:02&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=15357"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=15336"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	weee... I'm kinda sleepy, so I'm really not gonna read the above. I had an idea recently though, that might prove a very attractive solution to this issue. Initially, when setting your defense plan in Archspace, there existed a large number of options. You could set a number of different customized defense plans which would activate depending on various criteria. For example, you could set different defense plans for different races attacks you. You could also set different defense plans for the different attack types (i.e. you could set different d.plans for defending against blockades and seiges). If I remember correctly, you could set d.plans also according to the power of the attacker with respect to your own, as a percentage. And lastly, if you weren't the type to go into such complications, you could set a generic d.plan which would defend against every attack, or rather, every attack type which doesnt satisfy the criteria of any specific d.plans you may have activated. <br />
+<br />
+Now, I'm pretty sure that some of these options used to work, though maybe not all. Last year, the Defense Plan page in AS, was changed to allow only setup of your generic plan, without the ability to choose those other specialised d.plan options. An easy way to prevent the damage of blockades, is to allow players to set an empty d.plan for blockades. While having their main fleets defending properly against seiges. Thus, people will no longer be continuously losing their fleets to the rank 1 council which dominates and persistantly blockades everyone's fleet power to hell. If they choose to set an empty d.plan for blockades, the enemy will still get the opportunity to cut off the production of those planets that they blockade, however the effect of blockades on attacking players at 50% of one's power, is reduced, as those smaller players have the ability, if they so wish to hide their fleets from blockades, but still defend from actual planet seiging attacks. <br />
+<br />
+So yar, reinstate the old d.plan options, with the added ability to choose empty d.plans for specific conditions. And it'll largely solve that problem. And yar, it'll also add a bunch of strategy. I like to use different designs/tactics vs different races. I know some people who would prefer not to go vs NRL against xerusians and thus may like to have empty d.plans against xeru blockades or even bosalian blockades etc etc.. Also, it'd make scouting more difficult, as you'd have to be directly in war to actually see what fleets the enemy may have. <br />
+<br />
+Nightshade, <br />
+TE Shadow Member. <br />
+(heh.. too lazy to read the above, but i still wrote so much.. *sigh* shoot me aye? or maybe someone should post this in the 'suggestions forum' for me?)			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>hectortroy</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-01-15 09:35&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=15358"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=15336"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	One solution: Limit range to 2/3 - 3/2 . Fair enough ain't it?<br />
+<br />
+Atreides, it's not true that people always block the r/ur. Personally, i block the first planet it see or any UP. =P			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Poni</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-01-15 09:48&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=15359"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=15336"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	cba tbfh ktp peeps			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Poni</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-01-15 09:50&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=15360"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=15336"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	oh and jekyl want to rape poor Poni<br />
+ktp			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>PoGo</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-01-15 11:29&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=15364"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=15336"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	If I see my buddy in my council going down or getting blockaded frequently I help him out, and yes I will blockade the other person even if they are at 50% of my power. Just as other people blockade me, and Im 50% of their power. I have been recently blocked a couple of times by people double my power. Lets face it, a lot of people do it in Archspace. My honor is 87 so I dont do it often just so people know, but who doesnt help out a friend?  As long as people can do it they will.<br />
+<br />
+As far as the attack range people want to change it to a level thats to tight. 80-200 is to tight.  I think even if you brought up the bottom range to 65% you would see a difference. But I don't think its going to happen. <br />
+<br />
+I like Nighty's anwser the best. If we had more defense options I think it would help. We could plan for different attacks but I dont know how hard it would be to code. This would help.  			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>splinter</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-01-15 13:28&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=15365"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=15336"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	I think Honor should play a bigger role. Like resricting allies and pacts as someones honor drops. I mean isn't that what honor is, they other ppls are supose to see you. People with no honor have no concept of friend. Resricting how many planets get commerced out to one person would be nice too. 			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>talamioros</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-01-15 20:46&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=15368"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=15336"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	I like Nighty's answer best, too. Makes the most sense...although I realize that it'd be more hell on the devs. *sheepish look* But if it's programmable or something, then yeah, it would be a great option (can't count how many times I've lost my whole armada to random blockades).<p><br>Rhaegar fought bravely.<br />
+Rhaegar fought honourably.<br />
+Rhaegar fought by the rules.<br />
+<br />
+And Rhaegar died.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>aaaandre</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-01-16 00:43&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=15372"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=15336"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	i agree with Nighty, should bring back the old defense plan.<br />
+<br />
+but i also personaly feel that honor and events just make the game more random, should all be removed, this is a war game, a team war game. not fucking sim city.<p><br>----------------------------------<br />
+- aaaandre tha happy boy<br />
+- the keeper of joy and happiness.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Santa</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-01-16 04:39&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=15373"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=15336"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Ben got a snakebite<br />
+Jill fell of the back of the wagon<br />
+2 oxen have died<br />
+Your archaeologists discover the remains of a highly advanced civilization on one of your planets.<p><br>____________________________<br />
+When did I realize I was God? Well, I was praying and I suddenly realized I was talking to myself.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>stalin</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-01-16 05:21&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=15377"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=15336"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	This is my first set playing in a while and before I never invaded the  empire.  I have read through all the manuals in the threads and I found that attacking the empire was a daunting thought.  I agree with bring back the old system of d-plans but making blockades during war ONLY if it was made more apparent that you dont have to have a huge ass amount of dooms to attack the empire.  I had to do some guessing and I discovered the empire battle reports which made me realize that it wasnt as hard as I thought.  I think that this should be better known knowledge in teh manual though with warnings of counter attacks and all that.  Hell, the manual mentions the empire only twice, I know that its supposed to stay a bit secret on their power but how will n00bs ever learn about it, especially when they keep being blockaded so they dont have power to attack.<p><br>Sign Petition against FCC!  http://www1.stopfcc.com/			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Cypherus</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-01-16 07:37&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=15379"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=15336"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	No, no, no, no, no. No restricting the attack limit. It's fucking gay, and you'd all agree with me after a single set of playing with it. You hit someone, and they drop below your range, making you incapable of sieging any more but one of the planets you just lost ships for. If you play in a council with more random players too, and less active players, they eat up the planets you worked for, and then just feed your fucking enemy shortly afterwards. And most people don't like to give up the URs they siege, even if they don't deserve them, so don't expect them to be too overjoyed and willing when you ask them to fluff up and hand over some URs to you.<br />
+<br />
+Another potential solution would be limiting the range on blockades out of war. Fixing the fucking honor loss for blockading in war would be fucking nice too. :/<br />
+<br />
+But I think nighty's solution is the ideal and a nice addition to AS.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>darkelf</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-01-16 08:15&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=15382"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=15336"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	We will NOT restrict attack ranges, however i personally agree with nighty 100%<p><br>__________________________________________________<br />
+<br />
+-Ascension (#950)<br />
+-ASC Empire Killah!<br />
+-Archspace Balance Developer			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>szelij</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-01-16 11:53&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=15385"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=15336"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	I totally agree with Nighty, DUDE I WANT THE OLD DEFENSE PLANS BACK!! <br />
+<br />
+It'd be a great advantage...yeah i think that would solve the blockade thingy.<br />
+<br />
+As for the UR/R thing, i'm guilty of that too...i dont know, i tink its the primitive *destroy, conquer* cavemen in me =)<p><br>Go, passer-by, and tell the world<br />
+That we perished in the cause,<br />
+Faithful to our orders.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>AlDjotte</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-01-17 02:46&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=15397"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=15336"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	I think my suggestion on the suggestion board would help !<br />
+I suggest there making HBHs shorter range than other weapons, so you don't get someone x2 your size blockading you with HBH armed ships and taking 0% casualties without the defender even getting to fire.<br />
+<br />
+If you were sure to lose ships every time you blockaded even with numerical superiority, by giving the defender some advantages, people would be less willing to gratuitously blockade			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>szelij</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-01-17 13:02&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=15414"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=15336"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	HBH are missiles and are supposed to be &quot;Homing&quot;. Logically they'd have a larger range...<p><br>Go, passer-by, and tell the world<br />
+That we perished in the cause,<br />
+Faithful to our orders.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>talamioros</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2005-01-17 17:07&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=15415"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=15336"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	On the other hand, that's what fodder fleets are for.<p><br>Rhaegar fought bravely.<br />
+Rhaegar fought honourably.<br />
+Rhaegar fought by the rules.<br />
+<br />
+And Rhaegar died.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+			<TR>
+			<TD></td>
+			<td align=center></TD>
+			</TR>
+				</table>
+			</td>
+		</tr>
+		</table>	
+	</td>
+</tr>
+</table>
+<center><b><A href="reply.php?board=player&id=15336">Post a Reply</A></b></center>
+		<TABLE width="95%" border=0>
+		  <TR>
+			<TD colSpan=2><BR>
+						  </TD></TR>
+		  <TR>
+			<TD>
+					    </TD>
+		  </TR>
+		  </TABLE>
+
+
+<BR><B><A href="/contact.php">Contact Us</A> | 
+<A href="http://www.archspace.org/" target=_top>Archspace</A> </B>
+<P>
+<P>Powered by MindBB v2.0<BR><BR></CENTER></P>
+</BODY></HTML>

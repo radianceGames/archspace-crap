@@ -1,0 +1,882 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Style-Type" content="text/css">
+
+<link rel="top" href="./index.php?sid=2941e4513d77379547d3dc325eba3995" title="Archspace Forum Index" />
+<link rel="search" href="./search.php?sid=2941e4513d77379547d3dc325eba3995" title="Search" />
+<link rel="help" href="./faq.php?sid=2941e4513d77379547d3dc325eba3995" title="FAQ" />
+<link rel="author" href="./memberlist.php?sid=2941e4513d77379547d3dc325eba3995" title="Memberlist" />
+<link rel="prev" href="viewtopic.php?t=563&amp;view=previous&amp;sid=2941e4513d77379547d3dc325eba3995" title="View previous topic" />
+<link rel="next" href="viewtopic.php?t=563&amp;view=next&amp;sid=2941e4513d77379547d3dc325eba3995" title="View next topic" />
+<link rel="up" href="viewforum.php?f=5&amp;sid=2941e4513d77379547d3dc325eba3995" title="Suggestion Board" />
+<link rel="chapter forum" href="viewforum.php?f=1&amp;sid=2941e4513d77379547d3dc325eba3995" title="News" />
+<link rel="chapter forum" href="viewforum.php?f=13&amp;sid=2941e4513d77379547d3dc325eba3995" title="Change Log" />
+<link rel="chapter forum" href="viewforum.php?f=3&amp;sid=2941e4513d77379547d3dc325eba3995" title="Player Board" />
+<link rel="chapter forum" href="viewforum.php?f=4&amp;sid=2941e4513d77379547d3dc325eba3995" title="Bug Board" />
+<link rel="chapter forum" href="viewforum.php?f=5&amp;sid=2941e4513d77379547d3dc325eba3995" title="Suggestion Board" />
+<link rel="chapter forum" href="viewforum.php?f=8&amp;sid=2941e4513d77379547d3dc325eba3995" title="Help Board" />
+<link rel="chapter forum" href="viewforum.php?f=11&amp;sid=2941e4513d77379547d3dc325eba3995" title="Recruiting" />
+<link rel="chapter forum" href="viewforum.php?f=12&amp;sid=2941e4513d77379547d3dc325eba3995" title="Community Art and Literature" />
+<link rel="chapter forum" href="viewforum.php?f=9&amp;sid=2941e4513d77379547d3dc325eba3995" title="Politics/Religion Forum" />
+<link rel="chapter forum" href="viewforum.php?f=14&amp;sid=2941e4513d77379547d3dc325eba3995" title="Archspace 2.0" />
+<link rel="chapter forum" href="viewforum.php?f=15&amp;sid=2941e4513d77379547d3dc325eba3995" title="Programming" />
+
+<title>Archspace :: View topic - Serious War Problem</title>
+<link rel="stylesheet" href="templates/SpacePilot3K/SpacePilot3K.css" type="text/css">
+<body bgcolor="#000000" text="#DDDDDD" link="#8BC7FF" vlink="#5493B4">
+
+
+
+<script language="Javascript" type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+</script>
+
+
+
+<script language="Javascript" type="text/javascript">
+<!--
+function rollover(name, source)  {
+
+  document.images[name].src = source;
+
+}
+//-->
+</script>
+
+<script language="JavaScript" src="templates/SpacePilot3K/fade.js"></script>
+
+<!-- SNOW CRAP !-->
+<script>
+// Set the number of snowflakes (more than 30 - 40 not recommended)
+var snowmax=14
+
+// Set the colors for the snow. Add as many colors as you like
+var snowcolor=new Array("#aaaacc","#ddddFF","#ccccDD")
+
+// Set the fonts, that create the snowflakes. Add as many fonts as you like
+var snowtype=new Array("Arial Black","Arial Narrow","Times","Comic Sans MS")
+
+// Set the letter that creates your snowflake (recommended:*)
+var snowletter="*" // (use "*" for snow flakes)
+
+// Set the speed of sinking (recommended values range from 0.3 to 2)
+var sinkspeed=0.5
+
+// Set the maximal-size of your snowflaxes
+var snowmaxsize=30
+
+// Set the minimal-size of your snowflaxes
+var snowminsize=10
+
+// Set the snowing-zone
+// Set 1 for all-over-snowing, set 2 for left-side-snowing
+// Set 3 for center-snowing, set 4 for right-side-snowing
+var snowingzone=1
+
+///////////////////////////////////////////////////////////////////////////
+// CONFIGURATION ENDS HERE
+///////////////////////////////////////////////////////////////////////////
+
+
+// Do not edit below this line
+var snow=new Array()
+var marginbottom
+var marginright
+var timer
+var i_snow=0
+var x_mv=new Array();
+var crds=new Array();
+var lftrght=new Array();
+var browserinfos=navigator.userAgent
+var ie5=document.all&&document.getElementById&&!browserinfos.match(/Opera/)
+var ns6=document.getElementById&&!document.all
+var opera=browserinfos.match(/Opera/)
+var browserok=ie5||ns6||opera
+
+function randommaker(range) {
+   rand=Math.floor(range*Math.random())
+    return rand
+}
+
+function initsnow() {
+   if (ie5 || opera) {
+      marginbottom = document.body.clientHeight
+      marginright = document.body.clientWidth
+   }
+   else if (ns6) {
+      marginbottom = window.innerHeight
+      marginright = window.innerWidth
+   }
+   var snowsizerange=snowmaxsize-snowminsize
+   for (i=0;i<=snowmax;i++) {
+      crds[i] = 0;
+       lftrght[i] = Math.random()*15;
+       x_mv[i] = 0.03 + Math.random()/10;
+      snow[i]=document.getElementById("s"+i)
+      snow[i].style.fontFamily=snowtype[randommaker(snowtype.length)]
+      snow[i].size=randommaker(snowsizerange)+snowminsize
+      snow[i].style.fontSize=snow[i].size
+      snow[i].style.color=snowcolor[randommaker(snowcolor.length)]
+      snow[i].sink=sinkspeed*snow[i].size/5
+      if (snowingzone==1) {snow[i].posx=randommaker(marginright-snow[i].size)}
+      if (snowingzone==2) {snow[i].posx=randommaker(marginright/2-snow[i].size)}
+      if (snowingzone==3) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/4}
+      if (snowingzone==4) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/2}
+      snow[i].posy=randommaker(2*marginbottom-marginbottom-2*snow[i].size)
+      snow[i].style.left=snow[i].posx
+      snow[i].style.top=snow[i].posy
+   }
+   movesnow()
+}
+
+function movesnow() {
+   for (i=0;i<=snowmax;i++) {
+      crds[i] += x_mv[i];
+      snow[i].posy+=snow[i].sink
+      snow[i].style.left=snow[i].posx+lftrght[i]*Math.sin(crds[i]);
+      snow[i].style.top=snow[i].posy
+
+      if (snow[i].posy>=marginbottom-2*snow[i].size || parseInt(snow[i].style.left)>(marginright-3*lftrght[i])){
+         if (snowingzone==1) {snow[i].posx=randommaker(marginright-snow[i].size)}
+         if (snowingzone==2) {snow[i].posx=randommaker(marginright/2-snow[i].size)}
+         if (snowingzone==3) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/4}
+         if (snowingzone==4) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/2}
+         snow[i].posy=0
+      }
+   }
+   var timer=setTimeout("movesnow()",50)
+}
+
+for (i=0;i<=snowmax;i++) {
+   document.write("<span id='s"+i+"' style='position:absolute;top:-"+snowmaxsize+"'>"+snowletter+"</span>")
+}
+if (browserok) {
+   window.onload=initsnow
+}
+</script>
+<!-- End of Snow crap !-->
+
+</head>
+<body />
+
+<a name="top"></a>
+
+<table width="100%" cellspacing="0" cellpadding="10" border="0" align="center">
+	<tr>
+		<td align="center">
+			<script type="text/javascript"><!--
+			google_ad_client = "pub-9347639997854244";
+			google_ad_width = 728;
+			google_ad_height = 90;
+			google_ad_format = "728x90_as";
+			google_ad_type = "image";
+			google_ad_channel ="";
+			google_color_border = "6699CC";
+			google_color_bg = "003366";
+			google_color_link = "FFFFFF";
+			google_color_url = "AECCEB";
+			google_color_text = "AECCEB";
+			//--></script>
+			<script type="text/javascript"
+			  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+			</script>
+		</td>
+	</tr>
+	<tr>
+		<td class="bodyline"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+			<tr>
+				<td><a href="index.php?sid=2941e4513d77379547d3dc325eba3995"><span class="maintitle"><img src="templates/SpacePilot3K/images/logo_sp3k.gif" border="0" alt="Archspace Forum Index" vspace="1" /></span></a></td>
+				<td align="center" width="100%" valign="middle"><span class="maintitle">Archspace</span><br /><span class="gen">Archspace Forums<br />&nbsp; </span>
+				<table cellspacing="0" cellpadding="2" border="0">
+					<tr>
+						<td align="center" valign="top" nowrap="nowrap"><span class="mainmenu">&nbsp;<a href="faq.php?sid=2941e4513d77379547d3dc325eba3995" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_faq.gif" width="14" height="14" border="0" alt="FAQ" hspace="3" />FAQ</a></span><span class="mainmenu">&nbsp; &nbsp;<a href="search.php?sid=2941e4513d77379547d3dc325eba3995" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_search.gif" width="14" height="14" border="0" alt="Search" hspace="3" />Search</a>&nbsp; &nbsp;<a href="memberlist.php?sid=2941e4513d77379547d3dc325eba3995" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_members.gif" width="14" height="14" border="0" alt="Memberlist" hspace="3" />Memberlist</a>&nbsp; &nbsp;<a href="groupcp.php?sid=2941e4513d77379547d3dc325eba3995" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_groups.gif" width="14" height="14" border="0" alt="Usergroups" hspace="3" />Usergroups</a>&nbsp;
+						&nbsp;<a href="profile.php?mode=register&amp;sid=2941e4513d77379547d3dc325eba3995" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_register.gif" width="14" height="14" border="0" alt="Register" hspace="3" />Register</a></span>&nbsp;
+						</td>
+					</tr>
+					<tr>
+						<td height="25" align="center" valign="top" nowrap="nowrap"><span class="mainmenu">&nbsp;<a href="profile.php?mode=editprofile&amp;sid=2941e4513d77379547d3dc325eba3995" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_profile.gif" width="14" height="14" border="0" alt="Profile" hspace="3" />Profile</a>&nbsp; &nbsp;<a href="privmsg.php?folder=inbox&amp;sid=2941e4513d77379547d3dc325eba3995" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_message.gif" width="14" height="14" border="0" alt="Log in to check your private messages" hspace="3" />Log in to check your private messages</a>&nbsp; &nbsp;<a href="login.php?sid=2941e4513d77379547d3dc325eba3995" class="mainmenu"><img src="templates/SpacePilot3K/images/icon_mini_login.gif" width="14" height="14" border="0" alt="Log in" hspace="3" />Log in</a>&nbsp;</span></td>
+					</tr>
+				</table></td>
+			</tr>
+		</table>
+
+		<br />
+
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0">
+  <tr>
+	<td align="left" valign="bottom" colspan="2"><a class="maintitle" href="viewtopic.php?t=563&amp;start=30&amp;postdays=0&amp;postorder=asc&amp;highlight=&amp;sid=2941e4513d77379547d3dc325eba3995">Serious War Problem</a><br />
+	  <span class="gensmall"><b>Goto page  <a href="viewtopic.php?t=563&amp;postdays=0&amp;postorder=asc&amp;start=15&amp;sid=2941e4513d77379547d3dc325eba3995">Previous</a>&nbsp;&nbsp;<a href="viewtopic.php?t=563&amp;postdays=0&amp;postorder=asc&amp;start=0&amp;sid=2941e4513d77379547d3dc325eba3995">1</a>, <a href="viewtopic.php?t=563&amp;postdays=0&amp;postorder=asc&amp;start=15&amp;sid=2941e4513d77379547d3dc325eba3995">2</a>, <b>3</b></b><br />
+	  &nbsp; </span></td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0">
+  <tr>
+	<td align="left" valign="bottom" nowrap="nowrap"><span class="nav"><a href="posting.php?mode=newtopic&amp;f=5&amp;sid=2941e4513d77379547d3dc325eba3995" onMouseOver="rollover('top_newtopic','templates/SpacePilot3K/images/lang_english/post_on.gif');" onMouseOut="rollover('top_newtopic','templates/SpacePilot3K/images/lang_english/post_off.gif');"><img name="top_newtopic" src="templates/SpacePilot3K/images/lang_english/post_off.gif" border="0" alt="Post new topic" align="middle"/></a>&nbsp;&nbsp;&nbsp;<a href="posting.php?mode=reply&amp;t=563&amp;sid=2941e4513d77379547d3dc325eba3995" onMouseOver="rollover('top_postreply','templates/SpacePilot3K/images/lang_english/reply_on.gif');" onMouseOut="rollover('top_postreply','templates/SpacePilot3K/images/lang_english/reply_off.gif');"><img name="top_postreply" src="templates/SpacePilot3K/images/lang_english/reply_off.gif" border="0" alt="Reply to topic" align="middle" /></a></span></td>
+	<td align="left" valign="middle" width="100%"><span class="nav">&nbsp;&nbsp;&nbsp;<a href="index.php?sid=2941e4513d77379547d3dc325eba3995" class="nav">Archspace Forum Index</a>
+	  -> <a href="viewforum.php?f=5&amp;sid=2941e4513d77379547d3dc325eba3995" class="nav">Suggestion Board</a></span></td>
+  </tr>
+</table>
+
+<table class="forumline" width="100%" cellspacing="1" cellpadding="3" border="0">
+	<tr align="right">
+		<td class="catHead" colspan="2" height="28"><span class="nav"><a href="viewtopic.php?t=563&amp;view=previous&amp;sid=2941e4513d77379547d3dc325eba3995" class="cattitle">View previous topic</a> :: <a href="viewtopic.php?t=563&amp;view=next&amp;sid=2941e4513d77379547d3dc325eba3995" class="cattitle">View next topic</a> &nbsp;</span></td>
+	</tr>
+	
+	<tr>
+		<th class="thLeft" width="150" height="26" nowrap="nowrap">Author</th>
+		<th class="thRight" nowrap="nowrap">Message</th>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="75231"></a><b>The Punisher</b></span><br /><span class="postdetails">Newbie<br /><br /><br />Joined: 09 Jun 2006<br />Posts: 28<br /></span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=75231&amp;sid=2941e4513d77379547d3dc325eba3995#75231"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Fri Jun 16, 2006 2:31 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=75231&amp;sid=2941e4513d77379547d3dc325eba3995"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">And that way everybody wins...your aggressor is happy cause he made you lose a planet and it didnt even cost him/her one ship to do it..youre happy...all your fleets are intact...a little less pp but hey its a better option.And also your aggressor doesnt get the planet...the old If i cant have it nobody will type thing.
+<br />
+
+<br />
+Sure your aggressor could sack planets too to drop again and back and forth...but the question is really this.
+<br />
+
+<br />
+How pissed off at you is he/she?
+<br />
+
+<br />
+Would they really destroy 5 planets to smash someone half their power when they could get someone else to do it?
+<br />
+
+<br />
+And how many planets are you willing to sacrifice to save your fleets?</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=11605&amp;sid=2941e4513d77379547d3dc325eba3995"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=11605&amp;sid=2941e4513d77379547d3dc325eba3995"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="75242"></a><b>smartguy</b></span><br /><span class="postdetails">Fat Commerce Whore<br /><img src="images/avatars/167577545343335283b331f.gif" alt="" border="0" /><br /><br />Joined: 05 Aug 2005<br />Posts: 1299<br />Location: Indiana</span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=75242&amp;sid=2941e4513d77379547d3dc325eba3995#75242"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Fri Jun 16, 2006 3:09 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=75242&amp;sid=2941e4513d77379547d3dc325eba3995"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody"></span><table width="90%" cellspacing="1" cellpadding="3" border="0" align="center"><tr> 	  <td><span class="genmed"><b>Alverik wrote:</b></span></td>	</tr>	<tr>	  <td class="quote">yeah i think the same thing, its annoying that suddenly someone declares war and attack all they want and when you log in you have lost several planets and lost more than half your networth, i think the war system should be more like the one utopia (by swirve) has, there war is like a mutual agreement between kings (that would be the speakers here) and also some requirements have to apply so there can be war like there been agression for some period before actually entering war (of course battles in utopia are based on statistics, number of defense an offense and additional spells and other building bonuses) also there used to be a war meter were depending on the attack number and land grabs it goes higher and theres a moment one of the two guilds will win, the winner will get honor, and after war theres a cease fire period wich last some days, also theres the possibilty to withdraw in war, AND you get less winnings from an already hit or severally hit player, so is best to attack someone not gangbanged AND also you get more winnings when you attack an enemy in a council you are at war with, and maybe someone disabled should enter protection for sometime or something.
+<br />
+
+<br />
+also i dont like the fact that practically the battle is defined by ship size and weapons and that the fleets have very few possible orders, the programmer should study some war tactics, also it would be great if fleets could be made of different kinds of ships instead of only one, or it would be even greater if old ships could be upgraded (ie. upgrading shield systems, weapons and devices, and maybe armor except eternium) at a cost of course (time and pp), and obviously you'd need to add new characteristics to the ships armors (like ie. plating armor, once piece armor, etc.) obviously the one piece armor would be impossible to upgrade, but an armor made of plates can be.
+<br />
+
+<br />
+also there should be a greater number of buildings, for example shipyards would be able to produce a number of ships at a time thus lowering the build rate to control the number of ships owned by the players, planet shield systems so ships would need to breach the shield too, also it doesnt make much sense that people inside a planet will give up just cause the fleet is destroyed (at least not alwasy, maybe there should be a moral modifier for them) i bet peole would fight inside having an army and land defenses, and you would need an army to  take control tottaly of the planet (you would control the number of troos in every ship depending on the size) cause i dont think the biggest fleets would fire at the planet, who needs a planet that is been bombarded to desertness (doom stars bombarding a planet would probably destroy it xD) this facts would make the battle a real siege, also there should be more buildings wich involved the people in the planets like buildings to make them happier and tus makeing them more efficient or hard workers and others for the control of the people, and comerce between your own planets should probably exist, its just what probably would in reality.
+<br />
+
+<br />
+also the network should be calculated by planet number, fleet numbers and i think technology should be counted in too so someone with way too many fleets and ships cant attack someone defenseless.  
+<br />
+
+<br />
+wow, sorry i talked too much, i know some of this are exagerated but i hope you get ideas, mean while you fix the war issues im thinking of retiring, sorry but i dont much like games that are a kinda unfair for the non veteran players.</td>	</tr></table><span class="postbody">
+<br />
+
+<br />
+Well Utopia is considered a pretty lame game, considering it's very slow and subject to tons of stipulations.  AS is built on a much more fast-paced approach.  But a lot of your suggestions are already built in.  Players do fall into protection after they've lost 70% of their planets.  Can that be improved?  Probably, but no one can agree on the best way to do it.  
+<br />
+
+<br />
+Battle is not determined based on ship size and tech, it's actually determined by who can best exploit their power.  Smaller ships are much more efficient firepower:cost wise, and so it is better to swarm Battleships with cruisers early on.  Hell, cruiser rushes against doom fleets are still good, too, assuming you have commanders or the friendly support structure to do so.  
+<br />
+
+<br />
+Why create more buildings?  There are other ways to do everything you want.  Want to build ships faster?  More factories, more +production attributes, better quality planets (ultra rich being the best for production).  Better growth?  Get planets with +growth attributes (though that's just silly).  Better research?  Better research attributes and more labs.  
+<br />
+
+<br />
+Ships do have to breach planetary defenses, which is why if you send too small of a fleet, it might be destroyed by the planet.  However, if you read the planet battle stuff, it usually will say you committed a genocide on that planet and transplanted people from elsewhere in your empire.  
+<br />
+
+<br />
+And you keep your people happy by investing in the planet.  By investing, you're effectively making the people happier, terraforming faster, building faster, and producing more.<br />_________________<br />Death to the unbelievers, and some such stuff.
+<br />
+
+<br />
+Proud member of WD and WD-Maddogs, MK, CN, NC, and AGOD.</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=10&amp;sid=2941e4513d77379547d3dc325eba3995"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=10&amp;sid=2941e4513d77379547d3dc325eba3995"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <a href="profile.php?mode=viewprofile&amp;u=10&amp;sid=2941e4513d77379547d3dc325eba3995"><img src="templates/SpacePilot3K/images/lang_english/icon_msnm.gif" alt="MSN Messenger" title="MSN Messenger" border="0" /></a><script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="80556"></a><b>jaem</b></span><br /><span class="postdetails">Vet<br /><br /><br />Joined: 16 Apr 2006<br />Posts: 305<br /></span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=80556&amp;sid=2941e4513d77379547d3dc325eba3995#80556"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Wed Jul 19, 2006 2:55 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=80556&amp;sid=2941e4513d77379547d3dc325eba3995"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">its good that the 48 hour war is implemented but players will just transfer to a new council and that council declares on you again with the same players.</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=10284&amp;sid=2941e4513d77379547d3dc325eba3995"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=10284&amp;sid=2941e4513d77379547d3dc325eba3995"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="95595"></a><b>nitrogen</b></span><br /><span class="postdetails">Forum Whore in Training<br /><img src="http://img155.imageshack.us/img155/882/sephirothmh4.gif" alt="" border="0" /><br /><br />Joined: 26 Aug 2006<br />Posts: 688<br />Location: River Styx, Hell</span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=95595&amp;sid=2941e4513d77379547d3dc325eba3995#95595"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Wed Nov 01, 2006 11:44 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: i love the way it is</span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=95595&amp;sid=2941e4513d77379547d3dc325eba3995"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody"></span><table width="90%" cellspacing="1" cellpadding="3" border="0" align="center"><tr> 	  <td><span class="genmed"><b>jaem wrote:</b></span></td>	</tr>	<tr>	  <td class="quote">its good that the 48 hour war is implemented but players will just transfer to a new council and that council declares on you again with the same players.</td>	</tr></table><span class="postbody">
+<br />
+
+<br />
+-yes because playing AS is an art... i really love the way it is, like if my council declared on your council and you bribed the empire (coward players!) just to bail out on the war, i will simply go out of my council and declare war on you then so that i can still rape you or even kill you... if you bribe the empire again i will simply merge in with my mother council back and declare independence again to hunt you... of which that will make me evil... and i love it the way it is. <img src="images/smiles/icon_twisted.gif" alt="Twisted Evil" border="0" /><br />_________________<br /><a href="http://imageshack.us" target="_blank" class="postlink"><img src="http://img222.imageshack.us/img222/3749/shermiegp7.gif" border="0" /></a>
+<br />
+I live to die not on the other day but on the next day preceeding the other day after tommorow
+<br />
+<span style="font-size: 16px; line-height: normal"><span style="color: red"><span style="font-weight: bold">-Gix Armadelites</span></span></span>
+<br />
+<span style="font-size: 16px; line-height: normal"><span style="color: green"><span style="font-weight: bold">-Nitrogen</span></span></span>
+<br />
+<span style="font-size: 16px; line-height: normal"><span style="color: blue"><span style="font-weight: bold">-Uchiha Sasuke</span></span></span>
+<br />
+GA IA CR GR</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=13822&amp;sid=2941e4513d77379547d3dc325eba3995"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=13822&amp;sid=2941e4513d77379547d3dc325eba3995"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>  <a href="http://www.tankuloy@yahoo.com" target="_userwww"><img src="templates/SpacePilot3K/images/lang_english/icon_www.gif" alt="Visit poster's website" title="Visit poster's website" border="0" /></a>  <a href="http://edit.yahoo.com/config/send_webmesg?.target=tankuloy&amp;.src=pg"><img src="templates/SpacePilot3K/images/lang_english/icon_yim.gif" alt="Yahoo Messenger" title="Yahoo Messenger" border="0" /></a> <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="95623"></a><b>Talon</b></span><br /><span class="postdetails">Normal<br /><img src="images/avatars/8403575304455c8cfe16c9.gif" alt="" border="0" /><br /><br />Joined: 21 Apr 2006<br />Posts: 178<br />Location: Indiana</span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=95623&amp;sid=2941e4513d77379547d3dc325eba3995#95623"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Thu Nov 02, 2006 8:15 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=95623&amp;sid=2941e4513d77379547d3dc325eba3995"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Well for one it will take you 24 hours to merge with your council after declaring independence.  I also Like hippie hunters idea of a dynamic equation to determine when the war should end rather than a set time.  Perhaps you could make it so that if the system times out a war then each player is banned from declaring on this council for X amount of time.  Perhaps decided by the amount of damage his or her council (at the time) did on the given council.  Store this at a player level so that each player can not re-declare as opposed to the council as a whole.  The side effect of this would be that  the council being attacked would have to stay together for this to take effect.  If they run out of their council then they are open to be re-declared upon.
+<br />
+
+<br />
+This should detour people from running from their council.
+<br />
+This should detour people from leaving their council just to declare again.
+<br />
+This should prevent the more powerfull councils from ruining the game for the smaller ones.
+<br />
+
+<br />
+Am i missing anything?<br />_________________<br />"Those who are skilled in combat do not become angered, those who are skilled at winning do not become afraid.  Thus the wise win before they fight while the ignorant fight to win."  --Zhuge Liang
+<br />
+
+<br />
+<img src="http://www.junk.ws/halo2/sig/Midnight%2039/sig7.jpg" border="0" />
+<br />
+
+<br />
+<a href="http://eog.myfastforum.org/" target="_blank" class="postlink"> Echoes of Genocide</a></span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=10426&amp;sid=2941e4513d77379547d3dc325eba3995"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=10426&amp;sid=2941e4513d77379547d3dc325eba3995"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="95658"></a><b>nitrogen</b></span><br /><span class="postdetails">Forum Whore in Training<br /><img src="http://img155.imageshack.us/img155/882/sephirothmh4.gif" alt="" border="0" /><br /><br />Joined: 26 Aug 2006<br />Posts: 688<br />Location: River Styx, Hell</span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=95658&amp;sid=2941e4513d77379547d3dc325eba3995#95658"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Thu Nov 02, 2006 7:52 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: yeah 2 things</span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=95658&amp;sid=2941e4513d77379547d3dc325eba3995"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">yeah missed two things - its the title of your statement which when simplified means "I WANT TO RUN AND HIDE, I DONT WANT YOU GUYS ATTACKING ME ANYMORE! GO AWAY".... and 2nd is you should name your council "dont hit us!" and slogan like "mercy! mercy! we hate war! go away!"...
+<br />
+
+<br />
+24hr limit for merging is already a crap for me if im after somebody... what i do if i want someone badly is have another ally of mine join my council and make him speaker then declare independence again to hunt my target and my ally will be on his own merging with our mother council... im after the kill if im so pissed off with someone...
+<br />
+
+<br />
+why is it that some players wants peace rather than war? AS is a war game and it really sucks big time if you cant go to war and deal damage or even get to kill someone in-game! what is the purpose of playing war games such as AS if you dont like wars anyway? <img src="images/smiles/icon_rolleyes.gif" alt="Rolling Eyes" border="0" /><br />_________________<br /><a href="http://imageshack.us" target="_blank" class="postlink"><img src="http://img222.imageshack.us/img222/3749/shermiegp7.gif" border="0" /></a>
+<br />
+I live to die not on the other day but on the next day preceeding the other day after tommorow
+<br />
+<span style="font-size: 16px; line-height: normal"><span style="color: red"><span style="font-weight: bold">-Gix Armadelites</span></span></span>
+<br />
+<span style="font-size: 16px; line-height: normal"><span style="color: green"><span style="font-weight: bold">-Nitrogen</span></span></span>
+<br />
+<span style="font-size: 16px; line-height: normal"><span style="color: blue"><span style="font-weight: bold">-Uchiha Sasuke</span></span></span>
+<br />
+GA IA CR GR</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=13822&amp;sid=2941e4513d77379547d3dc325eba3995"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=13822&amp;sid=2941e4513d77379547d3dc325eba3995"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>  <a href="http://www.tankuloy@yahoo.com" target="_userwww"><img src="templates/SpacePilot3K/images/lang_english/icon_www.gif" alt="Visit poster's website" title="Visit poster's website" border="0" /></a>  <a href="http://edit.yahoo.com/config/send_webmesg?.target=tankuloy&amp;.src=pg"><img src="templates/SpacePilot3K/images/lang_english/icon_yim.gif" alt="Yahoo Messenger" title="Yahoo Messenger" border="0" /></a> <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="95753"></a><b>Talon</b></span><br /><span class="postdetails">Normal<br /><img src="images/avatars/8403575304455c8cfe16c9.gif" alt="" border="0" /><br /><br />Joined: 21 Apr 2006<br />Posts: 178<br />Location: Indiana</span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=95753&amp;sid=2941e4513d77379547d3dc325eba3995#95753"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Fri Nov 03, 2006 11:15 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=95753&amp;sid=2941e4513d77379547d3dc325eba3995"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Perhaps if you read deeper into the thread nitrogen you would see that Its not an acive war type of issue its an issue where larger councils sit on top of previously defeated councils and don't allow them to grow for sometimes the remainder of the set... so its not that people don't want war, or that they afraid to lose, its that they don't want to be in a never ending war that they have little to no hope of winning, where they might as well retire and start over just to end up in that same situation again with somebody else.  Its meant as a way to allow them to build up some kind of army to at least fight back, rather than get knocked back into oblivion for their feeble attempt to build a defense.
+<br />
+
+<br />
+It would time out a war after its been in effect for X amount of time, I'm sorry but after about 48 hours of war with somebody USUALLY .. the victor is already determined.. but thats not always the case which is why I suggested a dynamic equation to determine this.<br />_________________<br />"Those who are skilled in combat do not become angered, those who are skilled at winning do not become afraid.  Thus the wise win before they fight while the ignorant fight to win."  --Zhuge Liang
+<br />
+
+<br />
+<img src="http://www.junk.ws/halo2/sig/Midnight%2039/sig7.jpg" border="0" />
+<br />
+
+<br />
+<a href="http://eog.myfastforum.org/" target="_blank" class="postlink"> Echoes of Genocide</a></span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=10426&amp;sid=2941e4513d77379547d3dc325eba3995"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=10426&amp;sid=2941e4513d77379547d3dc325eba3995"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="96058"></a><b>nitrogen</b></span><br /><span class="postdetails">Forum Whore in Training<br /><img src="http://img155.imageshack.us/img155/882/sephirothmh4.gif" alt="" border="0" /><br /><br />Joined: 26 Aug 2006<br />Posts: 688<br />Location: River Styx, Hell</span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=96058&amp;sid=2941e4513d77379547d3dc325eba3995#96058"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Sun Nov 05, 2006 4:20 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: i agree</span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=96058&amp;sid=2941e4513d77379547d3dc325eba3995"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">well said talon... youre right... other fallen councils deserves a chance to come back and regain what they lost... during the first time i played AS i had been with that same situation before and it really sucks to have no allies... you should create a poll question for this talon, so that you can lay down all your proposals and ppl would understand you and in the end, a change would be done.<br />_________________<br /><a href="http://imageshack.us" target="_blank" class="postlink"><img src="http://img222.imageshack.us/img222/3749/shermiegp7.gif" border="0" /></a>
+<br />
+I live to die not on the other day but on the next day preceeding the other day after tommorow
+<br />
+<span style="font-size: 16px; line-height: normal"><span style="color: red"><span style="font-weight: bold">-Gix Armadelites</span></span></span>
+<br />
+<span style="font-size: 16px; line-height: normal"><span style="color: green"><span style="font-weight: bold">-Nitrogen</span></span></span>
+<br />
+<span style="font-size: 16px; line-height: normal"><span style="color: blue"><span style="font-weight: bold">-Uchiha Sasuke</span></span></span>
+<br />
+GA IA CR GR</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=13822&amp;sid=2941e4513d77379547d3dc325eba3995"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=13822&amp;sid=2941e4513d77379547d3dc325eba3995"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>  <a href="http://www.tankuloy@yahoo.com" target="_userwww"><img src="templates/SpacePilot3K/images/lang_english/icon_www.gif" alt="Visit poster's website" title="Visit poster's website" border="0" /></a>  <a href="http://edit.yahoo.com/config/send_webmesg?.target=tankuloy&amp;.src=pg"><img src="templates/SpacePilot3K/images/lang_english/icon_yim.gif" alt="Yahoo Messenger" title="Yahoo Messenger" border="0" /></a> <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="96280"></a><b>Talon</b></span><br /><span class="postdetails">Normal<br /><img src="images/avatars/8403575304455c8cfe16c9.gif" alt="" border="0" /><br /><br />Joined: 21 Apr 2006<br />Posts: 178<br />Location: Indiana</span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=96280&amp;sid=2941e4513d77379547d3dc325eba3995#96280"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Mon Nov 06, 2006 9:47 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=96280&amp;sid=2941e4513d77379547d3dc325eba3995"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">This has already been stickied so I think the devs are doing somthing with it.. so i don't think any additional actions are neccessary.  However I will keep that in mind for future posts <img src="images/smiles/icon_biggrin.gif" alt="Very Happy" border="0" /><br />_________________<br />"Those who are skilled in combat do not become angered, those who are skilled at winning do not become afraid.  Thus the wise win before they fight while the ignorant fight to win."  --Zhuge Liang
+<br />
+
+<br />
+<img src="http://www.junk.ws/halo2/sig/Midnight%2039/sig7.jpg" border="0" />
+<br />
+
+<br />
+<a href="http://eog.myfastforum.org/" target="_blank" class="postlink"> Echoes of Genocide</a></span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=10426&amp;sid=2941e4513d77379547d3dc325eba3995"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=10426&amp;sid=2941e4513d77379547d3dc325eba3995"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="100312"></a><b>jaem</b></span><br /><span class="postdetails">Vet<br /><br /><br />Joined: 16 Apr 2006<br />Posts: 305<br /></span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=100312&amp;sid=2941e4513d77379547d3dc325eba3995#100312"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Sun Dec 03, 2006 9:07 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: </span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=100312&amp;sid=2941e4513d77379547d3dc325eba3995"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">something should be done about empire intervention now...
+<br />
+
+<br />
+
+<br />
+a larger council declares on you&gt; rapes your planets &gt; declares total war&gt; runs with your planet before you even have a chance to mount a counter offensive.
+<br />
+
+<br />
+The Empire should be back but not as a thing to be attacked but a way of balancing things.
+<br />
+
+<br />
+No honor people will get attacked by the empire. while good ones will be sent a fleet of lvl 5 weapons/armors dooms for a certain period of time.
+<br />
+
+<br />
+
+<br />
+and also something should be done with this set up.
+<br />
+
+<br />
+a council declares on a council with equal power&gt; the declaring council then accepts multiple players into their council thus owning the declared council.</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=10284&amp;sid=2941e4513d77379547d3dc325eba3995"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=10284&amp;sid=2941e4513d77379547d3dc325eba3995"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="102641"></a><b>Elgamor</b></span><br /><span class="postdetails">Newbie<br /><br /><br />Joined: 28 Dec 2006<br />Posts: 27<br /></span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=102641&amp;sid=2941e4513d77379547d3dc325eba3995#102641"><img src="templates/SpacePilot3K/images/icon_minipost.gif" width="12" height="9" alt="Post" title="Post" border="0" /></a><span class="postdetails">Posted: Sun Dec 31, 2006 10:57 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Post subject: simple fixes</span></td>
+				<td valign="top" align="right" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=102641&amp;sid=2941e4513d77379547d3dc325eba3995"><img src="templates/SpacePilot3K/images/lang_english/icon_quote.gif" alt="Reply with quote" title="Reply with quote" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">the never ending war: darktempes idea where during a war if the loosing council drops out of the aggressers attack range then the war ends. the only addition to it that i have is to make an X time limit befor redelcairs occure on the defeated council, a day or 2 would be fine. this gives the defeated at least some recupe time.
+<br />
+
+<br />
+the never ending war; option 2: council speakers get a surrender button. the surrendering council should loose somthing, some % of each persons stored PP, each person surrenders a random outlieing planet to be randomly(and evenly as possible) assigned to the "victors". or some other combination. this gives the weaker peoples an out without haveing to be crippled but the strongers still gain somthing of value for their time.
+<br />
+
+<br />
+the war time suffle: simpley remove the option to join or leave a council while in war. no more of this declair on an "even" power council then jump in the rest of your power house crew to clobber them. and for you over aggressive bloodlusters out there, ( :wink: nitrogen) this also prevents the rogues and rats from jumping ship and trying to run.
+<br />
+( the first never ending war fix should also prevent most of this kind of behaivor)
+<br />
+
+<br />
+the forming a new council to continue a war: this sounds like total BS to me. its just a way to curcumvent the designed rules of the game. easy fix, just as several people have suggested, time limits. newly formed councils have a 24 hour greace peirod where they cant declair or be declaired apon. players may only switch/go independent once in a 72 hour period. (was originaly thinking a week, but thats probably to much) or even use utopia's limit, each player may only change councils 3 times a game. you legitimately shouldnt need to switch more than a handfull of times anyway.
+<br />
+this gives Legitiment new councils a chance to orginize, and makes bogus "councils" no longer useful.
+<br />
+
+<br />
+Empire intervention: sounds kinda lame consitering that it dosnt really do anything, the aggressers can just redeclair. if the aggressor's speaker is on line it could be instantainous. easy fix; grace period 1-3 days. harder fix; the empire actually comes in and blockaids the the lower honor aggressors. dosent even actually have to "end" the war just evens it out a little. (and no i dont mean the empire comes in and levels the aggressors with a load of HBH DOOMs. thats why its a harder fix, it would involve some programing to make the empire attack equivilant to gap betwine aggressor and defender in power and tech.)this would promote higher honor players and give some value to the intervention, which costs loads of cash in bribes and honor for haveing to call in the help.
+<br />
+
+<br />
+and as to some of the other things mentioned in this thread.
+<br />
+i agree that tech (peticulary weapon techs) should add power rank.
+<br />
+(saw a fight today betwine a 30k power player and a 24k power noob.
+<br />
+the noob was armed with KCTs and 2 ship fleets, the 30k vet was armed with HBH ships. any normal 30k player would be crushed even if he out numbered the aggressor 10-to-1. i talked to the aggressor and understand he got planet raped and was just recovering, but with the power he had there compaired to his rank it was just rediculas. either the techs themselves should give rank or the higher tech equiped ships should provide consiterably more rank than their lower tech equiped equivilants.
+<br />
+
+<br />
+i have some ideas on ship classes as well, IE: it seems kinda bland haveing everyone get max tech then just massing DOOMs. kinda just makes the other classes pointless, yes i know cruisers are good for rapeing but thats it. the Buckineers being able to cloak dreads was a good addition for other classes but its not quite enough. but i should probably put that in its own thread.
+<br />
+
+<br />
+any way, i may be new to this game but not to this style. some of my suggestions were even used in utopia a couple years ago when i played there. this game has so much potental, i hope to be helpfull here as well.</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Back to top</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=16698&amp;sid=2941e4513d77379547d3dc325eba3995"><img src="templates/SpacePilot3K/images/lang_english/icon_profile.gif" alt="View user's profile" title="View user's profile" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=16698&amp;sid=2941e4513d77379547d3dc325eba3995"><img src="templates/SpacePilot3K/images/lang_english/icon_pm.gif" alt="Send private message" title="Send private message" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:4px;top:2px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/SpacePilot3K/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr align="center">
+		<td class="catBottom" colspan="2" height="28"><table cellspacing="0" cellpadding="0" border="0">
+			<tr><form method="post" action="viewtopic.php?t=563&amp;start=30&amp;sid=2941e4513d77379547d3dc325eba3995">
+				<td align="center"><span class="gensmall">Display posts from previous: <select name="postdays"><option value="0" selected="selected">All Posts</option><option value="1">1 Day</option><option value="7">7 Days</option><option value="14">2 Weeks</option><option value="30">1 Month</option><option value="90">3 Months</option><option value="180">6 Months</option><option value="364">1 Year</option></select>&nbsp;<select name="postorder"><option value="asc" selected="selected">Oldest First</option><option value="desc">Newest First</option></select>&nbsp;<input type="submit" value="Go" class="liteoption" name="submit" /></span></td>
+			 </form></tr>
+		</table></td>
+	</tr>
+</table>
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0" align="center">
+  <tr>
+	<td align="left" valign="middle" nowrap="nowrap"><span class="nav"><a href="posting.php?mode=newtopic&amp;f=5&amp;sid=2941e4513d77379547d3dc325eba3995" onMouseOver="rollover('bottom_newtopic','templates/SpacePilot3K/images/lang_english/post_on.gif');" onMouseOut="rollover('bottom_newtopic','templates/SpacePilot3K/images/lang_english/post_off.gif');"><img name="bottom_newtopic" src="templates/SpacePilot3K/images/lang_english/post_off.gif" border="0" alt="Post new topic" align="middle"/></a>&nbsp;&nbsp;&nbsp;<a href="posting.php?mode=reply&amp;t=563&amp;sid=2941e4513d77379547d3dc325eba3995" onMouseOver="rollover('bottom_postreply','templates/SpacePilot3K/images/lang_english/reply_on.gif');" onMouseOut="rollover('bottom_postreply','templates/SpacePilot3K/images/lang_english/reply_off.gif');"><img name="bottom_postreply" src="templates/SpacePilot3K/images/lang_english/reply_off.gif" border="0" alt="Reply to topic" align="middle" /></a></span></td>
+	<td align="left" valign="middle" width="100%"><span class="nav">&nbsp;&nbsp;&nbsp;<a href="index.php?sid=2941e4513d77379547d3dc325eba3995" class="nav">Archspace Forum Index</a>
+	  -> <a href="viewforum.php?f=5&amp;sid=2941e4513d77379547d3dc325eba3995" class="nav">Suggestion Board</a></span></td>
+	<td align="right" valign="top" nowrap="nowrap"><span class="gensmall">All times are GMT - 6 Hours</span><br /><span class="nav">Goto page  <a href="viewtopic.php?t=563&amp;postdays=0&amp;postorder=asc&amp;start=15&amp;sid=2941e4513d77379547d3dc325eba3995">Previous</a>&nbsp;&nbsp;<a href="viewtopic.php?t=563&amp;postdays=0&amp;postorder=asc&amp;start=0&amp;sid=2941e4513d77379547d3dc325eba3995">1</a>, <a href="viewtopic.php?t=563&amp;postdays=0&amp;postorder=asc&amp;start=15&amp;sid=2941e4513d77379547d3dc325eba3995">2</a>, <b>3</b></span>
+	  </td>
+  </tr>
+  <tr>
+	<td align="left" colspan="3"><span class="nav">Page <b>3</b> of <b>3</b></span></td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="2" border="0" align="center">
+  <tr>
+	<td width="40%" valign="top" nowrap="nowrap" align="left"><span class="gensmall"></span><br />
+	  &nbsp;<br />
+	  </td>
+	<td align="right" valign="top" nowrap="nowrap">
+<form method="get" name="jumpbox" action="viewforum.php?sid=2941e4513d77379547d3dc325eba3995" onSubmit="if(document.jumpbox.f.value == -1){return false;}"><table cellspacing="0" cellpadding="0" border="0">
+	<tr>
+		<td nowrap="nowrap"><span class="gensmall">Jump to:&nbsp;<select name="f" onchange="if(this.options[this.selectedIndex].value != -1){ forms['jumpbox'].submit() }"><option value="-1">Select a forum</option><option value="-1">&nbsp;</option><option value="-1">Archspace - Public</option><option value="-1">----------------</option><option value="1">News</option><option value="13">Change Log</option><option value="3">Player Board</option><option value="4">Bug Board</option><option value="5"selected="selected">Suggestion Board</option><option value="8">Help Board</option><option value="11">Recruiting</option><option value="12">Community Art and Literature</option><option value="9">Politics/Religion Forum</option><option value="14">Archspace 2.0</option><option value="15">Programming</option></select><input type="hidden" name="sid" value="2941e4513d77379547d3dc325eba3995" />&nbsp;<input type="submit" value="Go" class="liteoption" /></span></td>
+	</tr>
+</table> </form>
+
+<span class="gensmall">You <b>cannot</b> post new topics in this forum<br />You <b>cannot</b> reply to topics in this forum<br />You <b>cannot</b> edit your posts in this forum<br />You <b>cannot</b> delete your posts in this forum<br />You <b>cannot</b> vote in polls in this forum<br /></span></td>
+  </tr>
+</table>
+
+
+<div align="center"><span class="copyright"><br /><br />
+<!--
+	We request you retain the full copyright notice below including the link to www.phpbb.com.
+	This not only gives respect to the large amount of time given freely by the developers
+	but also helps build interest, traffic and use of phpBB 2.0. If you cannot (for good
+	reason) retain the full copyright we request you at least leave in place the
+	Powered by phpBB  line, with phpBB linked to www.phpbb.com. If you refuse
+	to include even this then support on our forums may be affected.
+
+	The phpBB Group : 2002
+// -->
+Space Pilot 3K template by <a href="http://www.jakob-persson.com" class="copyright">Jakob Persson</a>.<br />
+Powered by <a href="http://www.phpbb.com/" target="_phpbb" class="copyright">phpBB</a>  &copy; 2001 phpBB Group<br /></span></div>
+<div align="center"><span class="copyright">Protected by <a href="http://www.lithiumstudios.org/" target="_blank" class="copyright">Anti-Spam ACP</a></span></div>
+		</td>
+	</tr>
+	<tr>
+		<td align="center">
+			<script type="text/javascript"><!--
+			google_ad_client = "pub-9347639997854244";
+			google_ad_width = 728;
+			google_ad_height = 90;
+			google_ad_format = "728x90_as";
+			google_ad_type = "text_image";
+			google_ad_channel ="";
+			google_color_border = "6699CC";
+			google_color_bg = "003366";
+			google_color_link = "FFFFFF";
+			google_color_url = "AECCEB";
+			google_color_text = "AECCEB";
+			//--></script>
+			<script type="text/javascript"
+			  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+			</script>
+		</td>
+	</tr>
+</table>
+
+</body><script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script
+type="text/javascript">_uacct = "UA-278580-1"; urchinTracker();</script>
+</html>
+

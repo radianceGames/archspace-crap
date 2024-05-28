@@ -1,0 +1,763 @@
+<html>
+
+
+<!-- Mirrored from www.angelfire.com/scifi/ooa/archspace_guide_by_wonder_bee_a.htm by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 28 Jul 2015 08:27:20 GMT -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>Wonderbee</title>
+</head>
+
+<body background="images/TV_bkg2.gif" link="#00FF00" vlink="#00FF00" alink="#00FF00"><!--'"</title></head>-->
+
+<script type="text/javascript">
+////// Compete /////////////////////
+__compete_code = '667f89f26d96c30e99728fe6a608804d';
+(function () {
+    var s = document.createElement('script'),
+        d = document.getElementsByTagName('head')[0] ||
+            document.getElementsByTagName('body')[0],
+        t = 'https:' == document.location.protocol ? 
+            'https://c.compete.com/bootstrap/' : 
+            'http://c.compete.com/bootstrap/';
+    s.src = t + __compete_code + '/bootstrap.js';
+    s.type = 'text/javascript';
+    s.async = 'async'; 
+    if (d) { d.appendChild(s); }
+//console.log(">>>", $('div.adCenterClass').get(0));
+})();
+
+
+////// Quantcast  /////////////////////
+function channValidator(chann) {
+    return (typeof(chann) == 'string' && chann != '');
+}
+
+function lycosQuantcast(){
+    var lb = "";
+    if(typeof(cm_host) !== 'undefined' && channValidator(cm_host)){
+        lb += cm_host.split('.')[0] + '.';
+    }
+
+    if(typeof(cm_taxid) !== 'undefined' && channValidator(cm_taxid)){
+        lb += cm_taxid;
+        lb = lb.replace('http://www.angelfire.com/','');
+    } else {
+        lb = lb.replace('.','');
+    }
+    return lb;
+}
+
+var _qevents = _qevents || [];
+
+(function() {
+    var elem = document.createElement('script');
+    elem.src = (document.location.protocol == "https:" ? "https://secure" :"http://edge") + ".quantserve.com/quant.js";
+    elem.async = true;
+    elem.type = "text/javascript";
+    var scpt = document.getElementsByTagName('script')[0];
+    scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+    qacct:"p-6eQegedn62bSo",
+    labels:lycosQuantcast()
+});
+
+/////// Google Analytics
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-21402695-21']);
+_gaq.push(['_setDomainName', 'angelfire.com']);
+_gaq.push(['_setCustomVar', 1, 'member_name', 'scifi/ooa', 3]);
+_gaq.push(['_trackPageview']);
+(function() {
+  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+////// Lycos Initialization /////////////////////
+var lycos_ad = Array();
+var lycos_search_query = "";
+var lycos_onload_timer;
+
+var cm_role = "live";
+var cm_host = "angelfire.lycos.com";
+var cm_taxid = "/memberembedded";
+var angelfire_member_name = "scifi/ooa";
+var angelfire_member_page = "scifi/ooa/archspace_guide_by_wonder_bee_a.html";
+var angelfire_ratings_hash = "1438071985:b4afc06baab7546fa35cde3f6fc93984";
+
+var lycos_ad_category = {"dmoz":"sports\/rodeo","ontarget":"&CAT=sports%20and%20recreation&L2CAT=horses%20and%20rodeo","find_what":"paris"};
+
+var lycos_ad_remote_addr = "125.239.160.54";
+var lycos_ad_www_server = "www.angelfire.lycos.com";
+var edit_site_url = "http://www.angelfire.com/sys/no_download.shtml";
+
+////// Criteo /////////////////////
+var cto_conf = { a:true, i: "294", c:"img", kw: "" } ;
+(function (){
+    var c = document.createElement("script"); c.type = "text/javascript"; c.async = true;
+    c.src = "../../adm/js/partner/criteo_ld_kw.js";
+    var s = document.getElementsByTagName("body")[0]; s.appendChild(c);
+})(); 
+
+</script>
+<script type="text/javascript" src="../../../scripts.lycos.com/catman/init.js"></script>
+<script type="text/javascript">
+(function(isV) {
+    if (!isV) {
+        return;
+    }
+
+    //this.lycos_search_query = lycos_get_search_referrer();
+    var adMgr = new AdManager();
+    var lycos_prod_set = adMgr.chooseProductSet();
+    var slots = ["leaderboard", "leaderboard2", "toolbar_image", "toolbar_text", "smallbox", "top_promo", "footer2","slider"];
+    var adCat = this.lycos_ad_category;
+    adMgr.setForcedParam('page', (adCat && adCat.dmoz) ? adCat.dmoz : 'member');
+
+    if (this.lycos_search_query) {
+        adMgr.setForcedParam("keyword", this.lycos_search_query);
+    } 
+    else if (adCat && adCat.find_what) {
+        adMgr.setForcedParam('keyword', adCat.find_what);
+    }
+
+    for (var s in slots) {
+        var slot = slots[s];
+        if (adMgr.isSlotAvailable(slot)) {
+            this.lycos_ad[slot] = adMgr.getSlot(slot);
+        }
+    }
+
+
+    adMgr.renderHeader();
+    adMgr.renderFooter();
+}((function() {
+    var w = 0, h = 0, minimumThreshold = 300;
+    if (top == self) {
+        return true;
+    }
+
+    if (typeof(window.innerWidth) == 'number' ) {
+        w = window.innerWidth;
+        h = window.innerHeight;
+    }
+    else if (document.documentElement && (document.documentElement.clientWidth || document.documentElement.clientHeight)) {
+        w = document.documentElement.clientWidth;
+        h = document.documentElement.clientHeight;
+    }
+    else if (document.body && (document.body.clientWidth || document.body.clientHeight)) {
+        w = document.body.clientWidth;
+        h = document.body.clientHeight;
+    }
+
+    return ((w > minimumThreshold) && (h > minimumThreshold));
+}())));
+
+
+
+window.onload = function() {
+    var f = document.getElementById("lycosFooterAd");
+    var b = document.getElementsByTagName("body")[0];
+    b.appendChild(f);
+    f.style.display = "block";
+    document.getElementById('lycosFooterAdiFrame').src = 'http://www.angelfire.com/adm/ad/footerAd.iframe.html';
+
+    // Slider Injection
+    (function() {
+        var e = document.createElement('iframe');
+        e.style.border = '0';
+        e.style.margin = 0;
+        e.style.display = 'block';
+        e.style.cssFloat = 'right';
+        e.style.height = '254px';
+        e.style.overflow = 'hidden';
+        e.style.padding = 0;
+        e.style.width = '300px';
+    })();
+
+
+    // Bottom Ad Injection
+    ( function() {
+        var b = document.getElementsByTagName("body")[0];
+
+        var iif = document.createElement('iframe');
+        iif.style.border = '0';
+        iif.style.margin = 0;
+        iif.style.display = 'block';
+        iif.style.cssFloat = 'right';
+        iif.style.height = '254px';
+        iif.style.overflow = 'hidden';
+        iif.style.padding = 0;
+        iif.style.width = '300px';
+        iif.src = 'http://www.angelfire.com/adm/ad/injectAd.iframe.html';
+        
+        var cdiv = document.createElement('div');
+        cdiv.style = "width:300px;margin:10px auto;";
+        cdiv.appendChild( iif );
+        if( b )
+        {
+            b.insertBefore(cdiv, b.lastChild);
+        }
+    })();
+
+}
+
+
+</script>
+
+<style>
+	#body .adCenterClass{margin:0 auto}
+</style>
+
+<div style="background:#abe6f6; border-bottom:1px solid #507a87; position:relative; z-index:9999999">
+    <!-- Search Box -->
+<!--<form name="search" onSubmit="return searchit()" id='header_search' >
+            <input type="text" placeholder="Search" size=30 name="search2" value="">
+            <input type="button" value="Go!" onClick="searchit()">
+            </form>
+            <style>
+            form#header_search {
+                width: 916px;
+                margin: 0 auto 8px;
+                position: relative;
+            }
+
+
+            form#header_search input {
+                height: 40px;
+                font-size: 14px;
+                line-height: 40px;
+                padding: 0 8px;
+                box-sizing: border-box;
+                background: #F4F2E9;
+                border: 1px solid #BBB8B8;
+                transition: background-color 300ms ease-out,
+                            color 300ms ease;
+            }
+
+            form#header_search input[type="text"] {
+                width: 100%;
+            }
+            form#header_search input[type="text"]:focus {
+                border-color: #A2D054;
+                background-color: #fff;
+                box-shadow: 0 0px 12px -4px #A2D054;
+            }
+
+
+
+            form#header_search input[type="button"] {
+                position: absolute;
+                top: 1px;
+                right: 1px;
+                opacity: 1;
+                background: #DFDCCF;
+                color: #463734;
+                width: 125px;
+                cursor: pointer;
+                height: 38px;
+                border: none;
+            }
+            form#header_search input[type="text"]:focus ~ input[type='button']:hover,
+            form#header_search input[type='button']:hover {
+                background-color: #A5CE56;
+                color: #fff;
+            }
+            form#header_search input[type="text"]:focus ~ input[type='button'] {
+                background-color: #52AEDF;
+                color: #fff;
+            }
+
+            </style>
+
+            <script>
+            function searchit(){
+                
+                // determine environment 
+                var search_env 
+                if (lycos_ad_www_server.indexOf(".pd.") > -1) {
+                   search_env = 'http://search52.pd.lycos.com/a/';
+                } else if (lycos_ad_www_server.indexOf(".qa.") > -1) {
+                   search_env = 'http://search52.qa.lycos.com/a/';
+                } else {
+                   search_env = 'http://search52.lycos.com/a/';
+                }
+
+            var search_term = encodeURIComponent(document.search.search2.value)
+            var search_url = search_env+search_term;
+            window.open(search_url);
+
+            return false
+            }
+            </script-->
+        <!--end search box -->
+
+
+    <div class="adCenterClass" style="display:block!important; overflow:hidden; width:916px;">
+        <a href="http://www.angelfire.lycos.com/" title="Angelfire.com: build your free website today!" style="display:block; float:left; width:186px; border:0">
+        <img src="../../adm/ad/angelfire-freeAd.jpg" alt="Site hosted by Angelfire.com: Build your free website today!" style="display:block; border:0" />
+        </a>
+        <script type="text/javascript">document.write(lycos_ad['leaderboard']);</script>
+    </div>
+</div>
+
+<!-- ///////////////////////////////////// -->
+<script type="text/javascript">document.write(lycos_ad['slider']);</script>
+
+
+<div id="lycosFooterAd" style="background:#abe6f6; border-top:1px solid #507a87; clear:both; display:none; position:relative; z-index:9999999">
+<div class="adCenterClass" style="display:block!important; overflow:hidden; width:936px;">
+	<div id="aflinksholder" style="float:left; width:186px;">
+        <a href="http://www.angelfire.lycos.com/" title="Angelfire.com: build your free website today!" style="display:block; border:0">
+            <img src="../../adm/ad/angelfire-freeAd2.jpg" alt="Site hosted by Angelfire.com: Build your free website today!" style="display:block; border:0" />
+        </a>
+        <div style="text-align:center">
+        	<span style="color:#393939!important; font-size:12px!important; position:relative; top:-6px">
+            	Sponsored by
+            </span>
+            
+            <a href="http://www.listen.com/disty/index.jsp?from=lycos" target="_blank">
+                <img src="../../../af.lygo.com/d/toolbar/sponsors/rhapsody_logo.jpg" alt="sponsor logo" title="Rhapsody"/>
+            </a>
+        </div>
+    </div>
+    <iframe id="lycosFooterAdiFrame" style="border:0; display:block; float:left; height:96px; overflow:hidden; padding:0; width:750px"></iframe>
+</div>
+</div>
+
+<noscript>
+<img src="../../../www.angelfire.lycos.com/doc/images/track/ot_noscriptaf97.gif?rand=321781" alt="" width="1" height="1" />
+<!-- BEGIN STANDARD TAG - 728 x 90 - Lycos - Angelfire Fallthrough - DO NOT MODIFY -->
+<iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="728" height="90" src="http://ad.yieldmanager.com/st?ad_type=iframe&amp;ad_size=728x90&amp;section=280303"></iframe>
+<!-- END TAG -->
+</noscript>
+
+<!-- Start Ybrant tracker -->
+<img src="http://ad.yieldmanager.com/pixel?id=1901600&amp;t=2" width="1" height="1" />
+<!--   End Ybrant tracker -->
+
+<!-- Start Datonics -->
+<script type="text/javascript" src="../../../ads.pro-market.net/ads/scripts/site-132783.js"></script>
+<!--   End Datonics -->
+
+<!-- Start Chango -->
+<script type="text/javascript">
+    var __cho__ = {"pid":1694};
+    (function() {
+        var c = document.createElement('script');
+        c.type = 'text/javascript';
+        c.async = true;
+        c.src = document.location.protocol + '//cc.chango.com/static/o.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(c, s);
+    })();
+</script>
+<!--   End Chango -->
+
+
+<u><font face="OCR A Extended" color="#00FF00">ArchSpace Guide</font></u>
+
+<font face="OCR A Extended" size="1" color="#00FF00"><br>
+by Wonder Bee a.k.a. Nick Bennett</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">INTRO:<br>
+Alright folks, I have been getting a bunch of ICQ messages from players (newbies)
+who have a lot of questions about Archspace. Now I am going to go through this
+fairly quick so don't bitch about spelling or grammer. I'm a math/
+Telecommunications major and so I don't worry about my English capabilities.</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Choosing a Race:</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00"><br>
+Alright, some of you have ask about racial modifiers and best charractors, below
+is a listing of each races modifiers and a brief explaination of them:</font></p>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Agerus Military +4,
+Commerce -3, Diplomacy-3<br>
+Bosalians Military -2, Diplomacy+4<br>
+Buckaneer Military -2, Commerce +3<br>
+Evintos Diplomacy -2, Effeciency +3, Research -2<br>
+Human Enviroment -1, Growth +2, Effeciency -1, Genius+2<br>
+Targoid Faculity Cost +4, Research-1, Growth +2, Prouduction+2<br>
+Tecanoids Environment +2, Spy +2<br>
+Xeloss Military +2, Diplomacy -2<br>
+Xerusian Efficiency -2<br>
+Xesperados Genius +3, Facility Cost -5, Spy -3, Research +2</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">All right, now these are
+all right as far as I can remember (servers down so I can't check). Now I will
+attempt to describe what all these mean.</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Military = How fast you
+can build ships<br>
+Commerce = How much money is made through trade (I'll explain more later)<br>
+Enviroment = How fast it takes you to terraform<br>
+Effeciency = how fast you can build new building ig: Factory's, Military bases<br>
+Growth = How fast your population grows<br>
+Prouduction = How much money each of your factory's and bases put out<br>
+Faculty Cost = How much you'll have to pay in upkeep for your building<br>
+Spy = How often your spy mission will work<br>
+Genious = How much Exp. your commanders get from battle<br>
+Diplomacy = I think it has to do with the empire but I'm not sure<br>
+Research = How fast you can research</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Now, when you choose a
+race, you should choose one that will be good in the long run, as you can see
+Targoids have good bonuses in Faculty Cost, Growth and production. Now what this
+enables you to do is grow very quickly and therefore your able to recover from
+loses of planets faster.</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">No one race is dominant
+in the game, however as of now you see a lot of people as Targoids for the
+reasons listed above. I myself am Xerusian because I thought the Description was
+cool :-P</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00"><br>
+Key Terms:</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Now here I will discuss
+some of the terms I may use throughout this little guide that some people may
+not know. If you do know then skip past this part.</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Terraforming = Changing
+your planet from Unsuitable to Suitable.<br>
+a. Now when you get a new planet from either expeditions or sieges, you will
+have to terraform this planet, unless you attacked the same race as you. That is
+the smart thing to do when first starting out.<br>
+b. Now to speed up terraforming there are only two things you can do, Invest in
+the planet or Get higher tech's</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">PP= PP is what your
+factory's give you each turn, the more factory's you have the more PP you get on
+that planet.<br>
+a. Check planet descriptions on next topic to find out more.<br>
+MP= MP is what your Military bases give you per turn, your MP takes care of
+fleet missions and Ship upkeep. If you exceed your MP per turn with expenses
+then you will make up the difference with PP. You pay 20 PP per 1MP you are
+over.</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Commerce =As stated
+above commerce is your trade money you make per turn. You make this through
+relations through your planets and allied planets.</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Waste Ratio = Now this
+is the one that people get pissed at, Waste Ratio effects your planet
+production. E.g.: if you have 50% waste then 50% of your production is
+disregarded and you only make 50% of what you would without waste. Each race has
+a different planet max without waste. This means that as a Xerusian I can have
+20 planets with 0 waste and every planet I get past 20 has 2-3% waste added to
+it.</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Sortie = When your
+fleets are on there way back from a cancelled mission</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Planets:</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Planets range from Ultra
+Poor to Ultra Rich. Here is the list of different planets</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Ultra Poor= Very poor PP
+production and slow building rates<br>
+Poor= A little better than UP's but still not very good<br>
+Normal= as the name says Normal<br>
+Rich= Gives you less than UR's do but more than Normals in PP<br>
+Ultra Rich= Gives you more PP per turn due to good resources</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Sizes range as follows:</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Tiny<br>
+Small<br>
+Normal<br>
+Large<br>
+Huge</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Planet Modifiers:</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Now planet modifiers are
+modifiers on the planet that increase a certain aspect of the planet. I have
+listed them below:</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Volcanic Activity
+Production +2<br>
+<br>
+Artifact Research +10</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Huge Artifact Research
++20</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Black Hole Commerce -2</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Asteroid Production +1<br>
+<br>
+Major Space Route Commerce +2</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Ocean Growth +3<br>
+Faculty cost -2</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Frontier Area Commerce
+-2</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Moon Military +2<br>
+Growth +3<br>
+Commerce +1</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Major Space Crossroutes
+Commerce +5</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Dark Nebula Commerce -1<br>
+<br>
+Beautiful Landscape Commerce +2<br>
+Spy -1</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Severe Radiation Max
+Pop. -2</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Radiation Max Pop. -1</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Irregular Climate Max
+Pop. -2</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Obstinate Microbe Max
+Pop. -2</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Hostile Monster Max Pop.
+-1</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Intense Volcanic
+Activity Production +5</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Nebula Commerce -2</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00"><br>
+All right, Now I realize that a few of these may be wrong but 97% of them are
+right. I did these on my own so don't bitch.</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Now, a few of these you
+can destroy or get rid of with techs. I can't remember which tech's, but don't
+worry you'll figure it out. The ones you can get rid of are Sever Radiation,
+Irregular Climate, Obstinate Microbe, and Hostile Monster. Like I said there may
+be more but you can figure them out.</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Now a good strategy for
+planets is this, you want Normals and higher with good production modifiers on
+them for your planets with little or now waste, once you start to get high waste
+you want planets with high commerce modifiers. Even if the planet is Ultra Poor
+but has good commerce modifiers take it. I myself with 100+ planets only take
+them with high commerce mods, I have a lot of UP's with 90% waste that give me
+250,000 PP per turn through commerce. As you will find out that's very good.</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00"><br>
+Buildings:<br>
+*note, if you have a modifier from one of the above you will be able to grow in
+that area by building more of that area. What that means is if you have a Huge
+artifact which is +20 on research, you will be able to build research labs
+really fast on that planet. Keep that in mind for the next section.</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Now everyone has a
+different opinion on what do build on what type of planets. I myself like to do
+this.</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Low waste and good
+planets such as Normal, Rich or Ultra Rich, I like to build mostly factory's, I
+set the ratio from anywhere to 70% Factory's 30% military bases to 90%
+Factory's. I set 100% factories on my big money makes though.</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">One my poor and ultra
+poors that I get stuck with in my low waste rate area I like to build mostly
+military bases. This is because they won't produce much PP and so instead of
+having them go to waste I gain some MP from them.</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">There is a limit to how
+many building can be on each planet, now I'm not sure of the exact number, but I
+do know it depends on the size and it's resources. For a Normal Normal I thinks
+it's somewhere between 1200-1500 buildings, so watch what you build.</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">As stated above
+Factory's give you PP that's your money that you can spend, you can invest this
+into anything from Planets to Researching to Shipbuilding. When you invest into
+something it speeds it up about 40% so it's a good thing to do.</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Military bases give you
+MP with will take care of upkeep on ships you have in fleets and protect your
+planets from raids.</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Research Labs speed up
+the time it takes to research a tech. You gain RP with this, but don't worry
+about it you don't need it once done researching.</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Concentration Mode:</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">This is the mode that
+you can set, you can choose from:<br>
+Industry, which will give you more PP per turn and buildings seem to go up
+faster<br>
+Research, which most people are in to start the game<br>
+Military, which will invest more money into ship building which will speed that
+up<br>
+Balanced which will be an all around setting.</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00"><br>
+Researching:</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">When you start to
+research, you want to make sure you are building mostly research labs on your
+planets and also make sure you keep investing into it, this will speed it up.
+Most people like to be in research mode when they start the game because it's
+really a race to finish it. While researching however you want to make sure you
+are in free research because if you single out a specific tech you want it will
+take twice as long. Only single one out if it's one of your last important
+techs. Other than that it's like anything else just research!</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Projects:</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00"><br>
+Now there are projects that you will be able to buy with a certain level of
+tech's, these projects will modify your racial modifiers discussed above. It
+tells you how it's going to modify it before you buy it. It's a good idea to
+wait to buy the projects that hurt your researching until you are done
+researching.There are also council projects that will help you even more.</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">One note I should add on
+projects, you need the project galactic something of free commerce before you
+can star t getting commerce...sorry I forgot to add that earlier.</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">To see what your
+modifiers are you can check anytime by going to Domestic main then at the bottom
+you'll see White book here you can see what your planet modifiers are and your
+racial modifier.</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00"><br>
+Attacking/Battles:</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Your options for
+attacking are as follows:</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Raiding: when you raid
+you send 1 fleet to a person's planet and destroy building on it. If he has
+military bases on it then you will need to destroy all of them before being able
+to hit any factory's (this is why you want to watch when you build 100%
+factory's)</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Pirating: this will send
+1 fleet in to a persons planet to pillage for money, you usually don't get much
+so it's just good for gaining EXP for your commanders.</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Blockade: This is where
+you send your full armada (all your fleets) to a person's planet to fight his
+armada (All his fleets)<br>
+* Note that with the above three you do not need to be at war with someone</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Sieging: This is where
+you send in your fleets to take a planet from someone...You need to be at war
+with them for this option to work.</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Allied fleets: You can
+send any of your allies your fleets by going to mission and dispatch too, you
+must be allied to them however. Once you send him your fleets they will help him
+protect his planets. As of right now there is a bug, which makes allied fleets
+invincible. This only happens when the other person has no fleets of his own and
+the only one defending the planet are allied. You can kill them but they come
+back from the dead.... Ooohhhhh scary ;-)</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">If someone is raiding
+you, you will not be able to know who it is unless you station fleets on the
+planets he's raiding. Same goes for Pirating!</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Stationing fleets on
+your planets is a great idea once you are strong enough to build decent fleet at
+a fast rate, what this will do is protect you from being raped while you are
+defenseless. I'll discuss this later.</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Commanders:</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00"><br>
+You gain Exp.: for your commanders with every mission you send them one, with
+raids they get 1000, with blockades they get more and with sieges they get even
+more, the max level for a commander is level 20 and with every level they go up
+the more ships they can command. Not much more to ad on commanders, each race's
+commanders have different abilities so I don't know them all. I do know that
+since Xerusian have a +5 Morale their commanders stay and fight even with the
+&quot;Mother Ship&quot; is destroyed.</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">War:</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Only the speaker of a
+council can declare war on another council, the only thing you can do is declare
+war with someone within your council, you do this by going to diplomacy and send
+message, then you just select the type of message as declare war.</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Now once you feel you
+have won the war, you can send one of the three messages:</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Suggest Truce: Usually
+when your losing you send this;-) sometimes just to be nice</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Demand truce: this makes
+the person give you money if he accepts it, it's like 60% of what he has</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Demand submission: this
+makes him give you 90-100% of the money he has.</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Now when I say money he
+has, I am referring to what the single person has, if this is a council message
+then it's referring to whats in the council safe.</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Not much else to say
+about war, can't give everything away!</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Ships:</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00"><br>
+You build ships and when a ship is build it's put into the pool, I'll discuss
+this in a min...you can lower the time it takes you to build ships by increasing
+the amount of money you make per turn. You do this by building factory's. Don't
+forget once you fleet these ships you will need MP to keep them.</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Now when you go to ship
+building you'll see something like this</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Max PP per turn
+7,548,543<br>
+Ivested PP left 350,000,000</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">PP in Pool 22,344,543</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Alright now I'll explain
+what these mean:</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Max PP per turn is the
+amount of money that is going into building your ships per tuen, when you have
+invested money in it it goes a lot higher:</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Invested PP left means
+thats how much money you have left from what you invested into ship building</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">PP in ship pool is how
+much money has been spent on building a certian ship eg: you see right now it's
+at 22,344,543 that means that I'm building a DoomStar and it is almost done
+because Dooms take 23,716,000. So when it get's to 23,716,000 my doom star will
+be done and it will start to build the next one.</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">I'm not going to give
+you any ship designs because you need to learn that on your own.</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Ship pool:</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">When you have buildt a
+ship it goes into the pool, and you can form fleets with these ships that are in
+the pool. So if I have 47 DoomStars of the same design I can put them into a
+fleet. You can only put ships of the same design in a fleet...Sorry.</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">You can later upgrade
+these fleets by going under the Fleet option and selection resignment. First of
+all your ships need to be in the stand by mode, which means they are not on a
+mission. Once you have selected resignment you can either add or remove ships or
+if you can replace all the ships with a different class and design.</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">not much else to say
+about ship pool.</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00"><br>
+A few Stratgies:</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00"><br>
+Planet Grabbers: These are ships that you use for the purpose of grabbing
+planets fast when someone dosen't have any ships defending himself. The consist
+of usually 4-6 gunboats per fleet. I like to keep 30 grabbers at all time and I
+station them on my home planet so they don't get destroyed in an attack. This is
+also a good way to get EXp for your commanders, because they gain EXP with every
+seige they do.</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Stationed fleets: I like
+to station 1 fleet on every one of my planets, however since I can't afford the
+upkeep of 200 fleets I usually only station them on planets peolple would want.
+I do this because if you become defenseless you are open to get raped (all you
+planets taken) and if your going against a decent council you will get raped. I
+station usually dreads because planet grabbers are usually gun boats you fleet
+of dreads will fight them off and make the person seiging you use a good fleet
+and that take a while for them to retun....you have a fighting chance of
+survival that way.</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Fluffing: This is
+dangours but sometimes nessacery. Fluffing means false power, you get this by
+building mass guboats and keeping them in your pool. This will inflate your
+power and you can either hide from people or jump up to hit them. I do it at
+times becasue it gives you options. I have to high of power to do it now, but if
+you are in the 50K to 200K range it can work for you. If you keep a fluffed
+power then you can hit people and if you are losing you can deflate so they
+can't hit you, or you can fluff up higher to avoid getting hit.</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Well, I think this
+should be able to help most newbies out, I covered most of the things you need
+to get started. There is too much stratigie in this game for me to give out and
+plus some things you need to learn on your own. Hope you enjoyed.</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">p.s. When the server is
+down all the time it gives me time to do things like this ;-)</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Part 2<br>
+The Following information was worked out<br>
+By Dream of EGAD<br>
+Great job Dream!</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00"><br>
+Weapon Name Atk Rate Cooling Rate Damage Average Damage<br>
+------------------------------------------------------------------------------------------------------------------</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Level 1</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Laser 100 50 4-8 6<br>
+Nuclear Missle 100 50 1-6 3<br>
+Rail Gun 100 50 12-26 19<br>
+-</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Level 2</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Plasma Beam 100 50 2-7 4<br>
+Crystal Laser 100 50 2-11 6<br>
+Fusion Missle 100 50 2-14 8<br>
+Gatling Rail Gun 100 50 24-70 47<br>
+Mass Driver 100 50 8-32 20<br>
+-</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Level 3</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Gravitron Beam 100 50
+2-10 6<br>
+Psi Blaster 100 50 2-8 5<br>
+Neutron Blaster 100 50 3-15 9<br>
+Nova Torpedo 100 50 1-19 10<br>
+Kamaikaze Conscious Torpedo 100 50 1-8 5<br>
+Death Spore 100 50 1-6 4<br>
+Gauss Cannon 100 50 9-43 26<br>
+-</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Level 4</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Phasor 100 50 3-14 8<br>
+Tachyon Beam 100 50 2-10 6<br>
+Anti-Matter Missle 100 50 1-24 12<br>
+Reflexium Missle 100 50 1-19 10<br>
+Pisonic Pulse Shocker 100 50 1-13 7<br>
+Anti-Matter Cannon 100 50 11-67 39<br>
+Autofire Gauss Cannon 100 50 16-82 49<br>
+-</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Level 5</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">Oscillation of
+Dissonance 100 50 3-18 11<br>
+Psi Storm Launcher 100 50 3-13 8<br>
+Time-Wake Homing Missle 100 50 1-14 8<br>
+Homing Black Hole 100 50 1-50 26<br>
+Distortion Blaster 100 50 13-134 74</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00">FAVORITE SITE'S AND
+TOOLS</font>
+<p><font face="OCR A Extended" size="1" color="#00FF00"><br>
+DaveMcW's Planet manager 3.0 located at <a href="http://www0.delphi.com/egad2/general/docs/41D3A579-8F3E-43DC-ACBF-" target="_blank">http://www0.delphi.com/egad2/general/docs/41D3A579-8F3E-43DC-ACBF-</a></font>
+<p><font face="OCR A Extended" size="1" color="#00FF00"><br>
+Progenitor's Weapon calcaluations at <a href="http://www9.ewebcity.com/pmishorich/AS/asWeapons.asp" target="_blank">http://www9.ewebcity.com/pmishorich/AS/asWeapons.asp</a></font>
+<p><font face="OCR A Extended" size="1" color="#00FF00"><br>
+Progenitor's Battle Viewer at <a href="http://www9.ewebcity.com/pmishorich/AS/asBattleReport.asp" target="_blank">http://www9.ewebcity.com/pmishorich/AS/asBattleReport.asp</a></font></p>
+
+</body>
+
+
+<!-- Mirrored from www.angelfire.com/scifi/ooa/archspace_guide_by_wonder_bee_a.htm by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 28 Jul 2015 08:27:21 GMT -->
+</html>

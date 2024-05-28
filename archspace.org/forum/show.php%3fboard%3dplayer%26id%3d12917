@@ -1,0 +1,541 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>Archspace Beta Forums</TITLE>
+<Style type="text/css">
+A:link, A:visited { text-decoration: none; color: lightblue; }
+A:hover {
+		COLOR: white; 
+}
+INPUT {
+	BACKGROUND-COLOR: black; BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; COLOR: #0AABAA; FONT-FAMILY: verdana, helvetica, sans-serif; FONT-SIZE: 10px; 
+}
+body { 
+	text-align: center;
+	font-family : Arial, sans-serif;
+	color : white;
+	font-size : 8pt;
+	margin-top : 0px;
+	margin-left : 0px;
+	margin-right : 0px;
+	margin-bottom: 0px;
+
+SCROLLBAR-FACE-COLOR: #666666; 
+SCROLLBAR-HIGHLIGHT-COLOR: black; 
+SCROLLBAR-SHADOW-COLOR: #333333; 
+SCROLLBAR-3DLIGHT-COLOR: #333333; 
+SCROLLBAR-ARROW-COLOR: black; 
+SCROLLBAR-TRACK-COLOR: black; 
+SCROLLBAR-DARKSHADOW-COLOR: #333333; 
+} 
+td {
+ font-size : 8pt;
+ 	font-family : Arial, sans-serif;
+}
+</style>
+</HEAD>
+<BODY text=#999999 vLink=#999999 aLink=#999999 link=#999999 bgColor=#000000 leftMargin=0 topMargin=0 rightMargin=0 marginwidth="0" marginheight="0">
+<center><a href="/"><img src="http://www.archspace.org/image/as_game/menu_main.gif" border=0></a></center><br>
+
+<CENTER><!-- TABLE -->
+<TABLE width="90%" border=0>
+  <TBODY>
+  <TR>
+    <TD>&nbsp;&nbsp;<B><a href="/forum/">Archspace Boards</B></a> <BR>&nbsp;&nbsp;
+	(moderated by Mindwarper, zbyte64, DarkJediX, DarkSonax, Boomer, daemorhedron, darkelf) 
+      <P>
+	</TD>
+    <TD vAlign=top align=right>
+		<IMG src="/image/forum/open.gif" border=0>&nbsp;&nbsp; <a href="/forum">Archspace</a>
+      	<BR><IMG src="/image/forum/tline.gif" border=0><IMG src="/image/forum/open.gif" border=0>&nbsp;&nbsp;<a href="as.php?board=player">Player Board</a>
+	<p><a href="pref.php">Preferences</a>
+    </TD>
+	</TR>
+	</TBODY>
+</TABLE>
+	<A href="newtopic.php?board=player">New Topic</A>
+	
+<table align="center" border="0" cellspacing="0" cellpadding="1" width="90%">
+<tr>
+	<td style="background: #999999">
+		<table align="center" border="0" cellspacing="0" cellpadding="5" width="100%">
+		<tr>
+			<td style="background: #000000; text-align: center">
+				<table align="center" border="0" cellspacing="1" cellpadding="5" width="100%">
+				<tr>
+					<TD vAlign=center width="18%" style="background: #555555;"><B>Author</B></TD>
+					<TD vAlign=center style="background: #555555;"><B>Topic:&nbsp;&nbsp; Hall of Fame</B></TD>				
+				</tr>
+				<tr>
+					<TD vAlign=top width="18%" style="background: #333333;">
+						<B>Nighty</B><BR> Normal Player						<p>
+																							</TD>
+					<TD style="background: #333333;" valign=top>
+						<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0> posted 2004-11-28 17:31&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+ 						<A href="edit.php?board=player&id=12917"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			 			<A href="reply.php?board=player&id=12917"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A> </FONT>
+			  			<HR color=#000000 SIZE=-1>
+			  			Helping DT make a hall of fame thingo --<br />
+<br />
+<br />
+Last Season 2001 (July 2001). <br />
+<br />
+ Final Council Fleet Ranking<br />
+ Ranking Name Speaker # of Fleet(s) Power <br />
+ 1  RuinsofTalon (#28)  WindsPast (#169) 1,242  14,358,064 <br />
+ 2  AVN-Thunder (#29)  Lance the Baron of Oya (#344) 1,035  11,462,036 <br />
+ 3  AVN-Wind (#52)  Clyde (#26) 1,175  11,174,778 <br />
+ 4  ncodedCORE (#12)  Quantum the Viscount of Oya (#95) 1,320  9,966,470 <br />
+ 5  Avangions (#59)  Skull the Viscount of Elkunirsa (#564) 530  6,328,406 <br />
+ 6  AVN-Fire (#1399)  Arkhon (#7026) 435  6,239,196 <br />
+ 7  Holiday_Campers (#38)  NONE 354  3,686,020 <br />
+ 8  Illuminati (#955)  lvlaximus the Viscount of Oya (#1471) 484  2,658,596 <br />
+ 9  Rebel_Alliance (#51)  Cain_X the Viscount of Oya (#793) 222  2,442,387 <br />
+ 10  ncodedWORLDBANK (#58)  Eternity the Baron of Atropos (#597) 235  2,339,758 <br />
+<br />
+<br />
+ Season 1 2002<br />
+ Top 10 Councils <br />
+ Rank, Name, Members, Planets, Total Member Score <br />
+ 1 Azguard (#667) 40 5,221 5,201,455 <br />
+ 2 Holiday_Camp (#9) 36 1,332 1,175,957 <br />
+ 3 TE-Resurgence (#11) 34 1,036 953,129 <br />
+ 4 Avangions (#27) 27 692 628,904 <br />
+ 5 AVN-Fire (#7) 19 525 580,797 <br />
+ 6 AVN Thunder (#8) 27 678 579,589 <br />
+ 7 ncodedWIRE (#269) 29 561 461,279 <br />
+ 8 WieWaWunderland (#275) 37 561 437,217 <br />
+ 9 Reign of Terror (#16) 21 499 432,735 <br />
+ 10 Supreme_Soviet (#17) 35 522 393,018 <br />
+ <br />
+Top 10 Players <br />
+Rank, Name, Race, Planets ,Fleets, Score <br />
+1 Admiral_J (#53) Tecanoid 777 16 602,581 <br />
+2 F|aRe (#12) Evintos 309 29 447,597 <br />
+3 Gumpus (#109) Evintos 349 56 383,309 <br />
+4 DK (#207) Evintos 352 38 352,401 <br />
+5 Drexion (#29) Evintos 252 16 319,001 <br />
+6 Charon (#56) Evintos 285 30 301,490 <br />
+7 FunkYoda (#14) Evintos 324 34 270,326 <br />
+8 cracker (#791) Tecanoid 227 31 234,123 <br />
+9 Microsoft (#415) Buckaneer 241 18 215,963 <br />
+10 Prowlimus (#314) Evintos 250 15 214,699 <br />
+<br />
+<br />
+<br />
+<br />
+Season 2 2002<br />
+ Top 10 Councils <br />
+ Rank, Name, Members, Planets, Total Member Score <br />
+ 1 Targoid Empire (#0) 27 3,415 15,799,099 <br />
+ 2 ?√ûGu≈r– (#1174) 16 1,645 6,040,472 <br />
+ 3 Sick of It All (#3736) 1 1,033 3,787,649 <br />
+ 4 Hubert22 (#2182) 19 430 3,371,283 <br />
+ 5 DragonRealm (#64) 12 829 3,223,468 <br />
+ 6 DaggerfallDream (#80) 7 465 3,194,580 <br />
+ 7 &gt;';'&lt;_Haven_II (#3315) 10 894 2,388,892 <br />
+ 8 Weeping Willow (#853) 8 300 2,357,244 <br />
+ 9 ? ? ? (#3281) 8 405 2,135,076 <br />
+ 10 Goto (#3373) 7 173 1,688,654  <br />
+ <br />
+Top 10 Players <br />
+Rank, Name, Race, Planets, Fleets, Score <br />
+1 Rocco (#6029) Tecanoid 1,033 12 3,787,649 <br />
+2 Holy Matyr (#1258) Tecanoid 675 8 2,881,604 (Nighty) <br />
+3 Vendor (#3638) Evintos 530 63 2,145,712 <br />
+4 F|aRe (#326) Evintos 586 181 2,073,606 <br />
+5 nightblade (#2852) Evintos 112 20 1,455,351 <br />
+6 Tsu (#1) Evintos 180 131 1,333,652 <br />
+7 evon the Rogue Viscount of Hermaphroditos (#10219) Tecanoid 61 56 1,016,523 <br />
+8 Psykykkat (#436) Evintos 258 43 1,012,802 <br />
+9 Lord (#5758) Human 37 14 1,002,228 <br />
+10 Maxtor (#2375) Evintos 166 133 952,355<br />
+<br />
+<br />
+<br />
+<br />
+ Season 3 2002<br />
+ Top 10 Councils <br />
+ Rank, Name, Members, Planets, Total Member Score <br />
+ 1 Targoid Empire (#361) 12 4,091 13,131,317 <br />
+ 2 HC-Justifier (#13) 16 426 1,005,308 <br />
+ 3 The War Council (#17) 17 463 963,128 <br />
+ 4 Valhalla (#625) 15 558 888,002 <br />
+ 5 Azguard (#1) 28 615 854,803 <br />
+ 6 AVN-Rising (#11) 22 423 665,296 <br />
+ 7 HolidayCamp (#12) 20 777 660,445 <br />
+ 8 Menzoberranzan 9 309 649,923 <br />
+ 9 Space Warrior (#100) 7 204 525,600 <br />
+ 10 Villain Saiyan Inc. (#111) 23 392 495,513 <br />
+<br />
+Rank, Name, Race, Planets, Fleets, Score <br />
+1 A (#532) Evintos 2,052 48 8,219,958 (Can't remember) <br />
+2 AngGuGu (#124) Tecanoid 1,010 43 3,840,434 (Kuluuluk) <br />
+3 Mashimaro (#1861) Evintos 768 5 514,841 (Can't remember) <br />
+4 Baldrian (#2187) Evintos 157 27 514,757 <br />
+5 nookie (#1091) Tecanoid 141 25 473,716 <br />
+6 Star Lord (#1757) Evintos 157 35 370,384 <br />
+7 THX (#79) Evintos 115 64 353,674 <br />
+8 Neoz (#1334) Evintos 13 1 345,834 <br />
+9 SH's-death (#6956) Evintos 48 27 314,254 <br />
+10 NajaNaja (#1830) Tecanoid 75 63 309,371<br />
+ <br />
+<br />
+<br />
+<br />
+ Season 1 2003 (Messed up season ñ major roll back occurred). <br />
+<br />
+<br />
+<br />
+<br />
+ Season 2 2003 <br />
+ Top 10 Councils <br />
+ Rank, Name, Members, Planets, Total Member Score <br />
+ 1 Azguard (#6) 15 4,840 19,600,856 <br />
+ 2 Targoid Empire (#25) 16 775 4,541,109 <br />
+ 3 TE-Satellite (#61) 2 92 693,851 <br />
+ 4 Holiday Camp (#16) 6 221 540,191 <br />
+ 5 Avangions (#4) 13 289 513,596 <br />
+ 6 ertyui (#60) 1 15 284,238 <br />
+ 7 PH Cheat! (#51) 2 66 149,711 <br />
+ 8 PH-PODERHISPANO (#11) 11 270 144,782 <br />
+ 9 Goatsex0r0r0r (#52) 1 48 125,849 <br />
+ 10 Global Alliance (#18) 5 83 85,315 <br />
+<br />
+Top 10 Players <br />
+Rank, Name, Race, Planets, Fleets, Score <br />
+1 ShadowMstr (#35) Targoid 4,197 67 18,055,604 <br />
+2 Seimos (#155) Tecanoid 147 154 960,079 <br />
+3 Legolas (#9) Targoid 127 33 762,181 <br />
+4 Seren!ty (#162) Evintos 88 53 702,100 <br />
+5 &gt;':'&lt; (#10) Targoid 148 24 538,941 <br />
+6 parou (#188) Targoid 128 47 523,533 <br />
+7 Draconis (#132) Targoid 100 27 522,933 <br />
+8 Alvarez (#121) Xerusian 22 235 438,467 <br />
+9 Love (#23) Targoid 21 13 397,729 <br />
+10 Cc (#16) Targoid 31 22 387,860<br />
+<br />
+<br />
+<br />
+(Missing a few sets here for 2003). <br />
+<br />
+<br />
+<br />
+   Season 1 2004<br />
+   Top 10 Councils <br />
+   Rank Name # of Members # of Planets of Members Total Score of Members <br />
+   1 HOLYSHITNINJAS (#1909) 38 3,268 15,129,351 <br />
+   2 Avangions HQ (#558) 25 1,175 7,508,690 <br />
+   3 &gt;_&lt; HC_Honour (#388) 14 1,561 6,889,315 <br />
+   4 Rebel Alliance (#429) 6 175 1,600,187 <br />
+   5 Fluffer Killer (#1939) 2 898 1,464,114 <br />
+   6 &gt;':'&lt;_Holiday Camp (#204) 11 378 1,182,967 <br />
+   7 Moonlight (#66) 9 261 1,058,520 <br />
+   8 Light of Dawn (#152) 17 312 797,379 <br />
+   9 Feed Or Die (#1000) 7 263 567,379 <br />
+   10 HavingFun (#1933) 1 18 452,418 <br />
+<br />
+   Top 10 Players <br />
+   Rank Name Race # of Planets Under Control # of Fleets Under Control Score <br />
+   1 Darkness (#400) Evintos 390 13 2,475,528 <br />
+   2 embryodead (#2023) Targoid 330 70 1,872,431 <br />
+   3 zbyte (#171) Targoid 564 0 1,865,724 <br />
+   4 catfish (#128) Targoid 106 430 1,730,860 <br />
+   5 Erado (#1103) Targoid 295 99 1,348,962 <br />
+   6 Keyan (#2826) Targoid 99 98 1,324,180 <br />
+   7 ZybeR (#108) Agerus 288 47 1,248,937 <br />
+   8 (null) (#3368) Targoid 606 1 1,224,559 <br />
+   9 Cypherus (#762) Evintos 83 126 1,104,468 <br />
+   10 Ziu (#1634) Targoid 14 242 1,102,249 <br />
+<br />
+<br />
+<br />
+<br />
+ Season 2 2004 (Koreans returned with mass multi-accounts and some tactics that admin deemed unacceptable so game ended up abruptly being reset). <br />
+<br />
+<br />
+<br />
+<br />
+ Season 3 2004<br />
+ Top 10 Councils <br />
+ Rank Name # of Members # of Planets of Members Total Score of Members <br />
+ 1 FC Porto (#1411) 28 1,692 29,725,975 <br />
+ 2 Azguard (#863) 19 387 4,284,442 <br />
+ 3 &gt;=HC=&lt; Honour (#1344) 9 152 1,672,476 <br />
+ 4 MinasTirith (#1569) 5 102 1,450,210 <br />
+ 5 CLF-Heavenly (#1559) 7 96 1,291,347 <br />
+ 6 Avangions HQ (#35) 12 140 1,153,472 <br />
+ 7 Holiday Campers (#691) 25 528 1,039,799 <br />
+ 8 [ISS/OOA/SS/JO] (#1792) 14 234 901,526 <br />
+ 9 -=HC=- Frell (#1332) 3 56 680,073 <br />
+ 10 WCHS (#731) 14 249 457,759 <br />
+<br />
+<br />
+ Season 4 2004 <br />
+ Top 10 Councils <br />
+ Rank, Name, Members, Planets, Total Member Score <br />
+ 1 Targoid Empire (#503) 19 1,716 8,144,197 <br />
+ 2 Mordor (#50) 15 812 6,852,170 <br />
+ 3 M.E.R.C Inc. (#536) 11 382 6,364,046 <br />
+ 4 Pink Panties (#862) 10 593 5,670,416 <br />
+ 5 Seduction 101 (#15) 7 700 4,515,006 <br />
+ 6 Order of Atlas (#17) 38 693 2,070,516 <br />
+ 7 [M]uerte (#33) 33 921 1,514,875 <br />
+ 8 Mancomunity (#295) 4 5 1,283,212 <br />
+ 9 CLF - Heavenly (#76) 8 211 834,900 <br />
+ 10 OOA-Alpha (#1208) 2 40 794,604 <br />
+<br />
+Top 10 Players <br />
+Rank, Name, Race, Planets, Fleets, Score <br />
+1 Poni (#14) Tecanoid 273 141 2,956,188 <br />
+2 erasmusmontanus (#701) Evintos 63 222 1,779,000 <br />
+3 Hector (#198) Agerus 45 341 1,665,674 <br />
+4 Witchblade (#281) Agerus 112 61 1,545,142 <br />
+5 Freedon Nadd (#297) Evintos 222 136 1,479,340 <br />
+6 Zukhov (#1457) Xesperados 204 236 1,348,480 <br />
+7 Redjack (#127) Agerus 303 153 1,298,551 <br />
+8 Fleabag (#240) Buckaneer 2 1 1,284,751 <br />
+9 yeniceri (#550) Targoid 64 192 1,263,414 <br />
+10 bookskaboo (#421) Xeloss 85 215 1,253,858<br />
+<br />
+<br />
+<br />
+Season 5 2004 <br />
+ Top 10 Councils <br />
+ Rank Name # of Members # of Planets of Members Total Score of Members <br />
+ 1 TE-Dragon Realm (#73) 20 3,143 12,393,481 <br />
+ 2 TE - Ancients (#365) 3 913 4,802,562 <br />
+ 3 TE-Praetorians (#200) 3 818 3,787,017 <br />
+ 4 Order of Atlas (#95) 23 633 836,048 <br />
+ 5 Targoid Empire (#53) 6 94 409,029 <br />
+ 6 Azg - Las Vegas (#614) 1 397 389,528 <br />
+ 7 Lothlorien (#224) 9 373 385,609 <br />
+ 8 ImperialScourge (#355) 20 440 366,245 <br />
+ 9 OOA-Sky High (#62) 7 167 342,853 <br />
+ 10 Rep. Katharta (#401) 6 162 316,529 <br />
+<br />
+Top 10 Players <br />
+Rank Name Race # of Planets Under Control # of Fleets Under Control Score <br />
+1 DarkJediX (#107) Evintos 803 60 4,506,796 <br />
+2 Moonlight (#5) Evintos 482 121 2,260,220 <br />
+3 Luke (#249) Evintos 208 74 1,693,437 <br />
+4 Darklord (#299) Targoid 349 102 1,485,365 <br />
+5 BlutKind (#6) Xeloss 68 36 1,396,889 <br />
+6 Magikoopa the Rogue Baron of Xochipilli (#73) Agerus 419 58 1,345,530 <br />
+7 Typhoon the Rogue Baron of Xochipilli (#30) Agerus 272 142 1,086,359 <br />
+8 Psuedo (#337) Evintos 72 101 1,070,855 <br />
+9 Legal Alien (#1378) Agerus 331 92 1,044,598 <br />
+10 Oxygen (#378) Evintos 266 81 819,668<br />
+<br />
+<br />
+<br />
+Season 6 2004 (Ended abruptly due to game database errors). <br />
+<br />
+<br />
+Season 7, 2004. <br />
+ Top 10 Councils <br />
+ Rank Name # of Members # of Planets of Members Total Score of Members <br />
+ 1 Darkness Falls (#222) 15 3,312 19,776,007 <br />
+ 2 DF-Endgame (#552) 1 281 2,265,741 <br />
+ 3 Wardogs (#40) 17 673 1,366,358 <br />
+ 4 ImperialScourge (#342) 15 630 1,185,071 <br />
+ 5 The Spawn (#150) 16 311 1,083,461 <br />
+ 6 Deus Ex Machina (#4) 1 76 601,931 <br />
+ 7 U.N. Spacy (#458) 9 313 404,302 <br />
+ 8 Lithium (#156) 8 176 372,019 <br />
+ 9 PyroAngelic (#449) 5 239 367,450 <br />
+ 10 SS White Sun (#529) 6 339 351,195<br />
+<br />
+ Top 10 Players <br />
+ Rank Name Race # of Planets Under Control # of Fleets Under Control Score <br />
+ 1 Redjack (#4) Xeloss 1,743 200 12,433,716 <br />
+ 2 ßaphyre (#81) Agerus 675 200 2,671,083 <br />
+ 3 Farsy (#235) Evintos 281 29 2,265,741 <br />
+ 4 LavaMonster (#8) Xeloss 38 64 2,111,512 <br />
+ 5 Starbuck (#12) Agerus 183 70 610,172 <br />
+ 6 Sheratos (#267) Evintos 76 8 601,931 <br />
+ 7 Piddle (#82) Evintos 61 14 560,148 <br />
+ 8 Torque (#45) Agerus 135 200 534,070 <br />
+ 9 Hackamore the Rogue Baron of Veive (#229) Evintos 167 56 507,093 <br />
+ 10 zeist (#160) Evintos 50 30 349,156<br />
+<br />
+<br />
+Nightshade,<br />
+TE ShadowMember						<P align=right> </P>
+					</TD>
+				</TR>
+	
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Nighty</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-11-28 18:51&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=12921"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12917"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	hmm.. Cyphie just pointed out to me that there was actually a season between the Season 4 and Season 5 results that I have posted. The set concluded with empire defeath and occured between the 7th and 10th of August this year. If anyone has the results somewhere in their logs, it'd be appreciated if you could post them here.			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Keyan</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-11-28 20:11&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=12922"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12917"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	nice stuff Nightz... Hall of Fame is brilliant idea!			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Boomer</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-11-29 08:33&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=12938"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12917"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	cool, good idea			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+							</td><td>
+                                <B>WarlorD</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-11-29 09:05&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=12939"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12917"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	good idea indeed<br />
+i should have stopped screwing around towards the end of the set so i can get into it :P			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>riogilao</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-11-29 19:31&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=12956"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12917"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	nighty wrote: &quot;hmm.. Cyphie just pointed out to me that there was actually a season between the Season 4 and Season 5 results that I have posted. The set concluded with empire defeath and occured between the 7th and 10th of August this year. If anyone has the results somewhere in their logs, it'd be appreciated if you could post them here.&quot;<br />
+<br />
+that set was the last set koreans teamed and played. They won. Council name was Red Devils and #1 player was AGERUS (there were more players wich i can't remember the final score).<br />
+<br />
+<br />
+riogilao<br />
+TE-i'm black and i'm proud member<br />
+			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Jinn</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-12-05 00:09&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=13134"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=12917"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	buo-ho!~<br />
+Even if im in TE for almost 3? years.. I'm never a top 10 placer. :(<br />
+<br />
+/me sobs<br />
+<br />
+Anyways.. No more AS for me. Dont be sad mind i will always remember you. :D<br />
+<br />
+ok. bai bai! Merry Christmas everyone!.<br />
+<br />
+~Jinn<br />
+<br />
+^&gt;&lt;^&gt;&lt;^&gt;&lt;^&gt;^&lt;^&gt;&lt;^&gt;^&lt;^&gt;^&lt;^&gt;&lt;^&gt;^&lt;^&gt;^&lt;^&gt;&lt;^&gt;&lt;^&gt;&lt;^&gt;^&lt;^&gt;&lt;^&gt;^&lt;^&gt;^&lt;<br />
+Special thanks to the Targoid Empire for the priviledge of playing with them to all those years.<br />
+			   <P align=right></P>
+			</TD>
+		  </TR>
+
+			<TR>
+			<TD></td>
+			<td align=center></TD>
+			</TR>
+				</table>
+			</td>
+		</tr>
+		</table>	
+	</td>
+</tr>
+</table>
+<center><b><A href="reply.php?board=player&id=12917">Post a Reply</A></b></center>
+		<TABLE width="95%" border=0>
+		  <TR>
+			<TD colSpan=2><BR>
+						  </TD></TR>
+		  <TR>
+			<TD>
+					    </TD>
+		  </TR>
+		  </TABLE>
+
+
+<BR><B><A href="/contact.php">Contact Us</A> | 
+<A href="http://www.archspace.org/" target=_top>Archspace</A> </B>
+<P>
+<P>Powered by MindBB v2.0<BR><BR></CENTER></P>
+</BODY></HTML>

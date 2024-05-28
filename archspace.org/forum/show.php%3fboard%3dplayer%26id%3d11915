@@ -1,0 +1,452 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>Archspace Beta Forums</TITLE>
+<Style type="text/css">
+A:link, A:visited { text-decoration: none; color: lightblue; }
+A:hover {
+		COLOR: white; 
+}
+INPUT {
+	BACKGROUND-COLOR: black; BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; COLOR: #0AABAA; FONT-FAMILY: verdana, helvetica, sans-serif; FONT-SIZE: 10px; 
+}
+body { 
+	text-align: center;
+	font-family : Arial, sans-serif;
+	color : white;
+	font-size : 8pt;
+	margin-top : 0px;
+	margin-left : 0px;
+	margin-right : 0px;
+	margin-bottom: 0px;
+
+SCROLLBAR-FACE-COLOR: #666666; 
+SCROLLBAR-HIGHLIGHT-COLOR: black; 
+SCROLLBAR-SHADOW-COLOR: #333333; 
+SCROLLBAR-3DLIGHT-COLOR: #333333; 
+SCROLLBAR-ARROW-COLOR: black; 
+SCROLLBAR-TRACK-COLOR: black; 
+SCROLLBAR-DARKSHADOW-COLOR: #333333; 
+} 
+td {
+ font-size : 8pt;
+ 	font-family : Arial, sans-serif;
+}
+</style>
+</HEAD>
+<BODY text=#999999 vLink=#999999 aLink=#999999 link=#999999 bgColor=#000000 leftMargin=0 topMargin=0 rightMargin=0 marginwidth="0" marginheight="0">
+<center><a href="/"><img src="http://www.archspace.org/image/as_game/menu_main.gif" border=0></a></center><br>
+
+<CENTER><!-- TABLE -->
+<TABLE width="90%" border=0>
+  <TBODY>
+  <TR>
+    <TD>&nbsp;&nbsp;<B><a href="/forum/">Archspace Boards</B></a> <BR>&nbsp;&nbsp;
+	(moderated by Mindwarper, zbyte64, DarkJediX, DarkSonax, Boomer, daemorhedron, darkelf) 
+      <P>
+	</TD>
+    <TD vAlign=top align=right>
+		<IMG src="/image/forum/open.gif" border=0>&nbsp;&nbsp; <a href="/forum">Archspace</a>
+      	<BR><IMG src="/image/forum/tline.gif" border=0><IMG src="/image/forum/open.gif" border=0>&nbsp;&nbsp;<a href="as.php?board=player">Player Board</a>
+	<p><a href="pref.php">Preferences</a>
+    </TD>
+	</TR>
+	</TBODY>
+</TABLE>
+	<A href="newtopic.php?board=player">New Topic</A>
+	
+<table align="center" border="0" cellspacing="0" cellpadding="1" width="90%">
+<tr>
+	<td style="background: #999999">
+		<table align="center" border="0" cellspacing="0" cellpadding="5" width="100%">
+		<tr>
+			<td style="background: #000000; text-align: center">
+				<table align="center" border="0" cellspacing="1" cellpadding="5" width="100%">
+				<tr>
+					<TD vAlign=center width="18%" style="background: #555555;"><B>Author</B></TD>
+					<TD vAlign=center style="background: #555555;"><B>Topic:&nbsp;&nbsp; whats up with this?!?!?!</B></TD>				
+				</tr>
+				<tr>
+					<TD vAlign=top width="18%" style="background: #333333;">
+						<B>crakatak</B><BR> Normal Player						<p>
+																							</TD>
+					<TD style="background: #333333;" valign=top>
+						<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0> posted 2004-10-26 05:02&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+ 						<A href="edit.php?board=player&id=11915"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			 			<A href="reply.php?board=player&id=11915"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A> </FONT>
+			  			<HR color=#000000 SIZE=-1>
+			  			Turn 179<br />
+4th Strategic-Strike fleet(4) fires 44 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 80damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 44 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 48damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 77 Fusion Missile to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 2268damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 44 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 104damage, 0 ships sink.<br />
+Turn 187<br />
+5th Defenders fleet(5) fires 154 Plasma Beam to 4th Strategic-Strike fleet(4).<br />
+4th Strategic-Strike fleet(4) gets 415damage, 0 ships sink.<br />
+5th Defenders fleet(5) fires 154 Plasma Beam to 4th Strategic-Strike fleet(4).<br />
+4th Strategic-Strike fleet(4) gets 257damage, 0 ships sink.<br />
+5th Defenders fleet(5) fires 132 Fusion Missile to 4th Strategic-Strike fleet(4).<br />
+4th Strategic-Strike fleet(4) gets 2784damage, 0 ships sink.<br />
+5th Defenders fleet(5) fires 132 Fusion Missile to 4th Strategic-Strike fleet(4).<br />
+4th Strategic-Strike fleet(4) gets 4044damage, 2 ships sink.<br />
+Turn 202<br />
+4th Strategic-Strike fleet(4) fires 36 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 84damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 36 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 148damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 36 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 28damage, 0 ships sink.<br />
+Turn 219<br />
+4th Strategic-Strike fleet(4) fires 36 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 100damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 36 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 20damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 36 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 24damage, 0 ships sink.<br />
+Turn 236<br />
+4th Strategic-Strike fleet(4) fires 36 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 60damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 36 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 52damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 36 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 12damage, 0 ships sink.<br />
+Turn 253<br />
+4th Strategic-Strike fleet(4) fires 36 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 20damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 36 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 56damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 36 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 76damage, 0 ships sink.<br />
+5th Defenders fleet(5) fires 154 Plasma Beam to 4th Strategic-Strike fleet(4).<br />
+4th Strategic-Strike fleet(4) gets 459damage, 0 ships sink.<br />
+5th Defenders fleet(5) fires 154 Plasma Beam to 4th Strategic-Strike fleet(4).<br />
+4th Strategic-Strike fleet(4) gets 317damage, 0 ships sink.<br />
+Turn 270<br />
+4th Strategic-Strike fleet(4) fires 36 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 56damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 36 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 68damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 36 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 24damage, 0 ships sink.<br />
+Turn 287<br />
+4th Strategic-Strike fleet(4) fires 36 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 68damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 36 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 108damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 36 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 48damage, 0 ships sink.<br />
+Turn 304<br />
+4th Strategic-Strike fleet(4) fires 36 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 72damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 36 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 28damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 36 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 68damage, 0 ships sink.<br />
+Turn 316<br />
+5th Defenders fleet(5) fires 154 Plasma Beam to 4th Strategic-Strike fleet(4).<br />
+4th Strategic-Strike fleet(4) gets 316damage, 0 ships sink.<br />
+5th Defenders fleet(5) fires 154 Plasma Beam to 4th Strategic-Strike fleet(4).<br />
+4th Strategic-Strike fleet(4) gets 617damage, 1 ships sink.<br />
+Turn 321<br />
+4th Strategic-Strike fleet(4) fires 32 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 64damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 32 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 40damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 32 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 76damage, 0 ships sink.<br />
+Turn 338<br />
+4th Strategic-Strike fleet(4) fires 32 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 32damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 32 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 36damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 32 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 64damage, 0 ships sink.<br />
+Turn 355<br />
+4th Strategic-Strike fleet(4) fires 32 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 40damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 32 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 84damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 32 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 12damage, 0 ships sink.<br />
+Turn 372<br />
+4th Strategic-Strike fleet(4) fires 32 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 0damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 32 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 108damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 32 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 44damage, 0 ships sink.<br />
+Turn 379<br />
+5th Defenders fleet(5) fires 154 Plasma Beam to 4th Strategic-Strike fleet(4).<br />
+4th Strategic-Strike fleet(4) gets 473damage, 0 ships sink.<br />
+5th Defenders fleet(5) fires 154 Plasma Beam to 4th Strategic-Strike fleet(4).<br />
+4th Strategic-Strike fleet(4) gets 158damage, 0 ships sink.<br />
+Turn 389<br />
+4th Strategic-Strike fleet(4) fires 32 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 124damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 32 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 24damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 32 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 0damage, 0 ships sink.<br />
+Turn 406<br />
+4th Strategic-Strike fleet(4) fires 32 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 44damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 32 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 20damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 32 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 16damage, 0 ships sink.<br />
+Turn 423<br />
+4th Strategic-Strike fleet(4) fires 32 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 36damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 32 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 104damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 32 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 56damage, 0 ships sink.<br />
+Turn 440<br />
+4th Strategic-Strike fleet(4) fires 32 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 44damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 32 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 0damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 32 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 32damage, 0 ships sink.<br />
+Turn 442<br />
+5th Defenders fleet(5) fires 154 Plasma Beam to 4th Strategic-Strike fleet(4).<br />
+4th Strategic-Strike fleet(4) gets 545damage, 0 ships sink.<br />
+5th Defenders fleet(5) fires 154 Plasma Beam to 4th Strategic-Strike fleet(4).<br />
+4th Strategic-Strike fleet(4) gets 545damage, 1 ships sink.<br />
+Turn 457<br />
+4th Strategic-Strike fleet(4) fires 28 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 76damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 28 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 28damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 28 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 48damage, 0 ships sink.<br />
+Turn 460<br />
+5th Defenders fleet(5) fires 132 Fusion Missile to 4th Strategic-Strike fleet(4).<br />
+4th Strategic-Strike fleet(4) gets 3360damage, 0 ships sink.<br />
+Turn 466<br />
+5th Defenders fleet(5) fires 132 Fusion Missile to 4th Strategic-Strike fleet(4).<br />
+4th Strategic-Strike fleet(4) gets 2976damage, 2 ships sink.<br />
+Turn 470<br />
+4th Strategic-Strike fleet(4) fires 35 Fusion Missile to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 1169damage, 0 ships sink.<br />
+Turn 474<br />
+4th Strategic-Strike fleet(4) fires 20 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 0damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 20 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 0damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 20 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 48damage, 0 ships sink.<br />
+Turn 492<br />
+4th Strategic-Strike fleet(4) fires 20 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 24damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 20 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 0damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 20 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 20damage, 0 ships sink.<br />
+Turn 505<br />
+5th Defenders fleet(5) fires 154 Plasma Beam to 4th Strategic-Strike fleet(4).<br />
+4th Strategic-Strike fleet(4) gets 129damage, 0 ships sink.<br />
+5th Defenders fleet(5) fires 154 Plasma Beam to 4th Strategic-Strike fleet(4).<br />
+4th Strategic-Strike fleet(4) gets 445damage, 1 ships sink.<br />
+Turn 510<br />
+4th Strategic-Strike fleet(4) fires 16 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 0damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 16 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 0damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 16 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 0damage, 0 ships sink.<br />
+Turn 528<br />
+4th Strategic-Strike fleet(4) fires 16 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 0damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 16 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 0damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 16 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 40damage, 0 ships sink.<br />
+Turn 546<br />
+4th Strategic-Strike fleet(4) fires 16 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 0damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 16 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 0damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 16 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 52damage, 0 ships sink.<br />
+Turn 564<br />
+4th Strategic-Strike fleet(4) fires 16 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 0damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 16 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 20damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 16 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 0damage, 0 ships sink.<br />
+Turn 565<br />
+5th Defenders fleet(5) fires 154 Plasma Beam to 4th Strategic-Strike fleet(4).<br />
+4th Strategic-Strike fleet(4) gets 260damage, 0 ships sink.<br />
+5th Defenders fleet(5) fires 154 Plasma Beam to 4th Strategic-Strike fleet(4).<br />
+4th Strategic-Strike fleet(4) gets 446damage, 0 ships sink.<br />
+Turn 582<br />
+4th Strategic-Strike fleet(4) fires 16 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 76damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 16 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 88damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 16 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 20damage, 0 ships sink.<br />
+Turn 600<br />
+4th Strategic-Strike fleet(4) fires 16 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 36damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 16 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 36damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 16 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 44damage, 0 ships sink.<br />
+Turn 618<br />
+4th Strategic-Strike fleet(4) fires 16 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 0damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 16 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 68damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 16 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 16damage, 0 ships sink.<br />
+Turn 625<br />
+5th Defenders fleet(5) fires 154 Plasma Beam to 4th Strategic-Strike fleet(4).<br />
+4th Strategic-Strike fleet(4) gets 273damage, 0 ships sink.<br />
+5th Defenders fleet(5) fires 154 Plasma Beam to 4th Strategic-Strike fleet(4).<br />
+4th Strategic-Strike fleet(4) gets 430damage, 1 ships sink.<br />
+Turn 636<br />
+4th Strategic-Strike fleet(4) fires 12 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 28damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 12 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 0damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 12 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 0damage, 0 ships sink.<br />
+Turn 654<br />
+4th Strategic-Strike fleet(4) fires 12 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 28damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 12 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 0damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 12 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 20damage, 0 ships sink.<br />
+Turn 672<br />
+4th Strategic-Strike fleet(4) fires 12 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 64damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 12 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 28damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 12 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 28damage, 0 ships sink.<br />
+Turn 685<br />
+5th Defenders fleet(5) fires 154 Plasma Beam to 4th Strategic-Strike fleet(4).<br />
+4th Strategic-Strike fleet(4) gets 286damage, 0 ships sink.<br />
+5th Defenders fleet(5) fires 154 Plasma Beam to 4th Strategic-Strike fleet(4).<br />
+4th Strategic-Strike fleet(4) gets 445damage, 0 ships sink.<br />
+Turn 690<br />
+4th Strategic-Strike fleet(4) fires 12 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 0damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 12 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 32damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 12 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 0damage, 0 ships sink.<br />
+Turn 708<br />
+4th Strategic-Strike fleet(4) fires 12 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 52damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 12 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 0damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 12 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 0damage, 0 ships sink.<br />
+Turn 726<br />
+4th Strategic-Strike fleet(4) fires 12 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 20damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 12 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 0damage, 0 ships sink.<br />
+4th Strategic-Strike fleet(4) fires 12 Gatling Rail Gun to 5th Defenders fleet(5).<br />
+5th Defenders fleet(5) gets 16damage, 0 ships sink.<br />
+Turn 727<br />
+5th Defenders fleet(5) fires 132 Fusion Missile to 4th Strategic-Strike fleet(4).<br />
+4th Strategic-Strike fleet(4) gets 2352damage, 2 ships sink.<br />
+5th Defenders fleet(5) fires 132 Fusion Missile to 4th Strategic-Strike fleet(4).<br />
+4th Strategic-Strike fleet(4) gets 852damage, 1 ships sink.<br />
+----------------------------- [Battle display ended] -----------------------------Turn 148<br />
+5th Defenders fleet(5) fires 154 Plasma Beam to 6th Strategic-Assault fleet(6).<br />
+6th Strategic-Assault fleet(6) gets 580damage, 0 ships sink.<br />
+5th Defenders fleet(5) fires 154 Plasma Beam to 6th Strategic-Assault fleet(6).<br />
+6th Strategic-Assault fleet(6) gets 462damage, 0 ships sink.<br />
+5th Defenders fleet(5) fires 132 Fusion Missile to 6th Strategic-Assault fleet(6).<br />
+6th Strategic-Assault fleet(6) gets 2297damage, 0 ships sink.<br />
+5th Defenders fleet(5) fires 132 Fusion Missile to 6th Strategic-Assault fleet(6).<br />
+6th Strategic-Assault fleet(6) gets 1107damage, 0 ships sink.<br />
+<br />
+<br />
+the sad thing about this is, is that my fleet was bcs armed with amms not gattling rails.......and at the battle report it said that neither of us killed anything, and yet my fleet was completely destroyed.						<P align=right> </P>
+					</TD>
+				</TR>
+	
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>Houston</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-10-26 05:18&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=11916"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=11915"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	Read all the lines (or scan) carefully and you'll see that someone lost ships from getting hit with Plasma beams, and from getting hit with fusion. Also, check your design again to be sure you didn't make a mistake designing it. I know i have made dooms with all slots HBH except one which is a laser or something, because when i was making my design i accidently hit the scroll wheel on my mouse as i was hitting 'ok' and i didn't notice that one wep had changed.<br />
+<br />
+Houston			   <P align=right></P>
+			</TD>
+		  </TR>
+
+		
+		  <TR>
+			<TD vAlign=top width="18%" style="background: #333333;">
+				<table><tr><td>
+													
+			</td><td>
+                                <B>crakatak</B>                 
+                                <BR>
+                                 Normal Player                                </td></tr></table>
+				<p>
+			</TD>
+			<TD style="background: #333333;" valign=top>
+				<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0>
+				posted 2004-10-26 07:16&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				<A href="edit.php?board=player&id=11920"><IMG alt="Edit/Delete Message" src="http://www.archspace.org/image/forum/edit.gif" border=0></A> 
+			    <A href="reply.php?board=player&id=11915"><IMG alt="Reply w/Quote" src="http://www.archspace.org/image/forum/quote.gif" border=0></A>
+			    <HR color=#000000 SIZE=-1>
+			  	hahahaha i know that some ships got destroyed, but this is also the same report that my fleet of cruisers got earlier and if ull notice how many ships got destroyed it is not the same number as my fleet of bcs..... i sent out 8			   <P align=right></P>
+			</TD>
+		  </TR>
+
+			<TR>
+			<TD></td>
+			<td align=center></TD>
+			</TR>
+				</table>
+			</td>
+		</tr>
+		</table>	
+	</td>
+</tr>
+</table>
+<center><b><A href="reply.php?board=player&id=11915">Post a Reply</A></b></center>
+		<TABLE width="95%" border=0>
+		  <TR>
+			<TD colSpan=2><BR>
+						  </TD></TR>
+		  <TR>
+			<TD>
+					    </TD>
+		  </TR>
+		  </TABLE>
+
+
+<BR><B><A href="/contact.php">Contact Us</A> | 
+<A href="http://www.archspace.org/" target=_top>Archspace</A> </B>
+<P>
+<P>Powered by MindBB v2.0<BR><BR></CENTER></P>
+</BODY></HTML>

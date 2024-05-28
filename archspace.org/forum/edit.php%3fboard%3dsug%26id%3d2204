@@ -1,0 +1,101 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>Archspace Beta Forums</TITLE>
+<Style type="text/css">
+A:link, A:visited { text-decoration: none; color: lightblue; }
+A:hover {
+		COLOR: white; 
+}
+INPUT {
+	BACKGROUND-COLOR: black; BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; COLOR: #0AABAA; FONT-FAMILY: verdana, helvetica, sans-serif; FONT-SIZE: 10px; 
+}
+body { 
+	text-align: center;
+	font-family : Arial, sans-serif;
+	color : white;
+	font-size : 8pt;
+	margin-top : 0px;
+	margin-left : 0px;
+	margin-right : 0px;
+	margin-bottom: 0px;
+
+SCROLLBAR-FACE-COLOR: #666666; 
+SCROLLBAR-HIGHLIGHT-COLOR: black; 
+SCROLLBAR-SHADOW-COLOR: #333333; 
+SCROLLBAR-3DLIGHT-COLOR: #333333; 
+SCROLLBAR-ARROW-COLOR: black; 
+SCROLLBAR-TRACK-COLOR: black; 
+SCROLLBAR-DARKSHADOW-COLOR: #333333; 
+} 
+td {
+ font-size : 8pt;
+ 	font-family : Arial, sans-serif;
+}
+</style>
+</HEAD>
+<BODY text=#999999 vLink=#999999 aLink=#999999 link=#999999 bgColor=#000000 leftMargin=0 topMargin=0 rightMargin=0 marginwidth="0" marginheight="0">
+<center><a href="/"><img src="http://www.archspace.org/image/as_game/menu_main.gif" border=0></a></center><br>
+
+<CENTER><!-- TABLE -->
+<TABLE width="90%" border=0>
+  <TBODY>
+  <TR>
+    <TD>&nbsp;&nbsp;<B><a href="/forum/">Archspace Boards</B></a> <BR>&nbsp;&nbsp;
+	(moderated by Mindwarper) 
+      <P>
+	</TD>
+    <TD vAlign=top align=right>
+		<IMG src="/image/forum/open.gif" border=0>&nbsp;&nbsp; <a href="/forum">Archspace</a>
+      	<BR><IMG src="/image/forum/tline.gif" border=0><IMG src="/image/forum/open.gif" border=0>&nbsp;&nbsp;<a href="as.php?board=sug">Suggestion Board</a>
+	<p><a href="pref.php">Preferences</a>
+    </TD>
+	</TR>
+	</TBODY>
+</TABLE>
+<font color='red' size=5>YOU MUST BE LOGGED IN TO REPLY</font><table align="center" border="0" cellspacing="0" cellpadding="1" width="90%">
+<tr>
+	<td style="background: #999999">
+		<table align="center" border="0" cellspacing="0" cellpadding="5" width="100%">
+		<tr>
+			<td style="background: #000000; text-align: center">
+				<table align="center" border="0" cellspacing="1" cellpadding="5" width="100%">
+				<tr>
+					<TD vAlign=center width="18%" style="background: #555555;"><B>Author</B></TD>
+					<TD vAlign=center style="background: #555555;"><B>Modify</B></TD>
+				</tr>
+		  		<TR>
+					<TD vAlign=top width="18%" style="background: #333333;"><B>--------</B><BR>Modify</TD>
+					<TD style="background: #333333;">
+						<IMG src="http://www.archspace.org/image/forum/posticon.gif" border=0> 
+						  <HR color=#000000 SIZE=-1>
+						  <form method="POST">
+						  Message:<br><textarea name="msg"  cols="50" rows="20">First off, thanks for the positive feed :D  It's good to know someone out there agrees with me.  Now mods, you've said what you WON'T do about blockading, it'd be nice to know what you ARE going to do.  I quit this set because I got blockaded 13 times.  13.  Yes, that's right, every time I got my power up to around 100k somebody would decide I'm worth blockading, send in a five fleets of HBH doomstars, and of course my 6 fleets of dreadnaughts would be like &quot;Let's go guys!&quot; and fly in to their deaths.
+
+One thing I was thinking might make sense, if it would be hard to write (but remember I'm just throwing as many viable suggestions out there as possible in hope that y'all will pick one up), would be allowing commanders to use the &quot;interperatation&quot; skill to interperate incoming blockades/seiges to kinda pick and choose which ones to defend.  When I really think about it, however realistic and balancing it may be, this idea would probably screw the game up quite a bit.  Raping would no longer be possible, because the commanders seeing the first wave come in would probably say screw it, let em have the planet, and then all the smaller raping fleets would get picked off.  Blockading someone half your power would no longer make sense, since the commanders would probably decide they don't care.  The most important commander ability for leading fleets on the defense would become interpretation.  This one change would change the face of the game quite dramatically, and so I guess this is just something to think about.  Maybe someday eh?
+
+-Slayer</textarea><p></p>
+						  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						  &nbsp;&nbsp;&nbsp;&nbsp;
+						  <input type=submit value="Update">
+						  </form>
+					</TD>
+				</TR>
+				</table>
+			</td>
+		</tr>
+		</table>	
+	</td>
+</tr>
+</table>
+
+
+
+
+
+<BR><B><A href="/contact.php">Contact Us</A> | 
+<A href="http://www.archspace.org/" target=_top>Archspace</A> </B>
+<P>
+<P>Powered by MindBB v2.0<BR><BR></CENTER></P>
+</BODY></HTML>
